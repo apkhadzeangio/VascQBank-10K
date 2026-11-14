@@ -2,15 +2,15 @@
 
 ## ზოგადი სისხლძარღვოვანი და ქირურგიული ტერმინოლოგია
 
-- amputation stump → ამპუტაციის ტაკვარი
+- amputation stump → ამპუტაციის ტაკვი
 - anastomosis → ანასტომოზი
-- aortic clamping → აორტის გადაჭერა
+- aortic clamping → აორტის გადაკეტვა
 - aortic prosthetic replacement → აორტის პროთეზირება
 - aorto-bifemoral prosthetic reconstruction → აორტა-ორბარძაყის პროთეზირება
 - aortobifemoral bypass → აორტა-ორბარძაყის შუნტირება
 - aortoiliac reconstruction → აორტა-თეძოს სეგმენტის რეკონსტრუქცია
 - aortoiliofemoral reconstruction → აორტა-თეძო-ბარძაყის სეგმენტის რეკონსტრუქცია
-- arterial ligation → არტერიის გადაკვანძვა
+- arterial ligation → არტერიის ლიგირება
 - arterial reconstructive surgery → არტერიის რეკონსტრუქციული ოპერაცია
 - arterial suture → სისხლძარღვოვანი ნაკერი
 - arteriotomy → არტერიოტომია
@@ -34,7 +34,7 @@
 - cervical sympathectomy → კისრის სიმპატექტომია
 - cervicothoracic sympathectomy → კისრისა და გულმკერდის სიმპატექტომია
 - clinical success → კლინიკური წარმატება
-- conduit → შუნტირებისთვის გამოყენებული მასალა
+- conduit → კონდუიტი
 - congenital arteriovenous fistula → თანდაყოლილი არტერიოვენური ფისტულა
 - conventional carotid endarterectomy → კლასიკური კაროტიდული ენდარტერექტომია
 - covered stent → დაფარული სტენტი
@@ -58,14 +58,14 @@
 - glomangioma → გლომანგიომა
 - glomus tumour → გლომუსური სიმსივნე
 - graft anastomotic neointimal hyperplasia → პროთეზის ანასტომოზის ნეოინტიმური ჰიპერპლაზია
-- graft limb kinking → პროთეზის ტოტის გადაღუნვა
+- graft limb kinking → პროთეზის ტოტის გადაკეცვა
 - graft thrombosis → შუნტის ან სისხლძარღვოვანი პროთეზის თრომბოზი
 - graft-limb thrombosis → პროთეზის ტოტის თრომბოზი
 - haemangioma → ჰემანგიომა
 - hypoperfusion → ჰიპოპერფუზია
 - iliofemoral crossover bypass → თეძო-ბარძაყის ჯვარედინი შუნტირება
 - in situ great saphenous vein bypass → დიდი საჩინო ვენით in situ შუნტირება
-- interposition graft → ინტერპოზიციური ჩანართი
+- interposition graft → ინტერპოზიციური გრაფტი
 - intraoperative packing → ინტრაოპერაციული ტამპონირება
 - left posterolateral thoracotomy → მარცხენამხრივი უკანა-ლატერალური თორაკოტომია
 - ligation → ლიგირება
@@ -108,7 +108,7 @@
 - surgical vascular mobilisation → სისხლძარღვის მობილიზაცია
 - systolic-diastolic vascular bruit → სისტოლურ-დიასტოლური სისხლძარღვოვანი შუილი
 - technical success → ტექნიკური წარმატება
-- temporary intraluminal shunt → დროებითი ინტრალუმინური შუნტი
+- temporary intraluminal shunt → დროებითი ინტრალუმინალური შუნტი
 - thrombectomy → თრომბექტომია
 - thromboembolism → თრომბოემბოლია
 - thrombosis → თრომბოზი
@@ -121,7 +121,7 @@
 - vascular reconstruction → სისხლძარღვოვანი რეკონსტრუქცია
 - vascular suture coverage → სისხლძარღვოვანი ნაკერის დაფარვა სიცოცხლისუნარიანი ქსოვილით
 - vascular tumour → სისხლძარღვოვანი სიმსივნე
-- vessel clamping → სისხლძარღვის გადაჭერა დამჭერით
+- vessel clamping → სისხლძარღვის გადაკეტვა დამჭერით
 - vessel reimplantation → სისხლძარღვის რეიმპლანტაცია
 - vessel resection → სისხლძარღვის რეზექცია
 
@@ -168,7 +168,7 @@
 - diabetic neuropathy → დიაბეტური ნეიროპათია
 - direct angiosome revascularization → პირდაპირი ანგიოსომური რევასკულარიზაცია
 - directional atherectomy → მიმართული ათერექტომია
-- distal runoff → დისტალური კალაპოტი
+- distal runoff → დისტალური აუზი
 - donor limb in crossover bypass → დონორული კიდური ჯვარედინი შუნტირებისას
 - donor-limb steal → დონორული კიდურიდან სისხლის ნაკადის გადანაწილებით გამოწვეული იშემია
 - drug-coated balloon (DCB) → წამლით დაფარული ბალონი (DCB)
