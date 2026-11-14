@@ -1249,7 +1249,7 @@
 - angiographic arterial irregularity → არტერიის კონტურების უსწორმასწორობა ანგიოგრაფიაზე
 - angiography → ანგიოგრაფია
 - angle of insonation → ინსონაციის კუთხე
-- ankle-brachial index (ABI) → კოჭ-მხრის ინდექსი
+- ankle-brachial index (ABI) → გოჯ-მხრის ინდექსი
 - antegrade flow → ანტეგრადული სისხლის ნაკადი
 - anterior scalene syndrome → წინა კიბისებრი კუნთის სინდრომი
 - anterior tibial artery → დიდი წვივის წინა არტერია
