@@ -1,6 +1,6 @@
 # VascQBank — 10K | ქართული სამედიცინო ტერმინოლოგიის სამუშაო გლოსარიუმი
 
-ვერსია: 1.7 — სალიცენზიო წყაროს სრული ინტეგრაცია, V ეტაპი (№1001–1129), 14.11.2026  
+ვერსია: 1.8 — Antigravity 2.0-დან შერჩეული აკადემიური ტერმინების თემატური ინტეგრაცია, 14.11.2026  
 გამოყენება: პროექტის 12-ვე თემატური ჩატისთვის; წასაკითხია კითხვების გენერაციამდე, AGENTS.md-თან ერთად.
 
 ## სტატუსი და გამოყენების წესი
@@ -335,6 +335,29 @@
 - prostanoids → პროსტანოიდები (№1129).
 - prostaglandin E1 / alprostadil formulations → ვაზაპროსტანი (სავაჭრო სახელი წყაროში; მოქმედი ნივთიერება და ფორმულირება ცალკე გადაამოწმე) (№1129).
 
+### აკადემიურად შერჩეული დამატებები — Antigravity 2.0
+
+- probe-to-bone test (PTB) → ძვლის ზონდირების სინჯი (PTB).
+- dependent rubor → კიდურის დაშვებისას განვითარებული ჰიპერემია.
+- multilevel hybrid revascularization → მრავალდონიანი ჰიბრიდული რევასკულარიზაცია.
+- infrapopliteal bypass → ინფრაპოპლიტეალური შუნტირება.
+- pedal bypass → ტერფის არტერიებზე შუნტირება.
+- single-segment great saphenous vein → დიდი საჩინო ვენის უწყვეტი სეგმენტი.
+- pedal arch patency → ტერფის არტერიული რკალის გამავლობა.
+- direct angiosome revascularization → პირდაპირი ანგიოსომური რევასკულარიზაცია.
+- indirect angiosome revascularization → არაპირდაპირი ანგიოსომური რევასკულარიზაცია.
+- drug-coated balloon (DCB) → წამლით დაფარული ბალონი (DCB).
+- drug-eluting stent (DES) → წამლის გამომყოფი სტენტი (DES).
+- SAFARI technique → სუბინტიმური რეკანალიზაციის SAFARI ტექნიკა.
+- deep vein arterialization (DVA) → ღრმა ვენების არტერიალიზაცია (DVA).
+- intravascular lithotripsy (IVL) → ინტრავასკულური ლითოტრიფსია (IVL).
+- directional atherectomy → მიმართული ათერექტომია.
+- rotational atherectomy → როტაციული ათერექტომია.
+- orbital atherectomy → ორბიტალური ათერექტომია.
+- chronic total occlusion (CTO) crossing → ქრონიკული ტოტალური ოკლუზიის ენდოვასკულური გადალახვა.
+- supervised exercise therapy (SET) → მეთვალყურეობის ქვეშ ფიზიკური ვარჯიშის პროგრამა.
+- wound bed preparation (TIME) → ჭრილობის ფსკერის მომზადება TIME პრინციპით.
+
 ## C. კიდურის მწვავე იშემია (ALI)
 
 - acute limb ischaemia (ALI) → კიდურის მწვავე იშემია.
@@ -430,6 +453,24 @@
 - thrombectomy with reconstruction → თრომბექტომია სისხლძარღვოვანი რეკონსტრუქციით (№1116–1117).
 - ischaemia severity grading → იშემიის სიმძიმის კლასიფიკაცია; კონკრეტული სისტემა და კლინიკური კატეგორია აუცილებლად დაასახელე (№1120–1121).
 
+### აკადემიურად შერჩეული დამატებები — Antigravity 2.0
+
+- six Ps of acute limb ischaemia (6 Ps) → კიდურის მწვავე იშემიის ექვსი კლასიკური ნიშანი.
+- pain on passive muscle stretch → კუნთის მტკივნეულობა პასიური გაჭიმვისას.
+- fixed mottling → კანის ფიქსირებული მარმარილოსებრი შეფერილობა.
+- non-blanching cyanosis → ზეწოლისას შეუცვლელი ციანოზი.
+- two-incision four-compartment fasciotomy → ორგანაკვეთიანი, ოთხკომპარტმენტიანი ფასციოტომია.
+- prophylactic fasciotomy → პროფილაქტიკური ფასციოტომია.
+- intracompartmental pressure measurement → ფასციალურ ბუდეში წნევის გაზომვა.
+- delta pressure (compartment syndrome) → დიასტოლურ არტერიულ და ინტრაკომპარტმენტულ წნევათა სხვაობა (ΔP).
+- reperfusion compartment syndrome → რეპერფუზიასთან დაკავშირებული კომპარტმენტ-სინდრომი.
+- rhabdomyolysis → რაბდომიოლიზი.
+- reperfusion hyperkalaemia → რეპერფუზიული ჰიპერკალიემია.
+- pigment nephropathy → პიგმენტური ნეფროპათია.
+- retrograde back-bleeding → დისტალური არტერიიდან რეტროგრადული სისხლდენა.
+- completion angiography → საკონტროლო ანგიოგრაფია.
+- over-the-wire embolectomy catheter → გამტარზე გასატარებელი ემბოლექტომიის კათეტერი.
+
 ## D. მუცლის აორტის ანევრიზმა, EVAR და აორტა
 
 - abdominal aortic aneurysm (AAA) → მუცლის აორტის ანევრიზმა.
@@ -517,6 +558,35 @@
 - three-dimensional computed tomography → სამგანზომილებიანი კომპიუტერულ-ტომოგრაფიული რეკონსტრუქცია (№1102).
 - pre-EVAR imaging → წინასაოპერაციო გამოსახულებითი კვლევა EVAR-ის დაგეგმვისთვის (№1102).
 
+### აკადემიურად შერჩეული დამატებები — Antigravity 2.0
+
+- proximal aortic neck length → ანევრიზმის პროქსიმალური ყელის სიგრძე.
+- proximal aortic neck angulation → ანევრიზმის პროქსიმალური ყელის კუთხური დეფორმაცია.
+- conical aneurysm neck → ანევრიზმის კონუსური ყელი.
+- hostile aneurysm neck anatomy → ანევრიზმის ენდოვასკულური მკურნალობისთვის არახელსაყრელი ყელის ანატომია.
+- circumferential aortic neck calcification → ანევრიზმის ყელის ცირკულარული კალციფიკაცია.
+- mural thrombus in sealing zone → ენდოპროთეზის ჰერმეტიზაციის ზონაში კედელთან მიმდებარე თრომბი.
+- distal iliac sealing zone → თეძოს არტერიის დისტალური ჰერმეტიზაციის ზონა.
+- iliac artery tortuosity → თეძოს არტერიის დაკლაკნილობა.
+- type IA endoleak → IA ტიპის ენდოლიკი.
+- type IB endoleak → IB ტიპის ენდოლიკი.
+- type II endoleak → II ტიპის ენდოლიკი.
+- type III endoleak → III ტიპის ენდოლიკი.
+- type IV endoleak → IV ტიპის ენდოლიკი.
+- type V endoleak (endotension) → V ტიპის ენდოლიკი (ენდოტენზია).
+- impending aneurysm rupture → ანევრიზმის მოსალოდნელი გასკდომის ნიშნები.
+- hyperattenuating crescent sign → მომატებული სიმკვრივის ნახევარმთვარისებრი ნიშანი.
+- draped aorta sign → აორტის კედლის ხერხემლის კონტურთან მჭიდრო მიდების ნიშანი.
+- percutaneous EVAR (PEVAR) → პერკუტანული EVAR (PEVAR).
+- aortouniiliac endograft (AUI) → აორტო-უნიილიაკური ენდოპროთეზი (AUI).
+- iliac branch device (IBD) → თეძოს არტერიის განშტოებიანი ენდოპროთეზი (IBD).
+- chimney EVAR (ChEVAR) → chimney ტექნიკით ანევრიზმის ენდოვასკულური მკურნალობა (ChEVAR).
+- post-implantation syndrome → პოსტიმპლანტაციური სინდრომი.
+- inflammatory abdominal aortic aneurysm → მუცლის აორტის ანთებითი ანევრიზმა.
+- infected abdominal aortic aneurysm → მუცლის აორტის ინფიცირებული ანევრიზმა.
+- endograft oversizing → ენდოპროთეზის დიამეტრის მიზნობრივი გადიდება.
+- endograft limb kinking → ენდოპროთეზის ტოტის გადაკეცვა.
+
 ## E. გულმკერდის აორტა და დისექცია
 
 - thoracic aorta → გულმკერდის აორტა.
@@ -574,6 +644,31 @@
 - retrograde cerebral perfusion → თავის ტვინის რეტროგრადული პერფუზია (№1094–1095).
 - selective antegrade cerebral perfusion → თავის ტვინის სელექტიური ანტეგრადული პერფუზია (№1094–1096).
 - cerebral protection during arch reconstruction → თავის ტვინის დაცვა აორტის რკალის რეკონსტრუქციის დროს (№1094–1096).
+
+### აკადემიურად შერჩეული დამატებები — Antigravity 2.0
+
+- Stanford type A aortic dissection → სტენფორდის A ტიპის აორტის დისექცია.
+- Stanford type B aortic dissection → სტენფორდის B ტიპის აორტის დისექცია.
+- non-A non-B aortic dissection → არა-A, არა-B ტიპის აორტის დისექცია.
+- DeBakey type I aortic dissection → დებეიკის I ტიპის აორტის დისექცია.
+- DeBakey type II aortic dissection → დებეიკის II ტიპის აორტის დისექცია.
+- DeBakey type III aortic dissection → დებეიკის III ტიპის აორტის დისექცია.
+- Ishimaru aortic arch zones → აორტის რკალის იშიმარუს ზონები.
+- primary intimal tear → ინტიმის პირველადი დეფექტი.
+- re-entry tear → განმეორებითი კომუნიკაციის ინტიმური დეფექტი.
+- true lumen collapse → ჭეშმარიტი სანათურის კოლაფსი.
+- false lumen partial thrombosis → ცრუ სანათურის ნაწილობრივი თრომბოზი.
+- dynamic malperfusion → დინამიკური მალპერფუზია.
+- static malperfusion → სტატიკური მალპერფუზია.
+- anterior spinal artery syndrome → ზურგის ტვინის წინა არტერიის სინდრომი.
+- frozen elephant trunk (FET) → Frozen Elephant Trunk (FET) ტექნიკა.
+- complicated acute type B aortic dissection → გართულებული მწვავე B ტიპის აორტის დისექცია.
+- uncomplicated acute type B aortic dissection → გაურთულებელი მწვავე B ტიპის აორტის დისექცია.
+- retrograde type A aortic dissection (RTAD) → რეტროგრადული A ტიპის აორტის დისექცია (RTAD).
+- aortic remodelling → აორტის რემოდელირება.
+- carotid-subclavian bypass → საძილე-ლავიწქვეშა შუნტირება.
+- left subclavian artery revascularisation → მარცხენა ლავიწქვეშა არტერიის რევასკულარიზაცია.
+- PETTICOAT technique → PETTICOAT ტექნიკა.
 
 ## F. საძილე და ხერხემლის არტერიები
 
@@ -707,6 +802,25 @@
 - intraplaque microhaemorrhage → ფოლაქში მიკროსისხლჩაქცევა (№1050).
 - plaque surface disruption → ფოლაქის ზედაპირის მთლიანობის დარღვევა (№1050).
 - cerebral embolic protection → ცერებრული ემბოლიური გართულებების პროფილაქტიკა (№1053).
+
+### აკადემიურად შერჩეული დამატებები — Antigravity 2.0
+
+- NASCET stenosis measurement → კაროტიდული სტენოზის შეფასება NASCET მეთოდით.
+- ECST stenosis measurement → კაროტიდული სტენოზის შეფასება ECST მეთოდით.
+- carotid near-occlusion with full collapse → შიგნითა საძილე არტერიის თითქმის სრული ოკლუზია დისტალური სანათურის კოლაფსით.
+- marginal mandibular nerve injury → სახის ნერვის ქვედა ყბის კიდის ტოტის დაზიანება.
+- greater auricular nerve injury → ყურის დიდი ნერვის დაზიანება.
+- cervical sympathetic trunk → კისრის სიმპათიკური ღერო.
+- carotid paraganglioma → კაროტიდული პარაგანგლიომა.
+- Shamblin classification → Shamblin-ის კლასიფიკაცია.
+- string-of-beads sign → „მძივების ასხმულობის“ ანგიოგრაფიული ნიშანი.
+- vertebral artery transposition → ხერხემლის არტერიის ტრანსპოზიცია.
+- carotid in-stent restenosis → საძილე არტერიის სტენტის რესტენოზი.
+- distal embolic protection filter → დისტალური ემბოლიური დაცვის ფილტრი.
+- proximal balloon embolic protection → პროქსიმალური ბალონური ემბოლიური დაცვა.
+- intimal tacking sutures → ინტიმის ფიქსაციის ნაკერები.
+- blunt cerebrovascular injury (BCVI) → ცერებროვასკულური არტერიების ბლაგვი ტრავმული დაზიანება (BCVI).
+- carotid blowout syndrome (CBS) → საძილე არტერიიდან მასიური სისხლდენის სინდრომი (CBS).
 
 ## G. ვენური დაავადებები
 
@@ -940,6 +1054,24 @@
 - phlebodysplasia → ფლებოდისპლაზია (№1115).
 - ankle–brachial index (ABI) → კოჭ-მხრის ინდექსი; PDF-ის №1110-ში ზღვარი „>6“ სავარაუდოდ შეცდომითაა აკრეფილი და **არ გადაიტანო კლინიკურ კითხვაში**.
 
+### აკადემიურად შერჩეული დამატებები — Antigravity 2.0
+
+- CEAP classification → CEAP კლასიფიკაცია.
+- revised Venous Clinical Severity Score (r-VCSS) → ვენური დაავადების კლინიკური სიმძიმის განახლებული სკალა (r-VCSS).
+- Villalta score → ვილალტას სკალა.
+- phlegmasia alba dolens → Phlegmasia alba dolens.
+- venous claudication → ვენური კოჭლობა.
+- atrophie blanche → Atrophie blanche.
+- corona phlebectatica → Corona phlebectatica.
+- subfascial endoscopic perforator surgery (SEPS) → პერფორანტული ვენების სუბფასციური ენდოსკოპიური ქირურგია (SEPS).
+- tumescent local anaesthesia (TLA) → ტუმესცენტური ადგილობრივი ანესთეზია.
+- mechanochemical endovenous ablation (MOCA) → მექანოქიმიური ენდოვენური აბლაცია (MOCA).
+- cyanoacrylate vein closure → ვენის დახურვა ციანოაკრილატის გამოყენებით.
+- iliofemoral venous stenting → თეძო-ბარძაყის ვენური სეგმენტის სტენტირება.
+- pharmacomechanical catheter-directed thrombolysis (PCDT) → ფარმაკომექანიკური კათეტერით მიმართული თრომბოლიზი (PCDT).
+- Palma–Dale procedure → პალმა-დეილის ოპერაცია.
+- Husni procedure → ჰუსნის ოპერაცია.
+
 ## H. ჰემოდიალიზის სისხლძარღვოვანი წვდომა
 
 - haemodialysis vascular access → **ჰემოდიალიზის სისხლძარღვოვანი წვდომა**; მოკლე ფორმა — **სადიალიზო წვდომა**. „სადიალიზო მიდგომა“ არ გამოიყენო, რადგან vascular access განსხვავდება ქირურგიული მიდგომისგან (surgical approach).
@@ -978,6 +1110,30 @@
 - haemodialysis → ჰემოდიალიზი (№1101).
 - long-term haemodialysis requirement → გრძელვადიანი ჰემოდიალიზის საჭიროება (№1101).
 - haemodialysis vascular access → **ჰემოდიალიზის სისხლძარღვოვანი წვდომა** / მოკლედ „სადიალიზო წვდომა“. **არ გამოიყენო „სადიალიზო მიდგომა“**. №1101-ში სისხლძარღვოვანი წვდომის კონკრეტული ტიპი მოცემული არ არის.
+
+### აკადემიურად შერჩეული დამატებები — Antigravity 2.0
+
+- Brescia–Cimino fistula → ბრეშა-ჩიმინოს არტერიოვენური ფისტულა.
+- anatomical snuffbox fistula → ანატომიურ სათუთუნეში შექმნილი არტერიოვენური ფისტულა.
+- loop arteriovenous graft → მარყუჟისებრი არტერიოვენური პროთეზი.
+- straight arteriovenous graft → სწორი არტერიოვენური პროთეზი.
+- expanded polytetrafluoroethylene (ePTFE) graft → გაფართოებული პოლიტეტრაფტორეთილენის (ePTFE) პროთეზი.
+- early-cannulation arteriovenous graft → ადრეული კანულაციისთვის განკუთვნილი არტერიოვენური პროთეზი.
+- HeRO graft → HeRO ტიპის სადიალიზო პროთეზი.
+- tunneled cuffed dialysis catheter → ტუნელირებული, მანჟეტიანი სადიალიზო კათეტერი.
+- primary assisted patency → ასისტირებული პირველადი გამავლობა.
+- juxta-anastomotic stenosis → ანასტომოზის მიმდებარე სეგმენტის სტენოზი.
+- cephalic arch stenosis → ცეფალური ვენის რკალის სტენოზი.
+- distal revascularization and interval ligation (DRIL) → დისტალური რევასკულარიზაცია და ინტერვალური ლიგირება (DRIL).
+- proximalization of arterial inflow (PAI) → არტერიული შემოდინების პროქსიმალიზაცია (PAI).
+- revision using distal inflow (RUDI) → დისტალური შემოდინების გამოყენებით ფისტულის რეკონსტრუქცია (RUDI).
+- MILLER procedure → MILLER ტექნიკით ფისტულაში ნაკადის შემცირება.
+- rope-ladder cannulation → ფისტულის კანულაცია მონაცვლეობითი პუნქციის ადგილებით.
+- buttonhole cannulation → ფისტულის კანულაცია buttonhole ტექნიკით.
+- ischaemic monomelic neuropathy → იშემიური მონომელური ნეიროპათია.
+- high-output cardiac failure → მაღალი წუთმოცულობით მიმდინარე გულის უკმარისობა.
+- catheter-related fibrin sheath → კათეტერის ირგვლივ ფიბრინული გარსი.
+- access flow monitoring → სადიალიზო წვდომაში სისხლის ნაკადის მონიტორინგი.
 
 ## I. მეზენტერიული და თირკმლის არტერიები
 
@@ -1120,6 +1276,26 @@
 - rectosigmoid ischaemia → რექტოსიგმოიდური ნაწილის იშემია (№1080–1082).
 - inferior mesenteric artery branching anatomy → ჯორჯლის ქვემო არტერიის განშტოების ანატომიური ტიპი (№1082); PDF-ის ტიპების კლასიფიკაცია წინასწარი დადასტურების გარეშე არ გამოიყენო.
 
+### აკადემიურად შერჩეული დამატებები — Antigravity 2.0
+
+- mesenteric venous thrombosis (MVT) → მეზენტერიული ვენების თრომბოზი (MVT).
+- retrograde open mesenteric stenting (ROMS) → ღია რეტროგრადული მეზენტერიული სტენტირება (ROMS).
+- food fear (sitophobia) → სიტოფობია.
+- Dunbar syndrome → დუნბარის სინდრომი.
+- median arcuate ligament release → დიაფრაგმის შუა რკალისებრი იოგის გადაკვეთა.
+- marginal artery of Drummond → დრუმონდის კიდითი არტერია.
+- pancreaticoduodenal arcade → პანკრეატოდუოდენური არტერიული რკალი.
+- retrograde iliomesenteric bypass → რეტროგრადული თეძო-მეზენტერიული შუნტირება.
+- flash pulmonary oedema (Pickering syndrome) → პიკერინგის სინდრომი.
+- renal artery medial fibroplasia → თირკმლის არტერიის მედიის ფიბროპლაზია.
+- renal-aortic ratio (RAR) → თირკმლის არტერიისა და აორტის პიკური სისტოლური სიჩქარეების შეფარდება (RAR).
+- renal resistive index (RI) → თირკმლის სისხლძარღვოვანი რეზისტენტობის ინდექსი (RI).
+- nutcracker syndrome → მაკნატუნას სინდრომი.
+- ex vivo renal artery reconstruction → თირკმლის არტერიის ექს-ვივო რეკონსტრუქცია.
+- renal autotransplantation → თირკმლის ავტოტრანსპლანტაცია.
+- aortorenal bypass → აორტო-თირკმლის არტერიის შუნტირება.
+- hepatorenal bypass → ღვიძლის არტერიიდან თირკმლის არტერიაზე შუნტირება.
+
 ## J. სისხლძარღვთა ტრავმა
 
 - vascular injury → სისხლძარღვის დაზიანება.
@@ -1256,6 +1432,18 @@
 - deep fibular nerve → მცირე წვივის ღრმა ნერვი (№1078).
 - superficial fibular nerve → მცირე წვივის ზედაპირული ნერვი (№1079).
 
+### აკადემიურად შერჩეული დამატებები — Antigravity 2.0
+
+- injured extremity index (IEI) → დაზიანებული კიდურის არტერიული წნევის ინდექსი (IEI).
+- damage control resuscitation (DCR) → დაზიანების კონტროლის რეანიმაციული ღონისძიებები (DCR).
+- permissive hypotension → პერმისიული ჰიპოტენზია.
+- resuscitative endovascular balloon occlusion of the aorta (REBOA) → აორტის რეანიმაციული ენდოვასკულური ბალონური ოკლუზია (REBOA).
+- mangled extremity severity score (MESS) → მძიმედ დაზიანებული კიდურის სიმძიმის სკალა (MESS).
+- volar forearm fasciotomy → წინამხრის ხელისგულისმხრივი ფასციოტომია.
+- dorsal forearm fasciotomy → წინამხრის ზურგის მხარის ფასციოტომია.
+- preperitoneal pelvic packing → მცირე მენჯის პრეპერიტონეული ტამპონირება.
+- traumatic arterial contusion → არტერიის ტრავმული კონტუზია.
+
 ## K. სისხლძარღვოვანი პროთეზებისა და ენდოპროთეზების ინფექციები (VGEI)
 
 - vascular graft and endograft infection (VGEI) → სისხლძარღვოვანი პროთეზისა და ენდოპროთეზის ინფექცია.
@@ -1337,6 +1525,30 @@
 - graft infection rate → პროთეზის ინფიცირების სიხშირე (№951); წყაროს ციფრები თანამედროვე მონაცემად გადაამოწმე.
 - perioperative antibiotic prophylaxis → პერიოპერაციული ანტიბიოტიკოპროფილაქტიკა (№953–954).
 - pre-incision antibiotic administration → ანტიბიოტიკის შეყვანა კანის განაკვეთამდე (№954).
+
+### აკადემიურად შერჩეული დამატებები — Antigravity 2.0
+
+- MAGIC criteria → MAGIC კრიტერიუმები.
+- Szilagyi classification → სილაგის კლასიფიკაცია.
+- Samson classification → სემსონის კლასიფიკაცია.
+- primary aortoenteric fistula → პირველადი აორტო-ენტერალური ფისტულა.
+- secondary aortoenteric fistula → მეორეული აორტო-ენტერალური ფისტულა.
+- herald gastrointestinal bleeding → აორტო-ენტერალური ფისტულის წინამორბედი გასტროინტესტინური სისხლდენა.
+- aortobronchial fistula → აორტო-ბრონქული ფისტულა.
+- aortoesophageal fistula → აორტო-ეზოფაგური ფისტულა.
+- 18F-FDG PET/CT in graft infection → ¹⁸F-FDG PET/CT პროთეზის ინფექციის დიაგნოსტიკაში.
+- labelled-leukocyte scintigraphy → მონიშნული ლეიკოციტებით სცინტიგრაფია.
+- neo-aortoiliac system (NAIS) → ნეოაორტოილიაკური რეკონსტრუქცია (NAIS).
+- rifampicin-soaked vascular graft → რიფამპიცინით გაჟღენთილი სისხლძარღვოვანი პროთეზი.
+- silver-coated vascular graft → ვერცხლით დაფარული სისხლძარღვოვანი პროთეზი.
+- bovine pericardial patch → ხარის პერიკარდიუმის ნაფლეთი.
+- aortic stump closure → აორტის ტაკვის დახურვა.
+- aortic stump blowout → აორტის ტაკვის გასკდომა.
+- sartorius muscle flap → მკერვავის კუნთის ნაფლეთი.
+- omental flap → დიდი ბადექონის ნაფლეთი.
+- graft preservation strategy → ინფიცირებული პროთეზის შენარჩუნების ტაქტიკა.
+- suppressive antibiotic therapy (SAT) → ხანგრძლივი სუპრესიული ანტიბიოტიკოთერაპია (SAT).
+- sonication of explanted graft → ექსპლანტირებული პროთეზის სონიკაცია.
 
 ## L. ანატომია და ვიზუალიზაცია
 
@@ -1530,6 +1742,28 @@
 - 3D computed tomography for EVAR planning → სამგანზომილებიანი კომპიუტერულ-ტომოგრაფიული რეკონსტრუქცია EVAR-ის წინ (№1102).
 - post-EVAR imaging surveillance → ენდოვასკულური მკურნალობის შემდგომი გამოსახულებითი მეთვალყურეობა (№1091–1092).
 
+### აკადემიურად შერჩეული დამატებები — Antigravity 2.0
+
+- Doppler resistive index (RI) → დოპლერული რეზისტენტობის ინდექსი (RI).
+- pulsatility index (PI) → პულსატილობის ინდექსი (PI).
+- peak systolic velocity ratio (PSVR) → პიკური სისტოლური სიჩქარეების შეფარდება (PSVR).
+- spectral broadening → დოპლერული სპექტრის გაფართოება.
+- angle of insonation → ინსონაციის კუთხე.
+- tardus-parvus waveform → tardus-parvus ტიპის დოპლერული სიგნალი.
+- colour Doppler aliasing → ფერადი დოპლერის ალიასინგის არტეფაქტი.
+- volume rendering (VR) → სამგანზომილებიანი მოცულობითი რეკონსტრუქცია (VR).
+- maximum intensity projection (MIP) → მაქსიმალური ინტენსივობის პროექცია (MIP).
+- curved planar reformation (CPR) → მრუდხაზოვანი პლანარული რეკონსტრუქცია (CPR).
+- multiplanar reconstruction (MPR) → მრავალსიბრტყიანი რეკონსტრუქცია (MPR).
+- centreline analysis → სისხლძარღვის ცენტრალური ხაზის ანალიზი.
+- time-of-flight MR angiography (TOF-MRA) → ფრენის დროის მეთოდით მაგნიტურ-რეზონანსული ანგიოგრაფია (TOF-MRA).
+- phase-contrast MR angiography → ფაზური კონტრასტის მეთოდით მაგნიტურ-რეზონანსული ანგიოგრაფია.
+- carbon dioxide angiography → ნახშირორჟანგით ანგიოგრაფია.
+- vascular introducer sheath → სისხლძარღვოვანი ინტროდიუსერი.
+- hydrophilic guidewire → ჰიდროფილური გზამკვლევი მავთული.
+- femoral circumflex arterial branch → ბარძაყის შემომხვევი არტერიის ტოტი.
+- plantar arterial arch → ტერფის ძირის არტერიული რკალი.
+
 ## M. პერიოპერაციული მართვა და გართულებები
 
 - preoperative assessment → წინასაოპერაციო შეფასება.
@@ -1715,6 +1949,35 @@
 - medical compression hosiery class → სამედიცინო კომპრესიული ტრიკოტაჟის კლასი (№1112–1115).
 - PAD coexisting with venous disease → ვენური დაავადების თანმხლები პერიფერიული არტერიული დაავადება (№1110).
 - ankle-brachial index → კოჭ-მხრის ინდექსი (ABI) (№1110); PDF-ში მოცემული „>6“ **არ არის სწორი კლინიკური ზღვარი**.
+
+### აკადემიურად შერჩეული დამატებები — Antigravity 2.0
+
+- Revised Cardiac Risk Index (RCRI) → გულის რისკის გადახედული ინდექსი (RCRI).
+- myocardial injury after noncardiac surgery (MINS) → მიოკარდიუმის დაზიანება არაკარდიოქირურგიული ოპერაციის შემდეგ (MINS).
+- high-sensitivity cardiac troponin → მაღალმგრძნობიარე კარდიული ტროპონინი.
+- functional capacity assessment (METs) → ფუნქციური შესაძლებლობების შეფასება მეტაბოლური ექვივალენტებით (MET).
+- anti-factor Xa activity → ანტი-Xa აქტივობა.
+- heparin-induced thrombocytopenia (HIT) → ჰეპარინით გამოწვეული თრომბოციტოპენია (HIT).
+- 4T score → 4T სკალა.
+- argatroban → არგატრობანი.
+- bivalirudin → ბივალირუდინი.
+- single antiplatelet therapy (SAPT) → მონოანტიაგრეგანტული მკურნალობა (SAPT).
+- direct oral anticoagulant (DOAC) → პირდაპირი მოქმედების პერორალური ანტიკოაგულანტი (DOAC).
+- prothrombin complex concentrate (PCC) → პროთრომბინის კომპლექსის კონცენტრატი (PCC).
+- idarucizumab → იდარუციზუმაბი.
+- andexanet alfa → ანდექსანეტ ალფა.
+- KDIGO acute kidney injury staging → თირკმლის მწვავე დაზიანების KDIGO სტადიები.
+- renal replacement therapy (RRT) → თირკმლის ჩანაცვლებითი თერაპია (RRT).
+- massive transfusion protocol (MTP) → მასიური ტრანსფუზიის პროტოკოლი (MTP).
+- thromboelastography (TEG) → თრომბოელასტოგრაფია (TEG).
+- rotational thromboelastometry (ROTEM) → როტაციული თრომბოელასტომეტრია (ROTEM).
+- tranexamic acid → ტრანექსამის მჟავა.
+- cryoprecipitate → კრიოპრეციპიტატი.
+- platelet concentrate → თრომბოციტების კონცენტრატი.
+- fibrinogen concentrate → ფიბრინოგენის კონცენტრატი.
+- dilutional coagulopathy → დილუციური კოაგულოპათია.
+- lymphocele → ლიმფოცელე.
+- lymphocutaneous fistula → ლიმფოკუტანური ფისტულა.
 
 ## N. აკრძალული კალკები და მნიშვნელობის შეცვლის პრევენცია
 
