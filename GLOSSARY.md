@@ -458,7 +458,7 @@
 - six Ps of acute limb ischaemia (6 Ps) → კიდურის მწვავე იშემიის ექვსი კლასიკური ნიშანი.
 - pain on passive muscle stretch → კუნთის მტკივნეულობა პასიური გაჭიმვისას.
 - fixed mottling → კანის ფიქსირებული მარმარილოსებრი შეფერილობა.
-- non-blanching cyanosis → ზეწოლისას შეუცვლელი ციანოზი.
+- non-blanching cyanosis → ზეწოლისას უცვლელი ციანოზური შეფერილობა.
 - two-incision four-compartment fasciotomy → ორგანაკვეთიანი, ოთხკომპარტმენტიანი ფასციოტომია.
 - prophylactic fasciotomy → პროფილაქტიკური ფასციოტომია.
 - intracompartmental pressure measurement → ფასციალურ ბუდეში წნევის გაზომვა.
@@ -584,7 +584,7 @@
 - post-implantation syndrome → პოსტიმპლანტაციური სინდრომი.
 - inflammatory abdominal aortic aneurysm → მუცლის აორტის ანთებითი ანევრიზმა.
 - infected abdominal aortic aneurysm → მუცლის აორტის ინფიცირებული ანევრიზმა.
-- endograft oversizing → ენდოპროთეზის დიამეტრის მიზნობრივი გადიდება.
+- endograft oversizing → ენდოპროთეზის სამიზნე სისხლძარღვთან შედარებით გადიდებული დიამეტრის შერჩევა.
 - endograft limb kinking → ენდოპროთეზის ტოტის გადაკეცვა.
 
 ## E. გულმკერდის აორტა და დისექცია
@@ -649,7 +649,7 @@
 
 - Stanford type A aortic dissection → სტენფორდის A ტიპის აორტის დისექცია.
 - Stanford type B aortic dissection → სტენფორდის B ტიპის აორტის დისექცია.
-- non-A non-B aortic dissection → არა-A, არა-B ტიპის აორტის დისექცია.
+- non-A non-B aortic dissection → non-A/non-B ტიპის აორტის დისექცია.
 - DeBakey type I aortic dissection → დებეიკის I ტიპის აორტის დისექცია.
 - DeBakey type II aortic dissection → დებეიკის II ტიპის აორტის დისექცია.
 - DeBakey type III aortic dissection → დებეიკის III ტიპის აორტის დისექცია.
@@ -813,14 +813,14 @@
 - cervical sympathetic trunk → კისრის სიმპათიკური ღერო.
 - carotid paraganglioma → კაროტიდული პარაგანგლიომა.
 - Shamblin classification → Shamblin-ის კლასიფიკაცია.
-- string-of-beads sign → „მძივების ასხმულობის“ ანგიოგრაფიული ნიშანი.
+- string-of-beads sign → მძივისებრი ანგიოგრაფიული ცვლილებები.
 - vertebral artery transposition → ხერხემლის არტერიის ტრანსპოზიცია.
 - carotid in-stent restenosis → საძილე არტერიის სტენტის რესტენოზი.
 - distal embolic protection filter → დისტალური ემბოლიური დაცვის ფილტრი.
 - proximal balloon embolic protection → პროქსიმალური ბალონური ემბოლიური დაცვა.
 - intimal tacking sutures → ინტიმის ფიქსაციის ნაკერები.
 - blunt cerebrovascular injury (BCVI) → ცერებროვასკულური არტერიების ბლაგვი ტრავმული დაზიანება (BCVI).
-- carotid blowout syndrome (CBS) → საძილე არტერიიდან მასიური სისხლდენის სინდრომი (CBS).
+- carotid blowout syndrome (CBS) → საძილე არტერიის გასკდომის სინდრომი (CBS).
 
 ## G. ვენური დაავადებები
 
@@ -1529,7 +1529,7 @@
 ### აკადემიურად შერჩეული დამატებები — Antigravity 2.0
 
 - MAGIC criteria → MAGIC კრიტერიუმები.
-- Szilagyi classification → სილაგის კლასიფიკაცია.
+- Szilagyi classification → Szilagyi-ს კლასიფიკაცია.
 - Samson classification → სემსონის კლასიფიკაცია.
 - primary aortoenteric fistula → პირველადი აორტო-ენტერალური ფისტულა.
 - secondary aortoenteric fistula → მეორეული აორტო-ენტერალური ფისტულა.
@@ -1952,7 +1952,7 @@
 
 ### აკადემიურად შერჩეული დამატებები — Antigravity 2.0
 
-- Revised Cardiac Risk Index (RCRI) → გულის რისკის გადახედული ინდექსი (RCRI).
+- Revised Cardiac Risk Index (RCRI) → პერიოპერაციული კარდიული რისკის განახლებული ინდექსი (RCRI).
 - myocardial injury after noncardiac surgery (MINS) → მიოკარდიუმის დაზიანება არაკარდიოქირურგიული ოპერაციის შემდეგ (MINS).
 - high-sensitivity cardiac troponin → მაღალმგრძნობიარე კარდიული ტროპონინი.
 - functional capacity assessment (METs) → ფუნქციური შესაძლებლობების შეფასება მეტაბოლური ექვივალენტებით (MET).
