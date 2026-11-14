@@ -7,7 +7,7 @@
 - aortic clamping → აორტის გადაჭერა
 - aortic prosthetic replacement → აორტის პროთეზირება
 - aorto-bifemoral prosthetic reconstruction → აორტა-ორბარძაყის პროთეზირება
-- aortobifemoral bypass → აორტო-ორბარძაყის შუნტირება
+- aortobifemoral bypass → აორტა-ორბარძაყის შუნტირება
 - aortoiliac reconstruction → აორტა-თეძოს სეგმენტის რეკონსტრუქცია
 - aortoiliofemoral reconstruction → აორტა-თეძო-ბარძაყის სეგმენტის რეკონსტრუქცია
 - arterial ligation → არტერიის გადაკვანძვა
@@ -16,14 +16,14 @@
 - arteriotomy → არტერიოტომია
 - arteriovenous malformation (AVM) → არტერიოვენური მალფორმაცია
 - arteriovenous oxygen difference → ჟანგბადის არტერიოვენური სხვაობა
-- arteriovenous shunt → არტერიოვენური ხარიხი
+- arteriovenous shunt → არტერიოვენური შუნტი
 - arteriovenous shunting → არტერიოვენური შუნტირება
 - aspiration thrombectomy → ასპირაციული თრომბექტომია
 - atherosclerotic plaque → ათეროსკლეროზული ფოლაქი
 - autologous vein graft → აუტოლოგიური ვენური ტრანსპლანტატი
 - autovenous graft → აუტოვენური ტრანსპლანტატი
 - autovenous reconstruction → აუტოვენური რეკონსტრუქცია
-- axillobifemoral bypass → აქსილობიფემორალური შუნტირება
+- axillobifemoral bypass → იღლია-ორბარძაყის შუნტირება
 - balloon angioplasty → ბალონური ანგიოპლასტიკა
 - Barre–Masson tumour → ბარე-მასონის სიმსივნე
 - bifurcated vascular prosthesis → ბიფურკაციული სისხლძარღვოვანი პროთეზი
@@ -36,7 +36,7 @@
 - clinical success → კლინიკური წარმატება
 - conduit → შუნტირებისთვის გამოყენებული მასალა
 - congenital arteriovenous fistula → თანდაყოლილი არტერიოვენური ფისტულა
-- conventional carotid endarterectomy → კლასიკური
+- conventional carotid endarterectomy → კლასიკური კაროტიდული ენდარტერექტომია
 - covered stent → დაფარული სტენტი
 - debridement → ჭრილობის ქირურგიული დამუშავება
 - distal anastomosis → დისტალური ანასტომოზი
@@ -51,14 +51,14 @@
 - endovascular treatment → ენდოვასკულური მკურნალობა
 - eversion endarterectomy → ევერსიული ენდარტერექტომია
 - explantation → ექსპლანტაცია
-- feeding artery of AV fistula → არტერიოვენური ფისტულის მომტანი არტერია
+- feeding artery of AV fistula → არტერიოვენური ფისტულის მკვებავი არტერია
 - femorofemoral cross-over bypass → ბარძაყ-ბარძაყის ჯვარედინი შუნტირება
-- femorofemoral crossover bypass → ბარძაყ-ბარძაყის ჯვარედინა შუნტირება
+- femorofemoral crossover bypass → ბარძაყ-ბარძაყის ჯვარედინი შუნტირება
 - Fogarty embolectomy catheter → ფოგარტის ემბოლექტომიის კათეტერი
 - glomangioma → გლომანგიომა
 - glomus tumour → გლომუსური სიმსივნე
 - graft anastomotic neointimal hyperplasia → პროთეზის ანასტომოზის ნეოინტიმური ჰიპერპლაზია
-- graft limb kinking → პროთეზის ტოტის გადაგრეხა ან გადაკეცვა
+- graft limb kinking → პროთეზის ტოტის გადაღუნვა
 - graft thrombosis → შუნტის ან სისხლძარღვოვანი პროთეზის თრომბოზი
 - graft-limb thrombosis → პროთეზის ტოტის თრომბოზი
 - haemangioma → ჰემანგიომა
@@ -76,15 +76,15 @@
 - mechanical thrombectomy → მექანიკური თრომბექტომია
 - necrectomy → ნეკრექტომია
 - neointimal hyperplasia → ნეოინტიმური ჰიპერპლაზია
-- obturator bypass → დამხურავი არხით შუნტირება
+- obturator bypass → შუნტირება დამხურავი ხვრელის გავლით
 - occlusion → ოკლუზია
 - open surgical repair → ღია ქირურგიული რეკონსტრუქცია
-- operative exposure / dissection → ოპერაციული მიდგომა
+- operative exposure / dissection → ოპერაციული მიდგომა / სისხლძარღვის გამოყოფა
 - patch angioplasty → ნაფლეთით პლასტიკა
-- patch closure of arteriotomy → არტერიოტომიული განაკვეთის პლასტიკა ნაფლეთით
+- patch closure of arteriotomy → არტერიოტომიის დახურვა ნაფლეთით
 - patency → გამავლობა
 - perfusion → პერფუზია
-- perigraft seroma → პროთეზის ირგვლივ სერომა
+- perigraft seroma → პერიპროთეზული სერომა
 - primary patency → პირველადი გამავლობა
 - proximal anastomosis → პროქსიმალური ანასტომოზი
 - pseudoaneurysm → ფსევდოანევრიზმა
@@ -96,29 +96,29 @@
 - revascularisation → რევასკულარიზაცია
 - reversed autologous vein graft → რევერსირებული აუტოვენური ტრანსპლანტატი
 - secondary patency → მეორეული გამავლობა
-- selective arterial embolisation → არტერიის დაზიანებული ტოტის სელექტიური ემბოლიზაცია
+- selective arterial embolisation → არტერიის სელექტიური ემბოლიზაცია
 - side-to-side anastomosis → გვერდი-გვერდში ანასტომოზი
 - stenosis → სტენოზი
-- stent graft / endograft → სტენტგრაფტი
+- stent graft / endograft → სტენტგრაფტი / ენდოპროთეზი
 - stenting → სტენტირება
 - subclavian-bifemoral bypass → ლავიწქვეშა-ორბარძაყის შუნტირება
 - subungual location → ფრჩხილქვეშა ლოკალიზაცია
 - surgical clamp → სისხლძარღვოვანი დამჭერი
 - surgical tourniquet / Esmarch tourniquet → ესმარხის ლახტი
 - surgical vascular mobilisation → სისხლძარღვის მობილიზაცია
-- systolic-diastolic vascular bruit → სისტოლო-დიასტოლური სისხლძარღვოვანი შუილი
+- systolic-diastolic vascular bruit → სისტოლურ-დიასტოლური სისხლძარღვოვანი შუილი
 - technical success → ტექნიკური წარმატება
-- temporary intraluminal shunt → დროებითი შიდა შუნტი
+- temporary intraluminal shunt → დროებითი ინტრალუმინური შუნტი
 - thrombectomy → თრომბექტომია
 - thromboembolism → თრომბოემბოლია
 - thrombosis → თრომბოზი
 - thrombus → თრომბი
-- transcatheter embolisation → ენდოვასკულური ემბოლიზაცია
+- transcatheter embolisation → ტრანსკათეტერული ემბოლიზაცია
 - transverse arteriotomy → განივი არტერიოტომია
 - vascular pedicle → სისხლძარღვოვანი ფეხი
 - vascular prosthesis → სისხლძარღვოვანი პროთეზი
-- vascular prosthetic interposition → სისხლძარღვოვანი პროთეზირება
-- vascular reconstruction → რეკონსტრუქციული ოპერაცია
+- vascular prosthetic interposition → სისხლძარღვის ინტერპოზიციური პროთეზირება
+- vascular reconstruction → სისხლძარღვოვანი რეკონსტრუქცია
 - vascular suture coverage → სისხლძარღვოვანი ნაკერის დაფარვა სიცოცხლისუნარიანი ქსოვილით
 - vascular tumour → სისხლძარღვოვანი სიმსივნე
 - vessel clamping → სისხლძარღვის გადაჭერა დამჭერით
@@ -127,7 +127,7 @@
 
 ## პერიფერიული არტერიული დაავადება და CLTI
 
-- abnormally high ABI / noncompressible arteries → არტერიის კედლის პათოლოგიური რიგიდობა
+- abnormally high ABI / noncompressible arteries → პათოლოგიურად მაღალი ABI / არაკომპრესირებადი არტერიები
 - acrocyanosis → აკროციანოზი
 - active inflammatory phase → აქტიური ანთებითი ფაზა
 - amputation-free survival → ამპუტაციის გარეშე გადარჩენა
@@ -138,16 +138,16 @@
 - aortoiliac occlusive disease → აორტა-თეძოს სეგმენტის მაოკლუზირებელი დაავადება
 - aortoiliofemoral occlusive disease → აორტა-თეძო-ბარძაყის სეგმენტის მაოკლუზირებელი დაავადება
 - arterial Doppler examination → არტერიული დოპლეროგრაფია
-- arterial inflow to internal iliac territory → სისხლის მიმოქცევა თეძოს შიგნითა არტერიის აუზში
+- arterial inflow to internal iliac territory → არტერიული შემოდინება თეძოს შიგნითა არტერიის აუზში
 - arterial vasospasm → არტერიოსპაზმი
 - arterial wall rigidity → არტერიის კედლის რიგიდობა
 - arteriogenic erectile dysfunction → არტერიოგენული ერექტიული დისფუნქცია
 - atheroembolism / cholesterol crystal embolisation → ათეროემბოლია
 - Behçet disease → ბეჰჩეტის დაავადება
-- blue toe syndrome → ლურჯი თითის“ სინდრომი
+- blue toe syndrome → ლურჯი თითის სინდრომი
 - Buerger disease → ბიურგერის დაავადება
 - capillaroscopy → კაპილაროსკოპია
-- Charcot joint / Charcot foot → შარკოს სახსარი
+- Charcot joint / Charcot foot → შარკოს სახსარი / შარკოს ტერფი
 - cholesterol-synthesis inhibitors → ქოლესტერინის სინთეზის დამთრგუნველი საშუალებები
 - chronic arterial occlusive disease → ქრონიკული მაოკლუზირებელი არტერიული დაავადება
 - chronic extravascular compression → ქრონიკული ექსტრავაზალური კომპრესია
@@ -168,11 +168,11 @@
 - diabetic neuropathy → დიაბეტური ნეიროპათია
 - direct angiosome revascularization → პირდაპირი ანგიოსომური რევასკულარიზაცია
 - directional atherectomy → მიმართული ათერექტომია
-- distal runoff → დისტალური არტერიების გამავლობა
+- distal runoff → დისტალური კალაპოტი
 - donor limb in crossover bypass → დონორული კიდური ჯვარედინი შუნტირებისას
 - donor-limb steal → დონორული კიდურიდან სისხლის ნაკადის გადანაწილებით გამოწვეული იშემია
 - drug-coated balloon (DCB) → წამლით დაფარული ბალონი (DCB)
-- drug-eluting stent (DES) → წამლის გამომყოფი სტენტი (DES)
+- drug-eluting stent (DES) → წამალგამომყოფი სტენტი (DES)
 - dry gangrene → მშრალი განგრენა
 - elevated haematocrit → ჰემატოკრიტის მომატებული მაჩვენებელი
 - endothelial proliferation → ენდოთელიუმის პროლიფერაცია
@@ -182,7 +182,7 @@
 - erythromelalgia → ერითრომელალგია
 - exercise-induced limb ischaemia → დატვირთვის დროს გამოვლენილი კიდურის იშემია
 - femoropopliteal segment → ბარძაყ-მუხლქვეშა სეგმენტი
-- Fontaine classification → ფონტეინის კლასიფიკაცია
+- Fontaine classification → ფონტენის კლასიფიკაცია
 - gangrene → განგრენა
 - gangrenous lesion of foot → ტერფის განგრენოზული დაზიანება
 - giant-cell arteritis → გიგანტურუჯრედოვანი არტერიიტი
@@ -200,7 +200,7 @@
 - infected neuropathic diabetic foot → დიაბეტური ტერფის ნეიროპათიულ-ინფიცირებული ფორმა
 - inflammatory arterial stenosis → ანთებითი წარმოშობის არტერიული სტენოზი
 - inflow disease → არტერიული შემოდინების სეგმენტის დაზიანება
-- infrapopliteal bypass → ინფრაპოპლიტეალური შუნტირება
+- infrapopliteal bypass → ინფრაპოპლიტეური შუნტირება
 - intermittent claudication → ხანგამოშვებითი კოჭლობა
 - intestinal steal → ნაწლავის სისხლის ნაკადის გადანაწილების სინდრომი
 - intravascular lithotripsy (IVL) → ინტრავასკულური ლითოტრიფსია (IVL)
@@ -212,12 +212,12 @@
 - linear blood-flow velocity → სისხლის ნაკადის ხაზოვანი სიჩქარე
 - lower-limb arterial insufficiency → ქვედა კიდურის არტერიული უკმარისობა
 - major amputation → დიდი ამპუტაცია
-- mal perforans → Mal perforans
+- mal perforans → ტერფის გამჭოლი წყლული (mal perforans)
 - maximum walking distance → მაქსიმალური სიარულის მანძილი
 - medial arterial calcification → არტერიის მედიის კალციფიკაცია
 - microcirculatory resistance → მიკროცირკულაციის დონეზე სისხლის ნაკადისადმი წინააღმდეგობა
 - minor amputation → მცირე ამპუტაცია
-- Mönckeberg medial sclerosis → მენკებერგის სკლეროზი
+- Mönckeberg medial sclerosis → მენკებერგის მედიასკლეროზი
 - multilevel arterial disease → მრავალდონიანი არტერიული დაზიანება
 - multilevel hybrid revascularization → მრავალდონიანი ჰიბრიდული რევასკულარიზაცია
 - neuropathic diabetic foot → დიაბეტური ტერფის ნეიროპათიული ფორმა
@@ -235,15 +235,15 @@
 - pedal arch patency → ტერფის არტერიული რკალის გამავლობა
 - pedal bypass → ტერფის არტერიებზე შუნტირება
 - pelvic steal → მენჯის სისხლის მიმოქცევის გადანაწილებით გამოწვეული იშემია
-- pelvic steal syndrome → მენჯიდან სისხლის გადადენის“ სინდრომი
+- pelvic steal syndrome → მენჯის სისხლის მიმოქცევის გადანაწილების სინდრომი
 - peripheral arterial aneurysm → პერიფერიული არტერიის ანევრიზმა
 - peripheral artery disease (PAD) → პერიფერიული არტერიული დაავადება
 - plaque microembolisation → ათეროსკლეროზული ფოლაქიდან მიკროემბოლიზაცია
-- polyarteritis nodosa → კვანძოვანი პერიარტერიიტი
+- polyarteritis nodosa → კვანძოვანი პოლიარტერიიტი
 - polycythaemia → პოლიციტემია
 - popliteal artery adventitial cyst → მუხლქვეშა არტერიის ადვენტიციური კისტა
 - popliteal artery entrapment syndrome (PAES) → მუხლქვეშა არტერიის ზეწოლის სინდრომი
-- post-stenotic turbulence → სტენოზის დისტალურად არსებული ტურბულენტობა
+- post-stenotic turbulence → პოსტსტენოზური ტურბულენტობა
 - pressure off-loading → ტერფის განტვირთვა
 - probe-to-bone test (PTB) → ძვლის ზონდირების სინჯი (PTB)
 - progression of atherosclerosis → ათეროსკლეროზის პროგრესირება
@@ -259,9 +259,9 @@
 - scleroderma → სკლეროდერმია
 - sclerotic phase of aortoarteritis → აორტოარტერიიტის სკლეროზული ფაზა
 - single-segment great saphenous vein → დიდი საჩინო ვენის უწყვეტი სეგმენტი
-- supervised exercise therapy (SET) → მეთვალყურეობის ქვეშ ფიზიკური ვარჯიშის პროგრამა
+- supervised exercise therapy (SET) → მეთვალყურეობით ჩატარებული ვარჯიშის პროგრამა (SET)
 - systemic vasculitis → სისტემური ვასკულიტი
-- Takayasu arteritis → ტაკაიასუს დაავადება
+- Takayasu arteritis → ტაკაიასუს არტერიიტი
 - temporal arteritis → საფეთქლის არტერიიტი
 - temporal artery biopsy → საფეთქლის არტერიის ბიოფსია
 - thermography → თერმოგრაფია
@@ -286,12 +286,12 @@
 - acute arterial thrombosis → მწვავე არტერიული თრომბოზი
 - acute limb ischaemia (ALI) → კიდურის მწვავე იშემია
 - amputation-level assessment → ამპუტაციის დონის განსაზღვრა
-- anterior fascial compartment of leg → წვივის წინა კუნთოვან-ფასციალური ბუდე
+- anterior fascial compartment of leg → წვივის წინა კუნთოვან-ფასციური ბუდე
 - anterior leg compartment → წვივის წინა კომპარტმენტი
 - arterial Doppler signal → არტერიული დოპლერული სიგნალი
 - arterial embolectomy → არტერიული ემბოლექტომია
 - cardiogenic embolism → კარდიოგენული ემბოლია
-- compartment pressure syndrome → ფასციალურ ბუდეში წნევის მატების სინდრომი
+- compartment pressure syndrome → ფასციურ ბუდეში წნევის მატების სინდრომი
 - compartment syndrome → კომპარტმენტ-სინდრომი
 - compartment syndrome-related myonecrosis → კომპარტმენტ-სინდრომით გამოწვეული კუნთის ნეკროზი
 - compartment syndrome-related nerve damage → კომპარტმენტ-სინდრომით გამოწვეული ნერვის დაზიანება
@@ -304,7 +304,7 @@
 - fasciotomy → ფასციოტომია
 - fixed mottling → კანის ფიქსირებული მარმარილოსებრი შეფერილობა
 - immediately threatened limb (Rutherford IIb) → კიდური, რომლის სიცოცხლისუნარიანობას უშუალო საფრთხე ემუქრება
-- intracompartmental pressure measurement → ფასციალურ ბუდეში წნევის გაზომვა
+- intracompartmental pressure measurement → ფასციურ ბუდეში წნევის გაზომვა
 - irreversible ischaemia (Rutherford III) → შეუქცევადი იშემია
 - irreversible neuromuscular injury → შეუქცევადი ნერვკუნთოვანი დაზიანება
 - ischaemia severity grading → იშემიის სიმძიმის კლასიფიკაცია
@@ -313,7 +313,7 @@
 - ischaemic contracture → იშემიური კონტრაქტურა
 - ischaemic limb contracture → კიდურის იშემიური კონტრაქტურა
 - ischaemic muscle contracture → იშემიური კუნთოვანი კონტრაქტურა
-- lateral fascial compartment of leg → წვივის ლატერალური კუნთოვან-ფასციალური ბუდე
+- lateral fascial compartment of leg → წვივის ლატერალური კუნთოვან-ფასციური ბუდე
 - left ventricular thrombus → მარცხენა პარკუჭის თრომბი
 - left-sided cardiac embolic source → გულის მარცხენა კამერებიდან მომდინარე ემბოლია
 - limb ischaemic pain → კიდურის იშემიური ტკივილი
@@ -325,7 +325,7 @@
 - marginally threatened limb (Rutherford IIa) → კიდური, რომლის სიცოცხლისუნარიანობა ნაწილობრივ საფრთხეშია
 - motor deficit → მოტორული ფუნქციის დარღვევა
 - mottling → კანის მარმარილოსებრი შეფერილობა
-- muscle fascial compartment → კუნთის ფასციალური ბუდე
+- muscle fascial compartment → კუნთის ფასციური ბუდე
 - muscle rigidity after limb ischaemia → კუნთების რიგიდობა კიდურის იშემიის ფონზე
 - muscle tenderness on palpation → კუნთის მტკივნეულობა პალპაციით
 - myoglobinuria → მიოგლობინურია
@@ -355,16 +355,16 @@
 - rhabdomyolysis → რაბდომიოლიზი
 - sensory deficit → მგრძნობელობის დარღვევა
 - six Ps of acute limb ischaemia (6 Ps) → კიდურის მწვავე იშემიის ექვსი კლასიკური ნიშანი
-- subfascial muscle oedema → კუნთების სუბფასციალური შეშუპება
+- subfascial muscle oedema → კუნთების სუბფასციური შეშუპება
 - superficial fibular nerve → მცირე წვივის ზედაპირული ნერვი
 - systemic anticoagulation → სისტემური ანტიკოაგულაცია
 - systemic intravenous thrombolysis → სისტემური (ინტრავენური) თრომბოლიზური მკურნალობა
 - thrombectomy with reconstruction → თრომბექტომია სისხლძარღვოვანი რეკონსტრუქციით
 - thrombotic acute arterial occlusion → თრომბოზით გამოწვეული მწვავე არტერიული ოკლუზია
 - total contracture → სრული კონტრაქტურა
-- transcutaneous oxygen tension measurement → ჟანგბადის ტრანსკუტანური წნევის გაზომვა
-- traumatic arteriothrombosis → ტრავმასთან დაკავშირებული არტერიოთრომბოზი
-- two-incision four-compartment fasciotomy → ორგანაკვეთიანი, ოთხკომპარტმენტიანი ფასციოტომია
+- transcutaneous oxygen tension measurement → ჟანგბადის ტრანსკუტანური პარციული წნევის გაზომვა
+- traumatic arteriothrombosis → ტრავმული არტერიული თრომბოზი
+- two-incision four-compartment fasciotomy → ორი განაკვეთით შესრულებული ოთხივე კომპარტმენტის ფასციოტომია
 - venous Doppler signal → ვენური დოპლერული სიგნალი
 - viable limb (Rutherford I) → სიცოცხლისუნარიანი კიდური
 
@@ -375,10 +375,10 @@
 - abdominal aortic endograft implantation → მუცლის აორტის ენდოპროთეზის იმპლანტაცია
 - abdominal aortic prosthetic reconstruction → მუცლის აორტის პროთეზირება
 - aneurysm neck → ანევრიზმის ყელი
-- aneurysm sac → ანევრიზმის პარკი
+- aneurysm sac → ანევრიზმული ტომარა
 - aneurysm sac expansion → ანევრიზმული ტომრის ზომის მატება
 - aneurysm sac shrinkage → ანევრიზმული ტომრის ზომის შემცირება
-- aneurysmal mural thrombus → ანევრიზმის პარკში არსებული თრომბული მასები
+- aneurysmal mural thrombus → ანევრიზმის კედლისმიერი თრომბი
 - aortic aneurysm rupture → აორტის ანევრიზმის გასკდომა
 - aortic endoprosthesis → აორტის ენდოპროთეზი
 - aortocaval fistula → აორტო-კავალური ფისტულა
@@ -386,7 +386,7 @@
 - aortoenteric fistula → აორტო-ენტერალური ფისტულა
 - aortouniiliac endograft (AUI) → აორტო-უნიილიაკური ენდოპროთეზი (AUI)
 - arteriomegaly → არტერიომეგალია
-- branched endograft / BEVAR → განშტოებიანი ენდოპროთეზით მკურნალობა
+- branched endograft / BEVAR → განშტოებიანი ენდოპროთეზით მკურნალობა (BEVAR)
 - chimney EVAR (ChEVAR) → chimney ტექნიკით ანევრიზმის ენდოვასკულური მკურნალობა (ChEVAR)
 - circumferential aortic neck calcification → ანევრიზმის ყელის ცირკულარული კალციფიკაცია
 - conical aneurysm neck → ანევრიზმის კონუსური ყელი
@@ -395,48 +395,48 @@
 - distal iliac sealing zone → თეძოს არტერიის დისტალური ჰერმეტიზაციის ზონა
 - draped aorta sign → აორტის კედლის ხერხემლის კონტურთან მჭიდრო მიდების ნიშანი
 - endograft infection → ენდოპროთეზის ინფექცია
-- endograft limb kinking → ენდოპროთეზის ტოტის გადაკეცვა
+- endograft limb kinking → ენდოპროთეზის ტოტის გადაღუნვა
 - endograft limb occlusion → ენდოპროთეზის ტოტის ოკლუზია
 - endograft migration → ენდოპროთეზის მიგრაცია
-- endograft oversizing → ენდოპროთეზის სამიზნე სისხლძარღვთან შედარებით გადიდებული დიამეტრის შერჩევა
+- endograft oversizing → ენდოპროთეზის ჭარბი დიამეტრით შერჩევა (oversizing)
 - endograft thrombosis → ენდოპროთეზის თრომბოზი
 - endograft-associated endoleak → ენდოლიკი აორტის ენდოპროთეზირების შემდეგ
 - endoleak → ენდოლიკი
 - endoleak after EVAR → ენდოლიკი ანევრიზმის ენდოვასკულური მკურნალობის შემდეგ
 - endovascular aneurysm repair (EVAR) → ანევრიზმის ენდოვასკულური მკურნალობა (EVAR)
 - endovascular aortic stent-graft implantation → აორტის სტენტგრაფტის იმპლანტაცია
-- fenestrated EVAR (FEVAR) → ფენესტრირებული ენდოპროთეზით მკურნალობა
+- fenestrated EVAR (FEVAR) → ფენესტრირებული ენდოპროთეზით მკურნალობა (FEVAR)
 - fusiform aneurysm → თითისტარისებრი ანევრიზმა
 - hostile aneurysm neck anatomy → ანევრიზმის ენდოვასკულური მკურნალობისთვის არახელსაყრელი ყელის ანატომია
 - hyperattenuating crescent sign → მომატებული სიმკვრივის ნახევარმთვარისებრი ნიშანი
 - iliac artery aneurysm → თეძოს არტერიის ანევრიზმა
 - iliac artery tortuosity → თეძოს არტერიის დაკლაკნილობა
 - iliac branch device (IBD) → თეძოს არტერიის განშტოებიანი ენდოპროთეზი (IBD)
-- impending aneurysm rupture → ანევრიზმის მოსალოდნელი გასკდომის ნიშნები
+- impending aneurysm rupture → ანევრიზმის გასკდომის უშუალო საფრთხე
 - infected abdominal aortic aneurysm → მუცლის აორტის ინფიცირებული ანევრიზმა
 - inferior mesenteric artery reimplantation → ჯორჯლის ქვემო არტერიის რეიმპლანტაცია
 - inflammatory abdominal aortic aneurysm → მუცლის აორტის ანთებითი ანევრიზმა
-- infrarenal AAA → ინფრარენალური მუცლის აორტის ანევრიზმა
-- infrarenal aortic aneurysm endovascular treatment → ინფრარენალური მუცლის აორტის ანევრიზმის ენდოვასკულური მკურნალობა
+- infrarenal AAA → მუცლის აორტის ინფრარენალური ანევრიზმა
+- infrarenal aortic aneurysm endovascular treatment → მუცლის აორტის ინფრარენალური ანევრიზმის ენდოვასკულური მკურნალობა
 - infrarenal aortic segment → აორტის ინფრარენალური სეგმენტი
-- juxtarenal AAA → იუქსტარენალური მუცლის აორტის ანევრიზმა
+- juxtarenal AAA → მუცლის აორტის იუქსტარენალური ანევრიზმა
 - landing zone → ენდოპროთეზის ფიქსაციის ზონა
 - maximum aneurysm diameter → ანევრიზმის მაქსიმალური დიამეტრი
-- mural thrombus in sealing zone → ენდოპროთეზის ჰერმეტიზაციის ზონაში კედელთან მიმდებარე თრომბი
+- mural thrombus in sealing zone → კედლისმიერი თრომბი ენდოპროთეზის ჰერმეტიზაციის ზონაში
 - open aortic prosthetic reconstruction → აორტის ღია ქირურგიული პროთეზირება
-- pararenal AAA → პარარენალური მუცლის აორტის ანევრიზმა
+- pararenal AAA → მუცლის აორტის პარარენალური ანევრიზმა
 - percutaneous EVAR (PEVAR) → პერკუტანული EVAR (PEVAR)
 - post-EVAR aneurysm expansion → ანევრიზმის ზომის მატება EVAR-ის შემდეგ
 - post-EVAR aneurysm sac expansion → ენდოვასკულური მკურნალობის შემდეგ ანევრიზმული ტომრის ზომის მატება
 - post-EVAR reintervention → განმეორებითი ჩარევა EVAR-ის შემდეგ
 - post-implantation syndrome → პოსტიმპლანტაციური სინდრომი
 - pre-EVAR imaging → წინასაოპერაციო გამოსახულებითი კვლევა EVAR-ის დაგეგმვისთვის
-- proximal aortic neck angulation → ანევრიზმის პროქსიმალური ყელის კუთხური დეფორმაცია
+- proximal aortic neck angulation → ანევრიზმის პროქსიმალური ყელის ანგულაცია
 - proximal aortic neck length → ანევრიზმის პროქსიმალური ყელის სიგრძე
 - proximal landing zone length → პროქსიმალური ფიქსაციის ზონის სიგრძე
 - proximal neck → ანევრიზმის პროქსიმალური ყელი
 - pulsatile abdominal mass → მუცლის არეში მოპულსირე წარმონაქმნი
-- renal artery-to-aneurysm distance → თირკმლის არტერიიდან ანევრიზმის ყელამდე მანძილი, როცა პროქსიმალური ფიქსაციის ზონა იგულისხმება
+- renal artery-to-aneurysm distance → მანძილი თირკმლის არტერიიდან ანევრიზმამდე
 - retroperitoneal aneurysm rupture → ანევრიზმის გასკდომა რეტროპერიტონეულ სივრცეში
 - retroperitoneal space → რეტროპერიტონეული სივრცე
 - rupture → გასკდომა
@@ -444,12 +444,12 @@
 - ruptured aneurysm → გამსკდარი ანევრიზმა
 - saccular aneurysm → ტომრისებრი ანევრიზმა
 - sealing zone → ენდოპროთეზის ჰერმეტიზაციის ზონა
-- suprarenal AAA → სუპრარენალური მუცლის აორტის ანევრიზმა
+- suprarenal AAA → მუცლის აორტის სუპრარენალური ანევრიზმა
 - suprarenal aortic segment → აორტის სუპრარენალური სეგმენტი
-- symptomatic / asymptomatic aneurysm → სიმპტომური
+- symptomatic / asymptomatic aneurysm → სიმპტომური / უსიმპტომო ანევრიზმა
 - thoracic aortic aneurysm → გულმკერდის აორტის ანევრიზმა
-- thoracoabdominal aortic aneurysm → თორაკოაბდომინური აორტის ანევრიზმა
-- three-dimensional computed tomography → სამგანზომილებიანი კომპიუტერულ-ტომოგრაფიული რეკონსტრუქცია
+- thoracoabdominal aortic aneurysm → აორტის თორაკოაბდომინური ანევრიზმა
+- three-dimensional computed tomography → სამგანზომილებიანი კომპიუტერული ტომოგრაფია
 - transfemoral endovascular approach → ტრანსფემორული ენდოვასკულური მიდგომა
 - traumatic aortic aneurysm → აორტის ტრავმული ანევრიზმა
 - traumatic pseudoaneurysm → ტრავმული ფსევდოანევრიზმა
@@ -469,21 +469,21 @@
 - aortic arch → აორტის რკალი
 - aortic arch reconstruction → აორტის რკალის რეკონსტრუქცია
 - aortic dissection → აორტის დისექცია
-- aortic isthmus → აორტის ისთმუსი
-- aortic malperfusion → აორტის დისექციასთან დაკავშირებული ორგანოს/კიდურის არასაკმარისი პერფუზია
+- aortic isthmus → აორტის ყელი (ისთმუსი)
+- aortic malperfusion → მალპერფუზია აორტის დისექციის დროს
 - aortic medial degeneration → აორტის მედიის დეგენერაციული ცვლილებები
-- aortic regurgitation → აორტალური რეგურგიტაცია
+- aortic regurgitation → აორტული რეგურგიტაცია
 - aortic remodelling → აორტის რემოდელირება
 - aortic root → აორტის ფესვი
 - aortic valve insufficiency → აორტის სარქვლის უკმარისობა
 - ascending aorta → ასწვრივი აორტა
-- bicuspid aortic valve → აორტის ორკარიანი სარქველი
-- blunt thoracic aortic injury → გულმკერდის აორტის ბლაგვი ტრავმით გამოწვეული დაზიანება
+- bicuspid aortic valve → ორსაგდულიანი აორტული სარქველი
+- blunt thoracic aortic injury → გულმკერდის აორტის ბლაგვი ტრავმული დაზიანება
 - branched arch endograft → აორტის რკალის განშტოებიანი ენდოპროთეზი
 - cardiac tamponade → გულის ტამპონადა
 - carotid-subclavian bypass → საძილე-ლავიწქვეშა შუნტირება
 - cerebral protection during arch reconstruction → თავის ტვინის დაცვა აორტის რკალის რეკონსტრუქციის დროს
-- cerebrospinal fluid drainage → ცერებროსპინალური სითხის დრენირება
+- cerebrospinal fluid drainage → თავზურგტვინის სითხის დრენირება
 - complicated acute type B aortic dissection → გართულებული მწვავე B ტიპის აორტის დისექცია
 - DeBakey type I aortic dissection → დებეიკის I ტიპის აორტის დისექცია
 - DeBakey type II aortic dissection → დებეიკის II ტიპის აორტის დისექცია
@@ -493,10 +493,10 @@
 - distal aortic arch aneurysm → აორტის რკალის დისტალური ნაწილის ანევრიზმა
 - dynamic malperfusion → დინამიკური მალპერფუზია
 - Ehlers–Danlos syndrome → ელერს-დანლოსის სინდრომი
-- entry tear → დისექციის საწყისი ინტიმური დეფექტი
+- entry tear → ინტიმის შესასვლელი ნახეთქი
 - false lumen → ცრუ სანათური
 - false lumen partial thrombosis → ცრუ სანათურის ნაწილობრივი თრომბოზი
-- frozen elephant trunk (FET) → Frozen Elephant Trunk (FET) ტექნიკა
+- frozen elephant trunk (FET) → „გაყინული სპილოს ხორთუმის“ ტექნიკა (FET)
 - haemothorax → ჰემოთორაქსი
 - intramural haematoma → ინტრამურული ჰემატომა
 - Ishimaru aortic arch zones → აორტის რკალის იშიმარუს ზონები
@@ -508,11 +508,11 @@
 - non-A non-B aortic dissection → non-A/non-B ტიპის აორტის დისექცია
 - paraplegia → პარაპლეგია
 - paresis → პარეზი
-- penetrating aortic ulcer → აორტის პენეტრირებადი წყლული
+- penetrating aortic ulcer → აორტის მაპენეტრირებელი წყლული
 - PETTICOAT technique → PETTICOAT ტექნიკა
-- primary intimal tear → ინტიმის პირველადი დეფექტი
+- primary intimal tear → ინტიმის პირველადი ნახეთქი
 - protection against spinal cord ischaemia → ზურგის ტვინის დაცვა იშემიისგან
-- re-entry tear → განმეორებითი კომუნიკაციის ინტიმური დეფექტი
+- re-entry tear → ინტიმის გამოსასვლელი ნახეთქი
 - retrograde cerebral perfusion → თავის ტვინის რეტროგრადული პერფუზია
 - retrograde type A aortic dissection (RTAD) → რეტროგრადული A ტიპის აორტის დისექცია (RTAD)
 - selective antegrade cerebral perfusion → თავის ტვინის სელექტიური ანტეგრადული პერფუზია
@@ -530,20 +530,20 @@
 - true lumen collapse → ჭეშმარიტი სანათურის კოლაფსი
 - uncomplicated acute type B aortic dissection → გაურთულებელი მწვავე B ტიპის აორტის დისექცია
 - vagus nerve compression → ცთომილ ნერვზე ზეწოლა
-- widened mediastinum on chest radiograph → შუასაყარის გაფართოებული ჩრდილი გულმკერდის რენტგენოგრამაზე
+- widened mediastinum on chest radiograph → შუასაყრის ჩრდილის გაფართოება გულმკერდის რენტგენოგრამაზე
 
 ## საძილე და ხერხემლის არტერიები
 
 - amaurosis fugax → მხედველობის გარდამავალი დაკარგვა ერთ თვალში (amaurosis fugax)
-- anterior cerebral artery → ტვინის წინა არტერია
+- anterior cerebral artery → თავის ტვინის წინა არტერია
 - anterior communicating artery → წინა შემაერთებელი არტერია
 - arteriotomy patch angioplasty → არტერიოტომიის ნაფლეთით პლასტიკა
-- asymptomatic carotid stenosis → უსიმპტომო საძილე არტერიის სტენოზი
+- asymptomatic carotid stenosis → საძილე არტერიის უსიმპტომო სტენოზი
 - autovenous patch → აუტოვენური ნაფლეთი
 - baroreceptor → ბარორეცეპტორი
-- blunt cerebrovascular injury (BCVI) → ცერებროვასკულური არტერიების ბლაგვი ტრავმული დაზიანება (BCVI)
+- blunt cerebrovascular injury (BCVI) → საძილე და ხერხემლის არტერიების ბლაგვი ტრავმული დაზიანება (BCVI)
 - blunt internal carotid artery injury → შიგნითა საძილე არტერიის ბლაგვი ტრავმა
-- carotid artery dissection → საძილე არტერიის განშრევება
+- carotid artery dissection → საძილე არტერიის დისექცია
 - carotid artery mobilisation → საძილე არტერიის მობილიზაცია
 - carotid artery revascularisation → საძილე არტერიის რევასკულარიზაცია
 - carotid artery stenosis → საძილე არტერიის სტენოზი
@@ -551,36 +551,36 @@
 - carotid artery tortuosity → საძილე არტერიის დაკლაკნილობა
 - carotid bifurcation → საძილე არტერიის ბიფურკაცია
 - carotid blowout syndrome (CBS) → საძილე არტერიის გასკდომის სინდრომი (CBS)
-- carotid body tumour → კაროტიდული სხეულის სიმსივნე
-- carotid body tumour excision → კაროტიდული სხეულის სიმსივნის ამოკვეთა
+- carotid body tumour → საძილე გორგლის სიმსივნე
+- carotid body tumour excision → საძილე გორგლის სიმსივნის ამოკვეთა
 - carotid coiling → საძილე არტერიის მარყუჟისებრი დაკლაკნილობა (coiling)
-- carotid cross-clamping test → შიგნითა საძილე არტერიის დროებითი გადაკეტვის ცდა
+- carotid cross-clamping test → საძილე არტერიის დროებითი გადაჭერის სინჯი
 - carotid endarterectomy (CEA) → საძილე არტერიის ენდარტერექტომია
 - carotid in-stent restenosis → საძილე არტერიის სტენტის რესტენოზი
 - carotid kinking → საძილე არტერიის მკვეთრი გადაღუნვა (კინკინგი)
 - carotid near-occlusion with full collapse → შიგნითა საძილე არტერიის თითქმის სრული ოკლუზია დისტალური სანათურის კოლაფსით
 - carotid paraganglioma → კაროტიდული პარაგანგლიომა
 - carotid pseudoaneurysm → საძილე არტერიის ფსევდოანევრიზმა
-- carotid sheath → კისრის ნერვულ-სისხლძარღვოვანი კონის ბუდე
+- carotid sheath → საძილე ბუდე
 - carotid sinus → კაროტიდული სინუსი
 - carotid sinus nerve → კაროტიდული სინუსის ნერვი
 - carotid stump pressure → საძილე არტერიის რეტროგრადული წნევა
 - carotid thrombendarterectomy → კაროტიდული თრომბენდარტერექტომია
 - central retinal artery embolism → ბადურის ცენტრალური არტერიის ემბოლია
-- cerebral embolic protection → ცერებრული ემბოლიური გართულებების პროფილაქტიკა
+- cerebral embolic protection → თავის ტვინის დაცვა ემბოლიისგან
 - cerebral hyperperfusion syndrome → თავის ტვინის ჰიპერპერფუზიის სინდრომი
 - cerebral hypoperfusion during carotid cross-clamping → თავის ტვინის ჰიპოპერფუზია საძილე არტერიის გადაჭერის დროს
-- cerebral microembolisation → თავის ტვინის არტერიული მიკროემბოლიზაცია
-- cervical nerve injury after carotid surgery → კისრის ნერვის დაზიანება კაროტიდული ოპერაციის შემდეგ
+- cerebral microembolisation → თავის ტვინის მიკროემბოლიზაცია
+- cervical nerve injury after carotid surgery → კისრის მიდამოს ნერვების დაზიანება საძილე არტერიაზე ოპერაციის შემდეგ
 - cervical sympathetic trunk → კისრის სიმპათიკური ღერო
-- chemodectoma → ჰემოდექტომა
+- chemodectoma → ქემოდექტომა
 - circle of Willis → ვილიზიის წრე
 - common carotid artery laceration → საერთო საძილე არტერიის ნაკვეთი ჭრილობა
 - complete internal carotid occlusion → შიგნითა საძილე არტერიის სრული ოკლუზია
 - contralateral cerebrovascular symptoms → კონტრალატერალური ცერებროვასკულური სიმპტომები
-- distal embolic protection filter → დისტალური ემბოლიური დაცვის ფილტრი
+- distal embolic protection filter → ემბოლიისგან დამცავი დისტალური ფილტრი
 - ECST stenosis measurement → კაროტიდული სტენოზის შეფასება ECST მეთოდით
-- embolic protection device → ემბოლიური დაცვის მოწყობილობა
+- embolic protection device → ემბოლიისგან დამცავი მოწყობილობა
 - eversion carotid endarterectomy → საძილე არტერიის ევერსიული ენდარტერექტომია
 - extracranial carotid artery → ექსტრაკრანიალური საძილე არტერია
 - extracranial–intracranial bypass → ექსტრა-ინტრაკრანიალური შუნტირება
@@ -596,57 +596,57 @@
 - internal jugular vein → შიგნითა საუღლე ვენა
 - internal-to-external carotid collaterals → შიგნითა და გარეთა საძილე არტერიების სისტემებს შორის კოლატერალური სისხლის მიმოქცევა
 - intimal hyperplasia → ინტიმის ჰიპერპლაზია
-- intimal tacking sutures → ინტიმის ფიქსაციის ნაკერები
+- intimal tacking sutures → ინტიმის მაფიქსირებელი ნაკერები
 - intracranial carotid circulation → ინტრაკრანიალური კაროტიდული სისტემა
-- intraoperative cerebral microembolisation → ინტრაოპერაციული ცერებრული მიკროემბოლიზაცია
+- intraoperative cerebral microembolisation → თავის ტვინის ინტრაოპერაციული მიკროემბოლიზაცია
 - intraplaque haemorrhage → ფოლაქში სისხლჩაქცევა
 - intraplaque microhaemorrhage → ფოლაქში მიკროსისხლჩაქცევა
 - ipsilateral cerebrovascular symptoms → იფსილატერალური ცერებროვასკულური სიმპტომები
 - ischaemic stroke → იშემიური ინსულტი
 - marginal mandibular nerve injury → სახის ნერვის ქვედა ყბის კიდის ტოტის დაზიანება
-- middle cerebral artery → ტვინის შუა არტერია
+- middle cerebral artery → თავის ტვინის შუა არტერია
 - NASCET stenosis measurement → კაროტიდული სტენოზის შეფასება NASCET მეთოდით
 - near-occlusion → თითქმის სრული ოკლუზია
 - neurological complications after carotid endarterectomy → ნევროლოგიური გართულებები კაროტიდული ენდარტერექტომიის შემდეგ
 - ophthalmic artery → თვალის არტერია
 - patch closure after endarterectomy → ენდარტერექტომიის შემდეგ ნაფლეთით პლასტიკა
 - percutaneous carotid angioplasty → საძილე არტერიის პერკუტანული ანგიოპლასტიკა
-- perioperative cerebral protection → პერიოპერაციული ცერებრული დაცვა
+- perioperative cerebral protection → თავის ტვინის პერიოპერაციული დაცვა
 - plaque surface disruption → ფოლაქის ზედაპირის მთლიანობის დარღვევა
-- plaque ulceration → ფოლაქის ზედაპირის წყლულოვანი დაზიანება
+- plaque ulceration → ფოლაქის დაწყლულება
 - post-CEA blood-pressure control → არტერიული წნევის კონტროლი კაროტიდული ენდარტერექტომიის შემდეგ
 - posterior communicating artery → უკანა შემაერთებელი არტერია
 - postoperative carotid restenosis → კაროტიდული ენდარტერექტომიის შემდეგ რესტენოზი
 - postoperative dysphonia → ოპერაციის შემდგომი დისფონია
-- proximal balloon embolic protection → პროქსიმალური ბალონური ემბოლიური დაცვა
+- proximal balloon embolic protection → ემბოლიისგან დაცვა პროქსიმალური ბალონური ოკლუზიით
 - recurrent laryngeal nerve → ხორხის შებრუნებული ნერვი
 - recurrent laryngeal nerve injury → ხორხის შებრუნებული ნერვის დაზიანება
 - retrograde vertebral artery flow → ხერხემლის არტერიაში რეტროგრადული სისხლის ნაკადი
-- septic embolism from valve vegetations → გულის სარქვლის სეპტიური ვეგეტაციიდან გამოწვეული არტერიული ემბოლია
-- Shamblin classification → Shamblin-ის კლასიფიკაცია
+- septic embolism from valve vegetations → სეპტიური ემბოლია გულის სარქვლის ვეგეტაციებიდან
+- Shamblin classification → შამბლინის კლასიფიკაცია
 - speech disturbance following stroke → მეტყველების დარღვევა ინსულტის შემდეგ
 - string-of-beads sign → მძივისებრი ანგიოგრაფიული ცვლილებები
 - subclavian steal syndrome → ლავიწქვეშა არტერიის გაქურდვის სინდრომი
 - superficial temporal artery → საფეთქლის ზედაპირული არტერია
-- superior laryngeal nerve → ხორხის ზედა ნერვი
-- supraorbital artery → თვალბუდის ზედა არტერია
-- symptomatic carotid stenosis → სიმპტომური საძილე არტერიის სტენოზი
+- superior laryngeal nerve → ხორხის ზემო ნერვი
+- supraorbital artery → თვალბუდისზედა არტერია
+- symptomatic carotid stenosis → საძილე არტერიის სიმპტომური სტენოზი
 - synthetic patch → სინთეზური ნაფლეთი
 - temporary carotid shunting → საძილე არტერიაზე დროებითი შუნტირება
 - transcarotid artery revascularisation (TCAR) → ტრანსკაროტიდული რევასკულარიზაცია (TCAR)
 - transcranial Doppler ultrasonography → ტრანსკრანიალური დოპლეროგრაფია
 - transient cerebral ischaemia → თავის ტვინის გარდამავალი იშემია
 - transient ischaemic attack (TIA) → გარდამავალი იშემიური შეტევა
-- transient monocular visual loss → გარდამავალი მხედველობის დაკარგვა ერთ თვალში
-- traumatic internal carotid artery dissection → შიგნითა საძილე არტერიის ტრავმული განშრევება
+- transient monocular visual loss → მხედველობის გარდამავალი დაკარგვა ერთ თვალში
+- traumatic internal carotid artery dissection → შიგნითა საძილე არტერიის ტრავმული დისექცია
 - vagus nerve → ცთომილი ნერვი
 - vertebral artery extrinsic compression → ხერხემლის არტერიის ექსტრავაზალური კომპრესია
 - vertebral artery origin → ხერხემლის არტერიის საწყისი სეგმენტი
 - vertebral artery stenosis → ხერხემლის არტერიის სტენოზი
 - vertebral artery transposition → ხერხემლის არტერიის ტრანსპოზიცია
-- vertebrobasilar circulation → ვერტებრობაზილარული სისხლის მიმოქცევა
-- vertebrobasilar insufficiency → ვერტებრობაზილარული უკმარისობა
-- vertebrobasilar system → ვერტებრობაზილარული სისტემა
+- vertebrobasilar circulation → ვერტებრობაზილური სისხლის მიმოქცევა
+- vertebrobasilar insufficiency → ვერტებრობაზილური უკმარისობა
+- vertebrobasilar system → ვერტებრობაზილური სისტემა
 
 ## ვენური და ლიმფური დაავადებები
 
@@ -654,16 +654,16 @@
 - anterior accessory saphenous vein (AASV) → წინა დამატებითი საჩინო ვენა
 - arterial hypoxaemia → არტერიული ჰიპოქსემია
 - ascites → ასციტი
-- atrophie blanche → Atrophie blanche
+- atrophie blanche → თეთრი ატროფია (atrophie blanche)
 - axillosubclavian vein thrombosis → იღლია-ლავიწქვეშა ვენური სეგმენტის თრომბოზი
 - Babcock stripping → ბებკოკის ოპერაცია
 - bleeding from varicose veins → ვარიკოზულად გაგანიერებული ვენიდან სისხლდენა
-- Boyd perforating vein → ბოდის პერფორანტული ვენა
+- Boyd perforating vein → ბოიდის პერფორანტული ვენა
 - broad ligament venous varices → საშვილოსნოს ფართო იოგის ვენების ვარიკოზული გაგანიერება
-- Budd–Chiari syndrome → ბად-ხიარის სინდრომი
+- Budd–Chiari syndrome → ბად-კიარის სინდრომი
 - calf deep vein thrombosis → წვივის ღრმა ვენების თრომბოზი
 - calf deep veins → წვივის ღრმა ვენები
-- calf muscle–fascial pump → წვივის კუნთოვან-ფასციალური ტუმბო
+- calf muscle–fascial pump → წვივის კუნთოვან-ფასციური ტუმბო
 - catheter-associated phlebitis → კათეტერთან ასოცირებული ფლებიტი
 - catheter-associated thrombosis → კათეტერთან ასოცირებული თრომბოზი
 - catheter-related venous thrombosis → ვენური კათეტერიზაციის შემდეგ განვითარებული თრომბოზი
@@ -674,7 +674,7 @@
 - chronic venous disease (CVD) → ქრონიკული ვენური დაავადება
 - chronic venous hypertension → ქრონიკული ვენური ჰიპერტენზია
 - chronic venous insufficiency (CVI) → ქრონიკული ვენური უკმარისობა
-- chylous ascites → ჰილოზური ასციტი
+- chylous ascites → ქილოზური ასციტი
 - Cockett perforating veins → კოკეტის პერფორანტული ვენები
 - Cockett procedure → კოკეტის ოპერაცია
 - communicating veins → კომუნიკანტური ვენები
@@ -694,14 +694,14 @@
 - dyspareunia → დისპარეუნია
 - dysuria → დიზურია
 - effort thrombosis → დატვირთვასთან დაკავშირებული თრომბოზი
-- elastic bandage compression → ელასტიკური ბანდით კომპრესია
+- elastic bandage compression → ელასტიკური ბინტით კომპრესია
 - endovenous laser ablation → ენდოვენური ლაზერული აბლაცია
 - endovenous thermal ablation → ენდოვენური თერმული აბლაცია
 - epifascial perforator ligation → პერფორანტული ვენების ეპიფასციური გადაკვანძვა
 - extrahepatic portal hypertension → ღვიძლგარეთა პორტული ჰიპერტენზია
 - Felder approach → ფელდერის მიდგომა
-- femoral-popliteal venous bypass → ბარძაყ-მუხლქვეშა ვენური შემოვლითი ანასტომოზი
-- free vascularised omental transfer → სისხლძარღვოვან ფეხზე დიდი ბადექონის გადანერგვა
+- femoral-popliteal venous bypass → ბარძაყ-მუხლქვეშა ვენური შუნტირება
+- free vascularised omental transfer → დიდი ბადექონის თავისუფალი რევასკულარიზებული ნაფლეთის გადანერგვა
 - free-floating thrombus → მოტივტივე თრომბი
 - functional phlebopathy → ფუნქციური ფლებოპათია
 - gastro-oesophageal varices → საყლაპავისა და კუჭის ვარიკოზულად გაგანიერებული ვენები
@@ -709,12 +709,12 @@
 - gonadal vein resection → გონადური ვენის რეზექცია
 - great saphenous vein (GSV) → დიდი საჩინო ვენა
 - great saphenous vein thrombosis → დიდი საჩინო ვენის თრომბოზი
-- Hackenbruch test → გეკენბრუხის სინჯი
+- Hackenbruch test → ჰაკენბრუხის სინჯი
 - hepatomegaly → ჰეპატომეგალია
 - horizontal venous reflux → ჰორიზონტალური ვენური რეფლუქსი
 - Husni procedure → ჰუსნის ოპერაცია
-- iliocaval venous segment → თეძო-ღრუ ვენების სეგმენტი (ილიოკავალური სეგმენტი)
-- iliofemoral deep vein thrombosis → თეძო-ბარძაყის ვენების თრომბოზი
+- iliocaval venous segment → ილიოკავალური ვენური სეგმენტი
+- iliofemoral deep vein thrombosis → თეძო-ბარძაყის ღრმა ვენების თრომბოზი
 - iliofemoral DVT → თეძო-ბარძაყის ღრმა ვენების თრომბოზი
 - iliofemoral venous stenting → თეძო-ბარძაყის ვენური სეგმენტის სტენტირება
 - inferior vena cava filter → კავა-ფილტრი
@@ -733,19 +733,19 @@
 - long-term compression therapy → ხანგრძლივი კომპრესიული მკურნალობა
 - lower-limb oedema → ქვედა კიდურების შეშუპება
 - lymphangiectasia → ლიმფანგიექტაზია
-- lymphangiography → ლიმფოგრაფია
+- lymphangiography → ლიმფანგიოგრაფია
 - lymphatic filariasis → ლიმფური ფილარიოზი
 - lymphatic malformation → ლიმფური მალფორმაცია
 - lymphatic obstruction → ლიმფური სადინრების ობსტრუქცია
 - lymphoedema → ლიმფედემა
 - lymphovenous anastomosis → ლიმფოვენური ანასტომოზი
-- lymphovenous anastomotic fibrosis → ლიმფოვენური ანასტომოზის მიდამოში ფიბროზის განვითარება
-- May–Thurner syndrome → მეი–ტერნერის სინდრომი
+- lymphovenous anastomotic fibrosis → ლიმფოვენური ანასტომოზის ფიბროზი
+- May–Thurner syndrome → მეი-ტერნერის სინდრომი
 - mechanochemical endovenous ablation (MOCA) → მექანოქიმიური ენდოვენური აბლაცია (MOCA)
 - medial calf perforators → წვივის მედიალური პერფორანტული ვენები
 - medial marginal vein → ტერფის მედიალური კიდის ვენა
 - medical compression hosiery → სამედიცინო კომპრესიული ტრიკოტაჟი
-- microsurgical lymphovenous bypass → მიკროქირურგიული ლიმფოვენური ანასტომოზი
+- microsurgical lymphovenous bypass → მიკროქირურგიული ლიმფოვენური შუნტირება
 - migratory superficial thrombophlebitis → მიგრირებადი ზედაპირული თრომბოფლებიტი
 - Milroy disease → მილროის დაავადება
 - miniphlebectomy → მინიფლებექტომია
@@ -758,7 +758,7 @@
 - ovarian vein varicosities → საკვერცხის ვენების ვარიკოზული გაგანიერება
 - Paget–Schroetter syndrome → პეჯეტ-შრეტერის სინდრომი
 - Palma–Dale procedure → პალმა-დეილის ოპერაცია
-- paraneoplastic thrombophlebitis → ონკოლოგიურ დაავადებასთან ასოცირებული თრომბოფლებიტი
+- paraneoplastic thrombophlebitis → პარანეოპლაზიური თრომბოფლებიტი
 - pelvic packing → მცირე მენჯის ტამპონირება
 - pelvic venous congestion syndrome → მცირე მენჯის ვენური შეგუბების სინდრომი
 - pelvic venous insufficiency → მცირე მენჯის ვენური უკმარისობა
@@ -770,8 +770,8 @@
 - phlebectomy → ფლებექტომია
 - phlebodysplasia → ფლებოდისპლაზია
 - phlebolith → ფლებოლიტი
-- phlegmasia alba dolens → Phlegmasia alba dolens
-- phlegmasia cerulea dolens → phlegmasia cerulea dolens
+- phlegmasia alba dolens → თეთრი მტკივნეული ფლეგმაზია (phlegmasia alba dolens)
+- phlegmasia cerulea dolens → ლურჯი მტკივნეული ფლეგმაზია (phlegmasia cerulea dolens)
 - popliteal vein ligation → მუხლქვეშა ვენის ლიგირება
 - port-wine stain → კანის „ღვინისფერი“ ლაქა
 - portal hypertension → პორტული ჰიპერტენზია
@@ -796,13 +796,13 @@
 - retrograde phlebography → რეტროგრადული ფლებოგრაფია
 - revised Venous Clinical Severity Score (r-VCSS) → ვენური დაავადების კლინიკური სიმძიმის განახლებული სკალა (r-VCSS)
 - right-to-left shunt → მარჯვნიდან მარცხნივ შუნტირება
-- saphena varix → საფენო-ფემორულ შერთულთან ვარიკოზული კვანძი
+- saphena varix → საფენო-ფემორული შერთულის მიდამოს ვარიკოზული კვანძი
 - saphenofemoral junction (SFJ) → საფენო-ფემორული შერთული
 - saphenopopliteal junction (SPJ) → საფენო-პოპლიტეური შერთული
 - Schede–Kocher operation → შედე-კოხერის ოპერაცია
 - secondary lymphoedema → მეორეული ლიმფედემა
 - selective ovarian venography → საკვერცხის ვენის სელექტიური ფლებოგრაფია
-- Sengstaken–Blakemore tube → ბლეკმორის ზონდი
+- Sengstaken–Blakemore tube → სენგსტაკენ-ბლეკმორის ზონდი
 - septic jugular vein thrombophlebitis → საუღლე ვენის სეპტიური თრომბოფლებიტი
 - septic phlebitis → სეპტიური ფლებიტი
 - small saphenous vein (SSV) → მცირე საჩინო ვენა
@@ -849,7 +849,7 @@
 - venous ulcer epithelialisation → ვენური წყლულის ეპითელიზაცია
 - venous valve → ვენური სარქველი
 - venous valve agenesis → ვენური სარქვლების აგენეზია
-- venous valvular incompetence → ვენური სარქვლოვანი უკმარისობა
+- venous valvular incompetence → ვენური სარქვლების უკმარისობა
 - ventilation/perfusion mismatch → ვენტილაცია-პერფუზიის შეუსაბამობა
 - vertical venous reflux → ვერტიკალური ვენური რეფლუქსი
 - Villalta score → ვილალტას სკალა
@@ -857,7 +857,7 @@
 ## ჰემოდიალიზის სისხლძარღვოვანი წვდომა
 
 - access banding → ფისტულაში ნაკადის შესამცირებელი ოპერაცია (banding)
-- access flow → სისხლის მოცულობითი ნაკადი ფისტულაში
+- access flow → სისხლის მოცულობითი ნაკადი სადიალიზო წვდომაში
 - access flow monitoring → სადიალიზო წვდომაში სისხლის ნაკადის მონიტორინგი
 - access thrombosis → სისხლძარღვოვანი წვდომის თრომბოზი
 - anatomical snuffbox fistula → ანატომიურ სათუთუნეში შექმნილი არტერიოვენური ფისტულა
@@ -871,14 +871,14 @@
 - Brescia–Cimino fistula → ბრეშა-ჩიმინოს არტერიოვენური ფისტულა
 - buttonhole cannulation → ფისტულის კანულაცია buttonhole ტექნიკით
 - catheter-related bloodstream infection → კათეტერთან ასოცირებული სისხლის ნაკადის ინფექცია
-- catheter-related fibrin sheath → კათეტერის ირგვლივ ფიბრინული გარსი
+- catheter-related fibrin sheath → კათეტერის ფიბრინული გარსი
 - central venous stenosis → ცენტრალური ვენების სტენოზი
 - cephalic arch stenosis → ცეფალური ვენის რკალის სტენოზი
 - dialysis access stenosis → ჰემოდიალიზის სისხლძარღვოვანი წვდომის სტენოზი
-- dialysis access-related hand ischaemia (HAIDI) → ჰემოდიალიზის წვდომასთან ასოცირებული ხელის იშემია
+- dialysis access-related hand ischaemia (HAIDI) → ჰემოდიალიზის წვდომასთან ასოცირებული ხელის იშემია (HAIDI)
 - distal revascularization and interval ligation (DRIL) → დისტალური რევასკულარიზაცია და ინტერვალური ლიგირება (DRIL)
 - early-cannulation arteriovenous graft → ადრეული კანულაციისთვის განკუთვნილი არტერიოვენური პროთეზი
-- expanded polytetrafluoroethylene (ePTFE) graft → გაფართოებული პოლიტეტრაფტორეთილენის (ePTFE) პროთეზი
+- expanded polytetrafluoroethylene (ePTFE) graft → ექსპანდირებული პოლიტეტრაფტორეთილენის (ePTFE) პროთეზი
 - haemodialysis → ჰემოდიალიზი
 - haemodialysis arteriovenous shunt → ჰემოდიალიზისთვის შექმნილი არტერიოვენური შუნტი
 - haemodialysis vascular access → ჰემოდიალიზის სისხლძარღვოვანი წვდომა
@@ -915,10 +915,10 @@
 - adrenal medulla → თირკმელზედა ჯირკვლის ტვინოვანი შრე
 - adrenalectomy → ადრენალექტომია
 - aldosterone → ალდოსტერონი
-- angiotensin I → ანგიოტენზინ I
-- angiotensin II → ანგიოტენზინ II
+- angiotensin I → ანგიოტენზინი I
+- angiotensin II → ანგიოტენზინი II
 - aortography → აორტოგრაფია
-- aortorenal bypass → აორტო-თირკმლის არტერიის შუნტირება
+- aortorenal bypass → აორტა-თირკმლის შუნტირება
 - bilateral renal artery stenosis → თირკმლის არტერიების ორმხრივი სტენოზი
 - bowel necrosis → ნაწლავის ნეკროზი
 - bowel viability → ნაწლავის სიცოცხლისუნარიანობა
@@ -928,11 +928,11 @@
 - coeliac artery external compression → ფაშვის ღეროს ექსტრავაზალური კომპრესია
 - coeliac trunk → ფაშვის ღერო
 - Conn syndrome → კონის სინდრომი
-- Dunbar syndrome → დუნბარის სინდრომი
-- ex vivo renal artery reconstruction → თირკმლის არტერიის ექს-ვივო რეკონსტრუქცია
+- Dunbar syndrome → დანბარის სინდრომი
+- ex vivo renal artery reconstruction → თირკმლის არტერიის ექსტრაკორპორული (ex vivo) რეკონსტრუქცია
 - excretory urography → ექსკრეტორული უროგრაფია
-- flash pulmonary oedema (Pickering syndrome) → პიკერინგის სინდრომი
-- food fear (sitophobia) → სიტოფობია
+- flash pulmonary oedema (Pickering syndrome) → ფილტვების ელვისებური შეშუპება (პიკერინგის სინდრომი)
+- food fear (sitophobia) → საკვების მიღების შიში (სიტოფობია)
 - haematuria → ჰემატურია
 - hepatorenal bypass → ღვიძლის არტერიიდან თირკმლის არტერიაზე შუნტირება
 - hypertensive crisis → ჰიპერტენზიული კრიზი
@@ -952,12 +952,12 @@
 - left gastric artery → კუჭის მარცხენა არტერია
 - left-sided colonic ischaemia → მსხვილი ნაწლავის მარცხენა ნაწილის იშემია
 - macroscopic haematuria → მაკროჰემატურია
-- marginal artery of Drummond → დრუმონდის კიდითი არტერია
+- marginal artery of Drummond → დრამონდის კიდითი არტერია
 - median arcuate ligament → დიაფრაგმის შუა რკალისებრი იოგი
 - median arcuate ligament release → დიაფრაგმის შუა რკალისებრი იოგის გადაკვეთა
 - median arcuate ligament syndrome (MALS) → ფაშვის ღეროზე დიაფრაგმის შუა რკალისებრი იოგის ზეწოლის სინდრომი
 - mesenteric collateral circulation → მეზენტერიული კოლატერალური სისხლის მიმოქცევა
-- mesenteric vein thrombosis → მეზენტერიული ვენის თრომბოზი
+- mesenteric vein thrombosis → მეზენტერიული ვენების თრომბოზი
 - mesenteric venous thrombosis (MVT) → მეზენტერიული ვენების თრომბოზი (MVT)
 - microscopic haematuria → მიკროჰემატურია
 - middle colic artery → კოლინჯის შუა არტერია
@@ -973,11 +973,11 @@
 - postprandial abdominal pain → ჭამის შემდეგ განვითარებული მუცლის ტკივილი
 - primary aldosteronism → პირველადი ალდოსტერონიზმი
 - progressive renal dysfunction → თირკმლის ფუნქციის პროგრესირებადი გაუარესება
-- proximal superior mesenteric artery → ჯორჯლის ზედა არტერიის პროქსიმალური სეგმენტი
+- proximal superior mesenteric artery → ჯორჯლის ზემო არტერიის პროქსიმალური სეგმენტი
 - rectosigmoid ischaemia → რექტოსიგმოიდური ნაწილის იშემია
-- refractory hypertension → რეფრაქტორული არტერიული ჰიპერტენზია
-- renal angiography → თირკმლის არტერიის ანგიოგრაფია
-- renal arterial disease–related end-stage kidney disease → თირკმლის არტერიის დაავადებასთან დაკავშირებული თირკმლის უკმარისობის ტერმინალური სტადია
+- refractory hypertension → რეფრაქტერული არტერიული ჰიპერტენზია
+- renal angiography → თირკმლის არტერიების ანგიოგრაფია
+- renal arterial disease–related end-stage kidney disease → თირკმლის არტერიების დაავადებით გამოწვეული თირკმლის ტერმინალური უკმარისობა
 - renal arterial phase → თირკმლის არტერიული ფაზა
 - renal artery aneurysm → თირკმლის არტერიის ანევრიზმა
 - renal artery angiography → თირკმლის არტერიების ანგიოგრაფია
@@ -988,17 +988,17 @@
 - renal artery dissection after balloon angioplasty → თირკმლის არტერიის ინტიმის დისექცია ბალონური ანგიოპლასტიკის შემდეგ
 - renal artery distal-segment stenosis → თირკმლის არტერიის დისტალური სეგმენტის სტენოზი
 - renal artery duplex ultrasonography → თირკმლის არტერიის დუპლექსსკანირება
-- renal artery fibromuscular dysplasia (FMD) → თირკმლის არტერიის ფიბრომუსკულარული დისპლაზია
+- renal artery fibromuscular dysplasia (FMD) → თირკმლის არტერიის ფიბრომუსკულური დისპლაზია (FMD)
 - renal artery injury / lesion → თირკმლის არტერიის დაზიანება
 - renal artery medial fibroplasia → თირკმლის არტერიის მედიის ფიბროპლაზია
 - renal artery middle-segment stenosis → თირკმლის არტერიის შუა სეგმენტის სტენოზი
-- renal artery ostial stenosis → თირკმლის არტერიის შესართავის სტენოზი
+- renal artery ostial stenosis → თირკმლის არტერიის სათავის სტენოზი
 - renal artery reconstruction → თირკმლის არტერიის რეკონსტრუქცია
 - renal artery reimplantation → თირკმლის არტერიის რეიმპლანტაცია
 - renal artery restenosis → თირკმლის არტერიის რესტენოზი
 - renal artery stenosis → თირკმლის არტერიის სტენოზი
 - renal artery stenting → თირკმლის არტერიის სტენტირება
-- renal autotransplantation → თირკმლის ავტოტრანსპლანტაცია
+- renal autotransplantation → თირკმლის აუტოტრანსპლანტაცია
 - renal bruit → თირკმლის არტერიის პროექციაზე სისხლძარღვოვანი შუილი
 - renal infarction → თირკმლის ინფარქტი
 - renal nephrographic phase → ნეფროგრაფიული ფაზა
@@ -1015,17 +1015,17 @@
 - retrograde pyelography → რეტროგრადული პიელოგრაფია
 - retroperitoneal urohaematoma → რეტროპერიტონეული უროჰემატომა
 - right colic artery → კოლინჯის მარჯვენა არტერია
-- Riolan arcade → რიოლანის წრე
+- Riolan arcade → რიოლანის რკალი
 - second-look laparotomy → განმეორებითი საკონტროლო ლაპაროტომია (second-look)
 - secondary arterial hypertension → მეორეული არტერიული ჰიპერტენზია
 - selective coeliac angiography → ფაშვის ღეროს სელექტიური ანგიოგრაფია
 - short bowel syndrome → მოკლე ნაწლავის სინდრომი
 - splenoportography → სპლენოპორტოგრაფია
-- splenorenal venous pathway → სპლენორენალური ვენური აუზი
-- suboptimal balloon angioplasty → არასაკმარისი შედეგის მქონე ბალონური ანგიოპლასტიკა
-- superior mesenteric artery (SMA) → ჯორჯლის ზედა არტერია
-- superior mesenteric artery embolism → ჯორჯლის ზედა არტერიის ემბოლია
-- superior mesenteric artery ostium → ჯორჯლის ზედა არტერიის საწყისი
+- splenorenal venous pathway → ელენთა-თირკმლის ვენური კოლატერალური გზა
+- suboptimal balloon angioplasty → ბალონური ანგიოპლასტიკის სუბოპტიმალური შედეგი
+- superior mesenteric artery (SMA) → ჯორჯლის ზემო არტერია
+- superior mesenteric artery embolism → ჯორჯლის ზემო არტერიის ემბოლია
+- superior mesenteric artery ostium → ჯორჯლის ზემო არტერიის სათავე
 - transaortic endarterectomy → ტრანსაორტული ენდარტერექტომია
 - visceral artery aneurysm → ვისცერალური არტერიის ანევრიზმა
 
@@ -1035,10 +1035,10 @@
 - active contrast extravasation → კონტრასტული ნივთიერების აქტიური ექსტრავაზაცია
 - arterial bleeding from gluteal wound → დუნდულოს ჭრილობიდან არტერიული სისხლდენა
 - arterial dilation proximal to fistula → ფისტულის პროქსიმალურად არტერიის დილატაცია
-- arterial intimal dissection after trauma → ტრავმის შემდგომი ინტიმის განშრევება
+- arterial intimal dissection after trauma → არტერიის ინტიმის ტრავმული დისექცია
 - arterial laceration → არტერიის კედლის გახევა
 - arterial reconstruction after trauma → არტერიის რეკონსტრუქცია ტრავმის შემდეგ
-- arterial thrombectomy after injury → ტრავმასთან დაკავშირებული არტერიული თრომბექტომია, კონკრეტული მდგომარეობის მიხედვით
+- arterial thrombectomy after injury → არტერიული თრომბექტომია ტრავმული დაზიანების შემდეგ
 - arterial transection → არტერიის სრული გადაკვეთა
 - associated tibial nerve injury → დიდი წვივის ნერვის თანმხლები დაზიანება
 - autologous skin grafting → აუტოდერმოპლასტიკა
@@ -1046,7 +1046,7 @@
 - blunt carotid injury → საძილე არტერიის ბლაგვი ტრავმა
 - blunt kidney injury → თირკმლის ბლაგვი დაზიანება
 - blunt trauma → ბლაგვი ტრავმა
-- blunt vascular injury → სისხლძარღვის ბლაგვი ტრავმით გამოწვეული დაზიანება
+- blunt vascular injury → სისხლძარღვის ბლაგვი ტრავმული დაზიანება
 - brachial plexus injury → მხრის წნულის ტრავმული დაზიანება
 - carotid bifurcation injury → საძილე არტერიის ბიფურკაციის დაზიანება
 - catheterisation-related arterial injury → არტერიის კათეტერიზაციასთან დაკავშირებული დაზიანება
@@ -1054,15 +1054,15 @@
 - clotted haemothorax → შედედებული ჰემოთორაქსი
 - combined bowel and iliac artery injury → ნაწლავისა და თეძოს არტერიის ერთდროული დაზიანება
 - combined trauma → შეუღლებული დაზიანება
-- common fibular nerve injury → მცირე წვივის საერთო ნერვის ტრავმული დაზიანება, დაზუსტების მიხედვით
+- common fibular nerve injury → მცირე წვივის საერთო ნერვის ტრავმული დაზიანება
 - complete carotid artery transection → საძილე არტერიის სრული გადაკვეთა
 - contaminated vascular injury → დაბინძურებული ტრავმული სისხლძარღვოვანი დაზიანება
 - Cooper ligament → კუპერის იოგი
 - damage control resuscitation (DCR) → დაზიანების კონტროლის რეანიმაციული ღონისძიებები (DCR)
 - damage-control surgery → დაზიანების კონტროლის ქირურგია
 - diaphragmatic rupture → დიაფრაგმის გასკდომა
-- dorsal forearm fasciotomy → წინამხრის ზურგის მხარის ფასციოტომია
-- drop foot → ტერფის ჩამოკიდება
+- dorsal forearm fasciotomy → წინამხრის დორსალური ფასციოტომია
+- drop foot → ჩამოკიდებული ტერფი
 - epineurial nerve suture → ეპინევრული ნაკერი
 - expanding haematoma → მზარდი ჰემატომა
 - false aneurysm wall → ფსევდოანევრიზმის კედელი
@@ -1074,7 +1074,7 @@
 - great saphenous vein conduit → დიდი საჩინო ვენის გამოყენება სისხლძარღვოვანი რეკონსტრუქციისთვის
 - gunshot wound → ცეცხლნასროლი ჭრილობა
 - haemorrhagic shock → ჰემორაგიული შოკი
-- hard signs of vascular injury → სისხლძარღვოვანი დაზიანების აშკარა ნიშნები
+- hard signs of vascular injury → სისხლძარღვის დაზიანების სარწმუნო ნიშნები
 - iatrogenic arterial injury → არტერიის იატროგენული დაზიანება
 - incarcerated femoral hernia → ბარძაყის ჩაჭედილი თიაქარი
 - inferior epigastric artery → ქვემო ეპიგასტრალური არტერია
@@ -1100,7 +1100,7 @@
 - perineurial nerve suture → პერინევრული ნაკერი
 - peripheral arterial vasospasm after injury → ტრავმის შემდგომი პერიფერიული არტერიოსპაზმი
 - peripheral nerve decompression → პერიფერიული ნერვის დეკომპრესია
-- permissive hypotension → პერმისიული ჰიპოტენზია
+- permissive hypotension → დასაშვები (პერმისიული) ჰიპოტენზია
 - petechiae → პეტექიები
 - pleural drainage → პლევრის ღრუს დრენირება
 - pleural puncture → პლევრის პუნქცია
@@ -1108,23 +1108,23 @@
 - posterior knee dislocation → მუხლის სახსრის უკანა ამოვარდნილობა
 - preperitoneal pelvic packing → მცირე მენჯის პრეპერიტონეული ტამპონირება
 - primary surgical wound treatment → ჭრილობის პირველადი ქირურგიული დამუშავება
-- pulsatile haematoma → პულსირებადი ჰემატომა
+- pulsatile haematoma → მოპულსირე ჰემატომა
 - pulsatile mass after trauma → ტრავმის შემდეგ მოპულსირე წარმონაქმნი
 - pulsatile mass following vascular injury → სისხლძარღვის დაზიანების შემდეგ მოპულსირე წარმონაქმნი
 - pulse assessment in trauma → პულსაციის შეფასება ტრავმის დროს
 - resuscitative endovascular balloon occlusion of the aorta (REBOA) → აორტის რეანიმაციული ენდოვასკულური ბალონური ოკლუზია (REBOA)
 - retinal haemorrhage → ბადურაში სისხლჩაქცევა
-- retrograde urethrocystography → აღმავალი ურეთროცისტოგრაფია
+- retrograde urethrocystography → რეტროგრადული ურეთროცისტოგრაფია
 - retroperitoneal surgical approach → რეტროპერიტონეული ქირურგიული მიდგომა
 - sciatic nerve injury → საჯდომი ნერვის ტრავმული დაზიანება
 - shock in vascular trauma → ჰემორაგიული შოკი სისხლძარღვთა ტრავმის დროს
 - shotgun pellet wound → საფანტით მიყენებული ცეცხლნასროლი ჭრილობა
 - small saphenous vein conduit → მცირე საჩინო ვენის გამოყენება სისხლძარღვოვანი რეკონსტრუქციისთვის
-- soft signs of vascular injury → სისხლძარღვოვანი დაზიანების სავარაუდო ნიშნები
+- soft signs of vascular injury → სისხლძარღვის დაზიანების სავარაუდო ნიშნები
 - soft-tissue excision in contaminated wound → დაზიანებული რბილი ქსოვილების ამოკვეთა
 - spontaneous pneumothorax → სპონტანური პნევმოთორაქსი
-- stab wound → ნაჩხვლეტი ჭრილობა
-- superior gluteal artery → დუნდულოს ზედა არტერია
+- stab wound → ნაჩხვლეტ-ნაკვეთი ჭრილობა
+- superior gluteal artery → დუნდულოს ზემო არტერია
 - surgical exploration → ქირურგიული რევიზია
 - synthetic vascular prosthesis → სინთეზური სისხლძარღვოვანი პროთეზი
 - temporary intravascular shunt → დროებითი ინტრავასკულური შუნტი
@@ -1144,8 +1144,8 @@
 - vascular injury with associated nerve trauma → სისხლძარღვოვანი დაზიანება თანმხლები ნერვული ტრავმით
 - vascular ligation → სისხლძარღვის ლიგირება
 - venous dilation proximal to fistula → ფისტულის პროქსიმალურად ვენის დილატაცია
-- viable muscle coverage of arterial anastomosis → სისხლძარღვოვანი ნაკერის დაფარვა სიცოცხლისუნარიანი კუნთოვანი ქსოვილით
-- volar forearm fasciotomy → წინამხრის ხელისგულისმხრივი ფასციოტომია
+- viable muscle coverage of arterial anastomosis → არტერიული ანასტომოზის დაფარვა სიცოცხლისუნარიანი კუნთოვანი ქსოვილით
+- volar forearm fasciotomy → წინამხრის ვოლარული ფასციოტომია
 - wound drainage → ჭრილობის დრენირება
 
 ## სისხლძარღვოვანი პროთეზებისა და ენდოპროთეზების ინფექციები (VGEI)
@@ -1159,7 +1159,7 @@
 - antibiotic-impregnated prosthesis → ანტიბიოტიკით გაჟღენთილი პროთეზი
 - antimicrobial treatment → ანტიმიკრობული მკურნალობა
 - aortic graft infection → აორტის პროთეზის ინფექცია
-- aortic prosthetic graft infection → აორტის სისხლძარღვოვანი პროთეზის ინფექცია
+- aortic prosthetic graft infection → აორტის პროთეზის ინფექცია
 - aortic stump blowout → აორტის ტაკვის გასკდომა
 - aortic stump closure → აორტის ტაკვის დახურვა
 - aortobronchial fistula → აორტო-ბრონქული ფისტულა
@@ -1167,12 +1167,12 @@
 - aspiration irrigation drainage → ასპირაციულ-გამომრეცხავი დრენირება
 - autologous vein reconstruction → აუტოლოგიური ვენის გამოყენებით რეკონსტრუქცია
 - bacteraemia → ბაქტერიემია
-- biofilm → ბიოფილმი
-- blood culture → სისხლის კულტურა
+- biofilm → ბიოაპკი
+- blood culture → სისხლის ბაქტერიოლოგიური გამოკვლევა (ჰემოკულტურა)
 - bovine pericardial patch → ხარის პერიკარდიუმის ნაფლეთი
 - catheter-associated septic thrombophlebitis → კათეტერთან ასოცირებული სეპტიური თრომბოფლებიტი
 - complete explantation → პროთეზის სრული ექსპლანტაცია
-- cryopreserved allograft → კრიოკონსერვირებული ალოგრაფტი
+- cryopreserved allograft → კრიოკონსერვირებული ალოტრანსპლანტატი
 - delayed surgical wound treatment → ჭრილობის გადავადებული ქირურგიული დამუშავება
 - epithelialisation → ეპითელიზაცია
 - erysipelas → წითელი ქარი
@@ -1187,8 +1187,8 @@
 - healing by secondary intention → მეორადი დაჭიმვით შეხორცება
 - herald gastrointestinal bleeding → აორტო-ენტერალური ფისტულის წინამორბედი გასტროინტესტინური სისხლდენა
 - hospital-acquired infection → ჰოსპიტალური ინფექცია
-- in situ reconstruction → ადგილზე რეკონსტრუქცია (in situ)
-- infected aortic graft explantation → ინფიცირებული აორტის პროთეზის ამოკვეთა
+- in situ reconstruction → in situ რეკონსტრუქცია
+- infected aortic graft explantation → აორტის ინფიცირებული პროთეზის ექსპლანტაცია
 - inflammatory infiltrate → ანთებითი ინფილტრატი
 - labelled-leukocyte scintigraphy → მონიშნული ლეიკოციტებით სცინტიგრაფია
 - late surgical wound treatment → ჭრილობის გვიანი ქირურგიული დამუშავება
@@ -1201,11 +1201,11 @@
 - neo-aortoiliac system (NAIS) → ნეოაორტოილიაკური რეკონსტრუქცია (NAIS)
 - omental flap → დიდი ბადექონის ნაფლეთი
 - partial explantation → პროთეზის ნაწილობრივი ექსპლანტაცია
-- perigraft drainage → პროთეზის ირგვლივ არსებული სივრცის დრენირება
-- perigraft fluid → პროთეზის ირგვლივ სითხის დაგროვება
-- perigraft gas → პროთეზის ირგვლივ აირის არსებობა
+- perigraft drainage → პერიპროთეზული სივრცის დრენირება
+- perigraft fluid → პერიპროთეზული სითხე
+- perigraft gas → პერიპროთეზული აირი
 - perioperative antibiotic prophylaxis → პერიოპერაციული ანტიბიოტიკოპროფილაქტიკა
-- persistent infection → პერსისტირებადი ინფექცია
+- persistent infection → პერსისტენტული ინფექცია
 - pre-incision antibiotic administration → ანტიბიოტიკის შეყვანა კანის განაკვეთამდე
 - preventive antibiotic administration → ანტიბიოტიკოპროფილაქტიკა
 - primary aortoenteric fistula → პირველადი აორტო-ენტერალური ფისტულა
@@ -1217,7 +1217,7 @@
 - reinfection → განმეორებითი ინფექცია
 - rifampicin-soaked vascular graft → რიფამპიცინით გაჟღენთილი სისხლძარღვოვანი პროთეზი
 - Samson classification → სემსონის კლასიფიკაცია
-- sartorius muscle flap → მკერვავის კუნთის ნაფლეთი
+- sartorius muscle flap → თერძის კუნთის ნაფლეთი
 - secondary aortoenteric fistula → მეორეული აორტო-ენტერალური ფისტულა
 - secondary suturing → მეორადი ნაკერების დადება
 - sepsis → სეფსისი
@@ -1231,8 +1231,8 @@
 - suppressive antibiotic therapy (SAT) → ხანგრძლივი სუპრესიული ანტიბიოტიკოთერაპია (SAT)
 - surgical site infection → ოპერაციული მიდამოს ინფექცია
 - surgical wound treatment → ჭრილობის ქირურგიული დამუშავება
-- Szilagyi classification → Szilagyi-ს კლასიფიკაცია
-- vascular anastomotic erosion / anastomotic bleeding → ანასტომოზის აროზიული დაზიანება
+- Szilagyi classification → სილადის (Szilagyi) კლასიფიკაცია
+- vascular anastomotic erosion / anastomotic bleeding → ანასტომოზის აროზია / აროზიული სისხლდენა ანასტომოზიდან
 - vascular graft and endograft infection (VGEI) → სისხლძარღვოვანი პროთეზისა და ენდოპროთეზის ინფექცია
 - vascular graft infection → სისხლძარღვოვანი პროთეზის ინფექცია
 - wound bacteriological culture → ჭრილობის მასალის ბაქტერიოლოგიური გამოკვლევა
@@ -1241,10 +1241,10 @@
 
 ## სისხლძარღვთა ანატომია და ვიზუალიზაცია
 
-- 3D computed tomography for EVAR planning → სამგანზომილებიანი კომპიუტერულ-ტომოგრაფიული რეკონსტრუქცია EVAR-ის წინ
+- 3D computed tomography for EVAR planning → სამგანზომილებიანი კომპიუტერული ტომოგრაფია EVAR-ის დაგეგმვისთვის
 - abdominal computed tomography → მუცლის ღრუს კომპიუტერული ტომოგრაფია
 - Adamkiewicz artery → ადამკევიჩის არტერია
-- adductor canal / Hunter canal → ჰუნტერის არხი
+- adductor canal / Hunter canal → მომზიდველი კუნთების არხი (ჰანტერის არხი)
 - Adson test → ადსონის ცდა
 - angiographic arterial irregularity → არტერიის კონტურების უსწორმასწორობა ანგიოგრაფიაზე
 - angiography → ანგიოგრაფია
@@ -1258,7 +1258,7 @@
 - arteriole → არტერიოლა
 - axillary artery → იღლიის არტერია
 - balloon catheter → ბალონური კათეტერი
-- basilar artery → ბაზილარული არტერია
+- basilar artery → ფუძის (ბაზილური) არტერია
 - brachial artery → მხრის არტერია
 - brachial plexus compression → მხრის წნულის კომპრესია
 - brachiocephalic trunk → მხარ-თავის (ბრაქიოცეფალური) ღერო
@@ -1298,7 +1298,7 @@
 - elastin → ელასტინი
 - electrocardiography → ელექტროკარდიოგრაფია
 - electromagnetic flowmetry → ელექტრომაგნიტური ფლოუმეტრია
-- end diastolic velocity (EDV) → საბოლოო დიასტოლური სიჩქარე
+- end diastolic velocity (EDV) → ბოლო დიასტოლური სიჩქარე
 - endothelin → ენდოთელინი
 - external carotid artery → გარეთა საძილე არტერია
 - external iliac artery → თეძოს გარეთა არტერია
@@ -1308,7 +1308,7 @@
 - femoral vein → ბარძაყის ვენა
 - fibular (peroneal) artery → მცირე წვივის არტერია
 - Horner syndrome → ჰორნერის სინდრომი
-- hydrophilic guidewire → ჰიდროფილური გზამკვლევი მავთული
+- hydrophilic guidewire → ჰიდროფილური გამტარი
 - hyperechoic carotid plaque → ჰიპერექოგენური კაროტიდული ფოლაქი
 - hypoechoic carotid plaque → ჰიპოექოგენური კაროტიდული ფოლაქი
 - inferior thyroid artery → ქვემო ფარისებრი არტერია
@@ -1317,8 +1317,8 @@
 - internal elastic lamina → შიდა ელასტიური მემბრანა
 - internal iliac artery → თეძოს შიგნითა არტერია
 - laser flowmetry → ლაზერული ფლოუმეტრია
-- left ovarian vein → მარცხენა საკვერცხის ვენა
-- left testicular vein → მარცხენა სათესლის ვენა
+- left ovarian vein → საკვერცხის მარცხენა ვენა
+- left testicular vein → სათესლე ჯირკვლის მარცხენა ვენა
 - lower-limb regional systolic arterial pressure → ქვედა კიდურის რეგიონული სისტოლური არტერიული წნევა
 - lymphography → ლიმფოგრაფია
 - magnetic resonance angiography (MRA) → მაგნიტურ-რეზონანსული ანგიოგრაფია
@@ -1326,8 +1326,8 @@
 - median nerve → შუათანა ნერვი
 - monophasic Doppler waveform → ერთფაზიანი დოპლერული სიგნალი
 - multiplanar reconstruction (MPR) → მრავალსიბრტყიანი რეკონსტრუქცია (MPR)
-- nitric oxide → აზოტის ჟანგი
-- obturator artery → დამხურველი არტერია
+- nitric oxide → აზოტის ოქსიდი (NO)
+- obturator artery → დამხურავი არტერია
 - peak systolic velocity (PSV) → პიკური სისტოლური სიჩქარე
 - peak systolic velocity ratio (PSVR) → პიკური სისტოლური სიჩქარეების შეფარდება (PSVR)
 - pectoralis minor syndrome → მკერდის მცირე კუნთის სინდრომი
@@ -1342,7 +1342,7 @@
 - plaque echolucency → ფოლაქის დაბალი ექოგენობა
 - plaque surface ulceration → ფოლაქის ზედაპირის წყლულოვანი დაზიანება
 - plethysmography → პლეტიზმოგრაფია
-- Poiseuille law → პუაზელის კანონი
+- Poiseuille law → პუაზეილის კანონი
 - popliteal artery → მუხლქვეშა არტერია
 - popliteal fossa → მუხლქვეშა ფოსო
 - post-EVAR imaging surveillance → ენდოვასკულური მკურნალობის შემდგომი გამოსახულებითი მეთვალყურეობა
@@ -1353,7 +1353,7 @@
 - provocative compression manoeuvre → კომპრესიული ცდა
 - pulsatile venous Doppler waveform → პულსური ხასიათის ვენური დოპლერული სიგნალი
 - pulsatile wave → პულსური ტალღა
-- pulsatility index (PI) → პულსატილობის ინდექსი (PI)
+- pulsatility index (PI) → პულსაციის ინდექსი (PI)
 - radial artery → სხივის არტერია
 - radial nerve → სხივის ნერვი
 - radiographically visible calcified arteries → რენტგენოგრამაზე ხილული კალციფიცირებული არტერიები
@@ -1361,9 +1361,9 @@
 - retrograde flow → რეტროგრადული სისხლის ნაკადი
 - Reynolds number → რეინოლდსის რიცხვი
 - sciatic nerve → საჯდომი ნერვი
-- Seldinger needle / Seldinger technique → სელდინგერის ნემსი
+- Seldinger needle / Seldinger technique → სელდინგერის ნემსი / სელდინგერის მეთოდი
 - selective angiography → სელექტიური ანგიოგრაფია
-- smooth muscle → გლუვკუნთოვანი ქსოვილი
+- smooth muscle → გლუვი კუნთოვანი ქსოვილი
 - spectral broadening → დოპლერული სპექტრის გაფართოება
 - spectral Doppler → სპექტრული დოპლერი
 - spiral computed tomography → სპირალური კომპიუტერული ტომოგრაფია
@@ -1374,32 +1374,32 @@
 - superficial palmar arterial arch → ხელისგულის ზედაპირული არტერიული რკალი
 - superior thyroid artery → ზემო ფარისებრი არტერია
 - superior vena cava → ზედა ღრუ ვენა
-- supine vs upright venous assessment → ვენური კვლევა მწოლიარე და ფეხზე მდგომ პაციენტში, კონკრეტული მეთოდის მიხედვით
+- supine vs upright venous assessment → ვენური კვლევა მწოლიარე და ფეხზე მდგომ პაციენტში
 - supraaortic arterial trunks → სუპრააორტული არტერიული ღეროები
 - supraclavicular surgical approach → ლავიწზედა ოპერაციული მიდგომა
 - tardus-parvus waveform → tardus-parvus ტიპის დოპლერული სიგნალი
 - thoracic duct → გულმკერდის ლიმფური სადინარი
-- thoracic outlet syndrome (TOS) → გულმკერდიდან გამოსვლის სინდრომი
+- thoracic outlet syndrome (TOS) → გულმკერდის ზემო აპერტურის სინდრომი (TOS)
 - thyrocervical trunk → ფარ-კისრის ღერო
 - tibio-peroneal approach → ტიბიოპერონეული მიდგომა
 - tibioperoneal trunk → ტიბიოპერონეული ღერო
 - time-of-flight MR angiography (TOF-MRA) → ფრენის დროის მეთოდით მაგნიტურ-რეზონანსული ანგიოგრაფია (TOF-MRA)
 - toe pressure → ტერფის თითის სისტოლური წნევა
-- toe-brachial index (TBI) → ტერფის თითისა და მხრის წნევათა ინდექსი
+- toe-brachial index (TBI) → თით-მხრის ინდექსი (TBI)
 - transaxillary arteriography → ტრანსაქსილარული არტერიოგრაფია
 - transaxillary surgical approach → ტრანსაქსილარული ოპერაციული მიდგომა
 - transcranial Doppler sonography → ტრანსკრანიალური დოპლეროგრაფია
 - transcutaneous oxygen pressure (TcPO₂) → ჟანგბადის ტრანსკუტანური წნევა (TcPO₂)
 - triphasic Doppler waveform → სამფაზიანი დოპლერული სიგნალი
-- tunica media → მედია
+- tunica media → სისხლძარღვის შუა გარსი (მედია)
 - turbulent blood flow → სისხლის ტურბულენტური ნაკადი
 - ulnar artery → იდაყვის არტერია
 - ulnar nerve → იდაყვის ნერვი
-- ultrasound transducer → ულტრაბგერითი გადამცემი
+- ultrasound transducer → ულტრაბგერითი გადამწოდი
 - upper limb ulnar aspect → ზედა კიდურის იდაყვისმხრივი ზედაპირი
 - urine catecholamine testing → შარდში კატექოლამინების განსაზღვრა
-- vanillylmandelic acid → ვანილილმანდელის მჟავა (VMA)
-- vascular adventitia → ადვენტიცია
+- vanillylmandelic acid → ვანილილნუშის მჟავა (VMA)
+- vascular adventitia → სისხლძარღვის გარეთა გარსი (ადვენტიცია)
 - vascular bruit → სისხლძარღვოვანი შუილი
 - vascular Doppler ultrasonography → სისხლძარღვთა ულტრაბგერითი დოპლეროგრაფია
 - vascular endothelium → სისხლძარღვის ენდოთელიუმი
@@ -1423,12 +1423,12 @@
 - ABO blood groups → ABO სისტემის სისხლის ჯგუფები
 - access-site haematoma → სისხლძარღვოვანი წვდომის ადგილის ჰემატომა
 - acid-base balance → მჟავა-ტუტოვანი წონასწორობა
-- activated partial thromboplastin time (aPTT) → აქტივირებული ნაწილობრივი (პარციალური) თრომბოპლასტინის დრო (aPTT/აპთდ)
+- activated partial thromboplastin time (aPTT) → აქტივირებული ნაწილობრივი თრომბოპლასტინის დრო (aPTT/აპთდ)
 - acute blood-loss anaemia → მწვავე სისხლდენით გამოწვეული ანემია
 - acute kidney injury (AKI) → თირკმლის მწვავე დაზიანება
 - acute postoperative haemorrhage → მწვავე პოსტოპერაციული სისხლდენა
 - all-cause mortality → ყველა მიზეზით სიკვდილიანობა
-- amniotic fluid embolism → ამნიოტიური სითხით ემბოლია
+- amniotic fluid embolism → სანაყოფე წყლებით ემბოლია
 - anaphylactic shock → ანაფილაქსიური შოკი
 - andexanet alfa → ანდექსანეტ ალფა
 - anti-factor Xa activity → ანტი-Xa აქტივობა
@@ -1439,7 +1439,7 @@
 - antiplatelet therapy → ანტიაგრეგანტული მკურნალობა
 - antithrombin → ანტითრომბინი
 - argatroban → არგატრობანი
-- biological compatibility test → ბიოლოგიური ცდა სისხლის გადასხმისას
+- biological compatibility test → ბიოლოგიური სინჯი სისხლის გადასხმისას
 - bivalirudin → ბივალირუდინი
 - blood component transfusion → სისხლის კომპონენტების ტრანსფუზია
 - calcium ions in coagulation → კალციუმის იონები შედედების პროცესში
@@ -1451,7 +1451,7 @@
 - coagulopathy → კოაგულოპათია
 - collagen exposure → კოლაგენის ექსპოზიცია ენდოთელიუმის დაზიანებისას
 - colloid solution → კოლოიდური ხსნარი
-- contrast-associated acute kidney injury → კონტრასტული ნივთიერების გამოყენებასთან ასოცირებული თირკმლის მწვავე დაზიანება
+- contrast-associated acute kidney injury → კონტრასტთან ასოცირებული თირკმლის მწვავე დაზიანება
 - cryoprecipitate → კრიოპრეციპიტატი
 - crystalloid solution → კრისტალოიდური ხსნარი
 - dextran solutions → დექსტრანები
@@ -1461,7 +1461,7 @@
 - distal anastomotic stenosis → დისტალური ანასტომოზის სტენოზი
 - dual antiplatelet therapy (DAPT) → ორმაგი ანტიაგრეგანტული მკურნალობა
 - early postoperative bleeding → ადრეული პოსტოპერაციული სისხლდენა
-- ecchymosis → ექხიმოზი
+- ecchymosis → ეკქიმოზი
 - elevated fibrinogen → ფიბრინოგენის მომატებული კონცენტრაცია
 - erosive postoperative bleeding → პოსტოპერაციული აროზიული სისხლდენა
 - erythrocyte concentrate → ერითროციტული მასა
@@ -1493,7 +1493,7 @@
 - hyperglycaemia → ჰიპერგლიკემია
 - hypocoagulation → ჰიპოკოაგულაცია
 - hypoproteinaemia → ჰიპოპროტეინემია
-- hypotension → ჰიპოტონია
+- hypotension → ჰიპოტენზია
 - hypovolaemia → ჰიპოვოლემია
 - idarucizumab → იდარუციზუმაბი
 - indirect anticoagulants → არაპირდაპირი ანტიკოაგულანტები
@@ -1522,7 +1522,7 @@
 - neurological deficit after stroke → ინსულტის შემდგომი ნევროლოგიური დეფიციტი
 - oliguria → ოლიგურია
 - PAD coexisting with venous disease → ვენური დაავადების თანმხლები პერიფერიული არტერიული დაავადება
-- perioperative embolic cerebral injury → პერიოპერაციული ცერებრული ემბოლიური დაზიანება
+- perioperative embolic cerebral injury → თავის ტვინის პერიოპერაციული ემბოლიური დაზიანება
 - perioperative mortality → პერიოპერაციული სიკვდილიანობა
 - perioperative neurological deficit → პერიოპერაციული ნევროლოგიური დეფიციტი
 - perioperative risk → პერიოპერაციული რისკი
@@ -1536,10 +1536,10 @@
 - post-operative period → პოსტოპერაციული პერიოდი
 - postoperative blood pressure control → ოპერაციის შემდგომი არტერიული წნევის კონტროლი
 - postoperative bowel ischaemia → ოპერაციის შემდგომი ნაწლავის იშემია
-- postoperative cerebral hyperperfusion → პოსტოპერაციული ცერებრული ჰიპერპერფუზია
+- postoperative cerebral hyperperfusion → თავის ტვინის პოსტოპერაციული ჰიპერპერფუზია
 - postoperative complication → პოსტოპერაციული გართულება
 - postoperative dialysis requirement → ოპერაციის შემდეგ ჰემოდიალიზის საჭიროება
-- postoperative ejaculatory dysfunction → პოსტოპერაციული ეაკულაციის დარღვევა
+- postoperative ejaculatory dysfunction → ეაკულაციის პოსტოპერაციული დარღვევა
 - postoperative erectile dysfunction → პოსტოპერაციული ერექტიული დისფუნქცია
 - postoperative ischaemic colitis → პოსტოპერაციული იშემიური კოლიტი
 - postoperative neurological deficit → პოსტოპერაციული ნევროლოგიური დეფიციტი
@@ -1562,7 +1562,7 @@
 - Revised Cardiac Risk Index (RCRI) → პერიოპერაციული კარდიული რისკის განახლებული ინდექსი (RCRI)
 - Rhesus factor → რეზუს-ფაქტორი
 - rotational thromboelastometry (ROTEM) → როტაციული თრომბოელასტომეტრია (ROTEM)
-- single antiplatelet therapy (SAPT) → მონოანტიაგრეგანტული მკურნალობა (SAPT)
+- single antiplatelet therapy (SAPT) → ერთი ანტიაგრეგანტით მკურნალობა (SAPT)
 - streptokinase → სტრეპტოკინაზა
 - stroke → ინსულტი
 - sudden death after reperfusion → რეპერფუზიის შემდეგ უეცარი სიკვდილი
@@ -1576,9 +1576,9 @@
 - thromboelastography (TEG) → თრომბოელასტოგრაფია (TEG)
 - thrombolysis-associated bleeding → თრომბოლიზთან დაკავშირებული სისხლდენა
 - thrombolytic therapy → თრომბოლიზური თერაპია
-- thromboprophylaxis → თრომბოემბოლიური გართულებების პროფილაქტიკა
+- thromboprophylaxis → თრომბოპროფილაქტიკა
 - tranexamic acid → ტრანექსამის მჟავა
-- transfusion compatibility testing → სისხლის შეთავსებაზე კვლევა
+- transfusion compatibility testing → სისხლის შეთავსების სინჯები
 - transfusion shock → ჰემოტრანსფუზიური შოკი
 - unfractionated heparin → არაფრაქცირებული ჰეპარინი
 - urokinase → უროკინაზა
