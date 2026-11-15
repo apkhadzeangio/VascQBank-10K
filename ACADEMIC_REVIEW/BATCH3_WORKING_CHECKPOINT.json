@@ -1,0 +1,1156 @@
+{
+  "status": "IN_PROGRESS",
+  "run_id": "continuation-remaining-2026-11-16",
+  "source_commit": "0dafbfdbfae7e83cf812557b2ae7608b86d4b2f8",
+  "selected_keys": [
+    {
+      "source_key": "AAA_EVAR:74",
+      "source_fingerprint": "dfad946abd33dd1e4521f7135320a16d4edbd9f38a8ee48502f4d924546694f3"
+    },
+    {
+      "source_key": "ALI:74",
+      "source_fingerprint": "be949596c07c2e8df85d5adb5490e39801897f7294b401ba261e798c714d19d4"
+    },
+    {
+      "source_key": "ANATOMY_IMAGING:7",
+      "source_fingerprint": "c1b2c4acc83abf6ef220509f952b1d0cb92b69d64c49f3a97d3855d04bfa2603"
+    },
+    {
+      "source_key": "CAROTID_VERTEBRAL:73",
+      "source_fingerprint": "f51fa1a2a7c3daf1056bdd1693950e9cd0323d5ffe10462f34350162b74aac1c"
+    },
+    {
+      "source_key": "DIALYSIS_ACCESS:10",
+      "source_fingerprint": "2e4862cd524dc301c3c2ffe28526618af13778b99de3dffe5beec8473636b1d7"
+    },
+    {
+      "source_key": "MESENTERIC_RENAL:7",
+      "source_fingerprint": "3deacb71628c646d7fe689a15aaeac7f75af239b61e527cc32c299e2ae3645fb"
+    },
+    {
+      "source_key": "PERIOPERATIVE:7",
+      "source_fingerprint": "abed361657e3b0cb7a0069e2eab7d4e1408e8535877a6bfa5e37fe9968cd8f37"
+    },
+    {
+      "source_key": "THORACIC_AORTA:73",
+      "source_fingerprint": "29de5825c25cd29954122fc26aa5dea3ae415c39c85b8bf6e37781472bf0886c"
+    },
+    {
+      "source_key": "VASCULAR_TRAUMA:7",
+      "source_fingerprint": "f2a481fda41e9677f8168721a4ec3421a1634c750169db85b04f5dc18aa16c95"
+    },
+    {
+      "source_key": "VENOUS:73",
+      "source_fingerprint": "f328638004fe1f22c8e37683cc98ec84cfff2fcaf51c13e1a3e10c79afa59855"
+    },
+    {
+      "source_key": "AAA_EVAR:75",
+      "source_fingerprint": "717c6961420edadf302b6b2541cf3e6d96915486295b4f2fa09fa92a54c9a30c"
+    },
+    {
+      "source_key": "ALI:75",
+      "source_fingerprint": "99491e189e549ebc1205625ab896503437b1bbf8b1f858ae01a0cefc1e179eed"
+    },
+    {
+      "source_key": "ANATOMY_IMAGING:8",
+      "source_fingerprint": "dc30a7e11d54cea68ea63bd9d561816ff403667e55674735b9ddd265fa3f6a83"
+    },
+    {
+      "source_key": "CAROTID_VERTEBRAL:74",
+      "source_fingerprint": "0d6628ce83249df6a6f364cbb35f2e0be8598a130069b0b2740a49aa5bd0f6fb"
+    },
+    {
+      "source_key": "DIALYSIS_ACCESS:11",
+      "source_fingerprint": "b8af75024b54173e620982306bdbe564dbac9b4eff690dc51d41860c546f0411"
+    },
+    {
+      "source_key": "MESENTERIC_RENAL:8",
+      "source_fingerprint": "d6ae4e9645fb76071bac63427c36089d7dee2252e752d917e725e21a20ddaeaa"
+    },
+    {
+      "source_key": "PERIOPERATIVE:8",
+      "source_fingerprint": "04f09e49eb26ae46767580d71162b765be69c987da13934c4114f1e3c60d7764"
+    },
+    {
+      "source_key": "THORACIC_AORTA:74",
+      "source_fingerprint": "6ef5b68c10d70aa26e6cf9cff50b951f9d96e3fd68074c0659b8887a422d8535"
+    },
+    {
+      "source_key": "VASCULAR_TRAUMA:8",
+      "source_fingerprint": "e1427d42c5686ae93be8e57466b49fe7b7aa9c55ec50fbe2e4ec5e737b9666de"
+    },
+    {
+      "source_key": "VENOUS:74",
+      "source_fingerprint": "dca0a584476467c758a5071cecb8259e5f0cbf8f6d49df044b59d756889a0af3"
+    },
+    {
+      "source_key": "AAA_EVAR:76",
+      "source_fingerprint": "d1c674aa3449f0da632873f8a65491c7ba4095c2e2897915452fe6a210e9f771"
+    },
+    {
+      "source_key": "ALI:76",
+      "source_fingerprint": "d5247afa66bf32eb722bab6a7e36c074e3b9e18f8d0cfc999d486b3801464590"
+    },
+    {
+      "source_key": "CAROTID_VERTEBRAL:75",
+      "source_fingerprint": "7dcf6d67606ec55bec648885f34bc1843468f49bd2013ccba02ea16babfb7219"
+    },
+    {
+      "source_key": "THORACIC_AORTA:75",
+      "source_fingerprint": "74c8e79f82483cc646460330781157e1467a98c915532b118cdf6103e982b925"
+    },
+    {
+      "source_key": "VENOUS:75",
+      "source_fingerprint": "3c5997095348d7e9f8b740577e240196784ad25da7abe47c447c031b864ded4e"
+    },
+    {
+      "source_key": "AAA_EVAR:77",
+      "source_fingerprint": "727e45fa69bdadf9474a04fe6315bc7185096bf9de530f910b74a95c9d3fe3d5"
+    },
+    {
+      "source_key": "ALI:77",
+      "source_fingerprint": "106202eecdd7eb751d3315de8e3d9ad00c7d7ba054daa5c6b224aee4497f9d61"
+    },
+    {
+      "source_key": "CAROTID_VERTEBRAL:76",
+      "source_fingerprint": "ea4580f36b8d94b06ce4664fc415f9231c21af5819119db52a8821ca8ed7ce4f"
+    },
+    {
+      "source_key": "THORACIC_AORTA:76",
+      "source_fingerprint": "c7b75df9b21ce856ec48c6b200805be2d77493a3a9a8734998d7d82c85899dc7"
+    },
+    {
+      "source_key": "VENOUS:76",
+      "source_fingerprint": "e3b983204076306fbbd668f4e08950baa7b10aaa57c9df9eeeefe23d0c2eea23"
+    },
+    {
+      "source_key": "AAA_EVAR:78",
+      "source_fingerprint": "f3be8b6a09e6735cb58c54c57fed5dd30a60690ad7a50d40673fd2e49739d0e0"
+    },
+    {
+      "source_key": "ALI:78",
+      "source_fingerprint": "f99f4df4f8a1d0934b37c5aaaf791d700579d83abaa977468408abd3e5d663bd"
+    },
+    {
+      "source_key": "CAROTID_VERTEBRAL:77",
+      "source_fingerprint": "b5f22ec411237f8a6447566fd268a7bbc50433df63206e78da82c79dac5b4171"
+    },
+    {
+      "source_key": "THORACIC_AORTA:77",
+      "source_fingerprint": "33f5e37fe993d19d9cca4967ad2a3dd59b65ab710171e57629b0f5d10b6567c3"
+    },
+    {
+      "source_key": "VENOUS:77",
+      "source_fingerprint": "34a3c8c0505e3611635a42459f68cb3eb4b978dc70a611881d73480ce8bdec3e"
+    },
+    {
+      "source_key": "AAA_EVAR:79",
+      "source_fingerprint": "cacb38809eac2b37bd80925de341ab6458aebb32a495c8e41b070e5159d45f62"
+    },
+    {
+      "source_key": "ALI:79",
+      "source_fingerprint": "a3e1c39923ae7a7590c1fdc37ee2b10f192ea1202c7af470c97a7b56fe460ca8"
+    },
+    {
+      "source_key": "CAROTID_VERTEBRAL:78",
+      "source_fingerprint": "39806a819ef211ffcf60ca5e3e6df980d70ba7d56635ab86a1fcfe43d451f308"
+    },
+    {
+      "source_key": "THORACIC_AORTA:78",
+      "source_fingerprint": "aac5a0bfc7ba9a54415d062f7886e40aeca8b0bfe761479c1451ee03843578d0"
+    },
+    {
+      "source_key": "VENOUS:78",
+      "source_fingerprint": "538a3bd9e113a9ebafd6f50d5faafb09f659ee2f340e6072300aeeb0f230d1c2"
+    },
+    {
+      "source_key": "AAA_EVAR:80",
+      "source_fingerprint": "41e8c09285fdc920f15841e8e9ac276412394a3adf9d3c1b338da3a3c56e39b5"
+    },
+    {
+      "source_key": "ALI:80",
+      "source_fingerprint": "4ca309e74b7b6d5b4a6755d150c1a2fd7bcc20a0420445b71e4a1822da4a1774"
+    },
+    {
+      "source_key": "CAROTID_VERTEBRAL:79",
+      "source_fingerprint": "add8b2a027eb0cafb532f59ac5cae7fa02c73d438c54c7c727c932fbcb262866"
+    },
+    {
+      "source_key": "THORACIC_AORTA:79",
+      "source_fingerprint": "07b25101adbac7a0f22a70bcbf8e0b0ccff28d4b620f8537127b5e09359c507e"
+    },
+    {
+      "source_key": "VENOUS:79",
+      "source_fingerprint": "2de1a0fd574e9e21437378a9b8edc6e18bf4b77aa564108f1c083d0cfa397cb1"
+    },
+    {
+      "source_key": "AAA_EVAR:81",
+      "source_fingerprint": "5c7a386cc8cc7b5b03c7fd5dcf418057eae6417d79feebb3b6eb66be0705ab71"
+    },
+    {
+      "source_key": "ALI:81",
+      "source_fingerprint": "5c07d269ae54d5af1ee777d4743ac5bb5e3da068109493425a894f3ea43a7fc6"
+    },
+    {
+      "source_key": "CAROTID_VERTEBRAL:80",
+      "source_fingerprint": "0e662ac716c63a6af4abad870e1bfd8a48238ef308478791e7383e6deefb089d"
+    },
+    {
+      "source_key": "THORACIC_AORTA:80",
+      "source_fingerprint": "bd255cf891b56c682d66efb1df0bb10345e4fb4a264d70f2b083a6ecd10174fd"
+    },
+    {
+      "source_key": "VENOUS:80",
+      "source_fingerprint": "147c5849449bb0471747574dbd95e47e493c50b70191b45f10c23fd9916aa7cd"
+    },
+    {
+      "source_key": "AAA_EVAR:82",
+      "source_fingerprint": "2eb2d844279b02c2eb17cdeacc1b94164fa8917bb983ce27e64ba2138e0d51ec"
+    },
+    {
+      "source_key": "ALI:82",
+      "source_fingerprint": "0f2540a772ee5127c32b35ea93c95fdd5cdd999135f0df125803a6ea99b8117c"
+    },
+    {
+      "source_key": "CAROTID_VERTEBRAL:81",
+      "source_fingerprint": "82168037ae0143dcbc9f05fec63489374a5f3d1e99e3eafd9a8b512372168a14"
+    },
+    {
+      "source_key": "THORACIC_AORTA:81",
+      "source_fingerprint": "c42547002c5493982e002b72ca562089ecaecfd57be8e3215c45e3181f195c48"
+    },
+    {
+      "source_key": "VENOUS:81",
+      "source_fingerprint": "d8d2aef57a3f20cb0b8ea3ab11f9740d119811cb44beeee3b891cb5ea015d81b"
+    },
+    {
+      "source_key": "AAA_EVAR:83",
+      "source_fingerprint": "bf3a757a1ed7d18975edcb4af68f6293ff6c844caf6fb7bd9e2f60dcbdfbd2c1"
+    },
+    {
+      "source_key": "ALI:83",
+      "source_fingerprint": "f09ec1043d3ea67b702569cb6a3400e3968c6f3af68337a4b86e158b4bb467cb"
+    },
+    {
+      "source_key": "CAROTID_VERTEBRAL:82",
+      "source_fingerprint": "6c8fbcb55f940705e923e32e757470eeba99c72e008c7ba416302a740e49fe3c"
+    },
+    {
+      "source_key": "THORACIC_AORTA:82",
+      "source_fingerprint": "f76b72960e8fcec6cef019be5af9154284120724c74d57bbf8eafd2fe25497ec"
+    },
+    {
+      "source_key": "VENOUS:82",
+      "source_fingerprint": "c067fea2f707437ae37a6ce54d4ea6b2de170b790cd695b78c6b724cd697f404"
+    },
+    {
+      "source_key": "AAA_EVAR:84",
+      "source_fingerprint": "b91d0ec98d96271ad1a2c3ac6300c75c98a975fb9871e8240b75a2d778ce8529"
+    },
+    {
+      "source_key": "ALI:84",
+      "source_fingerprint": "85a3b1556da3bd0ed68761140f5136dc3034d50677ae46e0d86c6cd674e7915e"
+    },
+    {
+      "source_key": "CAROTID_VERTEBRAL:83",
+      "source_fingerprint": "432240fb85573491f98ec2ad85210deaa2644cfde8ddc16ec3ba88b485d44902"
+    },
+    {
+      "source_key": "THORACIC_AORTA:83",
+      "source_fingerprint": "e9735035089b0985518940c6a8b0ef32095df115a38ce3d8bbec4352b085e25a"
+    },
+    {
+      "source_key": "VENOUS:83",
+      "source_fingerprint": "316cd363924e42badaf853a4951c89944da2ef6e0022c96505bde97ce100ea8e"
+    },
+    {
+      "source_key": "AAA_EVAR:85",
+      "source_fingerprint": "a563d8801d5a5f2c6a7ec6088cba110c6eba5f408787f3253249f4dd97adb21e"
+    },
+    {
+      "source_key": "ALI:85",
+      "source_fingerprint": "ef79b8c2861383163fdbcd5fb2e03b0cbbb08913794dd8f1e0b6de759e95b03a"
+    },
+    {
+      "source_key": "CAROTID_VERTEBRAL:84",
+      "source_fingerprint": "9d64e5a1ce978ae346e2117c566d7b0d7cf45a37776736eb51dbb494f3dcbd43"
+    },
+    {
+      "source_key": "THORACIC_AORTA:84",
+      "source_fingerprint": "0e2a917f133326b57bee4e706db41952ad653297b396fe3c665f4a4c6a82d307"
+    },
+    {
+      "source_key": "VENOUS:84",
+      "source_fingerprint": "3f6258755faad5ba936a9652a2a2ebaeda5b93153f20b32c9e4a0ba6dd009174"
+    },
+    {
+      "source_key": "AAA_EVAR:86",
+      "source_fingerprint": "3b57977c830904cbaf7af7f0a6ea2a8e6b1cf12f24801435a163b8705e512122"
+    },
+    {
+      "source_key": "ALI:86",
+      "source_fingerprint": "e634031fb70ce1faca16cdee7ff0f13fdd0a54f257de536aa89e92b222d2c129"
+    },
+    {
+      "source_key": "CAROTID_VERTEBRAL:85",
+      "source_fingerprint": "5375190faa3c7243778821f48197a72ecd05ada74a198ced18c24c79d4fc5dfa"
+    },
+    {
+      "source_key": "THORACIC_AORTA:85",
+      "source_fingerprint": "22a900a9fc993365539b5da5d7b2ffb2c29e9b9b544065b88b4e1c781c982a52"
+    },
+    {
+      "source_key": "VENOUS:85",
+      "source_fingerprint": "223051b4db9e6240412c291036d3509a2315755c85d09a1c240b79ee849f8c25"
+    },
+    {
+      "source_key": "AAA_EVAR:87",
+      "source_fingerprint": "2214b8f491334d7dc1f4603ceaf89a376f5b20d3cd9b51ef0a6cef19f8e645ea"
+    },
+    {
+      "source_key": "ALI:87",
+      "source_fingerprint": "07c849ccd50c05af742fba02d9e5d973eff0e58aff3bc5dc661ca5bb5f259195"
+    },
+    {
+      "source_key": "CAROTID_VERTEBRAL:86",
+      "source_fingerprint": "4b97d5e0e47ab546d6b938d4576cf32952d3c15101cbee46832b31dcf29b0a1a"
+    },
+    {
+      "source_key": "THORACIC_AORTA:86",
+      "source_fingerprint": "5b7b699ade5cdeaf4871d6db5e45bef6a855f99c4ae41e5ed0740e39533cb5bd"
+    },
+    {
+      "source_key": "VENOUS:86",
+      "source_fingerprint": "7ae30b13a945a0d5931da0bcee94c68f7f5964df2679561405260eec35ce4356"
+    },
+    {
+      "source_key": "ALI:88",
+      "source_fingerprint": "3bff45df8e6bf10b77bcb7723d9e53bd9c686204b1f8480e1c34237224f8f549"
+    },
+    {
+      "source_key": "CAROTID_VERTEBRAL:87",
+      "source_fingerprint": "35a55d8ca98050665adbb3502f1d1e4ebfecb1edc6ee3862152a13c808716c98"
+    },
+    {
+      "source_key": "THORACIC_AORTA:87",
+      "source_fingerprint": "38f39f3a05cdadf033eb626d816a19dae00a3c0ec8b1e36cd812724d275edef6"
+    },
+    {
+      "source_key": "VENOUS:87",
+      "source_fingerprint": "9bd3a768ec6af31a3358816cfa3a85b22c431ae0b13af9b09769911b33851cb6"
+    },
+    {
+      "source_key": "ALI:89",
+      "source_fingerprint": "b2ba403007913439a1b0eb68fa3e8a23bdb992823f13fa16a9ed75e5fcf1fb17"
+    },
+    {
+      "source_key": "ALI:90",
+      "source_fingerprint": "a98c70e7959634fce6aea1f4430d25ec2ddae57e91ef8d32e7ddfb61eafd2620"
+    },
+    {
+      "source_key": "ALI:91",
+      "source_fingerprint": "ecc6f4c816ea5d13177f1e9589e780ac1a36c43b196f6bdb1f09dd437a3f56c6"
+    },
+    {
+      "source_key": "ALI:92",
+      "source_fingerprint": "6b7a1f764bbc2c38b7cfe19ff8ce279a9b6aa585ebf8e165065fb3933ad9d08f"
+    },
+    {
+      "source_key": "ALI:93",
+      "source_fingerprint": "faf13a795e151cd62859e6c1721f2b9cf7b4a127934c7387cf7aea86cbae8a91"
+    },
+    {
+      "source_key": "ALI:94",
+      "source_fingerprint": "6a66a1e4af2e5f046f91cd8a1bc417a14a8b4fa66f5ad1314cec9936bbef4207"
+    },
+    {
+      "source_key": "ALI:95",
+      "source_fingerprint": "c416958669cdfcbf351852a83096dd925f389eaced5e39f1bb2c35a68d274fe0"
+    },
+    {
+      "source_key": "ALI:96",
+      "source_fingerprint": "e3e8bbd6f1495c939a703a2ff1714543486b32fa481f3285d79058177077d205"
+    },
+    {
+      "source_key": "ALI:97",
+      "source_fingerprint": "df47d18edd4c23d465670a812546a91eb76aab01a866646768b28d65ed569e6e"
+    },
+    {
+      "source_key": "AAA_EVAR:45",
+      "source_fingerprint": "7a20c22bf84a51b481ed6da2161246910d8e3b537caf93ca75cf3ac37d479fd5"
+    },
+    {
+      "source_key": "AAA_EVAR:65",
+      "source_fingerprint": "aaea4510c631ee7940285f498704467d1723fdd8b90f725965f229a4d6aa1d89"
+    },
+    {
+      "source_key": "ALI:15",
+      "source_fingerprint": "bdb78d0c462f7f8829e9c1e85c082e7812a06d10f495826535353cfa5b9d3db5"
+    },
+    {
+      "source_key": "ALI:21",
+      "source_fingerprint": "30e0bc8379a7092e6590f2d419b2e2527b9032e729cc86787d43f72ebe13ffdb"
+    },
+    {
+      "source_key": "ALI:35",
+      "source_fingerprint": "790dc9a260b1f9877279b70ec93fb6ee6dded39ce00b738a7bacd3ff8cb88bd6"
+    },
+    {
+      "source_key": "ALI:48",
+      "source_fingerprint": "3a30e057ede35bbd6a00755b973b3a4a03b5de1e46dcb7b8592b6b1d809f3b12"
+    },
+    {
+      "source_key": "ALI:59",
+      "source_fingerprint": "051c155622ed55297faf8518417b1ed5bc411f13d31aa8f9f0a09306dd272e29"
+    },
+    {
+      "source_key": "ALI:61",
+      "source_fingerprint": "f882aae8747a27dca62ca0f8127d205db807610841819a58b630917e29ef6a6c"
+    },
+    {
+      "source_key": "ALI:65",
+      "source_fingerprint": "17b584a72e946a1b06093be3540ca901f904c1c4b6b806259a8252288ea6cb52"
+    },
+    {
+      "source_key": "THORACIC_AORTA:5",
+      "source_fingerprint": "baed6d91bc5aa3ed5270e120ee07aedf2908e980a108ab2558e716dd55f8bd3f"
+    },
+    {
+      "source_key": "THORACIC_AORTA:9",
+      "source_fingerprint": "c86d55af9705d0fe2359724ef463fab8ca7cea940a323de0523d98205fdfd73e"
+    },
+    {
+      "source_key": "THORACIC_AORTA:17",
+      "source_fingerprint": "85624aac2dc19ff50c7d6d67e50706410f4db192e4b42dd22d72a012b9f97340"
+    },
+    {
+      "source_key": "THORACIC_AORTA:19",
+      "source_fingerprint": "1155d568b73a62b5c55e4f4e5ff6de07f5119c33ce666f2db305040dc33014ee"
+    },
+    {
+      "source_key": "THORACIC_AORTA:54",
+      "source_fingerprint": "1c344de213f27b5147cb947d7d4dfe96c54583fec3fe568600eed6a6345d7555"
+    },
+    {
+      "source_key": "THORACIC_AORTA:62",
+      "source_fingerprint": "851a73f05ea360a4f988ed8f964727e02865a51b3367a84e435784709eccae82"
+    },
+    {
+      "source_key": "VENOUS:23",
+      "source_fingerprint": "56684fc00156ce5697507e689115c9f9a6c2d83edc2c9ce702ccac098da32b5a"
+    }
+  ],
+  "draft_notes": {
+    "AAA_EVAR:74": {
+      "source_key": "AAA_EVAR:74",
+      "evidence_ids": [
+        "AAA2024"
+      ],
+      "objective": "post_aaa_distressing_new_sexual_dysfunction_specialist_referral",
+      "clinical_reasoning": "ახალი სიმპტომი პაციენტისთვის შემაწუხებელია და მწვავე პროთეზული ან კიდურის იშემიური პრობლემა არ დადასტურდა; საჭიროა მიზეზების სპეციალიზებული შეფასება.",
+      "distractor_analysis": "ა): ასაკით ახსნა სხვა მკურნალობად ფაქტორებს უგულებელყოფს; ბ): დახმარებას უსაფუძვლოდ აყოვნებს; გ): მხოლოდ სისხლძარღვოვანი გამოსახულება მრავალფაქტორულ შეფასებას ვერ ცვლის; დ): ემპირიული პრეპარატი მიზეზისა და შესაძლო უკუჩვენებების შეფასებას ვერ ცვლის.",
+      "clinical_pearl": "აორტული რეკონსტრუქციის შემდეგ სექსუალური სიმპტომების მართვა სისხლძარღვოვან, ნერვულ, მედიკამენტურ და ფსიქოლოგიურ ფაქტორებს აერთიანებს.",
+      "qa_score": 93,
+      "review_status": "APPROVED",
+      "option_replace": {
+        "გ": "მხოლოდ მენჯის არტერიების განმეორებითი გამოსახულებითი კვლევა სხვა სპეციალიზებული შეფასების გარეშე",
+        "დ": "ერექციის გასაუმჯობესებელი პრეპარატის ემპირიული დამატება მიზეზისა და უკუჩვენებების შეფასების გარეშე"
+      },
+      "change_note": "გამავალი პროთეზის უსაფუძვლო რევიზიისა და ანტიკოაგულაციის დისტრაქტორები შეიცვალა უფრო რეალისტური არასრული შეფასებისა და ემპირიული მკურნალობის ვარიანტებით."
+    },
+    "AAA_EVAR:75": {
+      "source_key": "AAA_EVAR:75",
+      "evidence_ids": [
+        "AAA2024"
+      ],
+      "objective": "elective_aaa_start_statin_preop_continue_long_term",
+      "clinical_reasoning": "ოპერაციამდე ექვსკვირიანი დრო არსებობს და სტატინის უკუჩვენება არ არის; მიზანია ხანგრძლივი გულ-სისხლძარღვთა რისკის შემცირება.",
+      "distractor_analysis": "ა), გ): მკურნალობას მხოლოდ მოკლე პერიპროცედურულ პერიოდს უკავშირებს; დ): პირველადი პროფილაქტიკური შესაძლებლობა ინფარქტამდე გადადებულია; ე): აორტული ათეროსკლეროზული დაავადების რისკზე დაფუძნებულ ჩვენებას მხოლოდ შემდგომ ლიპიდურ მატებას უქვემდებარებს.",
+      "clinical_pearl": "სტატინი ანევრიზმის უშუალო ზომის შესამცირებლად არ ინიშნება; მისი მთავარი სარგებელი გულ-სისხლძარღვთა რისკის მართვაა.",
+      "qa_score": 94,
+      "review_status": "APPROVED"
+    },
+    "AAA_EVAR:76": {
+      "source_key": "AAA_EVAR:76",
+      "evidence_ids": [
+        "AAA2024"
+      ],
+      "objective": "pararenal_aaa_includes_renal_origins_spares_sma",
+      "clinical_reasoning": "ანევრიზმში თირკმლის ორივე სათავეა ჩართული, SMA-ის დონე კი შენარჩუნებულია.",
+      "distractor_analysis": "ა): ინფრარენალური ყელი თირკმლის სათავეებს არ მოიცავს; ბ): იუქსტარენალური ანევრიზმა სათავეებამდე მიდის მათი უშუალო ჩართვის გარეშე; დ): პარავისცერული უფრო პროქსიმალურ ვისცერულ ჩართვას გულისხმობს; ე): მოცემული გავრცელება უფრო ფართო IV ტიპის TAAA-ს არ შეესაბამება.",
+      "clinical_pearl": "იუქსტარენალური და პარარენალური ტერმინები თირკმლის სათავის უშუალო ჩართვით განასხვავეთ.",
+      "qa_score": 94,
+      "review_status": "APPROVED",
+      "text_replace": {
+        "თორაკოაბდომინურ": "თორაკოაბდომინალურ"
+      },
+      "change_note": "გასწორდა თორაკოაბდომინალური ტერმინის ფორმა; ანატომიური კლასიფიკაცია უცვლელია."
+    },
+    "AAA_EVAR:77": {
+      "source_key": "AAA_EVAR:77",
+      "evidence_ids": [
+        "AAA2024"
+      ],
+      "objective": "post_rupture_repair_hemostasis_achieved_prophylactic_lmwh",
+      "clinical_reasoning": "პაციენტი უძრავია, მაგრამ მიმდინარე სისხლდენა და მნიშვნელოვანი კოაგულოპათია აღარ აქვს; თირკმელი პროფილაქტიკურ LMWH-ს არ ზღუდავს.",
+      "distractor_analysis": "ა), ბ): ანტიაგრეგანტი ვენური თრომბოზის პროფილაქტიკურ ჰეპარინს ვერ ცვლის; გ): მწვავე VTE-ის სრული დოზისთვის ჩვენება არ არის; დ): სრული მობილიზაციის ლოდინი რისკიან უძრავ პერიოდს დაუფარავს ტოვებს.",
+      "clinical_pearl": "გასკდომილი ანევრიზმის შემდეგ ჰემოსტაზისა და თრომბოზული რისკის გადაფასება პროფილაქტიკის დროულ დაწყებას განსაზღვრავს.",
+      "qa_score": 94,
+      "review_status": "APPROVED"
+    },
+    "AAA_EVAR:78": {
+      "source_key": "AAA_EVAR:78",
+      "evidence_ids": [
+        "AAA2024"
+      ],
+      "objective": "asymptomatic_no_independent_indication_no_routine_carotid_screen_before_aaa",
+      "clinical_reasoning": "პაციენტს შესაბამისი ნევროლოგიური მოვლენა არ გადაუტანია და საძილე არტერიების კვლევის სხვა ჩვენება არ არის.",
+      "distractor_analysis": "ბ), გ): AAA-ის ოპერაციას ყველა პაციენტის კაროტიდული სკრინინგის საკმარის საფუძვლად მიიჩნევს; დ): არამიზნობრივ ინვაზიურ საწყის კვლევას ამატებს; ე): ღია მეთოდი დამოუკიდებლად სკრინინგის ჩვენებას არ ქმნის.",
+      "clinical_pearl": "შერჩევითი კაროტიდული შეფასება და ყველა AAA პაციენტის რუტინული სკრინინგი სხვადასხვა მიდგომაა.",
+      "qa_score": 94,
+      "review_status": "APPROVED"
+    },
+    "AAA_EVAR:79": {
+      "source_key": "AAA_EVAR:79",
+      "evidence_ids": [
+        "SVS_AAA2018"
+      ],
+      "objective": "uncomplicated_open_aaa_remove_routine_ng_tube_reuse_if_needed",
+      "clinical_reasoning": "პაციენტი ექსტუბირებულია, სტაბილურია და დეკომპრესიის მიმდინარე კლინიკური საფუძველი არ არსებობს.",
+      "distractor_analysis": "ა), ბ), გ): რუტინულ დატოვებას ნაწლავის ფუნქციის ნიშნების ავტომატურ ლოდინს უკავშირებს; ე): დამოუკიდებელი სიარული ზონდის საჭიროების განსაზღვრელი კრიტერიუმი არ არის.",
+      "clinical_pearl": "ნაზოგასტრალური ზონდი სიმპტომებისა და კონკრეტული დეკომპრესიული საჭიროების მიხედვით გამოიყენეთ.",
+      "qa_score": 94,
+      "review_status": "APPROVED"
+    },
+    "AAA_EVAR:80": {
+      "source_key": "AAA_EVAR:80",
+      "evidence_ids": [
+        "VGEI2020",
+        "EANM2022"
+      ],
+      "objective": "late_endograft_infection_suspicion_inconclusive_cta_fdg_pet_ct",
+      "clinical_reasoning": "ჩარევიდან სამი წელია გასული, სხვა ინფექციური წყარო არ ჩანს და CTA ეჭვს სრულად ვერ წყვეტს; საჭიროა დამატებითი მეტაბოლური გამოსახულება.",
+      "distractor_analysis": "ა): დაბალი ხარისხის ინფექციის მეტაბოლურ აქტივობას ვერ აფასებს; გ): იზოლირებული B-რეჟიმი პროთეზის ინფექციის დასადგენად საკმარისი არ არის; დ): უკვე არადამაჯერებელი CTA-ის შემდეგ უკონტრასტო CT დამატებით ფუნქციურ ინფორმაციას ვერ იძლევა; ე): სანათურის გამავლობა პერიპროთეზულ ინფექციას არ გამორიცხავს.",
+      "clinical_pearl": "ადრეულ პერიოდში სტერილურმა პოსტოპერაციულმა ანთებამ FDG-ის ცრუ დადებითი დაგროვება შეიძლება გამოიწვიოს; დრო და დაგროვების განაწილება მნიშვნელოვანია.",
+      "qa_score": 94,
+      "review_status": "APPROVED"
+    },
+    "AAA_EVAR:81": {
+      "source_key": "AAA_EVAR:81",
+      "evidence_ids": [
+        "AAA2024"
+      ],
+      "objective": "fevar_early_renal_bifurcation_insufficient_bridge_landing",
+      "clinical_reasoning": "ადრეული დაყოფა დამაკავშირებელი სტენტისთვის საკმარის ძირითად ღეროს არ ტოვებს; საჭიროა კონკრეტული სამიზნე ტოტის უსაფრთხო ჰერმეტიზაციის შეფასება.",
+      "distractor_analysis": "ა): გრძელი სწორი ღერო ფიქსაციას ჩვეულებრივ აადვილებს; ბ): მსუბუქი კალციფიკაცია სტენოზის გარეშე ასეთ მექანიკურ შეზღუდვას არ ქმნის; გ): ჩვეულებრივი სათავე თავისთავად პრობლემა არ არის; ე): საკმარისი ფიქსაციის ზონა ზომიერი დაკლაკნილობის მიუხედავად შენარჩუნებულია.",
+      "clinical_pearl": "ადრეული გაყოფა ავტომატურად ყველა რთულ ენდოვასკულურ ვარიანტს არ გამორიცხავს, მაგრამ არჩეული ფენესტრაციის გეგმას ზღუდავს.",
+      "qa_score": 94,
+      "review_status": "APPROVED"
+    },
+    "AAA_EVAR:82": {
+      "source_key": "AAA_EVAR:82",
+      "evidence_ids": [
+        "AAA2024"
+      ],
+      "objective": "large_repair_indicated_aaa_resectable_cancer_staged_evar_first",
+      "clinical_reasoning": "72 მმ AAA-ს მკურნალობის ჩვენება აქვს, სიმსივნე მწვავე გართულებას არ ქმნის და EVAR-ით სწრაფი ეტაპობრივი მართვა ტექნიკურად შესაძლებელია.",
+      "distractor_analysis": "ა): უფრო მძიმე ღია პირველ ეტაპს და ხანგრძლივ ონკოლოგიურ დაყოვნებას ამატებს; ბ): დიდი AAA ონკოლოგიური ოპერაციის დროსაც დაუმუშავებელი რჩება; გ), დ): რუტინულ ერთდროულ აორტულ-ნაწლავურ ჩარევას შერჩევითი ეტაპობრივი სტრატეგიის ნაცვლად სთავაზობს.",
+      "clinical_pearl": "ონკოლოგიური პროგნოზი, AAA-ის რეალური ჩვენება და ორივე დაავადების გადაუდებლობა თანმიმდევრობის არჩევას განსაზღვრავს.",
+      "qa_score": 94,
+      "review_status": "APPROVED"
+    },
+    "AAA_EVAR:83": {
+      "source_key": "AAA_EVAR:83",
+      "evidence_ids": [
+        "SVS_AAA2018"
+      ],
+      "objective": "stable_post_aaa_no_cad_or_bleeding_restrictive_transfusion7gdl",
+      "clinical_reasoning": "მიმდინარე სისხლდენა, ანემიური სიმპტომი და ცნობილი კორონარული დაავადება არ არის; სახელდებული SVS რეკომენდაციის რესტრიქციული ზღვარი 70 გ/ლ-ია.",
+      "distractor_analysis": "ა), ბ): საჭიროებისას ტრანსფუზიას რეკომენდებულ ზღვარზე მეტად აყოვნებს; დ), ე): მოცემული უსიმპტომო სტაბილური კონტექსტისთვის უფრო მაღალ რუტინულ ზღვარს ადგენს.",
+      "clinical_pearl": "მიმდინარე სისხლდენა, იშემია და კონკრეტული თანმხლები დაავადება ჰემოგლობინის ერთი რიცხვით არ იმართება.",
+      "qa_score": 94,
+      "review_status": "APPROVED",
+      "stem_replace": {
+        "SVS-ის მიხედვით,": "ცნობილი კორონარული დაავადება არ აქვს. SVS-ის 2018 წლის რეკომენდაციით,"
+      },
+      "change_note": "დაზუსტდა სახელდებული გაიდლაინის წელი და ცნობილი კორონარული დაავადების არქონა, რათა სხვა კლინიკური ჯგუფის ტრანსფუზიის ზღვრებთან ორაზროვნება გამოირიცხოს."
+    },
+    "AAA_EVAR:84": {
+      "source_key": "AAA_EVAR:84",
+      "evidence_ids": [
+        "AAA2024"
+      ],
+      "objective": "progressive_neck_dilation_seal6mm_no_leak_consider_endovascular_improvement",
+      "clinical_reasoning": "ყელი პროგრესულად ფართოვდება და ფუნქციური ჰერმეტიზაციის სიგრძე 10 მმ-ზე ნაკლები გახდა; ხილული ენდოლიკის არქონა ჰერმეტიზაციის საიმედოობას არ ამტკიცებს.",
+      "distractor_analysis": "ბ): გაუარესებული ჰერმეტიზაციისას ხანგრძლივი უცვლელი დაკვირვება რისკს არ აფასებს; გ): გვერდითი ტოტის ემბოლიზაცია პროქსიმალურ ზონას არ აღადგენს; დ): შესაძლებელი ენდოვასკულური გამოსავლის განხილვის გარეშე სრული ღია კონვერსია პროპორციული საწყისი არჩევანი არ არის; ე): ანტიკოაგულაცია მექანიკურ ჰერმეტიზაციას ვერ აუმჯობესებს.",
+      "clinical_pearl": "ჰერმეტიზაციის გაუარესებისას ჩარევის განხილვა ტომრის ზრდის ან ხილული ენდოლიკის დალოდებას ყოველთვის არ მოითხოვს.",
+      "qa_score": 94,
+      "review_status": "APPROVED",
+      "stem_replace": {
+        "რომელი დამატებითი ჩარევის განხილვა შეიძლება ჰერმეტიზაციის დარღვევის გამო?": "რომელი ტაქტიკის განხილვაა დასაბუთებული ჰერმეტიზაციის გაუარესების გამო?"
+      },
+      "options_override": [
+        "ჰერმეტიზაციის გაუმჯობესება უპირატესად ენდოვასკულური მეთოდით",
+        "მხოლოდ გეგმიური CTA ერთ წელიწადში დამატებითი შეფასების გარეშე",
+        "ჯორჯლის ქვემო არტერიის იზოლირებული ემბოლიზაცია",
+        "ენდოპროთეზის სრული ღია ექსპლანტაცია ენდოვასკულური შესაძლებლობის განხილვის გარეშე",
+        "სამკურნალო ანტიკოაგულაციის დამატება ჰერმეტიზაციის ჩარევის ნაცვლად"
+      ],
+      "correct_override": "ა",
+      "change_note": "დისტრაქტორები შეიცვალა მეთვალყურეობის, კონვერსიისა და არამიზნობრივი მკურნალობის რეალურ ალტერნატივებად."
+    },
+    "AAA_EVAR:85": {
+      "source_key": "AAA_EVAR:85",
+      "evidence_ids": [
+        "AAA2024"
+      ],
+      "objective": "open_aaa_early_postop_icu_or_hdu_even_uncomplicated",
+      "clinical_reasoning": "გაურთულებელი ღია ოპერაციაც ადრეულ ორგანულ და ჰემოდინამიკურ გართულებებზე ინტენსიურ დაკვირვებას მოითხოვს.",
+      "distractor_analysis": "ა): მხოლოდ პერიოდული გასინჯვა რეკომენდებულ ადრეულ დონეს ვერ უზრუნველყოფს; გ): მხოლოდ გამოღვიძების ფაზა უფრო ხანგრძლივ ადრეულ რისკს ვერ ფარავს; დ): ECG მონიტორინგი სხვა ორგანოებისა და ჰემოდინამიკის გაძლიერებულ შეფასებას ვერ ცვლის; ე): თორმეტსაათიანი ლაბორატორია საჭირო რეალურ მონიტორინგს ვერ უზრუნველყოფს.",
+      "clinical_pearl": "ექსტუბაცია და ჰემოდინამიკური სტაბილურობა ღია AAA-ის შემდეგ ადრეული გაძლიერებული დაკვირვების საჭიროებას არ აუქმებს.",
+      "qa_score": 94,
+      "review_status": "APPROVED"
+    },
+    "AAA_EVAR:86": {
+      "source_key": "AAA_EVAR:86",
+      "evidence_ids": [
+        "AAA2024"
+      ],
+      "objective": "type_iiib_fabric_defect_intact_junctions_endovascular_relining",
+      "clinical_reasoning": "ჟონვა უშუალოდ ქსოვილის დეფექტიდანაა, ხოლო შეერთებები და ჰერმეტიზაციის ორივე ზონა შენარჩუნებულია; სამიზნე სწორედ დაზიანებული ქსოვილია.",
+      "distractor_analysis": "ა): მაღალი წნევის პირდაპირ გაჟონვასა და ზრდას უყურადღებოდ ტოვებს; ბ): ტიპი II-ის ტოტოვანი წყარო არ არის; გ): დეფექტი პროქსიმალურ ჰერმეტიზაციაში არ მდებარეობს; ე): პირველივე ეტაპზე უფრო მძიმე ღია ჩარევას ირჩევს ტექნიკურად შესაძლებელი ლოკალური გადაფარვის მიუხედავად.",
+      "clinical_pearl": "IIIa-ის მოდულური დაშორება და IIIb-ის ქსოვილის დეფექტი ერთნაირი მორფოლოგია არ არის; კორექციის სამიზნე განსაზღვრეთ.",
+      "qa_score": 94,
+      "review_status": "APPROVED"
+    },
+    "AAA_EVAR:87": {
+      "source_key": "AAA_EVAR:87",
+      "evidence_ids": [
+        "AAA2024"
+      ],
+      "objective": "symptomatic_evar_limb_kink85pct_no_thrombus_reline_stent",
+      "clinical_reasoning": "სანათურს მექანიკური გადაღუნვა ავიწროებს, თრომბი კი არ არის; დისტალური არტერიებისა და ჰერმეტიზაციის პრობლემა არ ჩანს.",
+      "distractor_analysis": "ა): მოსვენების ტკივილამდე პროგრესირებულ იშემიას გადადებით მართავს; გ), დ): თრომბს მკურნალობს, რომელიც კვლევით არ არსებობს, და გადაღუნვას ტოვებს; ე): უფრო მცირე ტექნიკურად შესაძლებელ მიზნობრივ გამოსავალს უსაფუძვლოდ გამორიცხავს.",
+      "clinical_pearl": "ლიზისი ან თრომბექტომია თრომბის გარეშე მექანიკურ გადაღუნვას ვერ გაასწორებს.",
+      "qa_score": 94,
+      "review_status": "APPROVED",
+      "text_replace": {
+        "სისხლის გამათხელებელი მკურნალობა": "ანტითრომბოზული მკურნალობა"
+      },
+      "change_note": "არასპეციფიკური გამოთქმა შეიცვალა ზუსტი ანტითრომბოზული ტერმინით."
+    },
+    "ALI:74": {
+      "source_key": "ALI:74",
+      "evidence_ids": [
+        "ASH_HIT"
+      ],
+      "objective": "acute_hit_delay_vka_until_platelet_recovery150",
+      "clinical_reasoning": "იმუნური HIT ჯერ აქტიურია და თრომბოციტები 65 × 10⁹/ლ-ია; VKA-ის ადრეული დაწყება ცილა C-ის შემცირებით თრომბოზს აუარესებს.",
+      "distractor_analysis": "ა): საათების ფიქსირებული გასვლა თრომბოციტების აღდგენას არ ცვლის; ბ), გ): აქტიურ თრომბოციტოპენიას უგულებელყოფს; დ): ანტისხეულების სრული უარყოფითობა VKA-ის დაწყების აუცილებელი კრიტერიუმი არ არის.",
+      "clinical_pearl": "HIT-ში ვარფარინის დაწყებისას არაჰეპარინულ ანტიკოაგულაციასთან სათანადო გადაფარვაც დაგეგმეთ.",
+      "qa_score": 94,
+      "review_status": "APPROVED"
+    },
+    "ALI:75": {
+      "source_key": "ALI:75",
+      "evidence_ids": [
+        "PAA_SVS2022"
+      ],
+      "objective": "excluded_paa_sac_growth_compressive_symptoms_surgical_decompression",
+      "clinical_reasoning": "შუნტის გამავლობა და ABI შენარჩუნებულია, მაგრამ მზარდი ანევრიზმული ტომარა მეზობელ ვენას აწვება; მთავარი პრობლემა კომპრესიაა.",
+      "distractor_analysis": "ა): კონსერვატიული კომპრესია მზარდი ტომრის მექანიკურ მიზეზს არ აქრობს; ბ): ახალი ტკივილისა და კომპრესიული შეშუპების შეფასებას აყოვნებს; დ): შემავსებელი ნაკადის გამოთიშვა უკვე არსებულ მასურ კომპრესიას უშუალოდ ვერ ხსნის; ე): დიურეტიკი ლოკალურ ვენურ დაბრკოლებას ვერ ასწორებს.",
+      "clinical_pearl": "მუხლქვეშა ანევრიზმის გამოთიშვის შემდეგ დუპლექსით შუნტთან ერთად ტომრის ზომაც აკონტროლეთ.",
+      "qa_score": 94,
+      "review_status": "APPROVED",
+      "stem_replace": {
+        "რომელია მიზანშეწონილი ჩარევა?": "SVS-ის 2022 წლის რეკომენდაციით, რომელი ჩარევაა მიზანშეწონილი კომპრესიის შესამსუბუქებლად?"
+      },
+      "option_replace": {
+        "ა": "მხოლოდ კომპრესიული ტრიკოტაჟი ვენური შეშუპების სამართავად",
+        "ბ": "ანევრიზმის ტომრის ზომის გეგმიური გადამოწმება სამი თვის შემდეგ",
+        "დ": "შემავსებელი ტოტების ემბოლიზაცია ტომრის დეკომპრესიის გარეშე"
+      },
+      "text_replace": {
+        "ანევრიზმის პარკი": "ანევრიზმული ტომარა",
+        "ანევრიზმის პარკის": "ანევრიზმული ტომრის",
+        "ანევრიზმის პარკში": "ანევრიზმულ ტომარაში"
+      },
+      "change_note": "დაზუსტდა კომპრესიის მკურნალობის სახელდებული რეკომენდაცია; გამავალი შუნტის უსაფუძვლო ლიზისი/თრომბექტომია შეიცვალა რეალური კონსერვატიული და ტოტოვანი მკურნალობის ალტერნატივებით."
+    },
+    "ALI:76": {
+      "source_key": "ALI:76",
+      "evidence_ids": [
+        "RHABDO2022"
+      ],
+      "objective": "rhabdomyolysis_early_asymptomatic_hypocalcemia_no_routine_replacement",
+      "clinical_reasoning": "იონიზებული კალციუმი ზომიერად დაბალია, მაგრამ არც სიმპტომია, არც ECG ცვლილება და არც მძიმე ჰიპერკალიემია.",
+      "distractor_analysis": "ა), ბ), გ), დ): ასიმპტომურ ადრეულ ჰიპოკალციემიას რუტინულად მკურნალობს კალციუმის ქსოვილში დეპონირებისა და შემდგომი ჰიპერკალციემიის რისკის მიუხედავად.",
+      "clinical_pearl": "რაბდომიოლიზში მძიმე ჰიპერკალიემიის კარდიოტოქსიკურობა კალციუმის გადაუდებელი გამოყენების ცალკე საფუძველია.",
+      "qa_score": 94,
+      "review_status": "APPROVED"
+    },
+    "ALI:77": {
+      "source_key": "ALI:77",
+      "evidence_ids": [
+        "BSH_THROMBOPHILIA2022"
+      ],
+      "objective": "unexplained_arterial_thrombosis_erythrocytosis_thrombocytosis_jak2_mpn",
+      "clinical_reasoning": "ხანგრძლივი ერითროციტოზი, თრომბოციტოზი და სპლენომეგალია კლონურ მიელოპროლიფერაციულ პროცესს ამყარებს.",
+      "distractor_analysis": "ბ), გ): მემკვიდრეობით ვენურ თრომბოფილიას იკვლევს და მოცემულ სისხლის უჯრედულ სურათს ვერ ხსნის; დ), ე): მწვავე თრომბოზში ინტერპრეტაცია შეიძლება შეიზღუდოს და ამ MPN ეჭვის მიზნობრივ კვლევას ვერ ცვლის.",
+      "clinical_pearl": "MPN-ის მოლეკულური ტესტი ჰემატოლოგიურ და საჭიროებისას ძვლის ტვინის შეფასებასთან ერთად ინტერპრეტირდება.",
+      "qa_score": 94,
+      "review_status": "APPROVED"
+    },
+    "ALI:78": {
+      "source_key": "ALI:78",
+      "evidence_ids": [
+        "ALI2020",
+        "GVG2019"
+      ],
+      "objective": "persistent_flow_limiting_postangioplasty_dissection_bailout_stent",
+      "clinical_reasoning": "ბალონის გახანგრძლივებული გაბერვის მიუხედავად ნაკადის შემზღუდველი ინტიმური ფურცელი რჩება; გამტარი სწორ სანათურშია.",
+      "distractor_analysis": "ა): მექანიკური ინტიმური დეფექტი თრომბოლიზით არ სწორდება; ბ): მწვავე ნაკადის შეზღუდვას მოუგვარებლად ტოვებს; გ): ანტიკოაგულაცია კედლის ფურცელს ვერ აფიქსირებს; ე): შესაძლებელი მიზნობრივი ენდოვასკულური კორექციის შეფასების გარეშე უფრო მძიმე ოპერაციას ირჩევს.",
+      "clinical_pearl": "დისექციის მნიშვნელობა მხოლოდ მისი ხილვით კი არა, დისტალურ ნაკადზე ზემოქმედებითაც ფასდება.",
+      "qa_score": 94,
+      "review_status": "APPROVED",
+      "option_replace": {
+        "ე": "ღია შუნტირება სტენტით კორექციის შესაძლებლობის განხილვის გარეშე"
+      },
+      "change_note": "არტერიის უმიზეზო ემბოლიზაციის დისტრაქტორი შეიცვალა ღია რეკონსტრუქციის რეალური ალტერნატივით."
+    },
+    "ALI:79": {
+      "source_key": "ALI:79",
+      "evidence_ids": [
+        "GVG2019"
+      ],
+      "objective": "asymptomatic_vein_bypass_psv380_ratio41_preemptive_stenosis_revision",
+      "clinical_reasoning": "ახალი ფოკალური დაზიანების PSV 300 სმ/წმ-ზე მეტია და შეფარდება 3,5-ს აღემატება; შუნტი ჯერ შენარჩუნებულია, რაც პრევენციულ კორექციას შესაძლებელს ხდის.",
+      "distractor_analysis": "ა): მაღალი რისკის სტენოზისთვის ერთწლიანი მოცდა მეტისმეტად გრძელია; გ): მექანიკურ დაზიანებას არ მკურნალობს; დ): შუნტი არ არის თრომბოზირებული; ე): სიმპტომის ან თრომბოზის ლოდინი გამავლობის შენარჩუნების შესაძლებლობას კარგავს.",
+      "clinical_pearl": "სიმპტომების არქონა მაღალი რისკის აუტოვენური შუნტის დაზიანების უვნებლობას არ ნიშნავს.",
+      "qa_score": 94,
+      "review_status": "APPROVED"
+    },
+    "ALI:80": {
+      "source_key": "ALI:80",
+      "evidence_ids": [
+        "ALI2020"
+      ],
+      "objective": "selected_femoral_embolectomy_local_anesthesia_anesthetist_present",
+      "clinical_reasoning": "მოკლე ერთსაზარდულიანი ჩარევა და თანამშრომლობა ადგილობრივ ანესთეზიას შესაძლებელს ხდის; მძიმე COPD ზოგადი ანესთეზიის რისკს ზრდის.",
+      "distractor_analysis": "ა): ადეკვატურ ადგილობრივ გაუტკივარებას არ უზრუნველყოფს; ბ): ESVS-ის მოთხოვნილ საოპერაციო მხარდაჭერას გამოტოვებს; დ): ფილტვის სრული ნორმალიზების ლოდინი გადასარჩენ კიდურს ემუქრება; ე): ემბოლექტომიის ერთადერთ მეთოდად ზოგად ანესთეზიას მცდარად აცხადებს.",
+      "clinical_pearl": "ადგილობრივი გაუტკივარება რეპერფუზიისას შესაძლო არითმიისა და ჰემოდინამიკური დარღვევის მართვის მზადყოფნას არ აუქმებს.",
+      "qa_score": 94,
+      "review_status": "APPROVED",
+      "stem_replace": {
+        "რომელი ანესთეზიოლოგიური გეგმა შეიძლება განიხილებოდეს?": "ESVS-ის 2020 წლის გაიდლაინით, რომელი ანესთეზიოლოგიური გეგმა შეიძლება განიხილებოდეს?"
+      },
+      "change_note": "დასახელდა ადგილობრივი ანესთეზიისა და ანესთეზიოლოგის მუდმივი მონაწილეობის განმსაზღვრელი რეკომენდაცია."
+    },
+    "ALI:81": {
+      "source_key": "ALI:81",
+      "evidence_ids": [
+        "ALI2020"
+      ],
+      "objective": "aortic_bifurcation_embolectomy_contralateral_iliac_balloon_protection",
+      "clinical_reasoning": "თრომბი ბიფურკაციას აღწევს და ამოღებისას მისი ნაწილი მეორე თეძოს არტერიაში შეიძლება გადავიდეს.",
+      "distractor_analysis": "ა): საპირისპირო სათავის ბალონი მარცხენა სისხლდენის გასაძლიერებლად არ გამოიყენება; გ): ბალონი თირკმლის არტერიების დონეზე არ დგას; დ): ეს დამცავი ოკლუზიაა და არა მარცხენა სტენოზის დილატაცია; ე): წვივის ვაზოსპაზმს არ მკურნალობს.",
+      "clinical_pearl": "ბიფურკაციასთან ემბოლექტომიისას უკვე გამავალი მეორე კიდურის დაცვაც დაგეგმეთ.",
+      "qa_score": 94,
+      "review_status": "APPROVED"
+    },
+    "ALI:82": {
+      "source_key": "ALI:82",
+      "evidence_ids": [
+        "ALI2020"
+      ],
+      "objective": "small_below_knee_popliteal_longitudinal_arteriotomy_patch_prevent_narrowing",
+      "clinical_reasoning": "ვიწრო ქვემუხლქვეშა არტერიის გრძივი განაკვეთის პირდაპირი ნაკერი სანათურს შეიძლება ამცირებდეს; ნაფლეთი დიამეტრს ინარჩუნებს.",
+      "distractor_analysis": "ა): დისტალური ემბოლიის მექანიზმს უშუალოდ არ აკონტროლებს; ბ): კომპარტმენტული წნევის ზრდას ნაფლეთი არ უშლის; გ): მეზობელი ვენის თრომბოზის სპეციფიკური პროფილაქტიკა არ არის; დ): პროქსიმალური დისექციის პრევენციის ძირითადი ღონისძიება სხვა ტექნიკურ საკითხს ეხება.",
+      "clinical_pearl": "არტერიოტომიის ორიენტაცია და დახურვის მეთოდი არტერიის კალიბრს მოარგეთ.",
+      "qa_score": 94,
+      "review_status": "APPROVED"
+    },
+    "ALI:83": {
+      "source_key": "ALI:83",
+      "evidence_ids": [
+        "ADVENTITIAL_CYST_PRIMARY"
+      ],
+      "objective": "popliteal_multiloculated_adventitial_cyst_mri_no_entrapment",
+      "clinical_reasoning": "MRI-ზე არტერიის გარე შრეში სითხის შემცველი მრავალკამერიანი წარმონაქმნია; კუნთოვანი ურთიერთმდებარეობა ნორმალურია.",
+      "distractor_analysis": "ა): კუნთოვანი ანომალია ან დინამიკური კომპრესია არ დასტურდება; ბ): სანათურის ჭეშმარიტი გაფართოება არ არის აღწერილი; გ): მყარი ფოლაქი მრავალკამერიანი ადვენტიციური სითხისგან განსხვავდება; ე): კედლის ფურცელი და ორმაგი სანათური არ ჩანს.",
+      "clinical_pearl": "ახალგაზრდა პაციენტის არათეროსკლეროზული მუხლქვეშა დაზიანებისას ადვენტიციური კისტა და კუნთოვანი ზეწოლის სინდრომი განასხვავეთ.",
+      "qa_score": 94,
+      "review_status": "APPROVED"
+    },
+    "ALI:84": {
+      "source_key": "ALI:84",
+      "evidence_ids": [
+        "APIXABAN_LABEL"
+      ],
+      "objective": "nonvalvular_af_apixaban_age81_weight58_two_criteria25bid",
+      "clinical_reasoning": "ასაკი ≥80 წელი და წონა ≤60 კგ დოზის შემცირების სამი კრიტერიუმიდან ორს უკვე აკმაყოფილებს, თირკმლის ფუნქციის ნორმის მიუხედავად.",
+      "distractor_analysis": "ა), გ): დღეში ერთხელ მიღება AF-ის აპიქსაბანის სქემა არ არის; დ): ორი შემცირების კრიტერიუმის მიუხედავად სტანდარტულ დოზას ტოვებს; ე): მწვავე VTE-ის საწყისი ინტენსიური დოზაა და AF-ის ამ პრევენციისთვის არ გამოიყენება.",
+      "clinical_pearl": "AF-ის აპიქსაბანის დოზის შემცირების წესი და მწვავე DVT/PE-ის საწყისი დოზა ერთმანეთში არ აურიოთ.",
+      "qa_score": 94,
+      "review_status": "APPROVED",
+      "options_override": [
+        "2,5 მგ დღეში ერთხელ",
+        "2,5 მგ დღეში ორჯერ",
+        "5 მგ დღეში ერთხელ",
+        "5 მგ დღეში ორჯერ",
+        "10 მგ დღეში ორჯერ"
+      ],
+      "correct_override": "ბ",
+      "change_note": "დოზები დალაგდა ზრდადობით; სწორი AF-ის შემცირებული დოზა კვლავ 2,5 მგ ორჯერაა."
+    },
+    "ALI:85": {
+      "source_key": "ALI:85",
+      "evidence_ids": [
+        "IATROGENIC_AVF_PRIMARY"
+      ],
+      "objective": "postpuncture_avf_continuous_bruit_arterialized_venous_waveform",
+      "clinical_reasoning": "ვენაში მაღალი სიჩქარის პულსირებადი ნაკადი და მომტან არტერიაში მომატებული დიასტოლური ნაკადი დაბალი რეზისტენტობის არტერიოვენურ კავშირს აჩვენებს.",
+      "distractor_analysis": "ა): ფსევდოანევრიზმას ყელი და პარკის ნაკადი ახასიათებს და მარტო ვენის არტერიალიზაციას ვერ ხსნის; ბ): იზოლირებული ვენური თრომბოზი ასეთ ნაკადს არ წარმოქმნის; დ): ჰემატომა მუდმივ სისხლძარღვოვან შერთულს არ ქმნის; ე): არტერიული დისექცია ვენაში არტერიულ პულსაციას არ წარმოქმნის.",
+      "clinical_pearl": "შუილის ხანგრძლივობა და ვენური სპექტრის არტერიალიზაცია პუნქციური AVF-ის ძლიერი ნიშნებია.",
+      "qa_score": 94,
+      "review_status": "APPROVED"
+    },
+    "ALI:86": {
+      "source_key": "ALI:86",
+      "evidence_ids": [
+        "PAD2024_DIAG"
+      ],
+      "objective": "diabetes_ckd_abi158_false_elevation_noncompressible_arteries",
+      "clinical_reasoning": "დიაბეტი და CKD კედლის კალციფიკაციის ფონს ქმნის; მაღალი ABI კლინიკურ სიცივესა და მონოფაზურ ნაკადს ეწინააღმდეგება.",
+      "distractor_analysis": "ა): კლინიკურ ცივ იშემიურ ტერფსა და მონოფაზურ ნაკადს ვერ ხსნის; ბ): სრული კოლატერალური აღდგენა მიმდინარე დეფიციტს ეწინააღმდეგება; გ): ვენური შეგუბება არაკომპრესირებად არტერიულ წნევას ვერ ხსნის; ე): ვაზოსპაზმი რეალურ დისტალურ წნევას ჩვეულებრივ არ ზრდის.",
+      "clinical_pearl": "არაკომპრესირებადი არტერიის მაღალი ABI ადეკვატური პერფუზიის გარანტია არ არის.",
+      "qa_score": 93,
+      "review_status": "APPROVED"
+    },
+    "ALI:87": {
+      "source_key": "ALI:87",
+      "evidence_ids": [
+        "MYXOMA_EMBOLUS_PRIMARY"
+      ],
+      "objective": "gelatinous_arterial_embolus_pedunculated_la_fossa_ovalis_myxoma",
+      "clinical_reasoning": "ემბოლუსი ქსოვილოვანია, ხოლო LA-ის მოძრავი წარმონაქმნი ძგიდის ოვალური ფოსოს მიდამოს ფეხით უკავშირდება.",
+      "distractor_analysis": "ბ): ყურის თრომბის ტიპური მიმაგრება და მორფოლოგია განსხვავდება; გ): ვეგეტაცია სარქველზეა მოსალოდნელი; დ): პარკუჭში მდებარეობს და არა წინაგულთაშუა ძგიდეზე; ე): აორტის კედლის წყაროა და მოცემულ წინაგულოვან წარმონაქმნს ვერ ხსნის.",
+      "clinical_pearl": "უჩვეულო ქსოვილოვანი ემბოლუსი ჰისტოლოგიურად შეისწავლეთ; მხოლოდ ემბოლექტომია გულის სიმსივნურ წყაროს არ მკურნალობს.",
+      "qa_score": 94,
+      "review_status": "APPROVED"
+    },
+    "ALI:88": {
+      "source_key": "ALI:88",
+      "evidence_ids": [
+        "ALI2020"
+      ],
+      "objective": "cdt_no_angiographic_improvement12h_reconsider_strategy",
+      "clinical_reasoning": "კათეტერი მუშაობს, მაგრამ 12 საათში კონტროლით თრომბის ლიზისის პროგრესი არ ჩანს; ეს მკურნალობის ეფექტურობის პრობლემაა.",
+      "distractor_analysis": "ა), დ): სტაბილურობა უსაფრთხოებას ეხება და ლიზისის ეფექტს არ ადასტურებს; ბ): გამავალი კათეტერი თრომბის დაშლას არ ნიშნავს; გ): შენარჩუნებული მოძრაობა მხოლოდ სიცოცხლისუნარობას აფასებს და არაეფექტურ ინფუზიას განუსაზღვრელად ვერ ამართლებს.",
+      "clinical_pearl": "CDT-ის გაგრძელებისას უსაფრთხოებაც და ოკლუზიის რეალური დინამიკაც შეაფასეთ.",
+      "qa_score": 94,
+      "review_status": "APPROVED"
+    },
+    "ALI:89": {
+      "source_key": "ALI:89",
+      "evidence_ids": [
+        "ALI2020"
+      ],
+      "objective": "initial_ali_ufh_bolus5000_or70_100_unitskg",
+      "clinical_reasoning": "5 000 ერთეული 70 კგ-ზე დაახლოებით 71 ერთეული/კგ-ია და ESVS-ის აღწერილ 70–100 ერთეული/კგ ალტერნატივასაც შეესაბამება.",
+      "distractor_analysis": "ა), ბ): მითითებულ ჩვეულებრივ საწყის ბოლუსზე დაბალია; დ), ე): ამ წონაზე 100 ერთეული/კგ-ს მნიშვნელოვნად აღემატება.",
+      "clinical_pearl": "ჰეპარინის საწყისი ბოლუსის შემდეგ ინფუზია და მონიტორინგი კლინიკურ გარემოებასა და ადგილობრივ პროტოკოლს მოარგეთ.",
+      "qa_score": 94,
+      "review_status": "APPROVED"
+    },
+    "ALI:90": {
+      "source_key": "ALI:90",
+      "evidence_ids": [
+        "PAD2024_ALI",
+        "ALI2020"
+      ],
+      "objective": "irreversible_muscle_reperfusion_potassium_acid_washout_collapse",
+      "clinical_reasoning": "ფიქსირებული რიგიდობა და სრული ანესთეზია შეუქცევად კუნთოვან დაზიანებაზე მიუთითებს; რეპერფუზიამ დაგროვილი მეტაბოლიტები სისტემურად შეიძლება გამორეცხოს.",
+      "distractor_analysis": "ა): ვენური თრომბის მობილიზაცია სხვა მექანიზმია; გ): კორონარული ფოლაქის პირველადი გასკდომა ამ უშუალო რეპერფუზიულ მექანიზმს არ წარმოადგენს; დ): არტერიის გასკდომა მეტაბოლურ კოლაფსს არ უდრის; ე): ინფიცირებული ქსოვილი შეიძლება დამატებით საშიში იყოს, მაგრამ აღწერილ უშუალო მეტაბოლურ მექანიზმს ვერ ცვლის.",
+      "clinical_pearl": "შეუქცევადი კიდურის ამპუტაციის გადაწყვეტილება სიცოცხლის დაცვასაც ემსახურება.",
+      "qa_score": 94,
+      "review_status": "APPROVED"
+    },
+    "ALI:91": {
+      "source_key": "ALI:91",
+      "evidence_ids": [
+        "ALI2020",
+        "PAD2024_ALI"
+      ],
+      "objective": "ten_hour_ali_collaterals_iia_viable_not_time_alone_amputation",
+      "clinical_reasoning": "მოძრაობა შენარჩუნებულია, მგრძნობელობა მხოლოდ თითებზეა დარღვეული და ფიქსირებული რიგიდობა არ არის; კლინიკურად კიდური ჯერ გადასარჩენია.",
+      "distractor_analysis": "ა): საათების რაოდენობა შეუქცევადობის ერთადერთი კრიტერიუმი არ არის; ბ): გადასარჩენი კიდურის მკურნალობას ამპუტაციის დალოდებით ცვლის; დ): მოტორულ გაუარესებას ელოდება; ე): გადაუდებელ რისკს ამბულატორიულად აჭიანურებს.",
+      "clinical_pearl": "ქრონიკული კოლატერალები დროისადმი ტოლერანტობას ცვლის; მწვავე სიცოცხლისუნარობა უშუალოდ გასინჯვით ფასდება.",
+      "qa_score": 94,
+      "review_status": "APPROVED"
+    },
+    "ALI:92": {
+      "source_key": "ALI:92",
+      "evidence_ids": [
+        "TIBIAL_ANATOMY"
+      ],
+      "objective": "deep_posterior_compartment_tibial_nerve_posterior_tibial_artery",
+      "clinical_reasoning": "ღრმა უკანა კომპარტმენტის ნერვ-სისხლძარღვოვანი კონა წვივის ნერვსა და დიდი წვივის უკანა არტერიას მოიცავს.",
+      "distractor_analysis": "ბ): წინა კომპარტმენტის კონაა; გ): საერთო მცირე წვივის ნერვი ღრმა უკანა კომპარტმენტის ამ არტერიულ კონას არ ახლავს; დ): ბარძაყის პროქსიმალურ მიდამოს აღწერს; ე): ზედაპირული მცირე წვივის ნერვი ლატერალურ კომპარტმენტშია.",
+      "clinical_pearl": "ღრმა უკანა კომპარტმენტის სრულ გახსნასთან ერთად ნერვ-სისხლძარღვოვანი კონის დაცვაც მნიშვნელოვანია.",
+      "qa_score": 94,
+      "review_status": "APPROVED",
+      "text_replace": {
+        "წვივის უკანა არტერია": "დიდი წვივის უკანა არტერია",
+        "წვივის წინა არტერია": "დიდი წვივის წინა არტერია"
+      },
+      "change_note": "არტერიების სახელწოდებები შეთანხმდა დიდ წვივის წინა/უკანა არტერიების გლოსარიუმთან."
+    },
+    "ALI:93": {
+      "source_key": "ALI:93",
+      "evidence_ids": [
+        "ALI2020"
+      ],
+      "objective": "ali_no_local_revascularization_no_systemic_iv_lysis_transfer_ufh",
+      "clinical_reasoning": "კიდური გადასარჩენია და ცენტრში გადაყვანა უკვე შეთანხმებულია; ადგილობრივი სისტემური IV ლიზისი კათეტერით მიმართულ რევასკულარიზაციას ვერ ცვლის.",
+      "distractor_analysis": "ა), ბ), გ): ALI-ისთვის არარეკომენდებულ სისტემურ თრომბოლიზს სთავაზობს და გადაყვანას აყოვნებს; ე): ვარფარინის ეფექტი გადაუდებელი მართვისთვის ზედმეტად გვიან ვითარდება.",
+      "clinical_pearl": "კათეტერით მიმართული და სისტემური ინტრავენური თრომბოლიზის ჩვენებები ერთმანეთში არ გადაიტანოთ.",
+      "qa_score": 94,
+      "review_status": "APPROVED"
+    },
+    "ALI:94": {
+      "source_key": "ALI:94",
+      "evidence_ids": [
+        "ALI2020"
+      ],
+      "objective": "failed_endo_long_occlusion_salvageable_iib_suitable_targets_open_bypass",
+      "clinical_reasoning": "გადასარჩენი კიდურია მოტორული დეფიციტით; ენდოვასკულური წარუმატებლობის მიუხედავად ვარგისი შემოდინება, მიმღები არტერია და კონდუიტი არსებობს.",
+      "distractor_analysis": "ა): უშუალოდ საფრთხეში მყოფ კიდურში საჭირო აღდგენას აყოვნებს; გ): სისტემური ლიზისი არ არის შესაბამისი შემცვლელი; დ): ერთი მეთოდის წარუმატებლობა სიცოცხლისუნარიანი კიდურის ამპუტაციის ავტომატური საფუძველი არ არის; ე): სიმპათექტომია დიდ არტერიულ ოკლუზიას ვერ უვლის გვერდს.",
+      "clinical_pearl": "ენდოვასკულური და ღია შესაძლებლობები ერთიან სამაშველო გეგმაში შეაფასეთ.",
+      "qa_score": 94,
+      "review_status": "APPROVED"
+    },
+    "ALI:95": {
+      "source_key": "ALI:95",
+      "evidence_ids": [
+        "EZETIMIBE_LABEL",
+        "PAD2024_STATIN"
+      ],
+      "objective": "ezetimibe_addon_mechanism_intestinal_npc1l1_absorption",
+      "clinical_reasoning": "მაქსიმალური სტატინის ფონზე LDL მაღალი რჩება; ეზეტიმიბი სხვა გზაზე მოქმედებს და ნაწლავიდან ქოლესტერინის შეწოვას ამცირებს.",
+      "distractor_analysis": "ა): ფიბრატების ძირითადი მექანიზმია; ბ): სტატინის მექანიზმს აღწერს; გ): PCSK9-ის ინჰიბიტორებს შეესაბამება; დ): ომეგა-3-ის ტრიგლიცერიდულ მოქმედებას აღწერს.",
+      "clinical_pearl": "მაქსიმალურ სტატინზე ეზეტიმიბის დამატება კომპლემენტურ მოქმედებას იყენებს; პრეპარატები ერთსა და იმავე ფერმენტს არ თრგუნავს.",
+      "qa_score": 94,
+      "review_status": "APPROVED",
+      "stem_replace": {
+        "რომელი პერორალური პრეპარატის დამატებაა ყველაზე მიზანშეწონილი ლიპიდების დამაქვეითებელი მკურნალობის გასაძლიერებლად?": "გადაწყდა ეზეტიმიბის დამატება. რომელი მექანიზმით ავსებს იგი სტატინის ლიპიდდამაქვეითებელ მოქმედებას?"
+      },
+      "options_override": [
+        "უჯრედულ PPAR-α რეცეპტორის აქტივაციით",
+        "ღვიძლში HMG-CoA რედუქტაზის ინჰიბირებით",
+        "პლაზმაში PCSK9 ცილის ინჰიბირებით",
+        "ღვიძლში ტრიგლიცერიდების სინთეზის შემცირებით",
+        "ნაწლავში NPC1L1 ტრანსპორტერის ინჰიბირებით"
+      ],
+      "correct_override": "ე",
+      "rationale_override": "ეზეტიმიბის სამიზნეა ნაწლავის ჯაგრისისებრ საზღვარზე არსებული სტეროლის ტრანსპორტერი NPC1L1. ქოლესტერინის შეწოვის შემცირება ღვიძლში მის მიწოდებას ამცირებს და სტატინის სინთეზის შემამცირებელ ეფექტს ავსებს.",
+      "reframed": true,
+      "change_note": "CAROTID_VERTEBRAL:14-ის იგივე პრეპარატის არჩევის გამეორება შეიცვალა უკვე არჩეული ეზეტიმიბის კომპლემენტური მექანიზმის ინტერპრეტაციით."
+    },
+    "ALI:96": {
+      "source_key": "ALI:96",
+      "evidence_ids": [
+        "ELSO_VA2021",
+        "PAD2024_ALI"
+      ],
+      "objective": "ecmo_arterial_cannula_obstructs_limb_iib_urgent_antegrade_distal_perfusion",
+      "clinical_reasoning": "DUS თრომბს გამორიცხავს და კანულით მექანიკურ ნაკადის შეზღუდვას აჩვენებს; მხარდაჭერის შეწყვეტა შეუძლებელია, კიდურს კი მოტორული დეფიციტი უვითარდება.",
+      "distractor_analysis": "ა): აუცილებელ ცირკულაციურ მხარდაჭერას შეწყვეტდა; ბ): მექანიკურ ობსტრუქციას ვერ ხსნის; დ): სამიზნე თრომბი არ არის; ე): IIb იშემიას დაუყოვნებელი პერფუზიის აღდგენა ესაჭიროება.",
+      "clinical_pearl": "დისტალური პერფუზია აღადგინეთ სიცოცხლის შემანარჩუნებელი ECMO-ის შენარჩუნებით და ეფექტი დაუყოვნებლივ გადაამოწმეთ.",
+      "qa_score": 94,
+      "review_status": "APPROVED",
+      "rationale_override": "არტერიული ECMO-კანულით ნაკადის შეზღუდვამ მოტორული დეფიციტით უშუალოდ საფრთხეში მყოფი კიდურის იშემია გამოიწვია. ანტეგრადული დისტალური პერფუზიის კანულა კანულაციის ქვემოთ ნაკადს აღადგენს ცირკულაციური მხარდაჭერის შეწყვეტის გარეშე.",
+      "change_note": "ძალიან გრძელი საწყისი განმარტება გაიმიჯნა მოკლე კლინიკურ დასაბუთებად, ოთხი დისტრაქტორის ანალიზად და ცალკე პრაქტიკულ დასკვნად."
+    },
+    "ALI:97": {
+      "source_key": "ALI:97",
+      "evidence_ids": [
+        "CLOSURE_DEVICE_PRIMARY",
+        "ALI2020"
+      ],
+      "objective": "intraluminal_fixed_closure_device_cfa_obstruction_open_remove_repair",
+      "clinical_reasoning": "დასურათებულია ფიქსირებული უცხო ელემენტი კალციფიცირებულ CFA-ში და მის გარშემო თრომბი; მხოლოდ თრომბის მოცილება მექანიკურ წყაროს ტოვებს.",
+      "distractor_analysis": "ბ), გ): თრომბზე მოქმედებს, მაგრამ ფიქსირებულ მოწყობილობას უსაფრთხოდ ვერ მოაცილებს; დ): აუცილებელი საწყისი დახმარებაა, თუმცა მიზეზობრივ აღდგენას ვერ ცვლის; ე): უცხო სხეულის გაფართოება/ჩაჭყლეტა მისი უსაფრთხო მოცილების შემცვლელი არ არის.",
+      "clinical_pearl": "დახურვის მოწყობილობის გართულებისას დაზიანების ანატომია და უცხო ელემენტის მდებარეობა რევასკულარიზაციის გზას განსაზღვრავს.",
+      "qa_score": 94,
+      "review_status": "APPROVED",
+      "text_replace": {
+        "თერაპიული": "სამკურნალო"
+      },
+      "rationale_override": "ბარძაყის საერთო არტერიაში ფიქსირებული მოწყობილობის ელემენტი თრომბოზთან ერთად მწვავე მექანიკურ ობსტრუქციას ქმნის. მოცემულ ანატომიასა და მისაღებ კლინიკურ მდგომარეობაში ღია რევიზია საშუალებას იძლევა უცხო სხეულის მოცილებისა და არტერიის სანათურის აღდგენის.",
+      "change_note": "საწყისი გრძელი განმარტებიდან დისტრაქტორები და პრაქტიკული დასკვნა გადაიტანება შესაბამის ცალკე ველებში; სამკურნალო დოზის ტერმინი გასწორდა."
+    },
+    "ANATOMY_IMAGING:7": {
+      "source_key": "ANATOMY_IMAGING:7",
+      "evidence_ids": [
+        "VERTEBRAL_ANATOMY_UAMS"
+      ],
+      "objective": "vertebral_v2_foraminal_segment_transverse_foramina",
+      "clinical_reasoning": "V2 არტერიის ფორამინული მონაკვეთია; ჩვეულებრივ განივი მორჩების ხვრელებში გადის და ძვლოვან მისადგომთან მჭიდროდ არის დაკავშირებული.",
+      "distractor_analysis": "ა): მალთაშუა ხვრელები ფესვებისა და მათთან დაკავშირებული სტრუქტურების გასავლელია; ბ): არტერია ამ სეგმენტში ხერხემლის არხში არ გადის; გ), ე): აღწერს ხვრელების გარეთ მდებარეობას და V2-ის ჩვეულებრივ ფორამინულ გზას არ შეესაბამება.",
+      "clinical_pearl": "ქირურგიულ დაგეგმვაში შესვლის დონის ანომალია CTA-ზე ინდივიდუალურად შეამოწმეთ.",
+      "qa_score": 93,
+      "review_status": "APPROVED"
+    },
+    "ANATOMY_IMAGING:8": {
+      "source_key": "ANATOMY_IMAGING:8",
+      "evidence_ids": [
+        "FEMORAL_ANATOMY_UAMS"
+      ],
+      "objective": "proximal_femoral_sheath_cfv_medial_to_cfa",
+      "clinical_reasoning": "საზარდულის იოგის უშუალოდ ქვემოთ საერთო ბარძაყის არტერიის მედიალურად საერთო ბარძაყის ვენაა; პუნქციამდე რეალური მდებარეობა ულტრაბგერით მოწმდება.",
+      "distractor_analysis": "ბ): უფრო დისტალურად უერთდება ძირითად ვენას და მოცემულ დონეზე მთავარი თანამგზავრი არ არის; გ): იოგის ზემოთ მდებარეობს; დ): ზედაპირულ ქსოვილშია და ბუდის ამ კომპარტმენტს არ იკავებს; ე): მენჯში მდებარეობს.",
+      "clinical_pearl": "პროქსიმალური ჩვეულებრივი ურთიერთმდებარეობა დისტალურ დონეებზე ვენისა და არტერიის გადაფარვას არ გამორიცხავს.",
+      "qa_score": 94,
+      "review_status": "APPROVED",
+      "option_replace": {
+        "ა": "ბარძაყის საერთო ვენა",
+        "დ": "დიდი საჩინო ვენა"
+      },
+      "text_replace": {
+        "ბარძაყის ვენა": "ბარძაყის საერთო ვენა"
+      },
+      "change_note": "პროქსიმალურ დონეზე დაზუსტდა საერთო ბარძაყის ვენა და გასწორდა დიდი საჩინო ვენის ტერმინი."
+    },
+    "DIALYSIS_ACCESS:10": {
+      "source_key": "DIALYSIS_ACCESS:10",
+      "evidence_ids": [
+        "KDOQI15",
+        "ACCESS_IMN"
+      ],
+      "objective": "nonmaturing_patent_avf8weeks_duplex_correctable_cause",
+      "clinical_reasoning": "რვა კვირაში კანულაციისთვის ვენა არასაკმარისია და თრთოლვა სუსტია; უბრალოდ გამავლობა ფუნქციურ მომწიფებას არ ადასტურებს.",
+      "distractor_analysis": "ა): მოუმწიფებელი ვენის ნაადრევი პუნქცია ინფილტრაციისა და ფუნქციის დაკარგვის რისკს ქმნის; ბ), ე): ჯერ გამოსასწორებელი მიზეზის ძიებას ტოვებს; დ): მკურნალობად შემოდინების ან გადინების პრობლემას აყოვნებს.",
+      "clinical_pearl": "მოუმწიფებელი ფისტულის შეფასება ვენის დიამეტრთან ერთად სიღრმეს, სიგრძეს, ნაკადსა და გამოსასწორებელ დაზიანებას მოიცავს.",
+      "qa_score": 94,
+      "review_status": "APPROVED"
+    },
+    "DIALYSIS_ACCESS:11": {
+      "source_key": "DIALYSIS_ACCESS:11",
+      "evidence_ids": [
+        "KDOQI15",
+        "ACCESS_IMN"
+      ],
+      "objective": "thrombosed_avg_known_venous_anastomotic_stenosis_declot_and_correct",
+      "clinical_reasoning": "თრომბოზამდე კლინიკურად მნიშვნელოვანი ვენური ანასტომოზის სტენოზი უკვე დადასტურებული იყო; თრომბის მარტო მოცილება მიზეზს ტოვებს.",
+      "distractor_analysis": "ა): მხოლოდ სტენოზის დილატაცია უკვე არსებულ თრომბს ვერ მოაცილებს; ბ): შენარჩუნებადი წვდომის შეფასებისა და აღდგენის შესაძლებლობას კარგავს; გ), ე): თრომბის მოცილების შემდეგ ვენურ დაბრკოლებას უცვლელად ტოვებს.",
+      "clinical_pearl": "AVG-ის აღდგენა თრომბის მოცილებისა და გამომწვევი გამავლობის შემაფერხებელი დაზიანების ერთიან გეგმას მოითხოვს.",
+      "qa_score": 94,
+      "review_status": "APPROVED"
+    },
+    "MESENTERIC_RENAL:7": {
+      "source_key": "MESENTERIC_RENAL:7",
+      "evidence_ids": [
+        "MES2025_ACUTE"
+      ],
+      "objective": "shock_vasopressors_patent_sma_bowel_hypoenhancement_nomi",
+      "clinical_reasoning": "დაბალი ნაკადის შოკური ფონი და ვაზოკონსტრიქცია ნაწლავის იშემიას გამავალი მსხვილი არტერიის მიუხედავად ქმნის.",
+      "distractor_analysis": "ა), ბ): ემბოლია ან ოსტიური/გრძელი არტერიული ოკლუზია არ ჩანს; დ): მეზენტერიული ვენური თრომბოზი არ გამოვლენილა; ე): დახშული მარყუჟი ან მექანიკური სტრანგულაციის სურათი აღწერილი არ არის.",
+      "clinical_pearl": "მძიმე პაციენტში გამავალი SMA ნაწლავის ადეკვატურ მიკროცირკულაციას არ ადასტურებს.",
+      "qa_score": 94,
+      "review_status": "APPROVED"
+    },
+    "MESENTERIC_RENAL:8": {
+      "source_key": "MESENTERIC_RENAL:8",
+      "evidence_ids": [
+        "MES2025_ANEURYSM"
+      ],
+      "objective": "stable_asymptomatic_renal_aneurysm24mm_annual_surveillance",
+      "clinical_reasoning": "კაცი უსიმპტომოა, ანევრიზმა 30 მმ-ზე მცირეა და არც ზრდა, რეფრაქტერული ჰიპერტენზია ან ემბოლიური გართულებაა.",
+      "distractor_analysis": "ბ), გ), დ), ე): აღწერილ სტაბილურ მცირე ანევრიზმას ჩარევის დამოუკიდებელი ჩვენების გარეშე ინვაზიურ მკურნალობას სთავაზობს.",
+      "clinical_pearl": "ვისცერული ანევრიზმის ზომითი ზღვრები არტერიის ტიპს, სიმპტომებსა და ორსულობასთან დაკავშირებულ გარემოებებს მოარგეთ.",
+      "qa_score": 94,
+      "review_status": "APPROVED"
+    },
+    "PERIOPERATIVE:7": {
+      "source_key": "PERIOPERATIVE:7",
+      "evidence_ids": [
+        "PERIOP2024"
+      ],
+      "objective": "dasi_functional_capacity_poor_threshold34_interpret42",
+      "clinical_reasoning": "DASI-ის 42 ქულა შემცირებული ფუნქციური შესაძლებლობის 34-ქულიან ზღვარს აღემატება.",
+      "distractor_analysis": "ა), ბ), გ): მითითებული დაბალი ზღვარი ნაწილს მცდარად ადეკვატურ კატეგორიაში მოაქცევდა; ე): უფრო მაღალი ზღვარი ადეკვატური ფუნქციის მქონე პაციენტებს შემცირებულად შეაფასებდა.",
+      "clinical_pearl": "DASI თვითანგარიშით მიღებული სტრუქტურირებული ინდექსია; იგი CPET-ით გაზომილ ჟანგბადის მოხმარებას არ უდრის.",
+      "qa_score": 93,
+      "review_status": "APPROVED",
+      "stem_replace": {
+        "რომელია ოპტიმალური წინასაოპერაციო ტაქტიკა?": "ACC/AHA-ის 2024 წლის ალგორითმში DASI-ის რომელი ზღვარი გამოიყენება შემცირებული ფუნქციური შესაძლებლობის განსასაზღვრად?"
+      },
+      "options_override": [
+        "DASI ≤12 ქულა",
+        "DASI ≤20 ქულა",
+        "DASI ≤25 ქულა",
+        "DASI ≤34 ქულა",
+        "DASI ≤50 ქულა"
+      ],
+      "correct_override": "დ",
+      "rationale_override": "ACC/AHA-ის 2024 წლის პერიოპერაციულ ალგორითმში შემცირებული ფუნქციური შესაძლებლობის ნიშნად გამოიყენება DASI ≤34 ქულა. მოცემული 42 ქულა ამ ზღვარს აღემატება და კლინიკურად სტაბილურ პაციენტში ადეკვატურ ფუნქციურ შესაძლებლობას ემხრობა.",
+      "change_note": "გასწორდა წყაროში არაზუსტი 2026 წლის მითითება: გამოყენებულია 2024 წლის გაიდლაინი; AAA_EVAR:22-ის გამეორების ასარიდებლად ამოცანა მიმართულია DASI-ის ზღვრის ინტერპრეტაციაზე."
+    },
+    "PERIOPERATIVE:8": {
+      "source_key": "PERIOPERATIVE:8",
+      "evidence_ids": [
+        "ESPEN2025"
+      ],
+      "objective": "severe_preop_malnutrition_feasible_oral_ons_route_preferred",
+      "clinical_reasoning": "მძიმე კვებითი რისკი ცნობილია და ოპერაციის გადავადება უკვე გადაწყვეტილია; კუჭ-ნაწლავი ფუნქციონირებს და პერორალური დანამატები მოთხოვნილების შევსებას შეძლებს.",
+      "distractor_analysis": "ა), დ): ფუნქციური პერორალური გზის პირობებში საწყისად უფრო ინვაზიურ ვენურ კვებას ამატებს; ბ), ე): ზონდური ან გასტროსტომიული გზა ამ ეტაპზე პერორალური ვარიანტის ცდის გარეშე საჭირო არ არის.",
+      "clinical_pearl": "პერორალური/ენტერალური გზით მიზნების მიუღწევლობა გეგმის ხელახალ შეფასებას და საჭიროებისას დამატებით პარენტერალურ კვებას მოითხოვს.",
+      "qa_score": 94,
+      "review_status": "APPROVED",
+      "stem_replace": {
+        "პერორალური კვება შესაძლებელია. რომელია წინასაოპერაციო მართვის საუკეთესო ტაქტიკა?": "პერორალური კვება შესაძლებელია და ცილოვან-ენერგიული დანამატებით მოთხოვნილების შევსება მოსალოდნელია. კვებითი რისკის გამო ოპერაციის გადავადება უკვე გადაწყდა. ESPEN-ის 2025 წლის გაიდლაინით, რომელი საწყისი კვებითი გეგმაა უპირატესი?"
+      },
+      "options_override": [
+        "სრული პარენტერალური კვება ცენტრალური ვენური კათეტერით",
+        "ნაზოგასტრალური ზონდით კვება პერორალური დანამატების ცდის გარეშე",
+        "პერორალური ცილოვან-ენერგიული დანამატები ინდივიდუალურ კვებით გეგმასთან ერთად",
+        "პერიფერიული პარენტერალური კვება საწყისი ძირითადი გზის სახით",
+        "გასტროსტომით კვება პერორალური დანამატების ცდის გარეშე"
+      ],
+      "correct_override": "გ",
+      "rationale_override": "ESPEN-ის 2025 წლის გაიდლაინი მძიმე მალნუტრიციისას ოპერაციამდე კვებით მკურნალობას უჭერს მხარს, საჭიროებისას ოპერაციის გადავადებით. როდესაც პერორალური მიღება უსაფრთხოა და დანამატებით მოთხოვნილების დაფარვა შესაძლებელია, საწყისად ინდივიდუალურ პერორალურ გეგმას ენიჭება უპირატესობა ინვაზიურ კვებით გზებთან შედარებით.",
+      "change_note": "AAA_EVAR:53-ის ზოგადი კვებითი ოპტიმიზაციისგან გაიმიჯნა საწყისი კვების გზის არჩევა, როცა ოპერაციის გადავადება უკვე გადაწყვეტილია."
+    },
+    "VASCULAR_TRAUMA:7": {
+      "source_key": "VASCULAR_TRAUMA:7",
+      "evidence_ids": [
+        "TRAUMA2025_CTA"
+      ],
+      "objective": "asymptomatic_blunt_carotid_esvs_grade1_single_antiplatelet",
+      "clinical_reasoning": "მცირე ინტიმური დაზიანებაა უცვლელი გარე კონტურით, აქტიური სისხლდენისა და ნევროლოგიური დეფიციტის გარეშე; კონტექსტი ბლაგვი ტრავმაა.",
+      "distractor_analysis": "ა), ბ), გ): დაბალი ხარისხის უსიმპტომო დაზიანებას საწყის ინვაზიურ რეკონსტრუქციას უსაფუძვლოდ სთავაზობს; დ): ESVS-ის ამ კონკრეტულ ტრავმულ რეკომენდაციაში ერთპრეპარატიანი ანტიაგრეგანტი უპირატესი საწყისი მიდგომაა.",
+      "clinical_pearl": "ბლაგვი ტრავმული კაროტიდული დაზიანების რეკომენდაცია სპონტანური დისექციის ინდივიდუალურ ანტითრომბოზულ არჩევანთან არ გააიგივოთ.",
+      "qa_score": 94,
+      "review_status": "APPROVED",
+      "text_replace": {
+        "თერაპიული": "სამკურნალო"
+      },
+      "change_note": "სამკურნალო დოზის ტერმინი შეთანხმდა პროექტის ფორმასთან; დაზუსტდა ტრავმული და სპონტანური დისექციის განსხვავება."
+    },
+    "VASCULAR_TRAUMA:8": {
+      "source_key": "VASCULAR_TRAUMA:8",
+      "evidence_ids": [
+        "TRAUMA2025_CTA"
+      ],
+      "objective": "high_risk_bta_esvs2_large_mediastinal_hematoma_tevar24h",
+      "clinical_reasoning": "ფსევდოანევრიზმას დიდი შუასაყრის ჰემატომა ახლავს, რაც ESVS-ის მაღალი რისკის ნიშანია; სხვა გადაუდებელი პრიორიტეტი არ არის.",
+      "distractor_analysis": "ბ): დაბალი რისკის II ხარისხის გადავადებული მიდგომაა და მოცემულ მაღალი რისკის სურათს არ შეესაბამება; გ), დ): შესაფერისი ანატომიისას უპირატესი ენდოვასკულური გზა არსებობს; ე): გარე კონტურის მაღალი რისკის დარღვევას მხოლოდ დაკვირვება ვერ აგვარებს.",
+      "clinical_pearl": "ESVS-ის II ხარისხის ტრავმული ფსევდოანევრიზმა SVS-ის III ხარისხს შეესაბამება; კლასიფიკაციის სახელწოდება აუცილებლად მიუთითეთ.",
+      "qa_score": 94,
+      "review_status": "APPROVED"
+    }
+  },
+  "draft_reviewed": 48,
+  "publication_rule": "Draft candidates are not APPROVED in the current Master or State until validated atomic publication."
+}
