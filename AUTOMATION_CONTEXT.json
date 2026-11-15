@@ -52,31 +52,11 @@
       "target": 900,
       "question_file": "ALI_questions.txt",
       "explanation_file": "ALI_explanations.txt",
-      "last_number": 55,
-      "question_blob_sha": "e3e4731b3e05c644b35be411e53eac0b7142af5e",
-      "explanation_blob_sha": "d77397f450ed019b61548d740ac09742a280f1fd",
+      "last_number": 60,
+      "question_blob_sha": "bc84afad685570737df18cd58b47f0ea5aacaa3b",
+      "explanation_blob_sha": "acfd324818fade11e59c5105d64d547b786aab92",
       "last_full_audit_at": 50,
       "recent_stems": [
-        {
-          "n": 26,
-          "stem": "Rutherford IIa კატეგორიის მწვავე იშემიის გამო პაციენტს კათეტერით მიმართული თრომბოლიზი უტარდება. ოთხი საათის შემდეგ ტკივილი გაძლიერდა, მგრძნობელობის დაქვეითება თითებს გასცდა და ტერფის მოძრაობა შესუსტდა"
-        },
-        {
-          "n": 27,
-          "stem": "ქვედა კიდურის მწვავე იშემიის გამო მიმდინარე თრომბოლიზისას ბარძაყის არტერიის პუნქციის ადგილიდან მცირე ჟონვა აღინიშნება. ჰემატომა არ იზრდება, ჰემოგლობინი და ჰემოდინამიკა უცვლელია. თრომბოლიზით არტერიის გ"
-        },
-        {
-          "n": 28,
-          "stem": "ქვედა კიდურის მწვავე იშემიის გამო ღია ემბოლექტომია ტარდება. საჭიროა კათეტერის გატარება წვივის დაზიანებულ არტერიაში, ჰიბრიდულ საოპერაციოში კი რენტგენული კონტროლი ხელმისაწვდომია. რომელი ტექნიკაა მიზანშე"
-        },
-        {
-          "n": 29,
-          "stem": "68 წლის პაციენტს მუხლქვეშა არტერიის ანევრიზმის თრომბოზით გამოწვეული Rutherford IIa კატეგორიის მწვავე იშემია აქვს. ანგიოგრაფიაზე წვივის არტერიებშიც ახალი თრომბული ოკლუზიებია. ვენური შუნტირების წინ განი"
-        },
-        {
-          "n": 30,
-          "stem": "მწვავე იშემიის გამო ბარძაყ-მუხლქვეშა აუტოვენური შუნტირებიდან სამი თვის შემდეგ პაციენტს ბოლო კვირაში სიარულისას წვივის ტკივილი კვლავ დაეწყო. მოსვენებისას ტკივილი არ აქვს, ტერფის მგრძნობელობა და მოძრაობ"
-        },
         {
           "n": 31,
           "stem": "ქვედა კიდურის მწვავე იშემიის რევასკულარიზაციის შემდეგ სედაციის ქვეშ მყოფ პაციენტს წვივის შეშუპება მოემატა. ტკივილისა და მგრძნობელობის შეფასება შეუძლებელია, კლინიკური ნიშნებით კი კომპარტმენტ-სინდრომი ე"
@@ -176,6 +156,26 @@
         {
           "n": 55,
           "stem": "ქვედა კიდურის არტერიის თრომბექტომიის შემდეგ პაციენტი არაფრაქცირებულ ჰეპარინს იღებს. მეშვიდე დღეს თრომბოციტების რაოდენობა 260-დან 85 × 10⁹/ლ-მდე შემცირდა და მეორე კიდურში ახალი არტერიული თრომბოზი განვი"
+        },
+        {
+          "n": 56,
+          "stem": "ბარძაყის ზედაპირული არტერიის მწვავე თრომბოზის გამო კათეტერით მიმართული თრომბოლიზი იგეგმება. გამტარი ოკლუზიას გასცდა, თუმცა საკონტროლო კონტრასტირებით ჩანს, რომ საინფუზიო კათეტერის სამი პროქსიმალური გვე"
+        },
+        {
+          "n": 57,
+          "stem": "ხანგრძლივი მწვავე იშემიის რევასკულარიზაციის შემდეგ პაციენტს რაბდომიოლიზი და თირკმლის მწვავე დაზიანება განუვითარდა. ბოლო ექვს საათში შარდი პრაქტიკულად არ გამოყოფილა. ინსულინითა და გლუკოზით მკურნალობისა"
+        },
+        {
+          "n": 58,
+          "stem": "57 წლის მამაკაცს ქვედა კიდურის არტერიული ემბოლიის გამო წარმატებით ჩაუტარდა ემბოლექტომია. მანამდე ორი კვირა ცხელება ჰქონდა; სისხლის რამდენიმე კულტურაში Staphylococcus aureus გაიზარდა. ტრანსთორაკალური ე"
+        },
+        {
+          "n": 59,
+          "stem": "63 წლის ქალს რამდენიმე საათში მთელი მარცხენა ფეხის მასიური შეშუპება, ძლიერი ტკივილი და ციანოზი განუვითარდა; ტერფი გრილია და მგრძნობელობა დაქვეითებულია. დუპლექსსკანირებით თეძო-ბარძაყის ვენების ფართო ოკ"
+        },
+        {
+          "n": 60,
+          "stem": "60 წლის მამაკაცს ათეროსკლეროზულად შეცვლილი არტერიის მწვავე თრომბოზის გამო რევასკულარიზაცია ჩაუტარდა. დღეში 25 ღერს ეწევა და მოწევის შეწყვეტა სურს, თუმცა წინა ორი დამოუკიდებელი მცდელობა წარუმატებელი იყ"
         }
       ],
       "topic_rotation": "Rutherford I/IIa/IIb/III; ემბოლია/თრომბოზი; დუპლექსი/CTA; UFH; თრომბოლიზი (ჩვენებები/უკუჩვენებები); ღია/ენდოვასკულური რევასკულარიზაცია; რეპერფუზიის სინდრომი; ფასციოტომია; შემდგომი მკურნალობა.",
@@ -183,8 +183,8 @@
       "guideline_check": "კლინიკურად სადავო გადაწყვეტილებაზე ერთმნიშვნელოვანი პასუხი არ ააგო; პირველწყარო ESVS/SVS და შესაბამისი გაიდლაინები გადაამოწმე, როცა საჭიროა.",
       "last_validation": {
         "range": [
-          51,
-          55
+          56,
+          60
         ],
         "new_questions": 5,
         "new_explanations": 5,
@@ -202,44 +202,56 @@
         },
         "clinical_self_review": "passed",
         "georgian_language_self_review": "passed",
-        "semantic_duplication_review": "№51–55 შედარებულია ბოლო 30 სრულ კითხვასთან და №50-ზე ჩატარებულ სრულ შეჯერებასთან; ახალი სცენარები განსხვავებულ გადაწყვეტილებებს მოითხოვს.",
+        "semantic_duplication_review": "№56–60 შედარებულია ინდექსის ნიშნულებთან და ბოლო 20 სრულ კითხვა-განმარტებასთან; არსებული სცენარი იმავე გადაწყვეტილებით არ მეორდება.",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              51,
-              54
+              56
             ],
-            "source": "ESVS 2020 Clinical Practice Guidelines on the Management of Acute Limb Ischaemia",
-            "sections": [
-              "2.2.2",
-              "3.9.5.5"
-            ],
-            "url": "https://doi.org/10.1016/j.ejvs.2019.09.006"
+            "source": "CIRSE Standards of Practice for the Endovascular Management of Acute Lower Limb Ischaemia",
+            "section": "Catheter placement and infusion mechanics",
+            "url": "https://doi.org/10.1007/s00270-026-04622-0"
           },
           {
             "questions": [
-              52
+              57
             ],
-            "source": "Edwards Lifesciences Fogarty Arterial Embolectomy Catheter Instructions for Use",
-            "sections": [
-              "Instructions: Inflate and Withdraw"
-            ],
-            "url": "https://eifu.edwards.com/eifu/5970f1b346e0fb00015e5f4d/DOC-0088381A.pdf"
+            "source": "UK Kidney Association Clinical Practice Guideline: Treatment of Acute Hyperkalaemia in Adults, October 2023",
+            "section": "19.6",
+            "url": "https://www.ukkidney.org/sites/default/files/FINAL%20VERSION%20-%20UKKA%20CLINICAL%20PRACTICE%20GUIDELINE%20-%20MANAGEMENT%20OF%20HYPERKALAEMIA%20IN%20ADULTS%20-%20191223.pdf"
           },
           {
             "questions": [
-              53
+              57
             ],
-            "source": "2025 ESC/EACTS Guidelines for the management of valvular heart disease",
-            "url": "https://doi.org/10.1093/eurheartj/ehaf194"
+            "source": "Resuscitation Council UK 2025 Special circumstances Guidelines",
+            "section": "Hyperkalaemia",
+            "url": "https://www.resus.org.uk/professional-library/2025-resuscitation-guidelines/special-circumstances-guidelines"
           },
           {
             "questions": [
-              55
+              58
             ],
-            "source": "American Society of Hematology 2018 guidelines for management of venous thromboembolism: heparin-induced thrombocytopenia",
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6258919/"
+            "source": "2023 ESC Guidelines for the management of endocarditis",
+            "section": "5.4.1",
+            "url": "https://doi.org/10.1093/eurheartj/ehad193"
+          },
+          {
+            "questions": [
+              59
+            ],
+            "source": "ESVS 2021 Clinical Practice Guidelines on the Management of Venous Thrombosis",
+            "section": "2.10",
+            "url": "https://www.sciencedirect.com/science/article/pii/S1078588420308686"
+          },
+          {
+            "questions": [
+              60
+            ],
+            "source": "2024 ACC/AHA Guideline for the Management of Lower Extremity Peripheral Artery Disease",
+            "section": "5.4",
+            "url": "https://doi.org/10.1161/CIR.0000000000001251"
           }
         ]
       }
