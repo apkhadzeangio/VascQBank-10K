@@ -1335,9 +1335,9 @@
       "target": 600,
       "question_file": "PERIOPERATIVE_questions.txt",
       "explanation_file": "PERIOPERATIVE_explanations.txt",
-      "last_number": 10,
-      "question_blob_sha": "fe9fbe6a9a8d0718ec181a13c850fea5abb8d7ed",
-      "explanation_blob_sha": "3c683d5c0e526933a7d2aabe55f275c32f233efb",
+      "last_number": 12,
+      "question_blob_sha": "01b71a41d4d361966ce45b742ec1de67b0492911",
+      "explanation_blob_sha": "be5edcd255c9c36c61381c9159c6920474e45455",
       "last_full_audit_at": 6,
       "recent_stems": [
         {
@@ -1379,15 +1379,23 @@
         {
           "n": 10,
           "stem": "10. 80 წლის ქალს მუცლის აორტის უსიმპტომო ანევრიზმის გეგმიური ღია პროთეზირება უნდა ჩაუტარდეს. თანმხლები დაავადებები კონტროლდება, მაგრამ ბოლო თვეებში ყოველდღიური საქმიანობისას დახმარება სჭირდება, ნელა დადის და ორჯერ დაეცა. რომელი და"
+        },
+        {
+          "n": 11,
+          "stem": "68 წლის მამაკაცს ოთხ დღეში აორტა-ორბარძაყის გეგმიური შუნტირება უნდა ჩაუტარდეს; კონტროლირებადი არტერიული ჰიპერტენზიის გამო იღებს ლოზარტანს, გულის უკმარისობა არ აქვს."
+        },
+        {
+          "n": 12,
+          "stem": "64 წლის ქალს ინტერმიტენტული კოჭლობის გამო არაგადაუდებელი არტერიული შუნტირება უნდა ჩაუტარდეს; აღენიშნება უმკურნალებელი გამოხატული თირეოტოქსიკოზი."
         }
       ],
       "topic_rotation": "№1–60 წინასაოპერაციო შეფასება/ოპტიმიზაცია; №61–120 პერიოპერაციული კარდიოვასკულური რისკი; №121–180 ანტიაგრეგანტული და ანტიკოაგულაციური მკურნალობა; №181–250 ჰემოსტაზი, სისხლდენა და ტრანსფუზია; №251–320 თრომბოემბოლია და პროფილაქტიკა; №321–380 ჰემოდინამიკა, ინფუზია და თირკმლის ფუნქცია; №381–440 ფილტვის/მეტაბოლური გართულებები; №441–500 სისხლძარღვოვანი ოპერაციების ადრეული გართულებები; №501–550 ნევროლოგიური/ორგანოსპეციფიკური გართულებები; №551–600 პოსტოპერაციული მეთვალყურეობა. ზუსტად ორი კითხვა თითო ციკლში.",
       "linguistic_note": "აკადემიურად რაფინირებული ბუნებრივი ქართული, GLOSSARY.md-ის ზოგადი და პერიოპერაციული განყოფილების ზუსტი ტერმინოლოგია; არ გამოიყენო კალკები. ზუსტად ორი კითხვა და ორი ორწინადადებიანი განმარტება ყოველ ციკლში.",
-      "guideline_check": "2026 ACC/AHA perioperative guideline (reaffirmed September 2026): DASI structured assessment and no routine stress testing with adequate functional capacity and stable symptoms; 2025 ESPEN surgical nutrition guideline recommendations 20–21: severe malnutrition nutritional therapy before surgery, consider 10–14 days and prefer oral/enteral route.",
+      "guideline_check": "2024 AHA/ACC Perioperative Cardiovascular Management for Noncardiac Surgery §7.2 (RAAS inhibitors: select hypertensive patients with controlled BP, high-risk surgery, omission 24h before surgery may reduce hypotension); Paul 2026 Current Opinion in Endocrinology and Frontiers in Endocrinology 2024 (elective optimization of overt thyrotoxicosis; limited nonthyroidal surgery evidence).",
       "last_validation": {
         "range": [
-          9,
-          10
+          11,
+          12
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1397,36 +1405,36 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ა": 1,
-          "ე": 1
+          "ბ": 1,
+          "დ": 1
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed; active infectious COPD exacerbation warrants treatment/deferral; frailty screen useful in older adults with high-risk surgery",
-        "terminology_self_review": "passed (GLOSSARY.md)",
-        "georgian_language_self_review": "passed",
-        "semantic_duplication_review": "Reviewed 1–8; №9 tests acute respiratory infection and timing; №10 tests geriatric vulnerability screen, not DASI/cardiac functional capacity.",
+        "clinical_self_review": "passed: conditional RAAS inhibitor withholding is a guideline-supported option for controlled hypertension before high-risk surgery; overt untreated thyrotoxicosis favors deferring nonurgent surgery for optimization, acknowledging limited evidence.",
+        "terminology_self_review": "passed: GLOSSARY.md general and perioperative management sections",
+        "georgian_language_self_review": "passed: concise academic Georgian; distractors homogeneous and balanced",
+        "semantic_duplication_review": "Compared existing №1–10: RAAS inhibitor management and overt untreated thyrotoxicosis not previously tested; distinct clinical rationales.",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              9
+              11
             ],
-            "source": "2022 ESC Guidelines on Cardiovascular Assessment and Management of Patients Undergoing Non-Cardiac Surgery; section 6.7.1 Pulmonary disease.",
-            "url": "https://academic.oup.com/eurheartj/article/43/39/3826/6675076"
-          },
-          {
-            "questions": [
-              10
-            ],
-            "source": "2024 AHA/ACC Multisociety Perioperative Guideline section 3.3 Frailty (Class 2a, B-NR).",
+            "source": "2024 AHA/ACC Multisociety Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery, §7.2, recommendation 1 (Class 2b, B-R)",
             "url": "https://www.jacc.org/doi/10.1016/j.jacc.2024.06.013"
           },
           {
             "questions": [
-              10
+              12
             ],
-            "source": "Royal College of Anaesthetists, vascular surgery frailty standards (2026)",
-            "url": "https://rcoa.ac.uk/documents/chapter-14-vascular/142-frailty-vascular-surgical-patients"
+            "source": "Anna Paul, Determining when patients with thyroid illnesses should be cleared for surgery, October 2026; optimization before elective nonthyroidal surgery, uncertainty in supporting evidence",
+            "url": "https://doi.org/10.1097/MED.0000000000000978"
+          },
+          {
+            "questions": [
+              12
+            ],
+            "source": "Tian et al., Management of perioperative thyrotoxicosis, Frontiers in Endocrinology, 2024",
+            "url": "https://doi.org/10.3389/fendo.2024.1498014"
           }
         ]
       }
