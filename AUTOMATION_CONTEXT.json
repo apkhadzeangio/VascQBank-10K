@@ -40,6 +40,11 @@
       "heading": "პერიფერიული არტერიული დაავადება და CLTI",
       "start": 128,
       "end": 279
+    },
+    "ANATOMY_IMAGING": {
+      "heading": "სისხლძარღვთა ანატომია და ვიზუალიზაცია",
+      "start": 1242,
+      "end": 1418
     }
   },
   "workflow": {
@@ -1030,6 +1035,65 @@
           }
         ],
         "academic_refinement": "გადაუდებელი ნაბიჯი დამოკიდებულია სისხლდენისა და ჰემოდინამიკის შეფასებაზე; თითოეულ სცენარს ერთი საუკეთესო პასუხი აქვს."
+      }
+    },
+    "ANATOMY_IMAGING": {
+      "target": 900,
+      "question_file": "ANATOMY_IMAGING_questions.txt",
+      "explanation_file": "ANATOMY_IMAGING_explanations.txt",
+      "last_number": 2,
+      "question_blob_sha": "c0ec0a45df243defe6c219a4d2ffc50bbdc57bcb",
+      "explanation_blob_sha": "6974aeb49bcb45c0801fab4073e2c5e4aa8cc14a",
+      "last_full_audit_at": 2,
+      "recent_stems": [
+        {
+          "n": 1,
+          "stem": "გულმკერდის აორტის CTA-ზე აორტის რკალის ჩვეულებრივი სამტოტიანი აგებულება გამოვლინდა. რომელი თანმიმდევრობით გამოეყოფა ტოტები აორტის რკალს აღმავალი აორტიდან დაღმავალი აორტისკენ?"
+        },
+        {
+          "n": 2,
+          "stem": "მუცლის ღრუს CTA-ზე მარცხენა თირკმლის ვენა აორტის წინა ზედაპირს კვეთს და ქვედა ღრუ ვენაში ჩაედინება. რომელი არტერიის უკან გადის ვენა ამ მონაკვეთში ჩვეულებრივი ანატომიისას?"
+        }
+      ],
+      "topic_rotation": "№1–100 ძირითადი სისხლძარღვოვანი ანატომია; №101–180 ვარიაციები; №181–260 ჰემოდინამიკა; №261–360 დოპლერის საფუძვლები; №361–460 არტერიული დუპლექსსკანირება; №461–540 ვენური დუპლექსსკანირება; №541–630 CTA; №631–720 MRA, DSA, IVUS; №721–820 ოპერაციული დაგეგმვა; №821–900 ინტეგრირებული კლინიკური ვიზუალიზაცია. ზუსტად ორი კითხვა ყოველ ციკლში.",
+      "linguistic_note": "აკადემიურად გამართული ქართული; GLOSSARY.md-ის ზოგადი და ANATOMY_IMAGING განყოფილებების ტერმინოლოგია; კალკებისა და არაბუნებრივი სიტყვათწყობის გარეშე.",
+      "guideline_check": "სტანდარტული ანატომია, ESVS/SVS/AIUM/IAC შესაბამისი წყაროები. არ გამოიგონო მეთოდოლოგიაზე დამოკიდებული PSV/EDV/PSVR ზღვრები.",
+      "last_validation": {
+        "range": [
+          1,
+          2
+        ],
+        "new_questions": 2,
+        "new_explanations": 2,
+        "numbering_continuous": true,
+        "five_options_each": true,
+        "one_ascii_star_each": true,
+        "answer_letters_match": true,
+        "two_sentences_each": true,
+        "answer_distribution": {
+          "ბ": 1,
+          "დ": 1
+        },
+        "numeric_options_ascending": true,
+        "clinical_self_review": "passed",
+        "terminology_self_review": "passed",
+        "georgian_language_self_review": "passed",
+        "semantic_duplication_review": "first two original questions; no preexisting topic files",
+        "previous_text_unchanged": true,
+        "source_checks": [
+          {
+            "questions": [
+              1
+            ],
+            "source": "Standard three-branch aortic arch anatomy"
+          },
+          {
+            "questions": [
+              2
+            ],
+            "source": "Standard anterior left renal vein and superior mesenteric artery relationship"
+          }
+        ]
       }
     }
   }
