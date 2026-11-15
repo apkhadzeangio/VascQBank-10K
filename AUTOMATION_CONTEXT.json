@@ -933,9 +933,9 @@
       "target": 1500,
       "question_file": "PAD_CLTI_questions.txt",
       "explanation_file": "PAD_CLTI_explanations.txt",
-      "last_number": 9,
-      "question_blob_sha": "10b392598ca8d27784b50c06f7c2ebad0bb69111",
-      "explanation_blob_sha": "7f26707db701692be605fef3a3e61568552d8dc9",
+      "last_number": 11,
+      "question_blob_sha": "b877624d316273429bf18507cb57530512306ea1",
+      "explanation_blob_sha": "96983f93da59cc1e16bb2cc3d4d59b49a708aa33",
       "last_full_audit_at": 0,
       "recent_stems": [
         {
@@ -973,6 +973,14 @@
         {
           "n": 9,
           "stem": "66 წლის მამაკაცს სიმპტომური პერიფერიული არტერიული დაავადების გამო ბარძაყ-მუხლქვეშა სეგმენტის სტენოზის ბალონური ანგიოპლასტიკა ჩაუტარდა, სტენტის ჩადგმის გარეშე. პროცედურამ გართულების გარეშე ჩაიარა, თირკ"
+        },
+        {
+          "n": 10,
+          "stem": "69 წლის ქალს, რომელსაც შაქრიანი დიაბეტი და პერიფერიული არტერიული დაავადება აქვს, ტერფის ძირის წინა ნაწილში ნეიროპათიული წყლული აღენიშნება. ოთხი კვირის წინ წვივის არტერიის წარმატებული რევასკულარიზაციის"
+        },
+        {
+          "n": 11,
+          "stem": "74 წლის მამაკაცს თეძოს საერთო არტერიის სტენტირებიდან 12 დღის შემდეგ ფეხის რამდენიმე თითი მტკივნეულად გაულურჯდა და წვივის კანზე ბადისებრი შეფერილობა გაუჩნდა. ტერფის ზურგისა და დიდი წვივის უკანა არტერიე"
         }
       ],
       "topic_rotation": "ABI/TBI და პერფუზია; Fontaine/Rutherford/WIfI/GLASS; ხანგამოშვებითი კოჭლობა და CLTI; დუპლექსი/CTA/MRA/DSA; ანტიაგრეგანტები/სტატინები/ვარჯიში; აორტა-თეძოს, ბარძაყ-მუხლქვეშა და წვივის სეგმენტები; ენდოვასკულური მკურნალობა/ავტოვენური შუნტირება; ჭრილობა/ინფექცია/ამპუტაცია/მეთვალყურეობა.",
@@ -980,8 +988,8 @@
       "guideline_check": "2024 ACC/AHA PAD guideline, 2024 ESVS asymptomatic PAD/intermittent claudication guideline და Global Vascular Guidelines CLTI; კლინიკური გადაწყვეტილება გადაამოწმე პირველწყაროებში.",
       "last_validation": {
         "range": [
-          8,
-          9
+          10,
+          11
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -991,28 +999,43 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ე": 1,
-          "გ": 1
+          "ა": 1,
+          "ე": 1
         },
         "numeric_options_ascending": true,
         "clinical_self_review": "passed",
         "georgian_language_self_review": "passed",
-        "semantic_duplication_review": "№8–9 შედარებულია PAD_CLTI-ის არსებულ №1–7 კითხვებთან; ახალი დამოუკიდებელი გადაწყვეტილებებია ტერფის არტერიული რკალის DSA-ით დაზუსტება და რევასკულარიზაციის შემდგომი დაბალდოზიანი რივაროქსაბანისა და ასპირინის კომბინაცია.",
+        "terminology_self_review": "passed; current GLOSSARY.md",
+        "semantic_duplication_review": "№10–11 compared to the existing full 9 questions; distinct decisions: neuropathic ulcer offloading after restored perfusion and cholesterol atheroembolism after iliac intervention.",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              8
+              10
             ],
-            "source": "Global Vascular Guidelines on the Management of Chronic Limb-Threatening Ischemia (2019), Section 3: imaging including ankle and foot",
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8369495/"
+            "source": "IWGDF 2023 Offloading Guideline recommendation 1a",
+            "url": "https://onlinelibrary.wiley.com/doi/10.1002/dmrr.3647"
           },
           {
             "questions": [
-              9
+              10
             ],
-            "source": "2024 ACC/AHA Multisociety Guideline for the Management of Lower Extremity Peripheral Artery Disease, antiplatelet and antithrombotic recommendations",
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12782132/"
+            "source": "2024 ACC/AHA Multisociety PAD Guideline",
+            "url": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001251"
+          },
+          {
+            "questions": [
+              11
+            ],
+            "source": "Cholesterol crystal embolization: a possible complication of peripheral endovascular interventions (2008)",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18840042/"
+          },
+          {
+            "questions": [
+              11
+            ],
+            "source": "Prospective JACC study on cholesterol embolization after catheterization (2003)",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12875753/"
           }
         ]
       }
