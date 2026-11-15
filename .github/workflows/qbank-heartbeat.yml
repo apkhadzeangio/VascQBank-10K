@@ -1,0 +1,110 @@
+name: VascQBank Agent Heartbeat Receiver
+on:
+  workflow_dispatch:
+    inputs:
+      topic:
+        description: 'One assigned production topic'
+        type: choice
+        required: true
+        options:
+          - PAD_CLTI
+          - ALI
+          - AAA_EVAR
+          - THORACIC_AORTA
+          - CAROTID_VERTEBRAL
+          - VENOUS
+          - DIALYSIS_ACCESS
+          - MESENTERIC_RENAL
+          - VASCULAR_TRAUMA
+          - VGEI
+          - ANATOMY_IMAGING
+          - PERIOPERATIVE
+      agent_id:
+        description: 'Stable per-producer identifier'
+        required: true
+        type: string
+      run_id:
+        description: 'Unique identifier per question-production cycle'
+        required: true
+        type: string
+      state:
+        description: 'Observed stage, never guessed'
+        type: choice
+        required: true
+        options:
+          - SCHEDULED
+          - STARTED
+          - WRITING
+          - QA
+          - COMMITTING
+          - COMMITTED
+          - FAILED
+          - BLOCKED
+          - UNKNOWN
+      planned_questions:
+        description: 'Planned count in this cycle'
+        default: '2'
+        type: string
+      uploaded_questions:
+        description: 'Actually committed count (0 before commit)'
+        default: '0'
+        type: string
+      commit_sha:
+        description: 'Real commit SHA for COMMITTED'
+        type: string
+      error_code:
+        description: 'Error code if FAILED/BLOCKED, optional otherwise'
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  record-heartbeat:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Validate input and emit immutable per-dispatch signal
+        env:
+          TOPIC: ${{ inputs.topic }}
+          AGENT: ${{ inputs.agent_id }}
+          RUN: ${{ inputs.run_id }}
+          STATE: ${{ inputs.state }}
+          PLANNED: ${{ inputs.planned_questions }}
+          UPLOADED: ${{ inputs.uploaded_questions }}
+          SHA: ${{ inputs.commit_sha }}
+          ERROR_CODE: ${{ inputs.error_code }}
+          ACTION_RUN_ID: ${{ github.run_id }}
+        run: |
+          python3 - <<'PY'
+          import json, os, re
+          from datetime import datetime, timezone
+          agent, run = os.environ["AGENT"], os.environ["RUN"]
+          for value in (agent, run):
+              if not re.fullmatch(r"[A-Za-z0-9_.-]{1,64}", value):
+                  raise SystemExit("agent_id and run_id must be 1–64 safe characters")
+          planned, uploaded = int(os.environ["PLANNED"]), int(os.environ["UPLOADED"])
+          if not (0 <= planned <= 100 and 0 <= uploaded <= planned):
+              raise SystemExit("Question counts are invalid")
+          phase, sha = os.environ["STATE"], os.environ["SHA"]
+          if phase == "COMMITTED" and not re.fullmatch(r"[0-9a-fA-F]{40}", sha):
+              raise SystemExit("COMMITTED requires a valid full Git SHA")
+          payload = {
+              "topic": os.environ["TOPIC"], "agent_id": agent, "run_id": run,
+              "state": phase, "planned_questions": planned,
+              "uploaded_questions": uploaded, "commit_sha": sha,
+              "error_code": os.environ["ERROR_CODE"],
+              "emitted_at": datetime.now(timezone.utc).isoformat(),
+              "actions_run_id": os.environ["ACTION_RUN_ID"],
+          }
+          with open("heartbeat.json", "w", encoding="utf-8") as f:
+              json.dump(payload, f, ensure_ascii=False, indent=2)
+          print("Signal:", payload["topic"], payload["state"], payload["run_id"])
+          PY
+      - name: Store one run-specific heartbeat artifact without modifying main
+        uses: actions/upload-artifact@v4
+        with:
+          name: qbank-hb-${{ github.run_id }}
+          path: heartbeat.json
+          retention-days: 30
+          if-no-files-found: error

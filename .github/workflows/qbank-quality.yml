@@ -1,0 +1,53 @@
+name: VascQBank Structural Quality Gate
+on:
+  push:
+    branches: [main]
+    paths:
+      - '*_questions.txt'
+      - '*_explanations.txt'
+      - 'AUTOMATION_CONTEXT.json'
+      - 'AGENTS.md'
+      - 'scripts/qbank_quality.py'
+      - 'tests/test_qbank_quality.py'
+      - 'tests/test_qbank_monitor.py'
+      - '.github/workflows/qbank-quality.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  structural-qa:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Synthetic tests (valid and deliberately damaged fixtures)
+        run: python3 -m unittest discover -s tests -p 'test_qbank_*.py' -v
+      - name: Validate all 12 topics, explanations and index
+        id: validator
+        continue-on-error: true
+        run: |
+          python3 scripts/qbank_quality.py --root . --json-out qbank-qa.json --markdown-out qbank-qa.md
+      - name: Add report to Actions summary
+        if: always()
+        run: |
+          if [ -f qbank-qa.md ]; then cat qbank-qa.md >> "$GITHUB_STEP_SUMMARY"; fi
+      - name: Archive full diagnostics
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: qbank-structural-report-${{ github.run_id }}
+          path: |
+            qbank-qa.json
+            qbank-qa.md
+          if-no-files-found: warn
+          retention-days: 30
+      - name: Fail check when structural violations exist
+        if: steps.validator.outcome == 'failure'
+        run: exit 1

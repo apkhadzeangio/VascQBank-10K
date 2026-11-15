@@ -50,3 +50,26 @@
 - ეს არის სტრუქტურული აუდიტი, **არა** დამოუკიდებელი კლინიკური რეცენზირება ან სემანტიკური დუბლირების საბოლოო შეფასება.
 
 <!-- VASCQBANK_PROGRESS_END -->
+
+<!-- VASCQBANK_MONITORING_START -->
+### აგენტების მონიტორინგი და ხარისხის კონტროლი
+
+**პირველადი მდგომარეობა:** ახლად დანერგილი მონიტორინგი; ბოლო ატვირთვის დრო, 24-საათიანი მატება და Quality Gate-ის შედეგი ავტომატურად შეივსება Watchdog-ის პირველი წარმატებული გაშვებისას. ყველა მწარმოებელი აგენტის Heartbeat ინტეგრაცია ჯერ დაუდასტურებელია.
+
+| თემა | კითხვები | ბოლო ატვირთვა | +24სთ | სტატუსი | Quality Gate | ინდექსი |
+|---|---:|---|---:|---|---|---|
+| PAD_CLTI | 11/1500 | უცნობი | — | UNKNOWN | PENDING | OK |
+| ALI | 97/900 | უცნობი | — | UNKNOWN | PENDING | OK |
+| AAA_EVAR | 96/1200 | უცნობი | — | UNKNOWN | PENDING | OK |
+| THORACIC_AORTA | 87/700 | უცნობი | — | UNKNOWN | PENDING | OK |
+| CAROTID_VERTEBRAL | 98/900 | უცნობი | — | UNKNOWN | PENDING | OK |
+| VENOUS | 92/900 | უცნობი | — | UNKNOWN | PENDING | OK |
+| DIALYSIS_ACCESS | 17/650 | უცნობი | — | UNKNOWN | PENDING | OK |
+| MESENTERIC_RENAL | 14/600 | უცნობი | — | UNKNOWN | PENDING | OK |
+| VASCULAR_TRAUMA | 14/650 | უცნობი | — | UNKNOWN | PENDING | OK |
+| VGEI | 6/500 | უცნობი | — | UNKNOWN | PENDING | OK |
+| ANATOMY_IMAGING | 14/900 | უცნობი | — | UNKNOWN | PENDING | OK |
+| PERIOPERATIVE | 14/600 | უცნობი | — | UNKNOWN | PENDING | OK |
+
+UNKNOWN არ ნიშნავს მუშაობის შეწყვეტას. ეს ცხრილი არ ადასტურებს აგენტის აქტიურობას ან კლინიკურ რეცენზირებას.
+<!-- VASCQBANK_MONITORING_END -->

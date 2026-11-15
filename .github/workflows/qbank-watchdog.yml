@@ -1,0 +1,66 @@
+name: VascQBank Smart Watchdog
+on:
+  schedule:
+    - cron: '50 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+  actions: read
+
+concurrency:
+  group: qbank-watchdog
+  cancel-in-progress: false
+
+jobs:
+  observe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout without changing the producing agents
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate monitoring logic
+        run: python3 -m unittest discover -s tests -p 'test_qbank_*.py' -v
+      - name: Read evidence and construct bounded report
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          python3 scripts/qbank_monitor.py --root . --json-out qbank-watchdog.json --markdown-out qbank-monitoring.md --update-readme
+          cat qbank-monitoring.md >> "$GITHUB_STEP_SUMMARY"
+      - name: Persist independent snapshot for next-cycle comparison
+        uses: actions/upload-artifact@v4
+        with:
+          name: qbank-watchdog-snapshot-${{ github.run_id }}
+          path: qbank-watchdog.json
+          if-no-files-found: error
+          retention-days: 30
+      - name: Deduplicate confirmed alerts and close recovered issues
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          python3 scripts/qbank_alerts.py qbank-watchdog.json || echo "Issue notification unavailable; snapshot retained."
+      - name: Publish only the dedicated README monitoring block, if safe
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "README already current."
+            exit 0
+          fi
+          BASE="$(git rev-parse HEAD)"
+          git fetch --no-tags origin main
+          if [ "$(git rev-parse origin/main)" != "$BASE" ]; then
+            echo "SKIPPED: main changed since observation; never overwrite concurrent producer commit."
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "docs: update independent VascQBank monitoring block"
+          git push origin HEAD:main || echo "SKIPPED: concurrent main update; next cycle retries."
