@@ -1092,9 +1092,9 @@
       "target": 650,
       "question_file": "VASCULAR_TRAUMA_questions.txt",
       "explanation_file": "VASCULAR_TRAUMA_explanations.txt",
-      "last_number": 8,
-      "question_blob_sha": "aaa145d091d69bc98fc8d361448a4694a0f605e2",
-      "explanation_blob_sha": "2b6729b139b19d691d6241de0dafa12b05ac0f71",
+      "last_number": 10,
+      "question_blob_sha": "6306bef06b097141eb3c425c7c1dc1679bb002bc",
+      "explanation_blob_sha": "f2d692f798b05ec8c0c7eb6e0b322fdb54fd81ef",
       "last_full_audit_at": 2,
       "recent_stems": [
         {
@@ -1128,6 +1128,14 @@
         {
           "n": 8,
           "stem": "52 წლის მამაკაცს მაღალი ენერგიის ავტოსაგზაო ტრავმის შემდეგ CTA-ზე გულმკერდის აორტის ისთმუსის ფსევდოანევრიზმა გამოუვლინდა, აორტის გარე კონტურის დარღვევითა და შუასაყრის დიდი ჰემატომი"
+        },
+        {
+          "n": 9,
+          "stem": "45 წლის მამაკაცს ლავიწის მოტეხილობის შემდეგ მარცხენა ლავიწქვეშა არტერიის ფსევდოანევრიზმა გამოუვლინდა. 24 საათში განმეორებით CTA-ზე ფსევდოანევრიზმა გაზრდილია; პაციენტი ჰემოდინამიკურ"
+        },
+        {
+          "n": 10,
+          "stem": "33 წლის მამაკაცს წინამხრის ქვედა მესამედში მიყენებული ნაჩხვლეტ-ნაკვეთი ჭრილობით იდაყვის არტერია სრულად გადაეკვეთა. ოპერაციის დროს სისხლდენა კონტროლდება, თუმცა დაზიანებული მონაკვეთი"
         }
       ],
       "topic_rotation": "ბლაგვი და შემავალი ტრავმა; სისხლძარღვის დაზიანების სარწმუნო და სავარაუდო ნიშნები; ჰემოდინამიკური სტაბილურობა; CTA და გადაუდებელი ოპერაცია; კისრის, გულმკერდის, მუცლის, მენჯისა და კიდურების სისხლძარღვები; სისხლდენის კონტროლი და დაზიანების კონტროლის ქირურგია; დროებითი ინტრავასკულური შუნტი; არტერიული/ვენური რეკონსტრუქცია; ენდოვასკულური ჩარევა; კომპარტმენტ-სინდრომი და ფასციოტომია; რეპერფუზია; იატროგენული ტრავმა; მეთვალყურეობა.",
@@ -1135,8 +1143,8 @@
       "guideline_check": "ESVS 2025 Clinical Practice Guidelines on the Management of Vascular Trauma (Wahlgren et al., EJVES 69:179–237), DOI 10.1016/j.ejvs.2024.12.018; ყურადღება მიაქციე რეკომენდაციებს 9, 19, 20, 82–86.",
       "last_validation": {
         "range": [
-          7,
-          8
+          9,
+          10
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1146,34 +1154,34 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ა": 1,
+          "ა": 0,
           "ბ": 0,
-          "გ": 0,
-          "დ": 0,
-          "ე": 1
+          "გ": 1,
+          "დ": 1,
+          "ე": 0
         },
         "numeric_options_ascending": true,
         "clinical_self_review": "passed",
         "georgian_language_self_review": "passed",
-        "semantic_duplication_review": "№1–6-ისგან განსხვავებული ქვეთემები: დაბალი ხარისხის ბლაგვი კაროტიდული დაზიანების ანტიაგრეგანტული მკურნალობა და გულმკერდის აორტის მაღალი რისკის ფსევდოანევრიზმის გადაუდებელი სტენტგრაფტით აღდგენა.",
+        "semantic_duplication_review": "№1–8-თან სემანტიკური დუბლირება არ გამოვლინდა; ორი ახალი ქვეთემა: ლავიწქვეშა არტერიის სტენტგრაფტით აღდგენა და იდაყვის არტერიის იზოლირებული ტრავმული დაზიანების ლიგირება შენარჩუნებული მტევნის პერფუზიით.",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              7
+              9
             ],
-            "source": "ESVS 2025 Clinical Practice Guidelines on the Management of Vascular Trauma, Recommendation 31 (Class I, Level C)",
+            "source": "ESVS 2025 Clinical Practice Guidelines on the Management of Vascular Trauma, Recommendation 60 (Class IIa, Level B)",
             "url": "https://doi.org/10.1016/j.ejvs.2024.12.018"
           },
           {
             "questions": [
-              8
+              10
             ],
-            "source": "ESVS 2025 Clinical Practice Guidelines on the Management of Vascular Trauma, Recommendation 47 and Table 10 (Class I, Level C)",
+            "source": "ESVS 2025 Clinical Practice Guidelines on the Management of Vascular Trauma, Recommendation 92 (Class I, Level C)",
             "url": "https://doi.org/10.1016/j.ejvs.2024.12.018"
           }
         ],
-        "academic_refinement": "დადგენილია დაზიანების მორფოლოგიური ხარისხი, თანმხლები რისკფაქტორები, ჩარევის ჩვენება და ვადები; დისტრაქტორები ერთი გადაწყვეტილების ალტერნატივებია."
+        "academic_refinement": "თითოეულ სცენარში მკაფიოა ჰემოდინამიკური მდგომარეობა, სისხლძარღვის გამავლობა, რეკონსტრუქციის ანატომიური წინაპირობები და ერთი უპირატესი არჩევანი."
       }
     },
     "ANATOMY_IMAGING": {
