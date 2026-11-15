@@ -52,31 +52,11 @@
       "target": 900,
       "question_file": "ALI_questions.txt",
       "explanation_file": "ALI_explanations.txt",
-      "last_number": 80,
-      "question_blob_sha": "8f637763234d7f9867a30cae2b0405ede08c5f8a",
-      "explanation_blob_sha": "8ab4d522d7f93c108d5a51a4af0e693181e4f802",
+      "last_number": 85,
+      "question_blob_sha": "792177397a89d61fdb449c0548edc8fa7a3dfa1a",
+      "explanation_blob_sha": "bbff5525be15d440877a1d3aece43481cd4218e4",
       "last_full_audit_at": 50,
       "recent_stems": [
-        {
-          "n": 51,
-          "stem": "69 წლის ქალს ექვსი საათის წინ ტერფის ტკივილი და გაცივება დაეწყო; მგრძნობელობა მხოლოდ თითებზეა დაქვეითებული, მოძრაობა შენარჩუნებულია. ადრე იოდშემცველ კონტრასტზე მძიმე ანაფილაქსია ჰქონდა. MRI დაუყოვნებლ"
-        },
-        {
-          "n": 52,
-          "stem": "ბარძაყის არტერიის ემბოლექტომიისას ფოგარტის ბალონური კათეტერით ახალი თრომბი უნდა მოიცილონ. კათეტერი გაივლის სხვადასხვა დიამეტრის არტერიულ მონაკვეთებს. ბალონის მართვის რომელი პრინციპი ამცირებს არტერიის "
-        },
-        {
-          "n": 53,
-          "stem": "მექანიკური მიტრალური სარქვლის მქონე 61 წლის მამაკაცს ქვედა კიდურის ემბოლექტომია წარმატებით ჩაუტარდა. ემბოლიამდე თვითნებურად შეწყვიტა ვარფარინი და შემოსვლისას INR 1,2 იყო. ამჟამად ჰემოსტაზი საიმედოა, ჰ"
-        },
-        {
-          "n": 54,
-          "stem": "მწვავე იშემიის რევასკულარიზაციის შემდეგ განვითარებული კომპარტმენტ-სინდრომის გამო წვივის ოთხივე კომპარტმენტი სრულად გაიხსნა. კუნთები სიცოცხლისუნარიანია, თუმცა მკვეთრად შეშუპებულია და კანის კიდეები მხოლ"
-        },
-        {
-          "n": 55,
-          "stem": "ქვედა კიდურის არტერიის თრომბექტომიის შემდეგ პაციენტი არაფრაქცირებულ ჰეპარინს იღებს. მეშვიდე დღეს თრომბოციტების რაოდენობა 260-დან 85 × 10⁹/ლ-მდე შემცირდა და მეორე კიდურში ახალი არტერიული თრომბოზი განვი"
-        },
         {
           "n": 56,
           "stem": "ბარძაყის ზედაპირული არტერიის მწვავე თრომბოზის გამო კათეტერით მიმართული თრომბოლიზი იგეგმება. გამტარი ოკლუზიას გასცდა, თუმცა საკონტროლო კონტრასტირებით ჩანს, რომ საინფუზიო კათეტერის სამი პროქსიმალური გვე"
@@ -176,6 +156,26 @@
         {
           "n": 80,
           "stem": "78 წლის პაციენტს ქვედა კიდურის მწვავე ემბოლიის გამო ბარძაყის არტერიიდან გადაუდებელი ემბოლექტომია სჭირდება. მძიმე ფილტვის ქრონიკული ობსტრუქციული დაავადება აქვს, თუმცა თანამშრომლობა შეუძლია და დაგეგმილი"
+        },
+        {
+          "n": 81,
+          "stem": "მარცხენა თეძოს არტერიიდან ემბოლის ამოღებისას თრომბი აორტის ბიფურკაციამდე ვრცელდება, მარჯვენა თეძოს არტერია კი გამავალია. ჰიბრიდულ საოპერაციოში გუნდი მარჯვენა თეძოს საერთო არტერიის შესავალს დროებით ბალ"
+        },
+        {
+          "n": 82,
+          "stem": "მუხლქვეშა არტერიის ემბოლექტომიისას მუხლის ქვემოთ მდებარე მონაკვეთში გრძივი არტერიოტომია გაკეთდა. ქირურგი მის დახურვას ნაფლეთით გეგმავს. პირდაპირ ნაკერთან შედარებით, ძირითადად რომელი გართულების რისკის "
+        },
+        {
+          "n": 83,
+          "stem": "46 წლის მამაკაცს მუხლქვეშა არტერიის მწვავე თრომბოზის გამო წარმატებით ჩაუტარდა რევასკულარიზაცია. ათეროსკლეროზი და ემბოლიის კარდიული წყარო არ გამოვლენილა. მიზეზის დასაზუსტებლად ჩატარებულ MRI-ზე არტერიის"
+        },
+        {
+          "n": 84,
+          "stem": "81 წლის ქალს წინაგულთა ფიბრილაციასთან დაკავშირებული ქვედა კიდურის ემბოლიის გამო ემბოლექტომია ჩაუტარდა. მდგომარეობა სტაბილურია, აქტიური სისხლდენა არ აქვს და აპიქსაბანით ხანგრძლივი პრევენცია გადაწყდა. წ"
+        },
+        {
+          "n": 85,
+          "stem": "ქვედა კიდურის მწვავე იშემიის გამო ბარძაყის არტერიიდან ჩატარებული ენდოვასკულური ჩარევის შემდეგ პაციენტს საზარდულში მუდმივი სისტოლურ-დიასტოლური შუილი და იმავე ფეხის შეშუპება გამოუვლინდა. დუპლექსსკანირებ"
         }
       ],
       "topic_rotation": "Rutherford I/IIa/IIb/III; ემბოლია/თრომბოზი; დუპლექსი/CTA; UFH; თრომბოლიზი (ჩვენებები/უკუჩვენებები); ღია/ენდოვასკულური რევასკულარიზაცია; რეპერფუზიის სინდრომი; ფასციოტომია; შემდგომი მკურნალობა.",
@@ -183,8 +183,8 @@
       "guideline_check": "კლინიკურად სადავო გადაწყვეტილებაზე ერთმნიშვნელოვანი პასუხი არ ააგო; პირველწყარო ESVS/SVS და შესაბამისი გაიდლაინები გადაამოწმე, როცა საჭიროა.",
       "last_validation": {
         "range": [
-          76,
-          80
+          81,
+          85
         ],
         "new_questions": 5,
         "new_explanations": 5,
@@ -202,57 +202,47 @@
         },
         "clinical_self_review": "passed",
         "georgian_language_self_review": "passed",
-        "semantic_duplication_review": "№76–80 შედარებულია ინდექსის ნიშნულებთან და ბოლო 20 სრულ კითხვა-განმარტებასთან; ახალი სცენარები არსებულ კითხვებს იმავე გადაწყვეტილებით არ იმეორებს.",
+        "semantic_duplication_review": "№81–85 შედარებულია ინდექსის ნიშნულებთან და ბოლო 20 სრულ კითხვა-განმარტებასთან; ახალი სცენარები არსებულ კითხვებს იმავე გადაწყვეტილებით არ იმეორებს.",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              76
-            ],
-            "source": "Rhabdomyolysis: an American Association for the Surgery of Trauma Critical Care Committee Clinical Consensus Document",
-            "section": "Electrolyte abnormalities: early hypocalcaemia",
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8804685/"
-          },
-          {
-            "questions": [
-              77
-            ],
-            "source": "Thrombophilia testing: A British Society for Haematology guideline",
-            "section": "Arterial thrombosis",
-            "url": "https://doi.org/10.1111/bjh.18239"
-          },
-          {
-            "questions": [
-              78
-            ],
-            "source": "CIRSE Standards of Practice for the Endovascular Management of Acute Lower Limb Ischaemia",
-            "section": "Adjunctive Endovascular Procedures",
-            "url": "https://doi.org/10.1007/s00270-026-04622-0"
-          },
-          {
-            "questions": [
-              79
-            ],
-            "source": "Global vascular guidelines on the management of chronic limb-threatening ischemia",
-            "section": "Recommendation 10.10",
-            "applicability": "აუტოვენური ინფრაინგუინალური შუნტის თრომბოზის რისკის დუპლექსკრიტერიუმები.",
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/8369495/"
-          },
-          {
-            "questions": [
-              79
-            ],
-            "source": "Prospective validation of threshold criteria for intervention in infrainguinal vein grafts undergoing duplex surveillance",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/9061138/"
-          },
-          {
-            "questions": [
-              80
+              81,
+              82
             ],
             "source": "ESVS 2020 Clinical Practice Guidelines on the Management of Acute Limb Ischaemia",
             "section": "3.4.1",
-            "recommendation": 15,
             "url": "https://doi.org/10.1016/j.ejvs.2019.09.006"
+          },
+          {
+            "questions": [
+              83
+            ],
+            "source": "Bilateral Cystic Adventitial Disease Presenting as Acute Limb Ischemia in a Healthy Young Patient",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12207215/"
+          },
+          {
+            "questions": [
+              83
+            ],
+            "source": "Cystic adventitial disease of the popliteal artery with unusual spontaneous regression: A case report with literature review",
+            "applicability": "არტერიის კედელში კისტის MRI-ნიშნები; მკურნალობის არჩევანი კითხვაში არ არის განზოგადებული.",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9010954/"
+          },
+          {
+            "questions": [
+              84
+            ],
+            "source": "EMA: Eliquis Summary of Product Characteristics",
+            "section": "4.2: NVAF dose reduction",
+            "url": "https://www.ema.europa.eu/en/documents/product-information/eliquis-epar-product-information_en.pdf"
+          },
+          {
+            "questions": [
+              85
+            ],
+            "source": "Iatrogenic femoral arteriovenous fistula: diagnosis with color Doppler imaging",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2644661/"
           }
         ]
       }
