@@ -63,8 +63,8 @@
       "question_file": "ALI_questions.txt",
       "explanation_file": "ALI_explanations.txt",
       "last_number": 97,
-      "question_blob_sha": "940a81509c58149db4e0277f766be6597ac558df",
-      "explanation_blob_sha": "441a2123a46761e49921b6bf9cb44a53f02b122a",
+      "question_blob_sha": "3677e1c90619f43724a61d6f2b57044ef0787e70",
+      "explanation_blob_sha": "e27d84aa234ab168c1380451490d25421ba4dfe3",
       "last_full_audit_at": 50,
       "recent_stems": [
         {
