@@ -1049,9 +1049,9 @@
       "target": 900,
       "question_file": "ANATOMY_IMAGING_questions.txt",
       "explanation_file": "ANATOMY_IMAGING_explanations.txt",
-      "last_number": 2,
-      "question_blob_sha": "c0ec0a45df243defe6c219a4d2ffc50bbdc57bcb",
-      "explanation_blob_sha": "6974aeb49bcb45c0801fab4073e2c5e4aa8cc14a",
+      "last_number": 4,
+      "question_blob_sha": "24b0c0ba0810ea342ab7f40d8506ea2f83e7968a",
+      "explanation_blob_sha": "6169f46260e25ed623484898eb6da82929c74188",
       "last_full_audit_at": 2,
       "recent_stems": [
         {
@@ -1061,6 +1061,14 @@
         {
           "n": 2,
           "stem": "მუცლის ღრუს CTA-ზე მარცხენა თირკმლის ვენა აორტის წინა ზედაპირს კვეთს და ქვედა ღრუ ვენაში ჩაედინება. რომელი არტერიის უკან გადის ვენა ამ მონაკვეთში ჩვეულებრივი ანატომიისას?"
+        },
+        {
+          "n": 3,
+          "stem": "კაროტიდულ DSA-ზე საერთო საძილე არტერიის ბიფურკაციის ზემოთ მდებარე ერთ-ერთი არტერიიდან ენისა და სახის არტერიები გამოიყოფა. რომელი სისხლძარღვია ამ ტოტების წყარო ჩვეულებრივი ანატომიისას?"
+        },
+        {
+          "n": 4,
+          "stem": "მუხლქვეშა არტერიის DSA-ზე დიდი წვივის წინა არტერიის სათავე ჩანს, მის ქვემოთ კი ტიბიოპერონეული ღერო ორ ტოტად იყოფა. რომელი არტერიაა ამ ღეროს მეორე საბოლოო ტოტი დიდი წვივის უკანა არტერიასთან ერთად?"
         }
       ],
       "topic_rotation": "№1–100 ძირითადი სისხლძარღვოვანი ანატომია; №101–180 ვარიაციები; №181–260 ჰემოდინამიკა; №261–360 დოპლერის საფუძვლები; №361–460 არტერიული დუპლექსსკანირება; №461–540 ვენური დუპლექსსკანირება; №541–630 CTA; №631–720 MRA, DSA, IVUS; №721–820 ოპერაციული დაგეგმვა; №821–900 ინტეგრირებული კლინიკური ვიზუალიზაცია. ზუსტად ორი კითხვა ყოველ ციკლში.",
@@ -1068,8 +1076,8 @@
       "guideline_check": "სტანდარტული ანატომია, ESVS/SVS/AIUM/IAC შესაბამისი წყაროები. არ გამოიგონო მეთოდოლოგიაზე დამოკიდებული PSV/EDV/PSVR ზღვრები.",
       "last_validation": {
         "range": [
-          1,
-          2
+          3,
+          4
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1079,27 +1087,29 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ბ": 1,
-          "დ": 1
+          "გ": 1,
+          "ე": 1
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed",
-        "terminology_self_review": "passed",
-        "georgian_language_self_review": "passed",
-        "semantic_duplication_review": "first two original questions; no preexisting topic files",
+        "clinical_self_review": "passed: external carotid cervical lingual/facial branches; typical tibioperoneal bifurcation",
+        "terminology_self_review": "passed: consistent GLOSSARY.md names",
+        "georgian_language_self_review": "passed: natural Georgian anatomy and angiographic terms",
+        "semantic_duplication_review": "№3 and №4 distinct from №1 aortic arch and №2 left renal vein",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              1
+              3
             ],
-            "source": "Standard three-branch aortic arch anatomy"
+            "source": "NCBI Bookshelf, Anatomy, Head and Neck, Neck Triangle (2026)",
+            "url": "https://www.ncbi.nlm.nih.gov/books/NBK554398/"
           },
           {
             "questions": [
-              2
+              4
             ],
-            "source": "Standard anterior left renal vein and superior mesenteric artery relationship"
+            "source": "NCBI Bookshelf, Peripheral Arterial Disease: Anatomy",
+            "url": "https://www.ncbi.nlm.nih.gov/books/NBK27440/"
           }
         ]
       }
