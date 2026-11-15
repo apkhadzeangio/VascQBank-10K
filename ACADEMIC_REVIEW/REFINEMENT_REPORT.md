@@ -73,8 +73,10 @@ QA ქულები სარედაქციო თვითშეფას
 - Issues File: ACADEMIC_REVIEW/REFINEMENT_ISSUES.jsonl
 - Run Log: ACADEMIC_REVIEW/REFINEMENT_RUN_LOG.jsonl
 - Source Commit: 9a05e728d0912ea021ceca74c0621f83a6ea7f98
-- Successful Review Commit: NOT COMMITTED — ატომური შენახვის წინ მომზადებული მდგომარეობა; შედეგი დადასტურების შემდეგ განახლდება.
+- Successful Review Commit: [51190b961dc011c5805c6710255d57a0868fc565](https://github.com/apkhadzeangio/VascQBank-10K/commit/51190b961dc011c5805c6710255d57a0868fc565) — დადასტურებულია main-ისა და ათივე ფაილის blob SHA-ის შემოწმებით.
 - Original Source Files Modified: NO
 - სტრუქტურული შემოწმება: PASS — 483 წყარო, 200 შეფასებული, 192 Master ჩანაწერი, 8 საკითხი, 283 NEW; შემოწმდა 25 საწყისი ფაილის SHA.
 
 Checkpoint ყველა 483 წყაროსთვის ინახავს ინდივიდუალურ ID-ს, შიგთავსის SHA-256 fingerprint-სა და სტატუსს. შემდეგი ციკლი გამოტოვებს უცვლელ დამტკიცებულ ჩანაწერებს და დაამუშავებს მაქსიმუმ 200 საჭირო კითხვას.
+
+ავტომატური გაგრძელება გააქტიურებულია ყოველდღე **09:30 და 21:30**, თბილისის დროით; მომდევნო გაშვება — **16.11.2026, 09:30**. თითო ციკლის ლიმიტია 200 კითხვა. წინა ხუთი თემატური ავტომატიზაცია კვლავ შეჩერებულია.

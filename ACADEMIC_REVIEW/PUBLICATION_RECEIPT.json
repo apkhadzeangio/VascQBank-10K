@@ -1,0 +1,23 @@
+{
+  "review_commit": "51190b961dc011c5805c6710255d57a0868fc565",
+  "source_commit": "9a05e728d0912ea021ceca74c0621f83a6ea7f98",
+  "verified_at": "2026-11-15T23:31:08+04:00",
+  "verification": "main ref matched review commit; all 10 local review blob SHA-1 hashes matched GitHub; all source and unrelated base-tree blobs retained",
+  "only_changed_directory": "ACADEMIC_REVIEW/",
+  "original_source_files_modified": false,
+  "structural_validation": "PASS",
+  "summary": {
+    "answer_letter_changes": 11,
+    "approval_progress_percent": 39.75,
+    "approved_total": 192,
+    "clinical_clarifications": 2,
+    "correct_answer_content_changes": 0,
+    "pending_total": 8,
+    "review_progress_percent": 41.41,
+    "reviewed_total": 200,
+    "semantic_duplicates": 8,
+    "source_total": 483,
+    "unchanged_approved_skipped": 0,
+    "unreviewed_total": 283
+  }
+}
