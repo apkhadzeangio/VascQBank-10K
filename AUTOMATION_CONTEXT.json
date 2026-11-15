@@ -980,9 +980,9 @@
       "target": 600,
       "question_file": "MESENTERIC_RENAL_questions.txt",
       "explanation_file": "MESENTERIC_RENAL_explanations.txt",
-      "last_number": 2,
-      "question_blob_sha": "79c120245f316f6574a2781348f3707357ffa045",
-      "explanation_blob_sha": "be1730d3c345a483199505d1e4d498e580eae0ec",
+      "last_number": 4,
+      "question_blob_sha": "811a82a0071f5d60e505c6c3a8359b52d997cbf1",
+      "explanation_blob_sha": "c871a105154c003b1a792206c213fc4ab6fca30f",
       "last_full_audit_at": 2,
       "recent_stems": [
         {
@@ -992,6 +992,14 @@
         {
           "n": 2,
           "stem": "69 წლის მამაკაცს CTA-ით დაუდგინდა მარჯვენა თირკმლის არტერიის სათავის 75%-იანი ათეროსკლეროზული სტენოზი; მარცხენა თირკმლის არტერია მნიშვნელოვანი სტენოზის გარეშეა. არტერიული წნევა მედიკამენტებით კონტროლდება, თირკმლის ფუნქცი"
+        },
+        {
+          "n": 3,
+          "stem": "68 წლის ქალს ბოლო ექვსი თვის განმავლობაში ჭამიდან დაახლოებით 30 წუთში ეწყება მუცლის ტკივილი; საკვების მიღების შიშის გამო 9 კგ დაიკლო. CTA-ით გამოვლინდა ჯორჯლის ზემო არტერიის სათავის 85%-იანი და ფაშვის ღეროს სათავის 75%-ი"
+        },
+        {
+          "n": 4,
+          "stem": "37 წლის ქალს სამი ანტიჰიპერტენზიული პრეპარატის, მათ შორის შარდმდენის, მიღების მიუხედავად არტერიული წნევა 170/105 mmHg აქვს. CTA-ით მარჯვენა თირკმლის არტერიის შუა სეგმენტში ფიბრომუსკულური დისპლაზიისთვის დამახასიათებელი ცვ"
         }
       ],
       "topic_rotation": "მეზენტერიული და თირკმლის პათოლოგიების მონაცვლეობა; მწვავე მეზენტერიული იშემიის ემბოლია/თრომბოზი/NOMI/MVT; ქრონიკული მეზენტერიული იშემია; CTA/DSA/დუპლექსსკანირება; ენდოვასკულური და ღია რევასკულარიზაცია; ნაწლავის სიცოცხლისუნარიანობა და განმეორებითი ლაპაროტომია; თირკმლის არტერიის ათეროსკლეროზული სტენოზი/FMD; რენოვასკულური ჰიპერტენზია; რევასკულარიზაციის ჩვენებები და უარყოფა; ანევრიზმა/დისექცია; მკურნალობისშემდგომი მეთვალყურეობა.",
@@ -999,8 +1007,8 @@
       "guideline_check": "ESVS 2025 Mesenteric and Renal Arteries and Veins (რეკომენდაციები 33 და 63), ESC 2024 PAAD. მწვავე მეზენტერიული იშემიის ეჭვისას გადაუდებელი CTA თირკმლის ფუნქციის დაქვეითების მიუხედავად; კონტროლირებადი ჰიპერტენზიისა და სტაბილური თირკმლის ფუნქციისას თირკმლის ათეროსკლეროზული სტენოზის რუტინული სტენტირება არ არის გამართლებული.",
       "last_validation": {
         "range": [
-          1,
-          2
+          3,
+          4
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1010,37 +1018,37 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ა": 0,
+          "ა": 2,
           "ბ": 1,
           "გ": 0,
           "დ": 1,
-          "ე": 0
+          "ე": 1
         },
         "numeric_options_ascending": true,
         "clinical_self_review": "passed",
         "georgian_language_self_review": "passed",
-        "semantic_duplication_review": "ახალი მიმართულების პირველი ორი, კლინიკურად განსხვავებული კითხვა; თემატური TXT ფაილები მანამდე არ არსებობდა.",
+        "semantic_duplication_review": "№3 არის ქრონიკული მრავალსისხლძარღვოვანი მეზენტერიული იშემიის ენდოვასკულური მკურნალობის არჩევა; №4 არის თირკმლის არტერიის ფიბრომუსკულური დისპლაზიის დროს ანგიოპლასტიკის ჩვენება; №1–2-ის გადაწყვეტილებები არ მეორდება.",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              1
+              3
             ],
-            "source": "ESVS 2025 Clinical Practice Guidelines on Diseases of the Mesenteric and Renal Arteries and Veins, Recommendation 33",
+            "source": "ESVS 2025 Mesenteric and Renal Arteries and Veins Guidelines, Recommendations 9, 10 and 14",
             "url": "https://doi.org/10.1016/j.ejvs.2025.06.010"
           },
           {
             "questions": [
-              2
+              4
             ],
-            "source": "ESVS 2025 Clinical Practice Guidelines on Diseases of the Mesenteric and Renal Arteries and Veins, Recommendation 63",
+            "source": "ESVS 2025 Mesenteric and Renal Arteries and Veins Guidelines, Recommendation 64",
             "url": "https://doi.org/10.1016/j.ejvs.2025.06.010"
           },
           {
             "questions": [
-              2
+              4
             ],
-            "source": "ESC 2024 Guidelines for Management of Peripheral Arterial and Aortic Diseases, renal artery disease",
+            "source": "2024 ESC Guidelines for Management of Peripheral Arterial and Aortic Diseases",
             "url": "https://doi.org/10.1093/eurheartj/ehae179"
           }
         ]
