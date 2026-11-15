@@ -1148,9 +1148,9 @@
       "target": 900,
       "question_file": "ANATOMY_IMAGING_questions.txt",
       "explanation_file": "ANATOMY_IMAGING_explanations.txt",
-      "last_number": 6,
-      "question_blob_sha": "c824c0572513ed98d0c6c02af4d327005ab87c1b",
-      "explanation_blob_sha": "868003ee2ee19c89fe1493e0ad0e4bdbba261675",
+      "last_number": 8,
+      "question_blob_sha": "381e36446f9fc75665a651342c431368d5c1b0b6",
+      "explanation_blob_sha": "aebee9cd5d1b4107dd4c6cbf17c9b7174c8d7547",
       "last_full_audit_at": 2,
       "recent_stems": [
         {
@@ -1176,6 +1176,14 @@
         {
           "n": 6,
           "stem": "სხივის არტერიიდან სისხლძარღვოვანი წვდომის დაგეგმვისას ხელის არტერიული რკალების ჩვეულებრივ აგებულებას განიხილავენ. რომელი არტერია ქმნის ხელისგულის ზედაპირული არტერიული რკალის ძირითად ნაწილს?"
+        },
+        {
+          "n": 7,
+          "stem": "კისრის CTA-ზე ხერხემლის არტერიის V2 სეგმენტის მდებარეობას აფასებენ ხერხემლის ოპერაციის დაგეგმვისას. რომელ ანატომიურ სტრუქტურაში გადის ეს სეგმენტი ჩვეულებრივი აგებულებისას?"
+        },
+        {
+          "n": 8,
+          "stem": "ბარძაყის საერთო არტერიიდან სისხლძარღვოვანი წვდომის ულტრაბგერითი დაგეგმვისას გადამწოდი საზარდულის იოგის უშუალოდ ქვემოთ თავსდება. რომელი ვენა მდებარეობს ამ დონეზე არტერიის უშუალოდ მედიალურად, ბარძაყის სისხლძარღვოვან ბუდეში, ჩვეულებრივი ანატომიისას?"
         }
       ],
       "topic_rotation": "№1–100 ძირითადი სისხლძარღვოვანი ანატომია; №101–180 ვარიაციები; №181–260 ჰემოდინამიკა; №261–360 დოპლერის საფუძვლები; №361–460 არტერიული დუპლექსსკანირება; №461–540 ვენური დუპლექსსკანირება; №541–630 CTA; №631–720 MRA, DSA, IVUS; №721–820 ოპერაციული დაგეგმვა; №821–900 ინტეგრირებული კლინიკური ვიზუალიზაცია. ზუსტად ორი კითხვა ყოველ ციკლში.",
@@ -1183,8 +1191,8 @@
       "guideline_check": "სტანდარტული ანატომია, ESVS/SVS/AIUM/IAC შესაბამისი წყაროები. არ გამოიგონო მეთოდოლოგიაზე დამოკიდებული PSV/EDV/PSVR ზღვრები.",
       "last_validation": {
         "range": [
-          5,
-          6
+          7,
+          8
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1195,35 +1203,42 @@
         "two_sentences_each": true,
         "answer_distribution": {
           "ა": 1,
-          "გ": 1
+          "დ": 1
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: pancreaticoduodenal arcade celiac-SMA collateral; ulnar predominance in superficial palmar arterial arch",
-        "terminology_self_review": "passed: GLOSSARY.md plus Georgian anatomical sources",
-        "georgian_language_self_review": "passed: natural academic Georgian",
-        "semantic_duplication_review": "№5–6 checked against all existing №1–4; unique topics and answers",
+        "clinical_self_review": "passed: V2 vertebral arterial segment traverses cervical transverse foramina; femoral vein is normally medial to the common femoral artery just below inguinal ligament",
+        "terminology_self_review": "passed: GLOSSARY.md general and ANATOMY_IMAGING sections",
+        "georgian_language_self_review": "passed: four-step editorial check",
+        "semantic_duplication_review": "№7–8 checked against the complete №1–6 questions and explanations; unique anatomical decisions",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              5
+              7
             ],
-            "source": "Mesenteric Vasculature and Collateral Pathways",
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3036491/"
+            "source": "NCBI Bookshelf: Vertebral artery, Guide to Peripheral and Cerebrovascular Intervention",
+            "url": "https://www.ncbi.nlm.nih.gov/books/NBK27430/"
           },
           {
             "questions": [
-              5
+              7
             ],
-            "source": "Georgian anatomy: მუცლის აორტა",
-            "url": "https://edu.medgeo.net/მუცლის-აორტა/"
+            "source": "Anatomical variations of the vertebral artery segment in the lower cervical spine, CTA study",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18923317/"
           },
           {
             "questions": [
-              6
+              8
             ],
-            "source": "NCBI Bookshelf Anatomy, Shoulder and Upper Limb, Hand Volar Arch Arteries",
-            "url": "https://www.ncbi.nlm.nih.gov/books/NBK545377/"
+            "source": "NCBI Bookshelf: Anatomy, Abdomen and Pelvis, Femoral Triangle",
+            "url": "https://www.ncbi.nlm.nih.gov/books/NBK541140/"
+          },
+          {
+            "questions": [
+              8
+            ],
+            "source": "Ultrasonography of femoral vessels in the groin: implications for vascular access",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11121931/"
           }
         ]
       }
