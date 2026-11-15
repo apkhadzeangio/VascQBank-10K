@@ -1,12 +1,18 @@
 {
   "run_id": "continuation-200-2026-11-15",
+  "review_commit": "7180e80ab730c09320d53d999ccd3f2e5ac0bf73",
   "source_commit": "fd67dc75f60495cc2cf81657843b5503554836e2",
-  "review_commit": null,
-  "status": "VALIDATED_LOCAL_AWAITING_CAS_COMMIT",
-  "structural_validation": "PASS",
+  "verified_at": "2026-11-16T00:28:54+04:00",
+  "verification": "main ref matched data commit; all 11 local review blob hashes matched GitHub; all 27 source and unrelated blobs retained; completed working checkpoint removed",
   "only_changed_directory": "ACADEMIC_REVIEW/",
   "original_source_files_modified": false,
   "previous_approved_records_preserved": 192,
+  "structural_validation": "PASS",
+  "batch": {
+    "reviewed": 200,
+    "approved": 192,
+    "pending": 8
+  },
   "summary": {
     "source_total": 493,
     "reviewed_total": 400,
