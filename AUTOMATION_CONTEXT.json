@@ -261,19 +261,11 @@
       "target": 1200,
       "question_file": "AAA_EVAR_questions.txt",
       "explanation_file": "AAA_EVAR_explanations.txt",
-      "last_number": 92,
-      "question_blob_sha": "d3c5d7a7b7703261163e430b762218b7f7e633fb",
-      "explanation_blob_sha": "fa8356f502826f54fd1c81f5a0c05bdf6be87025",
+      "last_number": 94,
+      "question_blob_sha": "6ac324142bbede4e71abfcf99a1410d325ff2d96",
+      "explanation_blob_sha": "0def0e3b8fa88f08da9a918aaabb547e59405185",
       "last_full_audit_at": 50,
       "recent_stems": [
-        {
-          "n": 63,
-          "stem": "მუცლის აორტის ანევრიზმის ღია პროთეზირებიდან ცხრა წლის შემდეგ დისტალურ აორტულ ანასტომოზთან მზარდი ფსევდოანევრიზმა გამოვლინდა. სრულმა შეფასებამ ინფექციური მიზეზი არ დაადასტურა და ჩარევის ჩვენება დადგენი"
-        },
-        {
-          "n": 64,
-          "stem": "69 წლის მამაკაცი მუცლის აორტის ანევრიზმის გეგმიური ღია პროთეზირებისთვის ემზადება. სტაბილური ათეროსკლეროზული გულ-სისხლძარღვთა დაავადების გამო ასპირინს 100 მგ დღეში იღებს. აქტიური სისხლდენა, მნიშვნელოვა"
-        },
         {
           "n": 65,
           "stem": "მუცლის აორტის რთული ანევრიზმის ფენესტრირებული ენდოპროთეზით მკურნალობიდან რამდენიმე საათში, ჰიპოტენზიის ეპიზოდის შემდეგ, პაციენტს ორივე ფეხის სისუსტე განუვითარდა. ტერფები თბილია, პულსი შენარჩუნებულია; "
@@ -385,11 +377,53 @@
         {
           "n": 92,
           "stem": "სტანდარტული EVAR-იდან 30 დღეში CTA-ზე ენდოლიკი არ ჩანს, კომპონენტების გადაფარვა და 15 მმ სიგრძის ჰერმეტიზაციის ზონები დამაკმაყოფილებელია. პროქსიმალური ყელის დიამეტრი 32 მმ-ია; ანატომია გამოყენებული მო"
+        },
+        {
+          "n": 93,
+          "stem": "72 წლის ქალს ულტრაბგერითი კვლევით მუცლის აორტის 52 მმ დიამეტრის უსიმპტომო ინფრარენალური ანევრიზმა დაუდგინდა. წინა კვლევასთან შედარებით ზომა უცვლელია; სიცოცხლის მოსალოდნელი ხანგრძლივობა დიდია, ოპერაციუ"
+        },
+        {
+          "n": 94,
+          "stem": "76 წლის მამაკაცს მუცლის აორტის 65 მმ დიამეტრის ინფრარენალური ანევრიზმის გამო EVAR ესაჭიროება. CTA-ზე პროქსიმალური და დისტალური ჰერმეტიზაციის ზონები შესაფერისია, მაგრამ ორივე თეძოს გარეთა არტერია ვიწრო"
         }
       ],
       "topic_rotation": "უსიმპტომო და სიმპტომური AAA; ESVS 2024; ზომითი ზღვრები; EVAR ანატომია, ღია ოპერაცია vs EVAR; რუპტურის გადაუდებელი მართვა; ენდოლიკის ტიპები; გამოსახულებითი მეთვალყურეობა; გართულებები და რევიზია.",
       "linguistic_note": "„რუპტურირებული“, „გადარჩენადობა“, „სიკვდილისგან თავისუფალი“ — არ გამოიყენო; surgical repair აღწერე როგორც რეკონსტრუქცია/პროთეზირება/მკურნალობა და არა „აღდგენა“.",
-      "guideline_check": "კლინიკურად სადავო გადაწყვეტილებაზე ერთმნიშვნელოვანი პასუხი არ ააგო; პირველწყარო ESVS/SVS და შესაბამისი გაიდლაინები გადაამოწმე, როცა საჭიროა."
+      "guideline_check": "კლინიკურად სადავო გადაწყვეტილებაზე ერთმნიშვნელოვანი პასუხი არ ააგო; პირველწყარო ESVS/SVS და შესაბამისი გაიდლაინები გადაამოწმე, როცა საჭიროა.",
+      "last_validation": {
+        "range": [
+          93,
+          94
+        ],
+        "new_questions": 2,
+        "new_explanations": 2,
+        "numbering_continuous": true,
+        "five_options_each": true,
+        "one_ascii_star_each": true,
+        "answer_letters_match": true,
+        "two_sentences_each": true,
+        "numeric_options_ascending": true,
+        "clinical_self_review": "passed",
+        "georgian_language_self_review": "passed",
+        "semantic_duplication_review": "Distinct from questions 1–92: women repair threshold; severely calcified iliac access and surgical conduit",
+        "previous_text_unchanged": true,
+        "source_checks": [
+          {
+            "questions": [
+              93
+            ],
+            "source": "ESVS 2024 AAA guidelines recommendation 23",
+            "url": "https://orbi.uliege.be/bitstream/2268/317270/1/A.Wanhainen_Eur%20J%20Endovasc%20Surg%20%282024%29%2067%2C%20192-331.pdf"
+          },
+          {
+            "questions": [
+              94
+            ],
+            "source": "ESVS 2024 AAA guidelines: access vessel assessment and surgical conduit",
+            "url": "https://orbi.uliege.be/bitstream/2268/317270/1/A.Wanhainen_Eur%20J%20Endovasc%20Surg%20%282024%29%2067%2C%20192-331.pdf"
+          }
+        ]
+      }
     },
     "CAROTID_VERTEBRAL": {
       "target": 900,
