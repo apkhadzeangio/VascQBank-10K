@@ -1196,7 +1196,7 @@
       "target": 900,
       "question_file": "ANATOMY_IMAGING_questions.txt",
       "explanation_file": "ANATOMY_IMAGING_explanations.txt",
-      "last_number": 10,
+      "last_number": 12,
       "question_blob_sha": "727c9d6d5749cf0626031ce900bd7bb9ee4fdd53",
       "explanation_blob_sha": "cd2aa4945b8612bbaebd0cb2f13c880bb826daf7",
       "last_full_audit_at": 2,
@@ -1240,6 +1240,14 @@
         {
           "n": 10,
           "stem": "მენჯის CTA-ზე თეძოს შიგნითა არტერიის უკანა ღეროს ტოტი დიდი საჯდომი ხვრელით, მსხლისებრი კუნთის ზემოთ გადის. რომელ არტერიას შეესაბამება ეს ტოტი ჩვეულებრივი ანატომიისას?"
+        },
+        {
+          "n": 11,
+          "stem": "გულმკერდ-მუცლის აორტის ენდოპროთეზირების დაგეგმვისას CTA-ზე გამოვლინდა ადამკევიჩის არტერია, რომელიც მარცხენა უკანა ნეკნთაშუა არტერიიდან იღებს დასაწყისს. ამ ნეკნთაშუა არტერიის სათავის დაფარვამ, უპირველესად, რომელი არტერიული აუზის სისხლმომარაგება შეიძლება დააქვეითოს?"
+        },
+        {
+          "n": 12,
+          "stem": "ინფრარენალური აორტის ქრონიკული ოკლუზიის მქონე პაციენტის CTA-ზე გაფართოებული კოლატერალური გზა ჩანს შიგნითა გულმკერდის არტერიიდან მუცლის წინა კედლის გავლით თეძოს გარეთა არტერიამდე. რომელი ორი არტერიის ანასტომოზი ქმნის ამ გზის ძირითად დამაკავშირებელ რგოლს?"
         }
       ],
       "topic_rotation": "№1–100 ძირითადი სისხლძარღვოვანი ანატომია; №101–180 ვარიაციები; №181–260 ჰემოდინამიკა; №261–360 დოპლერის საფუძვლები; №361–460 არტერიული დუპლექსსკანირება; №461–540 ვენური დუპლექსსკანირება; №541–630 CTA; №631–720 MRA, DSA, IVUS; №721–820 ოპერაციული დაგეგმვა; №821–900 ინტეგრირებული კლინიკური ვიზუალიზაცია. ზუსტად ორი კითხვა ყოველ ციკლში.",
@@ -1247,8 +1255,8 @@
       "guideline_check": "სტანდარტული ანატომია, ESVS/SVS/AIUM/IAC შესაბამისი წყაროები. არ გამოიგონო მეთოდოლოგიაზე დამოკიდებული PSV/EDV/PSVR ზღვრები.",
       "last_validation": {
         "range": [
-          9,
-          10
+          11,
+          12
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1258,36 +1266,36 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ბ": 1,
-          "ე": 1
+          "ა": 1,
+          "გ": 1
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: portal vein is formed by confluence of splenic and superior mesenteric veins posterior to pancreatic neck; superior gluteal artery is from posterior division of internal iliac artery and exits greater sciatic foramen above piriformis",
-        "terminology_self_review": "passed: კარის ვენა, თეძოს შიგნითა არტერია, დუნდულოს ზემო არტერია",
-        "georgian_language_self_review": "passed: idiomatic, concise medical Georgian with uniform distractor forms",
-        "semantic_duplication_review": "№9–10 reviewed against the complete №1–8; distinct decisions without repeating existing stems",
+        "clinical_self_review": "passed: artery of Adamkiewicz supplies anterior spinal artery; internal thoracic to external iliac collateral passes through superior/inferior epigastric anastomosis",
+        "terminology_self_review": "passed: ადამკევიჩის არტერია, ზურგის ტვინის წინა არტერია, შიგნითა გულმკერდის არტერია, ზემო/ქვემო ეპიგასტრიული არტერიები",
+        "georgian_language_self_review": "passed",
+        "semantic_duplication_review": "№11–12 compared against complete №1–10; independent surgical-anatomical decisions",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              9
+              11
             ],
-            "source": "Anatomy of the pancreas and spleen, Surgery (2019): venous confluence behind pancreatic neck",
-            "url": "https://doi.org/10.1016/j.mpsur.2019.04.008"
+            "source": "Artery of Adamkiewicz: a meta-analysis of anatomical characteristics",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6620248/"
           },
           {
             "questions": [
-              10
+              12
             ],
-            "source": "NCBI Bookshelf, Anatomy, Abdomen and Pelvis: Internal Iliac Arteries",
-            "url": "https://www.ncbi.nlm.nih.gov/books/NBK537311/"
+            "source": "Internal thoracic artery-inferior epigastric artery as a collateral pathway in aortoiliac occlusive disease",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16616225/"
           },
           {
             "questions": [
-              10
+              12
             ],
-            "source": "NCBI Bookshelf, Anatomy, Bony Pelvis and Lower Limb: Arteries",
-            "url": "https://www.ncbi.nlm.nih.gov/books/NBK544319/"
+            "source": "Internal thoracic artery collateral to the external iliac artery in chronic aortoiliac occlusive disease",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14530647/"
           }
         ]
       }
