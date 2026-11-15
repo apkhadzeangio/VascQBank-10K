@@ -703,31 +703,11 @@
       "target": 900,
       "question_file": "VENOUS_questions.txt",
       "explanation_file": "VENOUS_explanations.txt",
-      "last_number": 87,
-      "question_blob_sha": "7cad0e29a6621db9843826c62eecbd9b3d81edc1",
-      "explanation_blob_sha": "abc780aad120f83e2d5102d55ec53eb81291d14d",
+      "last_number": 92,
+      "question_blob_sha": "a58279d5d965225a41f7f95d00c415699a357acd",
+      "explanation_blob_sha": "58e41ce1a29903cd10ecdf14c5e3ba0793a57908",
       "last_full_audit_at": 50,
       "recent_stems": [
-        {
-          "n": 58,
-          "stem": "49 წლის ქალს სიმპტომური ვარიკოზული დაავადების გამო დიდი საჩინო ვენის მკურნალობა იგეგმება. დუპლექსსკანირებით ბარძაყის ერთ მონაკვეთში რეფლუქსური ვენა ფასციის ზემოთ, კანიდან 3 მმ სიღრმეზე მდებარეობს და ხელითაც ადვილად ისინჯ"
-        },
-        {
-          "n": 59,
-          "stem": "73 წლის მამაკაცს წვივზე წყლული აქვს; დუპლექსსკანირებით ვენური რეფლუქსი და თანმხლები არტერიული დაავადება დასტურდება. გოჯ-მხრის ინდექსი 0,7-ია, გოჯის სისტოლური წნევა 85 mmHg, თითის წნევა კი 45 mmHg-ია. მოსვენებისას იშემიურ"
-        },
-        {
-          "n": 60,
-          "stem": "62 წლის ქალს ორი წლის წინ გადატანილი ღრმა ვენების თრომბოზის შემდეგ პოსტთრომბოზული სინდრომი აქვს. რეგულარული სიარულისა და სწორად შერჩეული მუხლამდე კომპრესიული ტრიკოტაჟის მიუხედავად, ფეხის სიმძიმე და შეშუპება შენარჩუნებული"
-        },
-        {
-          "n": 61,
-          "stem": "29 წლის ქალს ორსულობის 26-ე კვირაზე მთელი მარცხენა ფეხის შეშუპება და საზარდულის ტკივილი აქვს. ქვედა კიდურის ვენების განმეორებითი ულტრაბგერითი კვლევით თრომბი არ გამოვლინდა, თუმცა თეძოს ვენების სარწმუნოდ შეფასება ვერ მოხერ"
-        },
-        {
-          "n": 62,
-          "stem": "26 წლის სპორტსმენს დატვირთვასთან დაკავშირებული იღლია-ლავიწქვეშა ვენური სეგმენტის მწვავე თრომბოზის გამო თრომბის ადრეული მოცილება ჩაუტარდა. ანტიკოაგულაცია გრძელდება, თუმცა ხელის აწევისას შეშუპება და სიმძიმე კვლავ უჩნდება. "
-        },
         {
           "n": 63,
           "stem": "66 წლის მამაკაცს წვივზე აქტიური ვენური წყლული აქვს. არტერიული სისხლმომარაგება საკმარისია; მიმდინარეობს კომპრესიული მკურნალობა და ადგილობრივი მოვლა, ხოლო ზედაპირული რეფლუქსის კორექცია უკვე ჩატარდა. ინფექციის ნიშნები, სისხ"
@@ -822,11 +802,31 @@
         },
         {
           "n": 86,
-          "stem": "59 წლის ქალს მენჯის ავთვისებიანი სიმსივნის გამო ორი წლის წინ ლიმფური კვანძების ამოკვეთა და სხივური თერაპია ჩაუტარდა. ბოლო რვა თვეა მარცხენა ფეხი თანდათან უსივდება, განსაკუთრებით ტერფის ზურგი და თითები; მეორე თითის ფუ"
+          "stem": "59 წლის ქალს მენჯის ავთვისებიანი სიმსივნის გამო ორი წლის წინ ლიმფური კვანძების ამოკვეთა და სხივური თერაპია ჩაუტარდა. ბოლო რვა თვეა მარცხენა ფეხი თანდათან უსივდება, განსაკუთრებით ტერფის ზურგი და თითები; მეორე თითის ფუძესთ"
         },
         {
           "n": 87,
-          "stem": "42 წლის ქალს ორი წელია დგომისას გაძლიერებული ქრონიკული მენჯის ტკივილი და დისპარეუნია აქვს; აღენიშნება ვულვისა და ბარძაყის უკანა-მედიალური ზედაპირის ვარიკოზული ვენებიც. გინეკოლოგიურმა და სხვა შესაბამისმა გამოკვლევებმა"
+          "stem": "42 წლის ქალს ორი წელია დგომისას გაძლიერებული ქრონიკული მენჯის ტკივილი და დისპარეუნია აქვს; აღენიშნება ვულვისა და ბარძაყის უკანა-მედიალური ზედაპირის ვარიკოზული ვენებიც. გინეკოლოგიურმა და სხვა შესაბამისმა გამოკვლევებმა ტკი"
+        },
+        {
+          "n": 88,
+          "stem": "52 წლის მამაკაცს ბარძაყის ვენის მწვავე თრომბოზი დაუდასტურდა. სხეულის მასა 150 კგ-ია, სხეულის მასის ინდექსი — 46; თირკმლის ფუნქცია ნორმალურია, სისხლდენა და ჰეპარინით გამოწვეული თრომბოციტოპენიის ანამნეზი არ აქვს. საწყის მკ"
+        },
+        {
+          "n": 89,
+          "stem": "48 წლის ქალს საზარდულში მტკივნეული წარმონაქმნი აქვს. დუპლექსსკანირებით დიდი საჩინო ვენის ღეროს 26 მმ დიამეტრის ანევრიზმა გამოვლინდა, რომლის პროქსიმალური კიდე საფენო-ფემორული შერთულიდან 1 სმ-ით დისტალურად მდებარეობს. თრომ"
+        },
+        {
+          "n": 90,
+          "stem": "76 წლის მამაკაცს ვენური წყლული და ორივე წვივის შეშუპება აქვს. გოჯ-მხრის ინდექსი 1,0-ია, მაგრამ ამჟამად გულის დეკომპენსირებული უკმარისობის გამო ჰოსპიტალიზებულია: მოსვენებისას ქოშინი, ორთოპნოე და ფილტვებში შეგუბება აღენიშნ"
+        },
+        {
+          "n": 91,
+          "stem": "67 წლის მამაკაცი განმეორებითი ღრმა ვენების თრომბოზის გამო ვარფარინს იღებს. უეცარი ჰემიპარეზის შემდეგ CT-ზე ტვინში სისხლჩაქცევა გამოვლინდა; INR 4,9-ია. ვარფარინი შეწყდა და ვიტამინ K-ის ინტრავენური შეყვანა დაიწყო; ჰეპარინი"
+        },
+        {
+          "n": 92,
+          "stem": "55 წლის მამაკაცს მძიმე ვენური სიმპტომები და განმეორებადი წყლული აქვს, მიუხედავად ზედაპირული რეფლუქსის წარმატებული მკურნალობისა და ხანგრძლივი სათანადო კომპრესიისა. კვლევებით დადასტურებულია უწყვეტი ღრმა ვენური რეფლუქსი ბარ"
         }
       ],
       "topic_rotation": "DVT/ზედაპირული თრომბოზი; ანტიკოაგულაცია (ჩვენებები/ხანგრძლივობა); თრომბის მოცილება; PTS; CEAP; რეფლუქსი/დუპლექსი; ვარიკოზი, აბლაცია/სკლეროთერაპია; ვენური წყლული; მენჯის ობსტრუქცია; May-Thurner/Paget-Schroetter; ორსულობა; კავა-ფილტრები; ESVS/SVS/AVF/CHEST/ASH.",
@@ -834,24 +834,47 @@
       "guideline_check": "კლინიკურად სადავო გადაწყვეტილებაზე ერთმნიშვნელოვანი პასუხი არ ააგო; პირველწყარო ESVS/SVS და შესაბამისი გაიდლაინები გადაამოწმე, როცა საჭიროა.",
       "last_validation": {
         "range": [
-          86,
-          87
+          88,
+          92
         ],
-        "new_questions": 2,
-        "new_explanations": 2,
+        "new_questions": 5,
+        "new_explanations": 5,
         "numbering_continuous": true,
         "five_options_each": true,
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed",
+        "clinical_self_review": "passed; guideline-specific dosing in obesity, junction-adjacent saphenous aneurysm excision, NYHA IV compression contraindication, life-threatening VKA reversal, and selective specialist assessment of extensive axial deep reflux",
+        "terminology_self_review": "passed; GENERAL and VENOUS glossary sections checked",
         "georgian_language_self_review": "passed",
-        "semantic_duplication_review": "Compared all 85 saved stems and clinical decisions; lymphedema CDT and symptomatic pelvic reflux embolization distinct from existing items; evidence ISL 2023, ESVS 2022 Rec 88 (IIa B).",
+        "semantic_duplication_review": "Reviewed latest 25 full questions/explanations and all 87 existing correct-answer summaries; five distinct decisions without a repeated existing stem/decision.",
         "previous_text_unchanged": true,
         "source_checks": [
-          "ISL 2023 peripheral lymphoedema consensus, p. 141",
-          "ESVS 2022 Chronic Venous Disease, recommendation 88"
+          {
+            "questions": [
+              88,
+              91
+            ],
+            "source": "ASH 2018 optimal management of anticoagulation therapy, recommendations 1 and 17; ASH current guideline status checked",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6258922/",
+            "status_url": "https://www.hematology.org/Resources/Clinical-Practice-Guidelines/Venous-Thromboembolism-Guidelines/Anticoagulation-Therapy"
+          },
+          {
+            "questions": [
+              89
+            ],
+            "source": "SVS/AVF/AVLS 2023 varicose veins Part II, consensus statements 14.1 and 14.3",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11523430/"
+          },
+          {
+            "questions": [
+              90,
+              92
+            ],
+            "source": "ESVS 2022 Chronic Venous Disease, Table 7 and recommendation 64; reconstruction is an optional specialist-centre assessment, not routine mandatory surgery",
+            "url": "https://www.sf-phlebologie.org/wp-content/uploads/2022/04/ESVS-2022-CVD-guidelines.pdf"
+          }
         ]
       }
     },
