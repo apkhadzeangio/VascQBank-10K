@@ -988,9 +988,9 @@
       "target": 600,
       "question_file": "MESENTERIC_RENAL_questions.txt",
       "explanation_file": "MESENTERIC_RENAL_explanations.txt",
-      "last_number": 4,
-      "question_blob_sha": "811a82a0071f5d60e505c6c3a8359b52d997cbf1",
-      "explanation_blob_sha": "c871a105154c003b1a792206c213fc4ab6fca30f",
+      "last_number": 6,
+      "question_blob_sha": "f68020494fff8df703586363a3a1217e6d53928f",
+      "explanation_blob_sha": "a3cb7d53e7126b4d5a879894ae13250bb1041c68",
       "last_full_audit_at": 2,
       "recent_stems": [
         {
@@ -1008,6 +1008,14 @@
         {
           "n": 4,
           "stem": "37 წლის ქალს სამი ანტიჰიპერტენზიული პრეპარატის, მათ შორის შარდმდენის, მიღების მიუხედავად არტერიული წნევა 170/105 mmHg აქვს. CTA-ით მარჯვენა თირკმლის არტერიის შუა სეგმენტში ფიბრომუსკულური დისპლაზიისთვის დამახასიათებელი ცვ"
+        },
+        {
+          "n": 5,
+          "stem": "55 წლის მამაკაცს სამი დღეა მუცლის ტკივილი და გულისრევა აწუხებს. CTA-ით გამოვლინდა ჯორჯლის ზემო ვენის მწვავე თრომბოზი და ნაწლავის კედლის შეშუპება, თუმცა ნეკროზის ნიშნები არ ჩანს. პაციენტი ჰემოდინამიკურად სტაბილურია, პერიტ"
+        },
+        {
+          "n": 6,
+          "stem": "70 წლის ქალს ბოლო ექვს კვირაში ორჯერ განუვითარდა ფილტვების ელვისებური შეშუპება თირკმლის ფუნქციის მწვავე გაუარესებისა და სითხის შეკავების ფონზე. CTA-ით ორივე თირკმლის არტერიის სათავეში დაახლოებით 80%-იანი ათეროსკლეროზული "
         }
       ],
       "topic_rotation": "მეზენტერიული და თირკმლის პათოლოგიების მონაცვლეობა; მწვავე მეზენტერიული იშემიის ემბოლია/თრომბოზი/NOMI/MVT; ქრონიკული მეზენტერიული იშემია; CTA/DSA/დუპლექსსკანირება; ენდოვასკულური და ღია რევასკულარიზაცია; ნაწლავის სიცოცხლისუნარიანობა და განმეორებითი ლაპაროტომია; თირკმლის არტერიის ათეროსკლეროზული სტენოზი/FMD; რენოვასკულური ჰიპერტენზია; რევასკულარიზაციის ჩვენებები და უარყოფა; ანევრიზმა/დისექცია; მკურნალობისშემდგომი მეთვალყურეობა.",
@@ -1015,8 +1023,8 @@
       "guideline_check": "ESVS 2025 Mesenteric and Renal Arteries and Veins (რეკომენდაციები 33 და 63), ESC 2024 PAAD. მწვავე მეზენტერიული იშემიის ეჭვისას გადაუდებელი CTA თირკმლის ფუნქციის დაქვეითების მიუხედავად; კონტროლირებადი ჰიპერტენზიისა და სტაბილური თირკმლის ფუნქციისას თირკმლის ათეროსკლეროზული სტენოზის რუტინული სტენტირება არ არის გამართლებული.",
       "last_validation": {
         "range": [
-          3,
-          4
+          5,
+          6
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1026,40 +1034,34 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ა": 2,
-          "ბ": 1,
-          "გ": 0,
+          "ა": 1,
+          "ბ": 2,
+          "გ": 1,
           "დ": 1,
           "ე": 1
         },
         "numeric_options_ascending": true,
         "clinical_self_review": "passed",
         "georgian_language_self_review": "passed",
-        "semantic_duplication_review": "№3 არის ქრონიკული მრავალსისხლძარღვოვანი მეზენტერიული იშემიის ენდოვასკულური მკურნალობის არჩევა; №4 არის თირკმლის არტერიის ფიბრომუსკულური დისპლაზიის დროს ანგიოპლასტიკის ჩვენება; №1–2-ის გადაწყვეტილებები არ მეორდება.",
+        "semantic_duplication_review": "№1–4-ის გადაწყვეტილებები (CTA AMI, ARAS რუტინული ჩარევის არჩვენება, CMI SMA სტენტირება, FMD ანგიოპლასტიკა) არ მეორდება. ახალი №5 — MVT საწყისი ანტიკოაგულაცია; №6 — bilateral ARAS + flash pulmonary oedema-ისას სტენტირების განხილვა.",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              3
+              5
             ],
-            "source": "ESVS 2025 Mesenteric and Renal Arteries and Veins Guidelines, Recommendations 9, 10 and 14",
+            "source": "ESVS 2025 Clinical Practice Guidelines on the Management of Diseases of the Mesenteric and Renal Arteries and Veins, Recommendation 50 (I C)",
             "url": "https://doi.org/10.1016/j.ejvs.2025.06.010"
           },
           {
             "questions": [
-              4
+              6
             ],
-            "source": "ESVS 2025 Mesenteric and Renal Arteries and Veins Guidelines, Recommendation 64",
+            "source": "ESVS 2025 Clinical Practice Guidelines on the Management of Diseases of the Mesenteric and Renal Arteries and Veins, Recommendation 65 (IIa C)",
             "url": "https://doi.org/10.1016/j.ejvs.2025.06.010"
-          },
-          {
-            "questions": [
-              4
-            ],
-            "source": "2024 ESC Guidelines for Management of Peripheral Arterial and Aortic Diseases",
-            "url": "https://doi.org/10.1093/eurheartj/ehae179"
           }
-        ]
+        ],
+        "academic_refinement": "შეფასდა ჰემოდინამიკური სტაბილურობა, პერიტონიტისა და სისხლდენის არქონა, ორმხრივი ჰემოდინამიკურად მნიშვნელოვანი თირკმლის სტენოზი და სითხის შეკავებით განვითარებული ფილტვების ელვისებური შეშუპება; სტენტირება წარმოდგენილია განხილვად, არა უპირობო აუცილებლობად."
       }
     },
     "VASCULAR_TRAUMA": {
