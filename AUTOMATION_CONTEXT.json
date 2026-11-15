@@ -1512,10 +1512,10 @@
       "target": 500,
       "question_file": "VGEI_questions.txt",
       "explanation_file": "VGEI_explanations.txt",
-      "last_number": 2,
-      "question_blob_sha": "b0332ecc8c71c6c7665ac430030e569ecff2a48c",
-      "explanation_blob_sha": "4b5387da89481bafe7f3ab596f338214514a5414",
-      "last_full_audit_at": 2,
+      "last_number": 4,
+      "question_blob_sha": "230d220d5a410c3f5e8d0a9a318f625173a5f914",
+      "explanation_blob_sha": "d204dd42c5f2ea943da4d2847d82486141f56327",
+      "last_full_audit_at": 4,
       "recent_stems": [
         {
           "n": 1,
@@ -1524,15 +1524,23 @@
         {
           "n": 2,
           "stem": "72 წლის მამაკაცს სინთეზური პროთეზით ბარძაყ-ბარძაყის ჯვარედინი შუნტირება უნდა ჩაუტარდეს. აქტიური ინფექცია არ აღენიშნება, ბეტა-ლაქტამურ ანტიბიოტიკებზე ალერგია არ აქვს და მეთიცილინისადმი რეზისტენტული სტაფილოკოკით კოლონიზაცია ცნობილი არ არის. რომელია პერიოპერაციული ანტიბიოტიკოპროფილაქტიკის ყველაზე შესაფერისი საწყისი ტაქტიკა?"
+        },
+        {
+          "n": 3,
+          "stem": "66 წლის ქალს სინთეზური პროთეზით ბარძაყ-მუხლქვეშა შუნტირების შემდეგ მე-12 დღეს საზარდულის არეში ლიმფოცელე განუვითარდა. ცხელება და ჭრილობის ჩირქოვანი გამონადენი არ აღენიშნება, ანთებითი მაჩვენებლები ნორმის ფარგლებშია, შუნტი გამავალია. რომელი შეფასებაა ყველაზე ზუსტი პროთეზის ინფექციის თვალსაზრისით?"
+        },
+        {
+          "n": 4,
+          "stem": "69 წლის მამაკაცს ორი წლის წინ მუცლის აორტის ანევრიზმის გამო EVAR ჩაუტარდა. ამჟამად ენდოპროთეზის ინფექციის ნიშნები არ აქვს; იგეგმება პაროდონტოლოგიური ჩარევა ღრძილის მანიპულაციით, რომელიც ბაქტერიემიის მაღალ რისკს უკავშირდება. ESVS-ის 2026 წლის რეკომენდაციების მიხედვით, რომელი პროფილაქტიკური მიდგომაა ყველაზე შესაფერისი?"
         }
       ],
       "topic_rotation": "I №1–40 საფუძვლები და პრევენცია; II №41–80 მიკრობიოლოგია; III №81–130 დიაგნოზი; IV №131–190 გამოსახულებითი დიაგნოსტიკა; V №191–230 ანტიმიკრობული მკურნალობა; VI №231–300 ქირურგიული ტაქტიკა; VII №301–360 მასალები და ჭრილობა; VIII №361–410 ლოკალიზაციები; IX №411–460 გართულებები; X №461–500 შედეგები და მეთვალყურეობა.",
       "linguistic_note": "GLOSSARY.md-ის VGEI ტერმინოლოგია და ბუნებრივი აკადემიური ქართული.",
-      "guideline_check": "ESVS VGEI 2026 DOI 10.1016/j.ejvs.2026.05.035; EANM 2022 Samson classification; ESVS 2020 recommendation 11.",
+      "guideline_check": "ESVS 2026 VGEI guidelines DOI 10.1016/j.ejvs.2026.05.035; Section 3.2 Table 4 (postoperative lymphocele risk); Recommendation 24 (Class IIa, Level C; prophylaxis for high-bacteraemia-risk procedures in patients with intracavity grafts).",
       "last_validation": {
         "range": [
-          1,
-          2
+          3,
+          4
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1542,32 +1550,24 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed",
-        "terminology_self_review": "passed",
-        "georgian_language_self_review": "passed",
-        "semantic_duplication_review": "first two VGEI questions, distinct decisions",
+        "clinical_self_review": "passed; ESVS 2026 risk factors and recommendation 24",
+        "terminology_self_review": "passed; GLOSSARY.md GENERAL and VGEI",
+        "georgian_language_self_review": "passed; academic Georgian, no calques",
+        "semantic_duplication_review": "passed; existing Q1 anastomosis Samson group, Q2 perioperative prophylaxis; new Q3 postoperative lymphocele risk and Q4 prophylaxis before later dental procedure are distinct",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              1
+              3
             ],
-            "source": "EANM 2022 Samson classification",
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9308572/"
+            "source": "ESVS 2026 VGEI guidelines, Section 3.2, Table 4",
+            "url": "https://doi.org/10.1016/j.ejvs.2026.05.035"
           },
           {
             "questions": [
-              2
+              4
             ],
-            "source": "ESVS 2020 VGEI recommendation 11",
-            "url": "https://doi.org/10.1016/j.ejvs.2019.10.016"
-          },
-          {
-            "questions": [
-              1,
-              2
-            ],
-            "source": "ESVS 2026 VGEI guidelines",
+            "source": "ESVS 2026 VGEI guidelines, Section 5.1, Recommendation 24, Class IIa, Level C",
             "url": "https://doi.org/10.1016/j.ejvs.2026.05.035"
           }
         ]
