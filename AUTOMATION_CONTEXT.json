@@ -52,31 +52,11 @@
       "target": 900,
       "question_file": "ALI_questions.txt",
       "explanation_file": "ALI_explanations.txt",
-      "last_number": 70,
-      "question_blob_sha": "e7f64508fee370ef18625d429d5a63d0511da709",
-      "explanation_blob_sha": "f938567df9a807b70c230175bc5325c093c5a365",
+      "last_number": 75,
+      "question_blob_sha": "a2ac825e66152318849eb1472064f16b87a2f43c",
+      "explanation_blob_sha": "f18a6e44a105d796c470033295a5d200f8fc8be6",
       "last_full_audit_at": 50,
       "recent_stems": [
-        {
-          "n": 41,
-          "stem": "ბარძაყ-მუხლქვეშა აუტოვენური შუნტირებიდან მეორე დღეს პაციენტს ტერფის ტკივილი და გაცივება განუვითარდა; დუპლექსსკანირებით შუნტის თრომბოზი დადასტურდა. არტერიული წნევა სტაბილურია, თრომბოციტების რაოდენობა უ"
-        },
-        {
-          "n": 42,
-          "stem": "რაიონულ საავადმყოფოში 64 წლის მამაკაცს ქვედა კიდურის მწვავე იშემია დაუდგინდა. მგრძნობელობა თითებს მიღმაც დაქვეითებულია და ტერფის მოძრაობა შესუსტებულია; კუნთების რიგიდობა არ აქვს. ჰეპარინი და ანალგეზია"
-        },
-        {
-          "n": 43,
-          "stem": "59 წლის მამაკაცს ქვედა კიდურის არტერიული ემბოლიის გამო წარმატებით ჩაუტარდა ემბოლექტომია; კიდურის არტერიებში მნიშვნელოვანი ათეროსკლეროზი არ გამოვლენილა. ტრანსთორაკალურმა და ტრანსეზოფაგურმა ექოკარდიოგრა"
-        },
-        {
-          "n": 44,
-          "stem": "ქვედა კიდურის მწვავე იშემიის გამო კათეტერით მიმართული ალტეპლაზის ინფუზიისას პაციენტს უეცრად ძლიერი თავის ტკივილი, ღებინება და მარჯვენამხრივი ჰემიპარეზი განუვითარდა. ინფუზია დაუყოვნებლივ შეწყდა, სასიცო"
-        },
-        {
-          "n": 45,
-          "stem": "68 წლის მამაკაცს მარჯვენა მუხლქვეშა არტერიის ანევრიზმის თრომბოზით გამოწვეული მწვავე იშემიის გამო წარმატებით ჩაუტარდა რეკონსტრუქცია. გაწერამდე იგეგმება თანმხლები ანევრიზმების სკრინინგი; სხვა არტერიული "
-        },
         {
           "n": 46,
           "stem": "ბარძაყ-მუხლქვეშა შუნტის თრომბოზით გამოწვეული Rutherford IIa კატეგორიის მწვავე იშემიის გამო პაციენტს კათეტერით მიმართული თრომბოლიზი უტარდება. ინფუზიის დაწყებისას მდგომარეობა სტაბილურია და სისხლდენა არ "
@@ -176,6 +156,26 @@
         {
           "n": 70,
           "stem": "68 წლის მამაკაცს ათეროსკლეროზული არტერიის მწვავე თრომბოზის გამო რევასკულარიზაცია ჩაუტარდა სტენტის ჩადგმის გარეშე. წინაგულთა ფიბრილაცია, ვენური თრომბოემბოლია და სრული დოზით ანტიკოაგულაციის სხვა ჩვენება"
+        },
+        {
+          "n": 71,
+          "stem": "62 წლის მამაკაცს ზურგში უეცარი ძლიერი ტკივილის შემდეგ მარცხენა ფეხის ტკივილი და გაცივება დაეწყო. მარცხენა ბარძაყის არტერიაზე პულსი არ ისინჯება; ხელებზე სისტოლური წნევა ერთმანეთისგან 35 mmHg-ით განსხვა"
+        },
+        {
+          "n": 72,
+          "stem": "ქვედა კიდურის ემბოლექტომიის შემდეგ საკონტროლო ანგიოგრაფიაზე პროქსიმალური არტერიები გამავალია, თუმცა წვივის წვრილ დისტალურ არტერიებში ახალი ნარჩენი თრომბები რჩება. მათი კათეტერით მექანიკური ამოღება ვერ"
+        },
+        {
+          "n": 73,
+          "stem": "ქვედა კიდურის რევასკულარიზაციის შემდეგ პაციენტს რაბდომიოლიზი დაუდგინდა: კრეატინკინაზა 18 000 ერთ/ლ-ია და შარდი გამუქებულია. შარდის გამოყოფა შენარჩუნებულია, კალიუმი 4,7 მმოლ/ლ-ია, მძიმე აციდოზი და სითხ"
+        },
+        {
+          "n": 74,
+          "stem": "კიდურის მწვავე არტერიული თრომბოზის მქონე პაციენტს ჰეპარინით გამოწვეული იმუნური თრომბოციტოპენია დაუდასტურდა. ჰეპარინი შეწყდა და არგატრობანით მკურნალობა მიმდინარეობს; თრომბოციტები ჯერ 65 × 10⁹/ლ-ია. შემ"
+        },
+        {
+          "n": 75,
+          "stem": "მწვავე იშემიის გამო მუხლქვეშა არტერიის ანევრიზმის გამოთიშვიდან და ვენური შუნტირებიდან რვა თვის შემდეგ პაციენტს მუხლქვეშა მიდამოს მზარდი ტკივილი და წვივის შეშუპება აქვს. შუნტი გამავალია, გოჯ-მხრის ინდე"
         }
       ],
       "topic_rotation": "Rutherford I/IIa/IIb/III; ემბოლია/თრომბოზი; დუპლექსი/CTA; UFH; თრომბოლიზი (ჩვენებები/უკუჩვენებები); ღია/ენდოვასკულური რევასკულარიზაცია; რეპერფუზიის სინდრომი; ფასციოტომია; შემდგომი მკურნალობა.",
@@ -183,8 +183,8 @@
       "guideline_check": "კლინიკურად სადავო გადაწყვეტილებაზე ერთმნიშვნელოვანი პასუხი არ ააგო; პირველწყარო ESVS/SVS და შესაბამისი გაიდლაინები გადაამოწმე, როცა საჭიროა.",
       "last_validation": {
         "range": [
-          66,
-          70
+          71,
+          75
         ],
         "new_questions": 5,
         "new_explanations": 5,
@@ -202,54 +202,49 @@
         },
         "clinical_self_review": "passed",
         "georgian_language_self_review": "passed",
-        "semantic_duplication_review": "№66–70 შედარებულია ინდექსის ნიშნულებთან და ბოლო 20 სრულ კითხვა-განმარტებასთან; ახალი სცენარები განსხვავებულ დიაგნოსტიკურ ან სამკურნალო გადაწყვეტილებებს ამოწმებს.",
+        "semantic_duplication_review": "№71–75 შედარებულია ინდექსის ნიშნულებთან და ბოლო 20 სრულ კითხვა-განმარტებასთან; ახალი სცენარები არსებულ კითხვებს იმავე გადაწყვეტილებით არ იმეორებს.",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              66
+              71
             ],
             "source": "2024 ESC Guidelines for the management of peripheral arterial and aortic diseases",
-            "section": "8.1.3.1",
+            "section": "9.3.1.3",
             "url": "https://academic.oup.com/eurheartj/article/45/36/3538/7738955"
           },
           {
             "questions": [
-              66
+              72
             ],
-            "source": "Popliteal artery entrapment syndrome. Anatomic and embryologic bases, diagnostic and therapeutic considerations following a series of 15 cases with a review of the literature",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/7482155/"
+            "source": "ESVS 2020 Clinical Practice Guidelines on the Management of Acute Limb Ischaemia",
+            "section": "3.4.3",
+            "recommendation": 19,
+            "url": "https://doi.org/10.1016/j.ejvs.2019.09.006"
           },
           {
             "questions": [
-              67
+              73
             ],
-            "source": "Management of 219 Consecutive Cases of Postcatheterization Pseudoaneurysm",
-            "url": "https://www.jacc.org/doi/10.1016/S0735-1097%2897%2900201-5"
+            "source": "Rhabdomyolysis: an American Association for the Surgery of Trauma Critical Care Committee Clinical Consensus Document",
+            "section": "Management: crystalloid fluid resuscitation",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8804685/"
           },
           {
             "questions": [
-              68
+              74
             ],
-            "source": "Guidance for the practical management of the heparin anticoagulants in the treatment of venous thromboembolism",
-            "section": "Heparin resistance: guidance statement",
-            "applicability": "არაფრაქცირებული ჰეპარინის დოზის მართვის პრინციპი aPTT-ისა და anti-Xa-ის შეუსაბამობისას.",
-            "url": "https://doi.org/10.1007/s11239-015-1315-2"
+            "source": "American Society of Hematology 2018 guidelines for management of venous thromboembolism: heparin-induced thrombocytopenia",
+            "section": "Recommendation 3.5",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6258919/"
           },
           {
             "questions": [
-              69
+              75
             ],
-            "source": "BOA/BAPRAS Standard: Diagnosis and Management of Compartment Syndrome of the Extremities, revised July 2025",
-            "section": "Standards 8–9 and pressure measurement footnote",
-            "url": "https://www.boa.ac.uk/static/d0432d40-5d99-4b64-9952f6eb1b60c166/BOASTCompartmentSyndromeSeptember-2025.pdf"
-          },
-          {
-            "questions": [
-              70
-            ],
-            "source": "2024 ACC/AHA Guideline for the Management of Lower Extremity Peripheral Artery Disease",
-            "url": "https://doi.org/10.1161/CIR.0000000000001251"
+            "source": "The Society for Vascular Surgery clinical practice guidelines on popliteal artery aneurysms",
+            "recommendation": 6,
+            "url": "https://doi.org/10.1016/j.jvs.2021.04.040"
           }
         ]
       }
