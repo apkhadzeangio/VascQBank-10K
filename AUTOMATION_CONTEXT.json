@@ -1271,9 +1271,9 @@
       "target": 600,
       "question_file": "PERIOPERATIVE_questions.txt",
       "explanation_file": "PERIOPERATIVE_explanations.txt",
-      "last_number": 6,
-      "question_blob_sha": "9b5e4c4deff70d825417d406db163cd3b188ee70",
-      "explanation_blob_sha": "276d8dc83506a682ad57cd81710f0c43fb2d6729",
+      "last_number": 8,
+      "question_blob_sha": "720a804f7b66e973752d50e7eaae2634e908bb7c",
+      "explanation_blob_sha": "4d32918d0797364db332ec5d447a0fe9469245c9",
       "last_full_audit_at": 6,
       "recent_stems": [
         {
@@ -1299,15 +1299,23 @@
         {
           "n": 6,
           "stem": "71 წლის მამაკაცს კორონარული არტერიების ქრონიკული დაავადების გამო რამდენიმე წელია უცვლელი დოზით ენიშნება ბისოპროლოლი. სამ დღეში მას ჩაუტარდება თეძო-ბარძაყის არტერიული შუნტირება; პულსი 64/წ"
+        },
+        {
+          "n": 7,
+          "stem": "72 წლის მამაკაცს გეგმიური აორტა-ორბარძაყის შუნტირება უნდა ჩაუტარდეს. პერიოპერაციული კარდიული რისკი მომატებულია; DASI 42 ქულა."
+        },
+        {
+          "n": 8,
+          "stem": "73 წლის ქალს დაგეგმილი აქვს თეძო-ბარძაყის არტერიული შუნტირება, მაგრამ ბოლო ექვს თვეში სხეულის მასის 13% უნებლიეთ დაკარგა; სხეულის მასის ინდექსია 17,6."
         }
       ],
       "topic_rotation": "№1–60 წინასაოპერაციო შეფასება/ოპტიმიზაცია; №61–120 პერიოპერაციული კარდიოვასკულური რისკი; №121–180 ანტიაგრეგანტული და ანტიკოაგულაციური მკურნალობა; №181–250 ჰემოსტაზი, სისხლდენა და ტრანსფუზია; №251–320 თრომბოემბოლია და პროფილაქტიკა; №321–380 ჰემოდინამიკა, ინფუზია და თირკმლის ფუნქცია; №381–440 ფილტვის/მეტაბოლური გართულებები; №441–500 სისხლძარღვოვანი ოპერაციების ადრეული გართულებები; №501–550 ნევროლოგიური/ორგანოსპეციფიკური გართულებები; №551–600 პოსტოპერაციული მეთვალყურეობა. ზუსტად ორი კითხვა თითო ციკლში.",
       "linguistic_note": "აკადემიურად რაფინირებული ბუნებრივი ქართული, GLOSSARY.md-ის ზოგადი და პერიოპერაციული განყოფილების ზუსტი ტერმინოლოგია; არ გამოიყენო კალკები. ზუსტად ორი კითხვა და ორი ორწინადადებიანი განმარტება ყოველ ციკლში.",
-      "guideline_check": "ACC/AHA 2024 Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery (SGLT2 inhibitors stopped 3–4 days before elective surgery); ICCAMS 2023 and perioperative patient blood management recommendations (screen, diagnose, and treat iron deficiency anemia before major surgery).; ESC 2022 noncardiac surgery and 2024 systematic-review overview: intensive preoperative smoking cessation >=4 weeks; IDSA 2019 guideline section XII: no screening or treatment of asymptomatic bacteriuria before elective nonurologic surgery.; SASM 2016 OSA perioperative PAP continuation (recommendation 3.1.4); ACC/AHA 2026 reaffirmed perioperative guideline 7.7 chronic beta-blocker continuation.",
+      "guideline_check": "2026 ACC/AHA perioperative guideline (reaffirmed September 2026): DASI structured assessment and no routine stress testing with adequate functional capacity and stable symptoms; 2025 ESPEN surgical nutrition guideline recommendations 20–21: severe malnutrition nutritional therapy before surgery, consider 10–14 days and prefer oral/enteral route.",
       "last_validation": {
         "range": [
-          5,
-          6
+          7,
+          8
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1317,29 +1325,29 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ე": 1,
-          "ბ": 1
+          "დ": 1,
+          "გ": 1
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed",
+        "clinical_self_review": "passed; evidence checked against ACC/AHA 2026 and ESPEN 2025",
         "terminology_self_review": "passed",
         "georgian_language_self_review": "passed",
-        "semantic_duplication_review": "All existing 4 questions reviewed: #1 iron deficiency anemia, #2 empagliflozin, #3 smoking cessation, #4 asymptomatic bacteriuria; two new unrelated topics.",
+        "semantic_duplication_review": "Compared all previous 1–6: iron deficiency, SGLT2i, smoking, asymptomatic bacteriuria, OSA/CPAP, chronic beta blocker; new functional capacity and severe malnutrition decisions.",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              5
+              7
             ],
-            "source": "Society of Anesthesia and Sleep Medicine 2016 Guideline for Preoperative Screening and Assessment of Adult Patients With OSA, Recommendation 3.1.4: Continue PAP while in hospital, before and after surgery; monitoring required.",
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4956681/"
+            "source": "2026 AHA/ACC Multisociety Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery, Section 3.2 and routine stress testing recommendations (2024 recommendations reaffirmed Sep 2026).",
+            "url": "https://www.jacc.org/doi/10.1016/j.jacc.2026.06.017"
           },
           {
             "questions": [
-              6
+              8
             ],
-            "source": "2026 AHA/ACC Multisociety Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery, Section 7.7, Class I, Level B-NR: continue stable chronic beta-blocker doses as clinically appropriate.",
-            "url": "https://www.jacc.org/doi/10.1016/j.jacc.2026.06.017"
+            "source": "ESPEN guideline on clinical nutrition in surgery – Update 2025, Recommendations 20 and 21 (10–14 days; oral/enteral preferred).",
+            "url": "https://doi.org/10.1016/j.clnu.2025.08.029"
           }
         ]
       }
