@@ -1131,9 +1131,9 @@
       "target": 650,
       "question_file": "VASCULAR_TRAUMA_questions.txt",
       "explanation_file": "VASCULAR_TRAUMA_explanations.txt",
-      "last_number": 10,
-      "question_blob_sha": "6306bef06b097141eb3c425c7c1dc1679bb002bc",
-      "explanation_blob_sha": "f2d692f798b05ec8c0c7eb6e0b322fdb54fd81ef",
+      "last_number": 12,
+      "question_blob_sha": "9f51f396a80c9dcb90c43c5b16b993289be99358",
+      "explanation_blob_sha": "59b1018cd6a5bef0eec4980dca2f6616b7a8ed0a",
       "last_full_audit_at": 2,
       "recent_stems": [
         {
@@ -1175,6 +1175,14 @@
         {
           "n": 10,
           "stem": "33 წლის მამაკაცს წინამხრის ქვედა მესამედში მიყენებული ნაჩხვლეტ-ნაკვეთი ჭრილობით იდაყვის არტერია სრულად გადაეკვეთა. ოპერაციის დროს სისხლდენა კონტროლდება, თუმცა დაზიანებული მონაკვეთი"
+        },
+        {
+          "n": 11,
+          "stem": "39 წლის მამაკაცს მარჯვენა მკლავის შუა მესამედში მიყენებული გამჭოლი ჭრილობის შედეგად მხრის არტერიის სეგმენტური დაზიანება აქვს. ოპერაციისას დაზიანებული მონაკვეთის ამოკვეთის შემდეგ 3 "
+        },
+        {
+          "n": 12,
+          "stem": "49 წლის მამაკაცს ავტოსაგზაო შემთხვევის შემდეგ CTA-ზე გულმკერდის აორტის ისთმუსის ინტიმის მცირე დაზიანება გამოუვლინდა. აორტის გარე კონტური უცვლელია, ფსევდოანევრიზმა და აქტიური სისხლდ"
         }
       ],
       "topic_rotation": "ბლაგვი და შემავალი ტრავმა; სისხლძარღვის დაზიანების სარწმუნო და სავარაუდო ნიშნები; ჰემოდინამიკური სტაბილურობა; CTA და გადაუდებელი ოპერაცია; კისრის, გულმკერდის, მუცლის, მენჯისა და კიდურების სისხლძარღვები; სისხლდენის კონტროლი და დაზიანების კონტროლის ქირურგია; დროებითი ინტრავასკულური შუნტი; არტერიული/ვენური რეკონსტრუქცია; ენდოვასკულური ჩარევა; კომპარტმენტ-სინდრომი და ფასციოტომია; რეპერფუზია; იატროგენული ტრავმა; მეთვალყურეობა.",
@@ -1182,8 +1190,8 @@
       "guideline_check": "ESVS 2025 Clinical Practice Guidelines on the Management of Vascular Trauma (Wahlgren et al., EJVES 69:179–237), DOI 10.1016/j.ejvs.2024.12.018; ყურადღება მიაქციე რეკომენდაციებს 9, 19, 20, 82–86.",
       "last_validation": {
         "range": [
-          9,
-          10
+          11,
+          12
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1193,34 +1201,34 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ა": 0,
-          "ბ": 0,
-          "გ": 1,
-          "დ": 1,
-          "ე": 0
+          "ა": 3,
+          "ბ": 2,
+          "გ": 2,
+          "დ": 2,
+          "ე": 3
         },
         "numeric_options_ascending": true,
         "clinical_self_review": "passed",
         "georgian_language_self_review": "passed",
-        "semantic_duplication_review": "№1–8-თან სემანტიკური დუბლირება არ გამოვლინდა; ორი ახალი ქვეთემა: ლავიწქვეშა არტერიის სტენტგრაფტით აღდგენა და იდაყვის არტერიის იზოლირებული ტრავმული დაზიანების ლიგირება შენარჩუნებული მტევნის პერფუზიით.",
+        "semantic_duplication_review": "№1–10-თან სემანტიკური დუბლირება არ გამოვლენილა; ახალი გადაწყვეტილებებია: მხრის არტერიის მოკლე სეგმენტური დეფექტის საბოლოო ინტერპოზიციური რეკონსტრუქცია და აორტის ESVS I ხარისხის ბლაგვი დაზიანების არაოპერაციული მართვა.",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              9
+              11
             ],
-            "source": "ESVS 2025 Clinical Practice Guidelines on the Management of Vascular Trauma, Recommendation 60 (Class IIa, Level B)",
+            "source": "ESVS 2025 Clinical Practice Guidelines on the Management of Vascular Trauma, Recommendation 16 (Class I, Level C)",
             "url": "https://doi.org/10.1016/j.ejvs.2024.12.018"
           },
           {
             "questions": [
-              10
+              12
             ],
-            "source": "ESVS 2025 Clinical Practice Guidelines on the Management of Vascular Trauma, Recommendation 92 (Class I, Level C)",
+            "source": "ESVS 2025 Clinical Practice Guidelines on the Management of Vascular Trauma, Recommendation 44 (Class I, Level C)",
             "url": "https://doi.org/10.1016/j.ejvs.2024.12.018"
           }
         ],
-        "academic_refinement": "თითოეულ სცენარში მკაფიოა ჰემოდინამიკური მდგომარეობა, სისხლძარღვის გამავლობა, რეკონსტრუქციის ანატომიური წინაპირობები და ერთი უპირატესი არჩევანი."
+        "academic_refinement": "მოცემულია მკაფიო ანატომიური წინაპირობები, ჰემოდინამიკური მდგომარეობა და რეკომენდაციით დასაბუთებული ერთი საუკეთესო პასუხი; თითოეულ განმარტებაში ზუსტად ორი წინადადებაა."
       }
     },
     "ANATOMY_IMAGING": {
