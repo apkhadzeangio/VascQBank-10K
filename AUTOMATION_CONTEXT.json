@@ -1222,35 +1222,43 @@
       "target": 600,
       "question_file": "PERIOPERATIVE_questions.txt",
       "explanation_file": "PERIOPERATIVE_explanations.txt",
-      "last_number": 4,
-      "question_blob_sha": "a02f3a8f7d152ccaffb813e6844e62fc692300e8",
-      "explanation_blob_sha": "5ef1a1a4d0f4d1a7dec85e639694790eefd1e204",
-      "last_full_audit_at": 2,
+      "last_number": 6,
+      "question_blob_sha": "9b5e4c4deff70d825417d406db163cd3b188ee70",
+      "explanation_blob_sha": "276d8dc83506a682ad57cd81710f0c43fb2d6729",
+      "last_full_audit_at": 6,
       "recent_stems": [
         {
           "n": 1,
-          "stem": "72 წლის მამაკაცი მუცლის აორტის ანევრიზმის გეგმიური ღია პროთეზირებისთვის ემზადება; ოპერაციამდე ექვსი კვირაა. ჰემოგლობინია 96 გ/ლ, ფერიტინი — 12 მკგ/ლ;"
+          "stem": "72 წლის მამაკაცი მუცლის აორტის ანევრიზმის გეგმიური ღია პროთეზირებისთვის ემზადება; ოპერაციამდე ექვსი კვირაა. ჰემოგლობინია 96 გ/ლ, ფერიტინი — 12 მკგ/ლ; პაციენტი ჰემოდინამიკურად სტაბილურია დ"
         },
         {
           "n": 2,
-          "stem": "67 წლის ქალს შაქრიანი დიაბეტის გამო დანიშნული აქვს ემპაგლიფლოზინი. ხუთ დღეში მას ჩაუტარდება ბარძაყ-მუხლქვეშა შუნტირება;"
+          "stem": "67 წლის ქალს შაქრიანი დიაბეტის გამო დანიშნული აქვს ემპაგლიფლოზინი. ხუთ დღეში მას ჩაუტარდება ბარძაყ-მუხლქვეშა შუნტირება; გლიკემია კონტროლდება, კეტოაციდოზის ნიშნები არ არის. როგორ უნდა შეიც"
         },
         {
           "n": 3,
-          "stem": "65 წლის მამაკაცს ექვს კვირაში მუცლის აორტის ანევრიზმის გეგმიური ღია პროთეზირება უნდა ჩაუტარდეს. დღეში ერთ კოლოფ სიგარეტს ეწევა და მოწევის შეწყვეტა სურს. მედიკამენტური დახმარების უკუჩვენება არ აქვს. რომელია ოპერაციისწინა "
+          "stem": "65 წლის მამაკაცს ექვს კვირაში მუცლის აორტის ანევრიზმის გეგმიური ღია პროთეზირება უნდა ჩაუტარდეს. დღეში ერთ კოლოფ სიგარეტს ეწევა და მოწევის შეწყვეტა სურს. მედიკამენტური დახმარების უკუჩვენებ"
         },
         {
           "n": 4,
-          "stem": "70 წლის ქალს დაგეგმილი აქვს საძილე არტერიის ენდარტერექტომია. წინასაოპერაციო პერიოდში შემთხვევით ჩატარებულმა შარდის ბაქტერიოლოგიურმა გამოკვლევამ ბაქტერიების მნიშვნელოვანი ზრდა გამოავლინა; პაციენტს არ აქვს ცხელება, შარდვის"
+          "stem": "70 წლის ქალს დაგეგმილი აქვს საძილე არტერიის ენდარტერექტომია. წინასაოპერაციო პერიოდში შემთხვევით ჩატარებულმა შარდის ბაქტერიოლოგიურმა გამოკვლევამ ბაქტერიების მნიშვნელოვანი ზრდა გამოავლინა; "
+        },
+        {
+          "n": 5,
+          "stem": "68 წლის მამაკაცს ქვედა კიდურის გეგმიური არტერიული შუნტირება უნდა ჩაუტარდეს. მას აქვს ძილის ობსტრუქციული აპნოე და ღამით რეგულარულად იყენებს სასუნთქ გზებში უწყვეტი დადებითი წნევით თერაპიას "
+        },
+        {
+          "n": 6,
+          "stem": "71 წლის მამაკაცს კორონარული არტერიების ქრონიკული დაავადების გამო რამდენიმე წელია უცვლელი დოზით ენიშნება ბისოპროლოლი. სამ დღეში მას ჩაუტარდება თეძო-ბარძაყის არტერიული შუნტირება; პულსი 64/წ"
         }
       ],
       "topic_rotation": "№1–60 წინასაოპერაციო შეფასება/ოპტიმიზაცია; №61–120 პერიოპერაციული კარდიოვასკულური რისკი; №121–180 ანტიაგრეგანტული და ანტიკოაგულაციური მკურნალობა; №181–250 ჰემოსტაზი, სისხლდენა და ტრანსფუზია; №251–320 თრომბოემბოლია და პროფილაქტიკა; №321–380 ჰემოდინამიკა, ინფუზია და თირკმლის ფუნქცია; №381–440 ფილტვის/მეტაბოლური გართულებები; №441–500 სისხლძარღვოვანი ოპერაციების ადრეული გართულებები; №501–550 ნევროლოგიური/ორგანოსპეციფიკური გართულებები; №551–600 პოსტოპერაციული მეთვალყურეობა. ზუსტად ორი კითხვა თითო ციკლში.",
       "linguistic_note": "აკადემიურად რაფინირებული ბუნებრივი ქართული, GLOSSARY.md-ის ზოგადი და პერიოპერაციული განყოფილების ზუსტი ტერმინოლოგია; არ გამოიყენო კალკები. ზუსტად ორი კითხვა და ორი ორწინადადებიანი განმარტება ყოველ ციკლში.",
-      "guideline_check": "ACC/AHA 2024 Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery (SGLT2 inhibitors stopped 3–4 days before elective surgery); ICCAMS 2023 and perioperative patient blood management recommendations (screen, diagnose, and treat iron deficiency anemia before major surgery).; ESC 2022 noncardiac surgery and 2024 systematic-review overview: intensive preoperative smoking cessation >=4 weeks; IDSA 2019 guideline section XII: no screening or treatment of asymptomatic bacteriuria before elective nonurologic surgery.",
+      "guideline_check": "ACC/AHA 2024 Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery (SGLT2 inhibitors stopped 3–4 days before elective surgery); ICCAMS 2023 and perioperative patient blood management recommendations (screen, diagnose, and treat iron deficiency anemia before major surgery).; ESC 2022 noncardiac surgery and 2024 systematic-review overview: intensive preoperative smoking cessation >=4 weeks; IDSA 2019 guideline section XII: no screening or treatment of asymptomatic bacteriuria before elective nonurologic surgery.; SASM 2016 OSA perioperative PAP continuation (recommendation 3.1.4); ACC/AHA 2026 reaffirmed perioperative guideline 7.7 chronic beta-blocker continuation.",
       "last_validation": {
         "range": [
-          3,
-          4
+          5,
+          6
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1260,29 +1268,29 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ა": 1,
+          "ე": 1,
           "ბ": 1
         },
         "numeric_options_ascending": true,
         "clinical_self_review": "passed",
         "terminology_self_review": "passed",
         "georgian_language_self_review": "passed",
-        "semantic_duplication_review": "Distinguishable from questions 1 (iron deficiency anemia) and 2 (SGLT2 inhibitor); two unrelated preoperative decisions.",
+        "semantic_duplication_review": "All existing 4 questions reviewed: #1 iron deficiency anemia, #2 empagliflozin, #3 smoking cessation, #4 asymptomatic bacteriuria; two new unrelated topics.",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              3
+              5
             ],
-            "source": "ESC 2022 Guidelines on cardiovascular assessment and management of patients undergoing non-cardiac surgery, pre-operative smoking cessation; 2024 overview of systematic reviews",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/39466689/"
+            "source": "Society of Anesthesia and Sleep Medicine 2016 Guideline for Preoperative Screening and Assessment of Adult Patients With OSA, Recommendation 3.1.4: Continue PAP while in hospital, before and after surgery; monitoring required.",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4956681/"
           },
           {
             "questions": [
-              4
+              6
             ],
-            "source": "IDSA 2019 Asymptomatic Bacteriuria Guideline, Section XII: elective nonurologic surgery; JAMA Surgery 2019 cohort includes vascular surgery",
-            "url": "https://www.idsociety.org/practice-guideline/asymptomatic-bacteriuria/"
+            "source": "2026 AHA/ACC Multisociety Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery, Section 7.7, Class I, Level B-NR: continue stable chronic beta-blocker doses as clinically appropriate.",
+            "url": "https://www.jacc.org/doi/10.1016/j.jacc.2026.06.017"
           }
         ]
       }
