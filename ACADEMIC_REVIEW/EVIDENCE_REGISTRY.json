@@ -1,5 +1,5 @@
 {
-  "verified_at": "2026-11-15T23:27:04+04:00",
+  "verified_at": "2026-11-16T00:25:56+04:00",
   "sources": {
     "AAA2024": {
       "evidence_id": "AAA2024",
@@ -10,7 +10,18 @@
       "retrieval_ref": "turn9view2",
       "verified_at": "2026-11-15T23:27:04+04:00",
       "verification_method": "primary_full_text_or_targeted_retrieval",
-      "full_text_url": "https://orbi.uliege.be/bitstream/2268/317270/1/A.Wanhainen_Eur%20J%20Endovasc%20Surg%20(2024)%2067,%20192-331.pdf"
+      "full_text_url": "https://orbi.uliege.be/bitstream/2268/317270/1/A.Wanhainen_Eur%20J%20Endovasc%20Surg%20(2024)%2067,%20192-331.pdf",
+      "additional_verifications": [
+        {
+          "verified_at": "2026-11-16T00:25:56+04:00",
+          "locator": "ანთებითი ანევრიზმის გაზომვა; ტიპი II/IV ენდოლიკები; რთული EVAR-ის ფიუჟენი; კვებითი რისკი; ტომრის ზრდა; ინფრარენული ღია და ენდოვასკულური ტექნიკა.",
+          "retrieval_refs": [
+            "turn30view2",
+            "turn30view4",
+            "turn31view0"
+          ]
+        }
+      ]
     },
     "AAA2024_SMOKING": {
       "evidence_id": "AAA2024_SMOKING",
@@ -32,7 +43,16 @@
       "retrieval_ref": "turn6view1",
       "verified_at": "2026-11-15T23:27:04+04:00",
       "verification_method": "primary_full_text_or_targeted_retrieval",
-      "full_text_url": "https://uvecd.org.tr/dosyalar/65fab70700c90_acute%20limb%20ischemia%202020%20esvs.pdf"
+      "full_text_url": "https://uvecd.org.tr/dosyalar/65fab70700c90_acute%20limb%20ischemia%202020%20esvs.pdf",
+      "additional_verifications": [
+        {
+          "verified_at": "2026-11-16T00:25:56+04:00",
+          "locator": "ფასციოტომიის შერჩევა; ემბოლექტომიის ტექნიკა; CDT-ის მდებარეობა; ზედა კიდურისა და პერიფერიული ანევრიზმების იშემია.",
+          "retrieval_refs": [
+            "turn6view1"
+          ]
+        }
+      ]
     },
     "CAROTID2023": {
       "evidence_id": "CAROTID2023",
@@ -43,7 +63,18 @@
       "retrieval_ref": "turn8view1",
       "verified_at": "2026-11-15T23:27:04+04:00",
       "verification_method": "primary_full_text_or_targeted_retrieval",
-      "full_text_url": "https://novaresearch.unl.pt/files/83835400/1_s2.0_S1078588422002374_main.pdf"
+      "full_text_url": "https://novaresearch.unl.pt/files/83835400/1_s2.0_S1078588422002374_main.pdf",
+      "additional_verifications": [
+        {
+          "verified_at": "2026-11-16T00:25:56+04:00",
+          "locator": "რეკომენდაციები 47, 62, 79; კაროტიდული ინფექცია, თითქმის სრული ოკლუზიის გამონაკლისი, დუპლექსური კრიტერიუმები, CABG, TCAR, ანტიაგრეგანტული ალტერნატივები და PPI.",
+          "retrieval_refs": [
+            "turn47view2",
+            "turn48view0",
+            "turn48view2"
+          ]
+        }
+      ]
     },
     "DTA2026": {
       "evidence_id": "DTA2026",
@@ -54,7 +85,18 @@
       "retrieval_ref": "turn3view0",
       "verified_at": "2026-11-15T23:27:04+04:00",
       "verification_method": "primary_full_text_or_targeted_retrieval",
-      "full_text_url": "https://orbi.uliege.be/bitstream/2268/340873/1/A.%20Wanhalhen_Eur%20society%20for%20Vasc%20Surgery%20%282026%29.pdf"
+      "full_text_url": "https://orbi.uliege.be/bitstream/2268/340873/1/A.%20Wanhalhen_Eur%20society%20for%20Vasc%20Surgery%20%282026%29.pdf",
+      "additional_verifications": [
+        {
+          "verified_at": "2026-11-16T00:25:56+04:00",
+          "locator": "რეკომენდაცია 72 — ცივი თირკმლის პერფუზია; თავი 4 — მცირე oversizing და ბალონირების არიდება; FET/PETTICOAT; სპინალური დაცვა და ნარჩენი დისექცია.",
+          "retrieval_refs": [
+            "turn51view0",
+            "turn51view1",
+            "turn51view2"
+          ]
+        }
+      ]
     },
     "AORTA2022": {
       "evidence_id": "AORTA2022",
@@ -64,7 +106,16 @@
       "locator": "მწვავე აორტული სინდრომების დიაგნოსტიკა და მკურნალობა; დისექციის კლასიფიკაცია; ოჯახური სკრინინგი; ფიზიკური აქტივობა; TEVAR-ის შემდგომი გამოსახულებითი კონტროლი.",
       "retrieval_ref": "turn12view1",
       "verified_at": "2026-11-15T23:27:04+04:00",
-      "verification_method": "primary_full_text_or_targeted_retrieval"
+      "verification_method": "primary_full_text_or_targeted_retrieval",
+      "additional_verifications": [
+        {
+          "verified_at": "2026-11-16T00:25:56+04:00",
+          "locator": "A ტიპის IMH; სარქვლის რესუსპენზია, ჰემიარქი, მცირე არაჰემორაგიული ინსულტისას ოპერაცია, BAV/ორსულობამდე მარფანის ზღვრები, ნარჩენი დისექციის 1–6–12 თვის კონტროლი, კოარქტაცია და ლოის–დიტცი.",
+          "retrieval_refs": [
+            "turn12view1"
+          ]
+        }
+      ]
     },
     "SVS_STS2020": {
       "evidence_id": "SVS_STS2020",
@@ -265,7 +316,16 @@
       "retrieval_ref": "turn24search7",
       "verified_at": "2026-11-15T23:27:04+04:00",
       "verification_method": "primary_full_text_or_targeted_retrieval",
-      "full_text_url": "https://prevasc.ro/wp-content/uploads/2020/10/Vascular-Access-2018.pdf"
+      "full_text_url": "https://prevasc.ro/wp-content/uploads/2020/10/Vascular-Access-2018.pdf",
+      "additional_verifications": [
+        {
+          "verified_at": "2026-11-16T00:25:56+04:00",
+          "locator": "წვდომით გამოწვეული დისტალური ხელის იშემია და დაუყოვნებელი იშემიური მონომელიური ნეიროპათიისგან გარჩევა.",
+          "retrieval_refs": [
+            "turn24search7"
+          ]
+        }
+      ]
     },
     "ACCESS_FLOW": {
       "evidence_id": "ACCESS_FLOW",
@@ -428,7 +488,17 @@
       "locator": "კისრის არტერიების დისექციის კლინიკური ნიშნები: ტკივილი და ნაწილობრივი ჰორნერის სინდრომი.",
       "retrieval_ref": "turn11search4",
       "verified_at": "2026-11-15T23:27:04+04:00",
-      "verification_method": "primary_full_text_or_targeted_retrieval"
+      "verification_method": "primary_full_text_or_targeted_retrieval",
+      "additional_verifications": [
+        {
+          "verified_at": "2026-11-16T00:25:56+04:00",
+          "locator": "ცხრილის კლინიკური შეთავაზებები: უარყოფითი CTA-ისას fat-sat MRA, 3–6 თვის ანტითრომბოზული მართვა, კისრის ტრავმის აქტივობების 1–6 თვით და შეხორცებამდე არიდება.",
+          "retrieval_refs": [
+            "turn45search4",
+            "turn50view1"
+          ]
+        }
+      ]
     },
     "STROKE2026": {
       "evidence_id": "STROKE2026",
@@ -438,7 +508,17 @@
       "locator": "Initial, Vascular, and Multimodal Imaging: გადაუდებელი ტვინისა და სისხლძარღვების გამოსახულება; მცირე კერის MRI-DWI-ით შეფასება.",
       "retrieval_ref": "turn9search6",
       "verified_at": "2026-11-15T23:27:04+04:00",
-      "verification_method": "primary_full_text_or_targeted_retrieval"
+      "verification_method": "primary_full_text_or_targeted_retrieval",
+      "additional_verifications": [
+        {
+          "verified_at": "2026-11-16T00:25:56+04:00",
+          "locator": "მსუბუქი არაკარდიოემბოლიური ინსულტის DAPT 21 დღე; შერჩეული ფუძის არტერიის ოკლუზიის EVT 24 საათამდე; დისექციის თანმხლები IVT-ის დასაშვებობა.",
+          "retrieval_refs": [
+            "turn44view0",
+            "turn44search24"
+          ]
+        }
+      ]
     },
     "CHOLESTEROL_EMBOLI": {
       "evidence_id": "CHOLESTEROL_EMBOLI",
@@ -510,7 +590,16 @@
       "retrieval_ref": "turn3view1",
       "verified_at": "2026-11-15T23:27:04+04:00",
       "verification_method": "primary_full_text_or_targeted_retrieval",
-      "full_text_url": "https://research-information.bris.ac.uk/files/312766110/1_s2.0_S1078588421009795_main.pdf"
+      "full_text_url": "https://research-information.bris.ac.uk/files/312766110/1_s2.0_S1078588421009795_main.pdf",
+      "additional_verifications": [
+        {
+          "verified_at": "2026-11-16T00:25:56+04:00",
+          "locator": "შერეული და ვენური წყლულის კომპრესია; C5-ის ხანგრძლივი დაცვა; პენტოქსიფილინი; IPC; მენჯის უსიმპტომო რეფლუქსის ადგილობრივი მკურნალობა; ვენური სტენტის ადრეული კონტროლი.",
+          "retrieval_refs": [
+            "turn3view1"
+          ]
+        }
+      ]
     },
     "VV2023": {
       "evidence_id": "VV2023",
@@ -520,7 +609,17 @@
       "locator": "რეციდივი ნეოვასკულარიზაციით; სიმპტომური პაციენტის ადრეული DUS აბლაციის შემდეგ; C2 დაავადებისას რუტინული პერფორანტული ჩარევის თავიდან აცილება; სისხლმდენი ვარიკოზი.",
       "retrieval_ref": "turn4search2",
       "verified_at": "2026-11-15T23:27:04+04:00",
-      "verification_method": "primary_full_text_or_targeted_retrieval"
+      "verification_method": "primary_full_text_or_targeted_retrieval",
+      "additional_verifications": [
+        {
+          "verified_at": "2026-11-16T00:25:56+04:00",
+          "locator": "პუნქტები 7.2.5–7.2.7 და 11.1–11.4: დისტალური არათერმული მკურნალობა, ზედაპირული ეპიფასციური ვენა, შერჩევითი ადრეული DUS; ARTE-ის ანტიკოაგულაცია უკანდახევამდე.",
+          "retrieval_refs": [
+            "turn56search9",
+            "turn60search0"
+          ]
+        }
+      ]
     },
     "EVRA2018": {
       "evidence_id": "EVRA2018",
@@ -531,6 +630,532 @@
       "retrieval_ref": "turn15search0",
       "verified_at": "2026-11-15T23:27:04+04:00",
       "verification_method": "primary_randomized_trial_abstract"
+    },
+    "ABDOMINAL_ANATOMY": {
+      "evidence_id": "ABDOMINAL_ANATOMY",
+      "title": "Arteries of the Abdomen — UAMS Department of Neuroscience",
+      "publication_year": null,
+      "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/artery-tables/arteries-of-the-abdomen/",
+      "locator": "ანატომიური ცხრილი: ჯორჯლის ზემო არტერიიდან გამომავალი პანკრეას-თორმეტგოჯას ქვემო არტერია და ზედა ტოტებთან ანასტომოზები.",
+      "retrieval_ref": "turn30view1",
+      "retrieval_refs": [
+        "turn30view1",
+        "turn31view4"
+      ],
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval"
+    },
+    "UPPER_LIMB_ANATOMY": {
+      "evidence_id": "UPPER_LIMB_ANATOMY",
+      "title": "Arteries of the Upper Limb — UAMS Department of Neuroscience",
+      "publication_year": null,
+      "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/artery-tables/arteries-of-the-upper-limb/",
+      "locator": "ზედაპირული ხელისგულის რკალის ძირითადი წყარო იდაყვის არტერიაა; ღრმა რკალისა — სხივის არტერია.",
+      "retrieval_ref": "turn30view0",
+      "retrieval_refs": [
+        "turn30view0",
+        "turn31view3"
+      ],
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval"
+    },
+    "KDOQI25": {
+      "evidence_id": "KDOQI25",
+      "title": "KDOQI Clinical Practice Guideline for Vascular Access: 2019 Update",
+      "publication_year": 2020,
+      "url": "https://doi.org/10.1053/j.ajkd.2019.12.001",
+      "locator": "გაიდლაინი 25: კათეტერის ინფექციისას მიკრობიოლოგია და ინდივიდუალური მართვა; S. aureus-ისას მოცილების ალგორითმი; IDSA-ის რეკომენდაციასთან ერთად.",
+      "retrieval_ref": "turn62search0",
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval",
+      "full_text_url": "https://www.kidney.org/sites/default/files/2026-07/2019-kdoqi-guideline-vascular-access.pdf",
+      "implementation_urls": [
+        "https://www.kidney.org/sites/default/files/vait-15_detection_management_clinically_significant_av_access_lesion-stenosis_thrombosis.pdf",
+        "https://www.kidney.org/sites/default/files/vait-17_av_access_aneurysm_pseudoaneurysm_management.pdf"
+      ],
+      "retrieval_refs": [
+        "turn62search0",
+        "turn62search36"
+      ]
+    },
+    "MES2025_VENOUS": {
+      "evidence_id": "MES2025_VENOUS",
+      "title": "European Society for Vascular Surgery (ESVS) 2025 Clinical Practice Guidelines on the Management of Diseases of the Mesenteric and Renal Arteries and Veins",
+      "publication_year": 2025,
+      "url": "https://doi.org/10.1016/j.ejvs.2025.06.010",
+      "locator": "მწვავე მეზენტერიული ვენური თრომბოზი: პირველი რიგის UFH/LMWH ანტიკოაგულაცია; პერიტონიტისა და ნეკროზისას ტაქტიკის შეცვლა.",
+      "retrieval_ref": "turn62search32",
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval",
+      "full_text_url": "https://ris.utwente.nl/ws/portalfiles/portal/502462657/PIIS1078588425005167.pdf",
+      "retrieval_refs": [
+        "turn62search32",
+        "turn62search35"
+      ]
+    },
+    "TRAUMA2025_EMBOLIZATION": {
+      "evidence_id": "TRAUMA2025_EMBOLIZATION",
+      "title": "European Society for Vascular Surgery (ESVS) 2025 Clinical Practice Guidelines on the Management of Vascular Trauma",
+      "publication_year": 2025,
+      "url": "https://doi.org/10.1016/j.ejvs.2024.12.018",
+      "locator": "მენჯის ტრავმის აქტიური ლოკალიზებული არტერიული სისხლდენის ენდოვასკულური ემბოლიზაცია.",
+      "retrieval_ref": "turn7view1",
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval",
+      "full_text_url": "https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/103803/ESVS%20Vascular%20Trauma%20Guidelines%202025.pdf?isAllowed=y&sequence=2",
+      "retrieval_refs": [
+        "turn7view1"
+      ]
+    },
+    "TRAUMA2025_VENOUS": {
+      "evidence_id": "TRAUMA2025_VENOUS",
+      "title": "European Society for Vascular Surgery (ESVS) 2025 Clinical Practice Guidelines on the Management of Vascular Trauma",
+      "publication_year": 2025,
+      "url": "https://doi.org/10.1016/j.ejvs.2024.12.018",
+      "locator": "კიდურის ვენური ტრავმა: სტაბილურ პაციენტში ტექნიკურად შესაძლებელი გამავლობის შემნახველი აღდგენა; მცირე დეფექტის ვენორაფია.",
+      "retrieval_ref": "turn7view1",
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval",
+      "full_text_url": "https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/103803/ESVS%20Vascular%20Trauma%20Guidelines%202025.pdf?isAllowed=y&sequence=2",
+      "retrieval_refs": [
+        "turn7view1"
+      ]
+    },
+    "PAD2024_SMOKING": {
+      "evidence_id": "PAD2024_SMOKING",
+      "title": "2024 ACC/AHA Multisociety Guideline for the Management of Lower Extremity Peripheral Artery Disease",
+      "publication_year": 2024,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12728805/",
+      "locator": "PAD-ის დროს თამბაქოს შეწყვეტის ყოველვიზიტური მხარდაჭერა; ქცევითი დახმარებისა და ფარმაკოთერაპიის კომბინაცია.",
+      "retrieval_ref": "turn12view2",
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval",
+      "retrieval_refs": [
+        "turn12view2"
+      ]
+    },
+    "IDSA_CATH2009": {
+      "evidence_id": "IDSA_CATH2009",
+      "title": "Clinical Practice Guidelines for the Diagnosis and Management of Intravascular Catheter-Related Infection: 2009 Update by IDSA",
+      "publication_year": 2009,
+      "url": "https://doi.org/10.1086/599376",
+      "locator": "რეკომენდაციები 57 და 78–83: S. aureus-ით ჰემოდიალიზის კათეტერის ინფექციისას კათეტერის ამოღება, თუ განსაკუთრებული შემზღუდავი გარემოება არ არსებობს.",
+      "retrieval_ref": "turn28search0",
+      "retrieval_refs": [
+        "turn28search0",
+        "turn28search1"
+      ],
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval",
+      "full_text_url": "https://academic.oup.com/cid/article/49/1/1/369414",
+      "currency_note": "IDSA-ის გვერდზე განახლება მიმდინარე პროცესად არის მითითებული; გამოყენებულია 2009 წლის გამოქვეყნებული რეკომენდაცია."
+    },
+    "SASM2016": {
+      "evidence_id": "SASM2016",
+      "title": "Society of Anesthesia and Sleep Medicine Guidelines on Preoperative Screening and Assessment of Adult Patients With Obstructive Sleep Apnea",
+      "publication_year": 2016,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4956681/",
+      "locator": "რეკომენდაცია 3.1.4: უკვე დანიშნული PAP-ის გაგრძელება ძილისას ჰოსპიტალიზაციის ორივე ეტაპზე; მონიტორინგის საჭიროება.",
+      "retrieval_ref": "turn26search0",
+      "retrieval_refs": [
+        "turn26search0",
+        "turn26search1"
+      ],
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval"
+    },
+    "SVS_AAA2018": {
+      "evidence_id": "SVS_AAA2018",
+      "title": "The Society for Vascular Surgery practice guidelines on the care of patients with an abdominal aortic aneurysm",
+      "publication_year": 2018,
+      "url": "https://vascular.org/sites/files/2022-02/SVS_Guideline_AAA_Slides_0.pdf",
+      "locator": "მაღალი ხარისხის SMA სტენოზი IMA-დამოკიდებული ნაწლავისას; აორტული პროთეზის მქონეთა ინვაზიური სტომატოლოგიური პროფილაქტიკა; მილისებრი პროთეზი; პროქსიმალური ანასტომოზი თირკმლის სათავეებთან ახლოს.",
+      "retrieval_ref": "turn30search3",
+      "retrieval_refs": [
+        "turn30search3",
+        "turn31view2",
+        "turn60view0"
+      ],
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval",
+      "full_text_url": "https://res.cloudinary.com/dpmykpsih/image/upload/jackson-hospital-site-324/media/2203/svs-guidelines-jan-2018.pdf"
+    },
+    "PAA_SVS2022": {
+      "evidence_id": "PAA_SVS2022",
+      "title": "The Society for Vascular Surgery clinical practice guidelines on popliteal artery aneurysms",
+      "publication_year": 2022,
+      "url": "https://doi.org/10.1016/j.jvs.2021.04.040",
+      "locator": "რეკომენდაცია 1: ცნობილი PAA-ისას მეორე მუხლქვეშა არტერიისა და მუცლის აორტის სკრინინგი; თრომბოზული გართულებების მართვა იშემიის სიმძიმით.",
+      "retrieval_ref": "turn61search5",
+      "retrieval_refs": [
+        "turn61search5",
+        "turn63view0"
+      ],
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval",
+      "full_text_url": "https://cprv.fr/an-pop-svs-2022.pdf"
+    },
+    "HEPARIN_MONITOR2024": {
+      "evidence_id": "HEPARIN_MONITOR2024",
+      "title": "Warfarin and heparin monitoring in antiphospholipid syndrome",
+      "publication_year": 2024,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11665698/",
+      "locator": "ცხრილი 3: LA-ით გახანგრძლივებული საწყისი aPTT-ისას UFH-ის მონიტორინგისთვის ანტი-Xa; მწვავე ფაზის ფაქტორების ეფექტი.",
+      "retrieval_ref": "turn33search0",
+      "retrieval_refs": [
+        "turn33search0"
+      ],
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval"
+    },
+    "HEPARIN_MONITOR2016": {
+      "evidence_id": "HEPARIN_MONITOR2016",
+      "title": "Guidance for the practical management of the heparin anticoagulants in the treatment of venous thromboembolism",
+      "publication_year": 2016,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4715846/",
+      "locator": "aPTT/ანტი-Xa დისკორდანსი: დაბალი aPTT და სამკურნალო ანტი-Xa არ მოითხოვს ჰეპარინის უსაფუძვლო მატებას.",
+      "retrieval_ref": "turn37search0",
+      "retrieval_refs": [
+        "turn37search0",
+        "turn37search1"
+      ],
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval"
+    },
+    "FOGARTY_IFU": {
+      "evidence_id": "FOGARTY_IFU",
+      "title": "Fogarty Arterial Embolectomy Catheter — Edwards Lifesciences Instructions for Use",
+      "publication_year": null,
+      "url": "https://eifu.edwards.com/eifu/5970f1b346e0fb00015e5f4d/DOC-0256884A.pdf",
+      "locator": "მწარმოებლის გაფრთხილება: ობსტრუქციის მოსაცილებლად საკმარისი ყველაზე მცირე გაბერილი დიამეტრი; კედლის ზედმეტი ზეწოლისა და ჭიმვის თავიდან აცილება.",
+      "retrieval_ref": "turn35search5",
+      "retrieval_refs": [
+        "turn35search5",
+        "turn44view1"
+      ],
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval"
+    },
+    "VALVE2025": {
+      "evidence_id": "VALVE2025",
+      "title": "2025 ESC/EACTS Guidelines for the management of valvular heart disease",
+      "publication_year": 2025,
+      "url": "https://doi.org/10.1093/eurheartj/ehaf194",
+      "locator": "მექანიკური სარქვლისას ხანგრძლივი VKA ანტიკოაგულაცია; DOAC-ები მის შემცვლელ რეკომენდებულ პრეპარატებს არ წარმოადგენს.",
+      "retrieval_ref": "turn34search0",
+      "retrieval_refs": [
+        "turn34search0",
+        "turn34search6"
+      ],
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval",
+      "official_guideline_page": "https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/All-ESC-Practice-Guidelines/Valvular-Heart-Disease"
+    },
+    "ENDOCARDITIS2023": {
+      "evidence_id": "ENDOCARDITIS2023",
+      "title": "2023 ESC Guidelines for the management of endocarditis",
+      "publication_year": 2023,
+      "url": "https://academic.oup.com/eurheartj/article/44/39/3948/7243107",
+      "locator": "სავარაუდო ენდოკარდიტისას უარყოფითი/არადიაგნოსტიკური TTE და მაღალი კლინიკური ეჭვი — TEE-ის ჩვენება.",
+      "retrieval_ref": "turn32search0",
+      "retrieval_refs": [
+        "turn32search0",
+        "turn32search7"
+      ],
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval"
+    },
+    "PAES_PRIMARY": {
+      "evidence_id": "PAES_PRIMARY",
+      "title": "Long-Term Results of Surgical Treatment for Popliteal Artery Entrapment Syndrome",
+      "publication_year": 2024,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11202412/",
+      "locator": "პირველადი ქირურგიული სერია: კუნთოვან-არტერიული ანატომიური კომპრესია და დინამიკური სიმპტომების შეფასება.",
+      "retrieval_ref": "turn38search1",
+      "retrieval_refs": [
+        "turn38search1"
+      ],
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval"
+    },
+    "PSEUDO_DUS": {
+      "evidence_id": "PSEUDO_DUS",
+      "title": "Postcatheterization Femoral Pseudoaneurysms — American College of Cardiology",
+      "publication_year": 2019,
+      "url": "https://www.acc.org/Latest-in-Cardiology/ten-points-to-remember/2019/06/04/10/26/Postcatheterization-Femoral-Pseudoaneurysms",
+      "locator": "დუპლექსური დიაგნოსტიკა და ფსევდოანევრიზმის ყელის ნაკადის შეფასება.",
+      "retrieval_ref": "turn36search0",
+      "retrieval_refs": [
+        "turn36search0"
+      ],
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval"
+    },
+    "RHABDO2022": {
+      "evidence_id": "RHABDO2022",
+      "title": "Rhabdomyolysis: an American Association for the Surgery of Trauma Critical Care Committee Clinical Consensus Document",
+      "publication_year": 2022,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8804685/",
+      "locator": "მიზნობრივი კრისტალოიდური რეანიმაცია; ბიკარბონატის/მანიტოლისა და პრევენციული RRT-ის რუტინული გამოყენების არრეკომენდაცია.",
+      "retrieval_ref": "turn39search0",
+      "retrieval_refs": [
+        "turn39search0"
+      ],
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval"
+    },
+    "CREST2_2026": {
+      "evidence_id": "CREST2_2026",
+      "title": "Medical Management and Revascularization for Asymptomatic Carotid Stenosis",
+      "publication_year": 2026,
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2508800",
+      "locator": "კვლევის დიზაინი: ორი პარალელური რანდომიზებული კვლევა; თითო ჩარევა მედიკამენტურ მართვასთან შედარდა; CAS–CEA პირდაპირი რანდომიზაცია არ ყოფილა.",
+      "retrieval_ref": "turn40search0",
+      "retrieval_refs": [
+        "turn40search0"
+      ],
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval",
+      "publication_note": "ონლაინ გამოქვეყნება: 2025-11-21; ჟურნალის ბეჭდური ტომი: 2026, 394:219–231."
+    },
+    "ESO_DISSECTION2021": {
+      "evidence_id": "ESO_DISSECTION2021",
+      "title": "ESO guideline for the management of extracranial and intracranial artery dissection",
+      "publication_year": 2021,
+      "url": "https://eso-stroke.org/wp-content/uploads/ESO_Dissection_Guideline_03092021.pdf",
+      "locator": "ქალასშიდა დისექციისა და SAH-ისას ადრეული ენდოვასკულური/ქირურგიული მკურნალობა; სტაბილური ექსტრაკრანიალური ნარჩენი ანევრიზმის შერჩევითი მართვა.",
+      "retrieval_ref": "turn42search5",
+      "retrieval_refs": [
+        "turn42search5",
+        "turn42search0"
+      ],
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval"
+    },
+    "FMD2019": {
+      "evidence_id": "FMD2019",
+      "title": "First International Consensus on the diagnosis and management of fibromuscular dysplasia",
+      "publication_year": 2019,
+      "url": "https://journals.sagepub.com/doi/full/10.1177/1358863X18821816",
+      "locator": "მრავალკეროვანი FMD: შუა-დისტალურ ICA-ში შევიწროება-გაგანიერების მონაცვლეობა და ბოლქვის შედარებითი შენარჩუნება.",
+      "retrieval_ref": "turn45search3",
+      "retrieval_refs": [
+        "turn45search3",
+        "turn45search6"
+      ],
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval"
+    },
+    "BRAINSTEM_ANATOMY": {
+      "evidence_id": "BRAINSTEM_ANATOMY",
+      "title": "Medical Neuroscience Laboratory Guide — University of Texas Health Science Center at Houston",
+      "publication_year": 2013,
+      "url": "https://nba.uth.tmc.edu/Assets/pdf/courses/ns_2013_lab_guide.v13.1.0_SCR.pdf",
+      "locator": "ლატერალური მედულარული სინდრომი: ჯვარედინი ტკივილ-ტემპერატურული დეფიციტი, დისფაგია, ატაქსია და ჰორნერის ნიშნები.",
+      "retrieval_ref": "turn49search48",
+      "retrieval_refs": [
+        "turn49search48",
+        "turn50view0"
+      ],
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval"
+    },
+    "DISSECTION_CT_SIGNS": {
+      "evidence_id": "DISSECTION_CT_SIGNS",
+      "title": "Aortic Dissection: CT Features that Distinguish True Lumen from False Lumen",
+      "publication_year": 2001,
+      "url": "https://doi.org/10.2214/ajr.177.1.1770207",
+      "locator": "LePage და თანაავტორების პირველადი CT კვლევა: beak sign — ცრუ სანათურის სასარგებლოდ; კალციფიკაციისა და რკალში შიგნითა სანათურის ნიშნები.",
+      "retrieval_ref": "turn53search4",
+      "retrieval_refs": [
+        "turn53search4",
+        "turn53search5"
+      ],
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval"
+    },
+    "PHRENIC_ANATOMY": {
+      "evidence_id": "PHRENIC_ANATOMY",
+      "title": "Nerves of the Head and Neck — UAMS Department of Neuroscience",
+      "publication_year": null,
+      "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-head-and-neck/",
+      "locator": "დიაფრაგმის ნერვი წინა კიბისებრი კუნთის წინა ზედაპირზე გადის და დიაფრაგმის მოტორულ ინერვაციას უზრუნველყოფს.",
+      "retrieval_ref": "turn55search0",
+      "retrieval_refs": [
+        "turn55search0"
+      ],
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval"
+    },
+    "ADAMKIEWICZ_PRIMARY": {
+      "evidence_id": "ADAMKIEWICZ_PRIMARY",
+      "title": "Anterior Spinal Artery and Artery of Adamkiewicz Detected by Using Multi-Detector Row CT",
+      "publication_year": 2003,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8148952/",
+      "locator": "Kudo და თანაავტორები: რადიკულომედულური ტოტი მალათაშუა ხვრელიდან წინა სპინალურ არტერიას hairpin კონფიგურაციით უერთდება.",
+      "retrieval_ref": "turn53search6",
+      "retrieval_refs": [
+        "turn53search6",
+        "turn63view3"
+      ],
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval"
+    },
+    "ESC_AORTA2024": {
+      "evidence_id": "ESC_AORTA2024",
+      "title": "2024 ESC Guidelines for the management of peripheral arterial and aortic diseases",
+      "publication_year": 2024,
+      "url": "https://academic.oup.com/eurheartj/article/45/36/3538/7738955",
+      "locator": "მაღალი რისკის გაურთულებელი B ტიპის დისექცია: აორტა >40 მმ, ცრუ სანათური >20 მმ, ნახეთქი >10 მმ; შერჩეულ პაციენტებში პრევენციული TEVAR-ის განხილვა ქვემწვავე ფაზაში.",
+      "retrieval_ref": "turn53search0",
+      "retrieval_refs": [
+        "turn53search0",
+        "turn53search1"
+      ],
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval"
+    },
+    "ESC_ANTITHROMBOTIC2021": {
+      "evidence_id": "ESC_ANTITHROMBOTIC2021",
+      "title": "Antithrombotic therapies in aortic and peripheral arterial diseases in 2021: an ESC consensus document",
+      "publication_year": 2021,
+      "url": "https://academic.oup.com/eurheartj/article/42/39/4013/6323985",
+      "locator": "სტანდარტული (T)EVAR-ის შემდეგ ხანგრძლივი ერთი ანტიაგრეგანტის განხილვა პაციენტის რისკით; სხვა დამოუკიდებელი ანტიკოაგულაციური ჩვენების გარჩევა.",
+      "retrieval_ref": "turn53search2",
+      "retrieval_refs": [
+        "turn53search2",
+        "turn53search3"
+      ],
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval"
+    },
+    "PE2026": {
+      "evidence_id": "PE2026",
+      "title": "2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults",
+      "publication_year": 2026,
+      "url": "https://www.ahajournals.org/doi/pdf/10.1161/CIR.0000000000001415",
+      "locator": "დიაგნოსტიკა და ასაკზე მორგებული FEU D-დიმერი; სტაბილური PE-ის ანტიკოაგულაცია/მონიტორინგი; შოკის რეპერფუზია; კავა-ფილტრი; თავი 5.2 რეკომენდაცია 7 — შემცირებული აპიქსაბანი გახანგრძლივებულ ფაზაში.",
+      "retrieval_ref": "turn55view0",
+      "retrieval_refs": [
+        "turn55view0",
+        "turn58view1",
+        "turn64view0"
+      ],
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval"
+    },
+    "PH2022": {
+      "evidence_id": "PH2022",
+      "title": "2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension",
+      "publication_year": 2022,
+      "url": "https://academic.oup.com/eurheartj/article/43/38/3618/6673929",
+      "locator": "თავი 5.1.6: V/Q სკანირება CTEPH-ის გამოსარიცხად; პარენქიმული დაავადების არქონისას ნორმალური პერფუზიის მნიშვნელობა.",
+      "retrieval_ref": "turn54search0",
+      "retrieval_refs": [
+        "turn54search0",
+        "turn54search1"
+      ],
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval"
+    },
+    "ASH_PREG2018": {
+      "evidence_id": "ASH_PREG2018",
+      "title": "American Society of Hematology 2018 guidelines for management of venous thromboembolism: venous thromboembolism in the context of pregnancy",
+      "publication_year": 2018,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6258928/",
+      "locator": "ძუძუთი კვებისას ვარფარინის დასაშვებობა და DOAC-ების არრეკომენდაცია; LMWH-ზე რუტინული ანტი-Xa კონტროლის არრეკომენდაცია; არაპროვოცირებული VTE-ის ანამნეზით წინასამშობიარო პროფილაქტიკა; დამატებითი MRV უარყოფითი US-ისას.",
+      "retrieval_ref": "turn54search5",
+      "retrieval_refs": [
+        "turn54search5",
+        "turn54search10"
+      ],
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval"
+    },
+    "ASH_VTE2020": {
+      "evidence_id": "ASH_VTE2020",
+      "title": "American Society of Hematology 2020 guidelines for management of venous thromboembolism: treatment of deep vein thrombosis and pulmonary embolism",
+      "publication_year": 2020,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7556153/",
+      "locator": "რეკომენდაცია 23: სათანადო VKA მკურნალობაზე რეციდივისას LMWH-ის უპირატესობა; სტაბილური კორონარული დაავადებისას ასპირინის დროებითი შეწყვეტა; ვარფარინის დაწყების გადაფარვა; მნიშვნელოვანი DOAC ურთიერთქმედებები.",
+      "retrieval_ref": "turn56search0",
+      "retrieval_refs": [
+        "turn56search0",
+        "turn56search11"
+      ],
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval"
+    },
+    "ASRA2025": {
+      "evidence_id": "ASRA2025",
+      "title": "Regional anesthesia in the patient receiving antithrombotic or thrombolytic therapy: ASRA Evidence-Based Guidelines, fifth edition",
+      "publication_year": 2025,
+      "url": "https://rapm.bmj.com/content/early/2025/01/21/rapm-2024-105766",
+      "locator": "სამკურნალო მაღალი დოზის LMWH-ის შემდეგ ნეირაქსიალურ ჩხვლეტამდე ან კათეტერის ჩადგმამდე სულ მცირე 24 საათი; ორგანოთა ფუნქციის გათვალისწინება.",
+      "retrieval_ref": "turn56search4",
+      "retrieval_refs": [
+        "turn56search4",
+        "turn56search36"
+      ],
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval"
+    },
+    "VLU2014": {
+      "evidence_id": "VLU2014",
+      "title": "Management of venous leg ulcers: clinical practice guidelines of the Society for Vascular Surgery and the American Venous Forum",
+      "publication_year": 2014,
+      "url": "https://doi.org/10.1016/j.jvs.2014.04.049",
+      "locator": "რეკომენდაცია 3.5: ატიპური წყლულის ან 4–6 კვირის სათანადო მკურნალობაზე გაუმჯობესების არქონისას ბიოფსია.",
+      "retrieval_ref": "turn57search0",
+      "retrieval_refs": [
+        "turn57search0",
+        "turn57search5"
+      ],
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval",
+      "full_text_url": "https://www.dermitek.com/pdf/Management-of-leg-ulcers-SVS-AVF-2014.pdf"
+    },
+    "APIXABAN_LABEL": {
+      "evidence_id": "APIXABAN_LABEL",
+      "title": "ELIQUIS (apixaban) — US prescribing information, DailyMed",
+      "publication_year": null,
+      "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=33752f5d-2ca7-45c0-8292-b54742219b97",
+      "locator": "დოზირება 2.1: მწვავე DVT/PE — 10 მგ ორჯერ 7 დღე, შემდეგ 5 მგ ორჯერ; ≥6 თვის შემდეგ რეციდივის პრევენცია — 2,5 მგ ორჯერ; ძლიერი P-gp/CYP3A4 ინდუქტორები.",
+      "retrieval_ref": "turn57search3",
+      "retrieval_refs": [
+        "turn57search3",
+        "turn57search7"
+      ],
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval"
+    },
+    "ASH_DIAG2018": {
+      "evidence_id": "ASH_DIAG2018",
+      "title": "American Society of Hematology 2018 guidelines for management of venous thromboembolism: diagnosis of venous thromboembolism",
+      "publication_year": 2018,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6258916/",
+      "locator": "განმეორებითი DVT-ის US: ახალი არაკომპრესირებადი სეგმენტი ან ძველ სეგმენტში ნარჩენი დიამეტრის >4 მმ ზრდა.",
+      "retrieval_ref": "turn59search4",
+      "retrieval_refs": [
+        "turn59search4",
+        "turn59search36"
+      ],
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval"
+    },
+    "ASH_THROMBOPHILIA2023": {
+      "evidence_id": "ASH_THROMBOPHILIA2023",
+      "title": "American Society of Hematology 2023 guidelines for management of venous thromboembolism: thrombophilia testing",
+      "publication_year": 2023,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10709681/",
+      "locator": "რეკომენდაცია 2: ოპერაციით პროვოცირებული VTE-ის მკურნალობის დასრულების შემდეგ ხანგრძლივობის დასადგენად რუტინული თრომბოფილიის კვლევა არ არის შეთავაზებული.",
+      "retrieval_ref": "turn59search0",
+      "retrieval_refs": [
+        "turn59search0",
+        "turn59search1"
+      ],
+      "verified_at": "2026-11-16T00:25:56+04:00",
+      "verification_method": "primary_full_text_or_targeted_retrieval"
     }
   }
 }
