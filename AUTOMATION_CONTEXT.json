@@ -1066,9 +1066,9 @@
       "target": 650,
       "question_file": "VASCULAR_TRAUMA_questions.txt",
       "explanation_file": "VASCULAR_TRAUMA_explanations.txt",
-      "last_number": 4,
-      "question_blob_sha": "ac2c13f96e55773bb135ebf0f24c53563b120264",
-      "explanation_blob_sha": "b2a4491929042bd2cf20274aad0fedca0b517f47",
+      "last_number": 6,
+      "question_blob_sha": "10ce0899c8fbdf50b91154ef101d0c1d45373989",
+      "explanation_blob_sha": "3160ff888281596c67374b8036b171ff60d462dc",
       "last_full_audit_at": 2,
       "recent_stems": [
         {
@@ -1086,6 +1086,14 @@
         {
           "n": 4,
           "stem": "42 წლის პაციენტს მუხლქვეშა არტერიის ტრავმული დაზიანების გამო ხანგრძლივი იშემიის შემდეგ წარმატებული რეკონსტრუქცია ჩაუტარდა. რამდენიმე საათში წვივის ტკივილი მკვეთრად გაძლიერდა, განსა"
+        },
+        {
+          "n": 5,
+          "stem": "57 წლის მამაკაცს ავტოსაგზაო შემთხვევის შედეგად მენჯის ძვლების მრავლობითი მოტეხილობა აქვს. მენჯი მექანიკურად სტაბილიზებულია, რეანიმაციული ღონისძიებების შემდეგ ჰემოდინამიკა სტაბილური"
+        },
+        {
+          "n": 6,
+          "stem": "46 წლის მამაკაცს ბარძაყის ნაჩხვლეტ-ნაკვეთი ჭრილობის შედეგად ბარძაყის ვენის მცირე, ლოკალიზებული კედლის დაზიანება აქვს. პაციენტი ჰემოდინამიკურად სტაბილურია, თანმხლები არტერიული დაზია"
         }
       ],
       "topic_rotation": "ბლაგვი და შემავალი ტრავმა; სისხლძარღვის დაზიანების სარწმუნო და სავარაუდო ნიშნები; ჰემოდინამიკური სტაბილურობა; CTA და გადაუდებელი ოპერაცია; კისრის, გულმკერდის, მუცლის, მენჯისა და კიდურების სისხლძარღვები; სისხლდენის კონტროლი და დაზიანების კონტროლის ქირურგია; დროებითი ინტრავასკულური შუნტი; არტერიული/ვენური რეკონსტრუქცია; ენდოვასკულური ჩარევა; კომპარტმენტ-სინდრომი და ფასციოტომია; რეპერფუზია; იატროგენული ტრავმა; მეთვალყურეობა.",
@@ -1093,8 +1101,8 @@
       "guideline_check": "ESVS 2025 Clinical Practice Guidelines on the Management of Vascular Trauma (Wahlgren et al., EJVES 69:179–237), DOI 10.1016/j.ejvs.2024.12.018; ყურადღება მიაქციე რეკომენდაციებს 9, 19, 20, 82–86.",
       "last_validation": {
         "range": [
-          3,
-          4
+          5,
+          6
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1104,34 +1112,34 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ა": 1,
-          "ბ": 0,
-          "გ": 1,
+          "ა": 0,
+          "ბ": 1,
+          "გ": 0,
           "დ": 0,
-          "ე": 0
+          "ე": 1
         },
         "numeric_options_ascending": true,
         "clinical_self_review": "passed",
         "georgian_language_self_review": "passed",
-        "semantic_duplication_review": "№1–2-ისგან განსხვავებული გადაწყვეტილებები: №3 დროებითი ინტრავასკულური შუნტი; №4 კომპარტმენტ-სინდრომის გადაუდებელი ფასციოტომია.",
+        "semantic_duplication_review": "№1–4-ს არ იმეორებს: მენჯის არტერიული სისხლდენის სელექტიური ემბოლიზაცია და ბარძაყის ვენის მცირე ლოკალიზებული დაზიანების პირველადი ნაკერი.",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              3
+              5
             ],
-            "source": "ESVS 2025 Vascular Trauma Guidelines, Recommendation 14 (Class I, Level C), temporary vascular shunts",
+            "source": "ESVS 2025 Vascular Trauma Guidelines, Recommendation 71 (Class I, Level B)",
             "url": "https://doi.org/10.1016/j.ejvs.2024.12.018"
           },
           {
             "questions": [
-              4
+              6
             ],
-            "source": "ESVS 2025 Vascular Trauma Guidelines, Recommendation 96 (Class I, Level B), emergency four-compartment fasciotomy",
+            "source": "ESVS 2025 Vascular Trauma Guidelines, Recommendation 95 (Class IIa, Level B)",
             "url": "https://doi.org/10.1016/j.ejvs.2024.12.018"
           }
         ],
-        "academic_refinement": "ორივე კითხვა ზღუდავს გადაწყვეტილებას მკაფიო კლინიკური პირობებით; პასუხები არ ეყრდნობა სადავო დიაგნოსტიკურ ზღვრებს."
+        "academic_refinement": "განისაზღვრა მენჯის სისხლდენის არტერიული წყარო, ჰემოდინამიკური სტაბილურობა და რემონტის ადგილობრივი შესაძლებლობა; თითოეულ კითხვას აქვს ერთი საუკეთესო პასუხი."
       }
     },
     "ANATOMY_IMAGING": {
