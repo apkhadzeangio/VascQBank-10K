@@ -1288,9 +1288,9 @@
       "target": 600,
       "question_file": "PERIOPERATIVE_questions.txt",
       "explanation_file": "PERIOPERATIVE_explanations.txt",
-      "last_number": 8,
-      "question_blob_sha": "720a804f7b66e973752d50e7eaae2634e908bb7c",
-      "explanation_blob_sha": "4d32918d0797364db332ec5d447a0fe9469245c9",
+      "last_number": 10,
+      "question_blob_sha": "fe9fbe6a9a8d0718ec181a13c850fea5abb8d7ed",
+      "explanation_blob_sha": "3c683d5c0e526933a7d2aabe55f275c32f233efb",
       "last_full_audit_at": 6,
       "recent_stems": [
         {
@@ -1324,6 +1324,14 @@
         {
           "n": 8,
           "stem": "73 წლის ქალს დაგეგმილი აქვს თეძო-ბარძაყის არტერიული შუნტირება, მაგრამ ბოლო ექვს თვეში სხეულის მასის 13% უნებლიეთ დაკარგა; სხეულის მასის ინდექსია 17,6."
+        },
+        {
+          "n": 9,
+          "stem": "9. 69 წლის მამაკაცს ორ დღეში თეძო-ბარძაყის გეგმიური არტერიული შუნტირება უნდა ჩაუტარდეს. მას აქვს ფილტვების ქრონიკული ობსტრუქციული დაავადება; ბოლო სამი დღეა გაუძლიერდა ქოშინი, აღენიშნება ჩირქოვანი ნახველი და სხეულის ტემპერატურაა 38"
+        },
+        {
+          "n": 10,
+          "stem": "10. 80 წლის ქალს მუცლის აორტის უსიმპტომო ანევრიზმის გეგმიური ღია პროთეზირება უნდა ჩაუტარდეს. თანმხლები დაავადებები კონტროლდება, მაგრამ ბოლო თვეებში ყოველდღიური საქმიანობისას დახმარება სჭირდება, ნელა დადის და ორჯერ დაეცა. რომელი და"
         }
       ],
       "topic_rotation": "№1–60 წინასაოპერაციო შეფასება/ოპტიმიზაცია; №61–120 პერიოპერაციული კარდიოვასკულური რისკი; №121–180 ანტიაგრეგანტული და ანტიკოაგულაციური მკურნალობა; №181–250 ჰემოსტაზი, სისხლდენა და ტრანსფუზია; №251–320 თრომბოემბოლია და პროფილაქტიკა; №321–380 ჰემოდინამიკა, ინფუზია და თირკმლის ფუნქცია; №381–440 ფილტვის/მეტაბოლური გართულებები; №441–500 სისხლძარღვოვანი ოპერაციების ადრეული გართულებები; №501–550 ნევროლოგიური/ორგანოსპეციფიკური გართულებები; №551–600 პოსტოპერაციული მეთვალყურეობა. ზუსტად ორი კითხვა თითო ციკლში.",
@@ -1331,8 +1339,8 @@
       "guideline_check": "2026 ACC/AHA perioperative guideline (reaffirmed September 2026): DASI structured assessment and no routine stress testing with adequate functional capacity and stable symptoms; 2025 ESPEN surgical nutrition guideline recommendations 20–21: severe malnutrition nutritional therapy before surgery, consider 10–14 days and prefer oral/enteral route.",
       "last_validation": {
         "range": [
-          7,
-          8
+          9,
+          10
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1342,29 +1350,36 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "დ": 1,
-          "გ": 1
+          "ა": 1,
+          "ე": 1
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed; evidence checked against ACC/AHA 2026 and ESPEN 2025",
-        "terminology_self_review": "passed",
+        "clinical_self_review": "passed; active infectious COPD exacerbation warrants treatment/deferral; frailty screen useful in older adults with high-risk surgery",
+        "terminology_self_review": "passed (GLOSSARY.md)",
         "georgian_language_self_review": "passed",
-        "semantic_duplication_review": "Compared all previous 1–6: iron deficiency, SGLT2i, smoking, asymptomatic bacteriuria, OSA/CPAP, chronic beta blocker; new functional capacity and severe malnutrition decisions.",
+        "semantic_duplication_review": "Reviewed 1–8; №9 tests acute respiratory infection and timing; №10 tests geriatric vulnerability screen, not DASI/cardiac functional capacity.",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              7
+              9
             ],
-            "source": "2026 AHA/ACC Multisociety Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery, Section 3.2 and routine stress testing recommendations (2024 recommendations reaffirmed Sep 2026).",
-            "url": "https://www.jacc.org/doi/10.1016/j.jacc.2026.06.017"
+            "source": "2022 ESC Guidelines on Cardiovascular Assessment and Management of Patients Undergoing Non-Cardiac Surgery; section 6.7.1 Pulmonary disease.",
+            "url": "https://academic.oup.com/eurheartj/article/43/39/3826/6675076"
           },
           {
             "questions": [
-              8
+              10
             ],
-            "source": "ESPEN guideline on clinical nutrition in surgery – Update 2025, Recommendations 20 and 21 (10–14 days; oral/enteral preferred).",
-            "url": "https://doi.org/10.1016/j.clnu.2025.08.029"
+            "source": "2024 AHA/ACC Multisociety Perioperative Guideline section 3.3 Frailty (Class 2a, B-NR).",
+            "url": "https://www.jacc.org/doi/10.1016/j.jacc.2024.06.013"
+          },
+          {
+            "questions": [
+              10
+            ],
+            "source": "Royal College of Anaesthetists, vascular surgery frailty standards (2026)",
+            "url": "https://rcoa.ac.uk/documents/chapter-14-vascular/142-frailty-vascular-surgical-patients"
           }
         ]
       }
