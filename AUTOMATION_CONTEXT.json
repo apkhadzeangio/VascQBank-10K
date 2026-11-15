@@ -261,19 +261,11 @@
       "target": 1200,
       "question_file": "AAA_EVAR_questions.txt",
       "explanation_file": "AAA_EVAR_explanations.txt",
-      "last_number": 94,
-      "question_blob_sha": "6ac324142bbede4e71abfcf99a1410d325ff2d96",
-      "explanation_blob_sha": "0def0e3b8fa88f08da9a918aaabb547e59405185",
+      "last_number": 96,
+      "question_blob_sha": "5e5cae98e822b9de2e08825cb7dba5aa9d04ac70",
+      "explanation_blob_sha": "40fe6e5e5a3012e6e764e20e63268eaf05460115",
       "last_full_audit_at": 50,
       "recent_stems": [
-        {
-          "n": 65,
-          "stem": "მუცლის აორტის რთული ანევრიზმის ფენესტრირებული ენდოპროთეზით მკურნალობიდან რამდენიმე საათში, ჰიპოტენზიის ეპიზოდის შემდეგ, პაციენტს ორივე ფეხის სისუსტე განუვითარდა. ტერფები თბილია, პულსი შენარჩუნებულია; "
-        },
-        {
-          "n": 66,
-          "stem": "49 წლის მამაკაცს მუცლის აორტის 43 მმ დიამეტრის ანევრიზმა გამოუვლინდა. მამას 54 წლის ასაკში აორტის დისექცია ჰქონდა, ძმას კი 52 წლის ასაკში მუცლის აორტის ანევრიზმა დაუდგინდა. გამოხატული სინდრომული გარეგ"
-        },
         {
           "n": 67,
           "stem": "მუცლის აორტის გამსკდარი ანევრიზმის ღია პროთეზირებისას ძლიერი სისხლდენა გრძელდება და მასიური ტრანსფუზიის პროტოკოლი გააქტიურდა. ჰემოგლობინი 80 გ/ლ-ია. SVS-ის მიხედვით, ერითროციტული მასის, ახლადგაყინული "
@@ -385,6 +377,14 @@
         {
           "n": 94,
           "stem": "76 წლის მამაკაცს მუცლის აორტის 65 მმ დიამეტრის ინფრარენალური ანევრიზმის გამო EVAR ესაჭიროება. CTA-ზე პროქსიმალური და დისტალური ჰერმეტიზაციის ზონები შესაფერისია, მაგრამ ორივე თეძოს გარეთა არტერია ვიწრო"
+        },
+        {
+          "n": 95,
+          "stem": "76 წლის მამაკაცი გადაუდებელ განყოფილებაში მიიყვანეს ექვსსაათიანი ძლიერი წელის ტკივილით. CTA-ზე მუცლის აორტის 68 მმ დიამეტრის ანევრიზმის უკანა კედელი ხერხემლის სხეულის კონტურს მჭიდროდ მიჰყვება, მათ შორ"
+        },
+        {
+          "n": 96,
+          "stem": "მუცლის აორტის გამსკდარი ანევრიზმის EVAR-იდან 18 საათში 73 წლის მამაკაცს სისხლიანი დიარეა, ლაქტატის მატება და მეტაბოლური აციდოზი განუვითარდა. მუცელი დიფუზურად მტკივნეულია, აღინიშნება კუნთების დაცვითი დ"
         }
       ],
       "topic_rotation": "უსიმპტომო და სიმპტომური AAA; ESVS 2024; ზომითი ზღვრები; EVAR ანატომია, ღია ოპერაცია vs EVAR; რუპტურის გადაუდებელი მართვა; ენდოლიკის ტიპები; გამოსახულებითი მეთვალყურეობა; გართულებები და რევიზია.",
@@ -392,35 +392,34 @@
       "guideline_check": "კლინიკურად სადავო გადაწყვეტილებაზე ერთმნიშვნელოვანი პასუხი არ ააგო; პირველწყარო ESVS/SVS და შესაბამისი გაიდლაინები გადაამოწმე, როცა საჭიროა.",
       "last_validation": {
         "range": [
-          93,
-          94
+          95,
+          96
         ],
         "new_questions": 2,
         "new_explanations": 2,
+        "clinical_self_review": "passed",
+        "georgian_language_self_review": "passed",
         "numbering_continuous": true,
-        "five_options_each": true,
+        "options_each": 5,
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
-        "numeric_options_ascending": true,
-        "clinical_self_review": "passed",
-        "georgian_language_self_review": "passed",
-        "semantic_duplication_review": "Distinct from questions 1–92: women repair threshold; severely calcified iliac access and surgical conduit",
+        "semantic_duplication_review": "Compared all pre-existing question stems and clinical decisions",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              93
+              95
             ],
-            "source": "ESVS 2024 AAA guidelines recommendation 23",
-            "url": "https://orbi.uliege.be/bitstream/2268/317270/1/A.Wanhainen_Eur%20J%20Endovasc%20Surg%20%282024%29%2067%2C%20192-331.pdf"
+            "source": "JCS/JSCVS/JATS/JSVS 2020 Guideline on Diagnosis and Treatment of Aortic Aneurysm and Aortic Dissection; draped aorta sign (published 2023)",
+            "url": "https://www.jstage.jst.go.jp/article/circj/advpub/0/advpub_CJ-22-0794/_html/-char/en"
           },
           {
             "questions": [
-              94
+              96
             ],
-            "source": "ESVS 2024 AAA guidelines: access vessel assessment and surgical conduit",
-            "url": "https://orbi.uliege.be/bitstream/2268/317270/1/A.Wanhainen_Eur%20J%20Endovasc%20Surg%20%282024%29%2067%2C%20192-331.pdf"
+            "source": "ESVS 2024 Abdominal Aorto-Iliac Artery Aneurysm Guidelines, section 6.4.2 and Figure 4, high suspicion of colonic ischaemia",
+            "url": "https://cprv.fr/aneurism-esvs-2024.pdf"
           }
         ]
       }
