@@ -1197,8 +1197,8 @@
       "question_file": "ANATOMY_IMAGING_questions.txt",
       "explanation_file": "ANATOMY_IMAGING_explanations.txt",
       "last_number": 12,
-      "question_blob_sha": "727c9d6d5749cf0626031ce900bd7bb9ee4fdd53",
-      "explanation_blob_sha": "cd2aa4945b8612bbaebd0cb2f13c880bb826daf7",
+      "question_blob_sha": "8e316d00d82ee0957cda03bef7c632495e54faf5",
+      "explanation_blob_sha": "c76944eb579bf5ccd431e4c4dab710778a9828c6",
       "last_full_audit_at": 2,
       "recent_stems": [
         {
