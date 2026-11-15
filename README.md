@@ -54,22 +54,22 @@
 <!-- VASCQBANK_MONITORING_START -->
 ### აგენტების მონიტორინგი და ხარისხის კონტროლი
 
-**პირველადი მდგომარეობა:** ახლად დანერგილი მონიტორინგი; ბოლო ატვირთვის დრო, 24-საათიანი მატება და Quality Gate-ის შედეგი ავტომატურად შეივსება Watchdog-ის პირველი წარმატებული გაშვებისას. ყველა მწარმოებელი აგენტის Heartbeat ინტეგრაცია ჯერ დაუდასტურებელია.
+**შემოწმებულია:** 2026-11-16 03:34 (თბილისი). **Heartbeat-ით დადასტურებული მიმდინარე სამუშაო:** 0; **Heartbeat-ინტეგრირებული თემები:** 0/12. სხვა ChatGPT ანგარიშების ავტომატიზაციების მდგომარეობა მიუწვდომელია.
 
-| თემა | კითხვები | ბოლო ატვირთვა | +24სთ | სტატუსი | Quality Gate | ინდექსი |
-|---|---:|---|---:|---|---|---|
-| PAD_CLTI | 11/1500 | უცნობი | — | UNKNOWN | PENDING | OK |
-| ALI | 97/900 | უცნობი | — | UNKNOWN | PENDING | OK |
-| AAA_EVAR | 96/1200 | უცნობი | — | UNKNOWN | PENDING | OK |
-| THORACIC_AORTA | 87/700 | უცნობი | — | UNKNOWN | PENDING | OK |
-| CAROTID_VERTEBRAL | 98/900 | უცნობი | — | UNKNOWN | PENDING | OK |
-| VENOUS | 92/900 | უცნობი | — | UNKNOWN | PENDING | OK |
-| DIALYSIS_ACCESS | 17/650 | უცნობი | — | UNKNOWN | PENDING | OK |
-| MESENTERIC_RENAL | 14/600 | უცნობი | — | UNKNOWN | PENDING | OK |
-| VASCULAR_TRAUMA | 14/650 | უცნობი | — | UNKNOWN | PENDING | OK |
-| VGEI | 6/500 | უცნობი | — | UNKNOWN | PENDING | OK |
-| ANATOMY_IMAGING | 14/900 | უცნობი | — | UNKNOWN | PENDING | OK |
-| PERIOPERATIVE | 14/600 | უცნობი | — | UNKNOWN | PENDING | OK |
+| თემა | კითხვები | ბოლო წარმატებული ატვირთვა | +24სთ | სტატუსი | Quality Gate | ინდექსი | შენიშვნა |
+|---|---:|---|---:|---|---|---|---|
+| PAD_CLTI | 11/1500 | 2026-11-16 03:30 | +11 | PRODUCING | SUCCESS | OK | Heartbeat დასაკავშირებელია |
+| ALI | 97/900 | 2026-11-15 21:57 | +52 | UNKNOWN | SUCCESS | OK | Heartbeat დასაკავშირებელია; ≥2სთ ახალი კითხვის გარეშე; დაკვირვება |
+| AAA_EVAR | 96/1200 | 2026-11-16 03:06 | +56 | PRODUCING | SUCCESS | OK | Heartbeat დასაკავშირებელია |
+| THORACIC_AORTA | 87/700 | 2026-11-15 21:54 | +47 | UNKNOWN | SUCCESS | OK | Heartbeat დასაკავშირებელია; ≥2სთ ახალი კითხვის გარეშე; დაკვირვება |
+| CAROTID_VERTEBRAL | 98/900 | 2026-11-16 03:24 | +58 | PRODUCING | SUCCESS | OK | Heartbeat დასაკავშირებელია |
+| VENOUS | 92/900 | 2026-11-16 01:41 | +52 | UNKNOWN | SUCCESS | OK | Heartbeat დასაკავშირებელია |
+| DIALYSIS_ACCESS | 17/650 | 2026-11-16 03:15 | +17 | PRODUCING | SUCCESS | OK | Heartbeat დასაკავშირებელია |
+| MESENTERIC_RENAL | 14/600 | 2026-11-16 02:58 | +14 | PRODUCING | SUCCESS | OK | Heartbeat დასაკავშირებელია |
+| VASCULAR_TRAUMA | 14/650 | 2026-11-16 03:04 | +14 | PRODUCING | SUCCESS | OK | Heartbeat დასაკავშირებელია |
+| VGEI | 6/500 | 2026-11-16 03:15 | +6 | PRODUCING | SUCCESS | OK | Heartbeat დასაკავშირებელია |
+| ANATOMY_IMAGING | 14/900 | 2026-11-16 02:41 | +14 | PRODUCING | SUCCESS | OK | Heartbeat დასაკავშირებელია |
+| PERIOPERATIVE | 14/600 | 2026-11-16 02:57 | +14 | PRODUCING | SUCCESS | OK | Heartbeat დასაკავშირებელია |
 
-UNKNOWN არ ნიშნავს მუშაობის შეწყვეტას. ეს ცხრილი არ ადასტურებს აგენტის აქტიურობას ან კლინიკურ რეცენზირებას.
+PRODUCING ნიშნავს ახლახან დადასტურებულ ატვირთვას და არა აქტიურ ჩატს. UNKNOWN არ ნიშნავს მუშაობის შეწყვეტას. Quality Gate ამოწმებს მხოლოდ სტრუქტურას, არა დამოუკიდებელ კლინიკურ ხარისხს. მონიტორი არ ცვლის კითხვებს, განმარტებებს ან საერთო ინდექსს.
 <!-- VASCQBANK_MONITORING_END -->
