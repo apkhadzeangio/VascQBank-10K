@@ -52,31 +52,11 @@
       "target": 900,
       "question_file": "ALI_questions.txt",
       "explanation_file": "ALI_explanations.txt",
-      "last_number": 60,
-      "question_blob_sha": "bc84afad685570737df18cd58b47f0ea5aacaa3b",
-      "explanation_blob_sha": "acfd324818fade11e59c5105d64d547b786aab92",
+      "last_number": 65,
+      "question_blob_sha": "e9cca8b8c23a513d8508d21fbdada396591a6a35",
+      "explanation_blob_sha": "3fc165ece9845dad9c62578611708ee4ea8efbac",
       "last_full_audit_at": 50,
       "recent_stems": [
-        {
-          "n": 31,
-          "stem": "ქვედა კიდურის მწვავე იშემიის რევასკულარიზაციის შემდეგ სედაციის ქვეშ მყოფ პაციენტს წვივის შეშუპება მოემატა. ტკივილისა და მგრძნობელობის შეფასება შეუძლებელია, კლინიკური ნიშნებით კი კომპარტმენტ-სინდრომი ე"
-        },
-        {
-          "n": 32,
-          "stem": "39 წლის ქალს ქვედა კიდურის მწვავე იშემია ბარძაყის არტერიის თრომბოზმა გამოიწვია. ანგიოგრაფიაზე მნიშვნელოვანი ათეროსკლეროზი არ ჩანს და ემბოლიის კარდიული წყარო ვერ გამოვლინდა. ანამნეზში აქვს არაპროვოცირე"
-        },
-        {
-          "n": 33,
-          "stem": "ქვედა კიდურის მწვავე იშემიის გამო პაციენტს კათეტერით მიმართული ალტეპლაზის ინფუზია ეწყება. სისტემური ანტიკოაგულაციის დამოუკიდებელი ჩვენება არ აქვს. ESVS-ის რეკომენდაციის მიხედვით, როგორ უნდა გადაწყდეს "
-        },
-        {
-          "n": 34,
-          "stem": "58 წლის ქალს მარცხენა ხელის ტკივილი და გაცივება უეცრად დაეწყო. იღლიისა და მხრის არტერიებზე პულსი არ ისინჯება, მტევნის მოძრაობა შენარჩუნებულია. წარსულში ლავიწზედა მიდამოს სხივური თერაპია ჩაუტარდა; წინა"
-        },
-        {
-          "n": 35,
-          "stem": "ქვედა კიდურის მწვავე იშემიის გამო კათეტერით მიმართული თრომბოლიზისთვის ბარძაყის საერთო არტერიის პუნქცია იგეგმება. რომელი ტექნიკა ამცირებს პუნქციურ სისხლდენასთან დაკავშირებული გართულებების რისკს?"
-        },
         {
           "n": 36,
           "stem": "ქვედა კიდურის Rutherford IIb კატეგორიის იშემია რევასკულარიზაციამდე ათ საათს გაგრძელდა. თრომბექტომიის შემდეგ არტერიული ნაკადი დამაკმაყოფილებელია, თუმცა წვივის კუნთები შეშუპებულია. კომპარტმენტ-სინდრომი "
@@ -176,6 +156,26 @@
         {
           "n": 60,
           "stem": "60 წლის მამაკაცს ათეროსკლეროზულად შეცვლილი არტერიის მწვავე თრომბოზის გამო რევასკულარიზაცია ჩაუტარდა. დღეში 25 ღერს ეწევა და მოწევის შეწყვეტა სურს, თუმცა წინა ორი დამოუკიდებელი მცდელობა წარუმატებელი იყ"
+        },
+        {
+          "n": 61,
+          "stem": "ქვედა კიდურის ემბოლექტომიის შემდეგ არაფრაქცირებული ჰეპარინის ინფუზიის ფონზე პაციენტს ჭრილობიდან ძლიერი სისხლდენა და ჰიპოტენზია განუვითარდა. ჰეპარინი შეწყდა, სისხლდენის ქირურგიული კონტროლი და რეანიმაცი"
+        },
+        {
+          "n": 62,
+          "stem": "ბარძაყ-მუხლქვეშა შუნტის მწვავე თრომბოზით გამოწვეული Rutherford IIa კატეგორიის იშემიის გამო კათეტერით მიმართული თრომბოლიზი განიხილება. ტერფის მოძრაობა შენარჩუნებულია და კლინიკური მდგომარეობა არ უარესდე"
+        },
+        {
+          "n": 63,
+          "stem": "29 წლის სპორტსმენს მარჯვენა ხელის მწვავე არტერიული იშემიის გამო ემბოლექტომია ჩაუტარდა. CTA-ზე დამატებითი კისრის ნეკნით ლავიწქვეშა არტერიის კომპრესია და კომპრესიის დისტალურად ანევრიზმა კედლისმიერი თრომ"
+        },
+        {
+          "n": 64,
+          "stem": "71 წლის მამაკაცს მუხლქვეშა არტერიის ანევრიზმის თრომბოზი და წვივის არტერიების დისტალური ემბოლიზაცია დაუდასტურდა. მგრძნობელობა თითებს მიღმაც დაქვეითებულია, ტერფის მოძრაობა შესუსტებულია, თუმცა კუნთების რ"
+        },
+        {
+          "n": 65,
+          "stem": "44 წლის ქალს ქვედა კიდურის არტერიის თრომბოზის გამო წარმატებით ჩაუტარდა რევასკულარიზაცია. მანამდე დადასტურებული ჰქონდა ანტიფოსფოლიპიდური სინდრომი: ლუპუსის ანტიკოაგულანტი, ანტიკარდიოლიპინური და ანტი-β2-"
         }
       ],
       "topic_rotation": "Rutherford I/IIa/IIb/III; ემბოლია/თრომბოზი; დუპლექსი/CTA; UFH; თრომბოლიზი (ჩვენებები/უკუჩვენებები); ღია/ენდოვასკულური რევასკულარიზაცია; რეპერფუზიის სინდრომი; ფასციოტომია; შემდგომი მკურნალობა.",
@@ -183,8 +183,8 @@
       "guideline_check": "კლინიკურად სადავო გადაწყვეტილებაზე ერთმნიშვნელოვანი პასუხი არ ააგო; პირველწყარო ESVS/SVS და შესაბამისი გაიდლაინები გადაამოწმე, როცა საჭიროა.",
       "last_validation": {
         "range": [
-          56,
-          60
+          61,
+          65
         ],
         "new_questions": 5,
         "new_explanations": 5,
@@ -202,56 +202,55 @@
         },
         "clinical_self_review": "passed",
         "georgian_language_self_review": "passed",
-        "semantic_duplication_review": "№56–60 შედარებულია ინდექსის ნიშნულებთან და ბოლო 20 სრულ კითხვა-განმარტებასთან; არსებული სცენარი იმავე გადაწყვეტილებით არ მეორდება.",
+        "semantic_duplication_review": "№61–65 შედარებულია ინდექსის ნიშნულებთან და ბოლო 20 სრულ კითხვა-განმარტებასთან; ახალი კლინიკური სცენარები არსებულ კითხვებს იმავე გადაწყვეტილებით არ იმეორებს.",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              56
+              61
             ],
-            "source": "CIRSE Standards of Practice for the Endovascular Management of Acute Lower Limb Ischaemia",
-            "section": "Catheter placement and infusion mechanics",
-            "url": "https://doi.org/10.1007/s00270-026-04622-0"
+            "source": "NSW Health Guideline: Intravenous Unfractionated Heparin Infusion, GL2025_009",
+            "section": "15",
+            "url": "https://www1.health.nsw.gov.au/pds/ActivePDSDocuments/GL2025_009.pdf"
           },
           {
             "questions": [
-              57
+              62
             ],
-            "source": "UK Kidney Association Clinical Practice Guideline: Treatment of Acute Hyperkalaemia in Adults, October 2023",
-            "section": "19.6",
-            "url": "https://www.ukkidney.org/sites/default/files/FINAL%20VERSION%20-%20UKKA%20CLINICAL%20PRACTICE%20GUIDELINE%20-%20MANAGEMENT%20OF%20HYPERKALAEMIA%20IN%20ADULTS%20-%20191223.pdf"
+            "source": "ESVS 2020 Clinical Practice Guidelines on the Management of Acute Limb Ischaemia",
+            "section": "Table 5",
+            "url": "https://doi.org/10.1016/j.ejvs.2019.09.006"
           },
           {
             "questions": [
-              57
+              63
             ],
-            "source": "Resuscitation Council UK 2025 Special circumstances Guidelines",
-            "section": "Hyperkalaemia",
-            "url": "https://www.resus.org.uk/professional-library/2025-resuscitation-guidelines/special-circumstances-guidelines"
+            "source": "Vascular Society Thoracic Outlet Syndrome Clinical Interest Group",
+            "section": "13 May 2026: Scher classification, stages 2–3",
+            "url": "https://vascularsociety.org.uk/vascular-services/thoracic-outlet-syndrome"
           },
           {
             "questions": [
-              58
+              63
             ],
-            "source": "2023 ESC Guidelines for the management of endocarditis",
-            "section": "5.4.1",
-            "url": "https://doi.org/10.1093/eurheartj/ehad193"
+            "source": "ESVS 2020 Clinical Practice Guidelines on the Management of Acute Limb Ischaemia",
+            "section": "7.1",
+            "url": "https://doi.org/10.1016/j.ejvs.2019.09.006"
           },
           {
             "questions": [
-              59
+              64
             ],
-            "source": "ESVS 2021 Clinical Practice Guidelines on the Management of Venous Thrombosis",
-            "section": "2.10",
-            "url": "https://www.sciencedirect.com/science/article/pii/S1078588420308686"
+            "source": "The Society for Vascular Surgery clinical practice guidelines on popliteal artery aneurysms",
+            "recommendation": 5,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34023430/"
           },
           {
             "questions": [
-              60
+              65
             ],
-            "source": "2024 ACC/AHA Guideline for the Management of Lower Extremity Peripheral Artery Disease",
-            "section": "5.4",
-            "url": "https://doi.org/10.1161/CIR.0000000000001251"
+            "source": "EULAR recommendations for the management of antiphospholipid syndrome in adults",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/11034817/"
           }
         ]
       }
