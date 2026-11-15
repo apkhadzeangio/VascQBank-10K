@@ -1489,9 +1489,9 @@
       "target": 600,
       "question_file": "PERIOPERATIVE_questions.txt",
       "explanation_file": "PERIOPERATIVE_explanations.txt",
-      "last_number": 14,
-      "question_blob_sha": "8bcfcd32e1f11f4d20eded675d05fb9c2d360c43",
-      "explanation_blob_sha": "21cdaa7ad467927c133f72e0b3eaecef79b15599",
+      "last_number": 16,
+      "question_blob_sha": "91628c72a35521e60f08866161e54633d9b6c060",
+      "explanation_blob_sha": "879cd4e3c0f029890202777ade1bc8651a201b4c",
       "last_full_audit_at": 6,
       "recent_stems": [
         {
@@ -1549,15 +1549,23 @@
         {
           "n": 14,
           "stem": "61 წლის ქალი რევმატოიდული ართრიტის გამო ექვსი თვეა ყოველდღიურად იღებს პრედნიზოლონს 10 მგ დოზით. თირკმელზედა ჯირკვლის ფუნქცია არ შეუმოწმებია; მას დაგეგმილი აქვს ქვედა კიდურის ღია არტერიული შუნტირება ზოგადი ანესთ"
+        },
+        {
+          "n": 15,
+          "stem": "15. 65 წლის მამაკაცს სიმპტომური ათეროსკლეროზული პერიფერიული არტერიული დაავადების გამო სამ კვირაში ბარძაყ-მუხლქვეშა შუნტირება უნდა ჩაუტარდეს. ამჟამად სტატინს არ იღებს, თუმცა მისი დანიშვნის უკუჩვენება არ აქვს. მედიკამ"
+        },
+        {
+          "n": 16,
+          "stem": "16. 70 წლის მამაკაცს ოთხი კვირის წინ ჰქონდა იშემიური ინსულტი, რის შემდეგაც ნევროლოგიური მდგომარეობა სტაბილურია. კოჭლობის გამო მას ქვედა კიდურის გეგმიური არტერიული შუნტირება უნდა ჩაუტარდეს, თუმცა კიდურისთვის უშუალო ს"
         }
       ],
       "topic_rotation": "№1–60 წინასაოპერაციო შეფასება/ოპტიმიზაცია; №61–120 პერიოპერაციული კარდიოვასკულური რისკი; №121–180 ანტიაგრეგანტული და ანტიკოაგულაციური მკურნალობა; №181–250 ჰემოსტაზი, სისხლდენა და ტრანსფუზია; №251–320 თრომბოემბოლია და პროფილაქტიკა; №321–380 ჰემოდინამიკა, ინფუზია და თირკმლის ფუნქცია; №381–440 ფილტვის/მეტაბოლური გართულებები; №441–500 სისხლძარღვოვანი ოპერაციების ადრეული გართულებები; №501–550 ნევროლოგიური/ორგანოსპეციფიკური გართულებები; №551–600 პოსტოპერაციული მეთვალყურეობა. ზუსტად ორი კითხვა თითო ციკლში.",
       "linguistic_note": "აკადემიურად რაფინირებული ბუნებრივი ქართული, GLOSSARY.md-ის ზოგადი და პერიოპერაციული განყოფილების ზუსტი ტერმინოლოგია; არ გამოიყენო კალკები. ზუსტად ორი კითხვა და ორი ორწინადადებიანი განმარტება ყოველ ციკლში.",
-      "guideline_check": "ACC/AHA 2026 noncardiac surgery guideline §6.2, preoperative BP, Class 2b C-LD: sustained BP ≥180 systolic or ≥110 diastolic with cardiovascular risk factors in elevated-risk elective surgery merits deferral consideration. ESE/Endocrine Society 2024 joint guideline R3.1B: parenteral stress-dose glucocorticoid coverage for general anesthesia / nil by mouth when glucocorticoid-induced adrenal insufficiency cannot be excluded.",
+      "guideline_check": "2026 AHA/ACC multisociety Perioperative Guideline (JACC, 2026): section 7.1 statin initiation in statin-naive patients with ASCVD indication, Class I, B-R; section 6.7 elective noncardiac surgery postponement ≥3 months after stroke/TIA, Class IIa, B-NR.",
       "last_validation": {
         "range": [
-          13,
-          14
+          15,
+          16
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1567,29 +1575,29 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "გ": 1,
-          "დ": 1
+          "ე": 1,
+          "ა": 1
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: guideline-specific conditions included for hypertension and glucocorticoid-induced adrenal suppression",
-        "terminology_self_review": "passed against general and perioperative glossary",
-        "georgian_language_self_review": "passed: academic Georgian refinement",
-        "semantic_duplication_review": "Compared existing №1–12; new BP deferral and glucocorticoid stress dosing decisions distinct.",
+        "clinical_self_review": "passed: 2026 ACC/AHA Section 7.1 and Section 6.7; elective condition and statin indication explicit",
+        "terminology_self_review": "passed against latest GLOSSARY general/perioperative",
+        "georgian_language_self_review": "passed: academic Georgian style and accurate clinical terminology",
+        "semantic_duplication_review": "Compared all existing 1–14 scenarios; new long-term statin initiation and surgery timing after recent stroke are clinically distinct.",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              13
+              15
             ],
-            "source": "2026 AHA/ACC Multisociety Guideline, §6.2, Recommendation 2 (Class 2b, LOE C-LD)",
+            "source": "2026 AHA/ACC Multisociety Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery, Section 7.1, Recommendation 2 (COR 1, LOE B-R)",
             "url": "https://www.jacc.org/doi/10.1016/j.jacc.2026.06.017"
           },
           {
             "questions": [
-              14
+              16
             ],
-            "source": "ESE and Endocrine Society Joint Clinical Guideline 2024, R3.1B",
-            "url": "https://www.endocrine.org/clinical-practice-guidelines/glucocorticoid-induced-adrenal-insufficiency"
+            "source": "2026 AHA/ACC Multisociety Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery, Section 6.7 (COR 2a, LOE B-NR)",
+            "url": "https://www.jacc.org/doi/10.1016/j.jacc.2026.06.017"
           }
         ]
       }
