@@ -1,5 +1,11 @@
 name: VascQBank Smart Watchdog
 on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/qbank-watchdog.yml'
+      - 'scripts/qbank_monitor.py'
+      - 'scripts/qbank_alerts.py'
   schedule:
     - cron: '50 * * * *'
   workflow_dispatch:
