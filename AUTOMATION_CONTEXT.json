@@ -1568,9 +1568,9 @@
       "target": 500,
       "question_file": "VGEI_questions.txt",
       "explanation_file": "VGEI_explanations.txt",
-      "last_number": 4,
-      "question_blob_sha": "230d220d5a410c3f5e8d0a9a318f625173a5f914",
-      "explanation_blob_sha": "d204dd42c5f2ea943da4d2847d82486141f56327",
+      "last_number": 6,
+      "question_blob_sha": "47879b0a327d5191b6cc34d276b9c9fe6ec31584",
+      "explanation_blob_sha": "2fc66393ab9442486c3f2a746e6f022733a47f85",
       "last_full_audit_at": 4,
       "recent_stems": [
         {
@@ -1588,15 +1588,23 @@
         {
           "n": 4,
           "stem": "69 წლის მამაკაცს ორი წლის წინ მუცლის აორტის ანევრიზმის გამო EVAR ჩაუტარდა. ამჟამად ენდოპროთეზის ინფექციის ნიშნები არ აქვს; იგეგმება პაროდონტოლოგიური ჩარევა ღრძილის მანიპულაციით, რომელიც ბაქტერიემიის მაღალ რისკს უკავშირდება. ESVS-ის 2026 წლის რეკომენდაციების მიხედვით, რომელი პროფილაქტიკური მიდგომაა ყველაზე შესაფერისი?"
+        },
+        {
+          "n": 5,
+          "stem": "74 წლის ქალს აორტა-ორბარძაყის სინთეზური პროთეზი ექვსი წლის წინ ჩაუდგეს. ერთი თვის წინ ინფიცირებულ ცენტრალურ ვენურ კათეტერთან დაკავშირებული ოქროსფერი სტაფილოკოკით ბაქტერიემია დაუდასტურდა. ამჟამად CTA-ზე პერიპროთეზული აბსცესი ჩანს; ოპერაციული ჭრილობები შეხორცებულია და მეზობელ ორგანოებთან ფისტულა არ დასტურდება. რომელია პროთეზის ინფიცირების ყველაზე სავარაუდო გზა?"
+        },
+        {
+          "n": 6,
+          "stem": "70 წლის მამაკაცს აორტა-ორბარძაყის გეგმიური სინთეზური პროთეზირება უნდა ჩაუტარდეს. წინასაოპერაციო გამოკვლევით ცხვირის ლორწოვანზე ოქროსფერი სტაფილოკოკის უსიმპტომო კოლონიზაცია გამოვლინდა; აქტიური ინფექცია არ აღენიშნება. სტანდარტულ პერიოპერაციულ ანტიბიოტიკოპროფილაქტიკასთან ერთად რომელი დამატებითი ღონისძიების განხილვაა მიზანშეწონილი ოპერაციული მიდამოს ინფექციის რისკის შესამცირებლად?"
         }
       ],
       "topic_rotation": "I №1–40 საფუძვლები და პრევენცია; II №41–80 მიკრობიოლოგია; III №81–130 დიაგნოზი; IV №131–190 გამოსახულებითი დიაგნოსტიკა; V №191–230 ანტიმიკრობული მკურნალობა; VI №231–300 ქირურგიული ტაქტიკა; VII №301–360 მასალები და ჭრილობა; VIII №361–410 ლოკალიზაციები; IX №411–460 გართულებები; X №461–500 შედეგები და მეთვალყურეობა.",
       "linguistic_note": "GLOSSARY.md-ის VGEI ტერმინოლოგია და ბუნებრივი აკადემიური ქართული.",
-      "guideline_check": "ESVS 2026 VGEI guidelines DOI 10.1016/j.ejvs.2026.05.035; Section 3.2 Table 4 (postoperative lymphocele risk); Recommendation 24 (Class IIa, Level C; prophylaxis for high-bacteraemia-risk procedures in patients with intracavity grafts).",
+      "guideline_check": "ESVS 2026 VGEI guidelines DOI 10.1016/j.ejvs.2026.05.035; IDSA/ESCMID 2026 S. aureus bacteremia consensus (endovascular prosthesis as risk factor); WHO Global Guidelines for Prevention of Surgical Site Infection, section 4.2, conditional recommendation for targeted S. aureus nasal decolonisation in other surgeries.",
       "last_validation": {
         "range": [
-          3,
-          4
+          5,
+          6
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1606,25 +1614,25 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed; ESVS 2026 risk factors and recommendation 24",
-        "terminology_self_review": "passed; GLOSSARY.md GENERAL and VGEI",
-        "georgian_language_self_review": "passed; academic Georgian, no calques",
-        "semantic_duplication_review": "passed; existing Q1 anastomosis Samson group, Q2 perioperative prophylaxis; new Q3 postoperative lymphocele risk and Q4 prophylaxis before later dental procedure are distinct",
+        "clinical_self_review": "passed; hematogenous seeding and WHO conditional decolonization recommendation",
+        "terminology_self_review": "passed; GLOSSARY.md general and VGEI sections",
+        "georgian_language_self_review": "passed; refined academic Georgian",
+        "semantic_duplication_review": "passed; Q1-4 cover Samson group, surgical antibiotic prophylaxis, lymphocele, and later dental prophylaxis; Q5 hematogenous seeding and Q6 nasal decolonization are distinct",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              3
+              5
             ],
-            "source": "ESVS 2026 VGEI guidelines, Section 3.2, Table 4",
-            "url": "https://doi.org/10.1016/j.ejvs.2026.05.035"
+            "source": "IDSA/ESCMID 2026 Staphylococcus aureus bacteremia consensus, risk of metastatic foci with endovascular graft",
+            "url": "https://www.idsociety.org/practice-guideline/staphylococcus-aureus-bacteremia/"
           },
           {
             "questions": [
-              4
+              6
             ],
-            "source": "ESVS 2026 VGEI guidelines, Section 5.1, Recommendation 24, Class IIa, Level C",
-            "url": "https://doi.org/10.1016/j.ejvs.2026.05.035"
+            "source": "WHO Global Guidelines for the Prevention of Surgical Site Infection, section 4.2; conditional recommendation for other surgeries including vascular surgery",
+            "url": "https://www.ncbi.nlm.nih.gov/books/NBK536431/"
           }
         ]
       }
