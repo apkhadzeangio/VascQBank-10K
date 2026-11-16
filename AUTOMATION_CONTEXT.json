@@ -1810,9 +1810,9 @@
       "target": 500,
       "question_file": "VGEI_questions.txt",
       "explanation_file": "VGEI_explanations.txt",
-      "last_number": 20,
-      "question_blob_sha": "71b199b3e05d7c64d51ce3a7e7676233d1372b32",
-      "explanation_blob_sha": "6c15829708a1826edc2307240e4d484b568e56a2",
+      "last_number": 22,
+      "question_blob_sha": "6d21b9f6a50d1733eedd52a5bcb27724219fcf58",
+      "explanation_blob_sha": "c8a3e9c1ae866a63353323898c040a5524684f85",
       "last_full_audit_at": 4,
       "recent_stems": [
         {
@@ -1894,15 +1894,23 @@
         {
           "n": 20,
           "stem": "68 წლის მამაკაცს შვიდი თვის წინ მუცლის აორტის ენდოპროთეზი ჩაუდგეს. ახალი ცხელებისა და წელის ტკივილის გამო ჩატარებულ CTA-ზე პერიპროთეზული აბსცესი გამოვლინდა, სისხლის ბაქტერიოლოგიურ გამოკვლევაში კი ოქროსფერი სტაფილოკოკი გაიზარდა. გუნდი განიხილავს, უნდა ჩაითვალოს თუ არა ინფექცია „გვიანად“ მხოლოდ ენდოპროთეზის ჩადგმიდან გასული დროის გამო. ESVS-ის 2026 წლის გაიდლაინით, რომელი მიდგომაა დასაბუთებული?"
+        },
+        {
+          "n": 21,
+          "stem": "68 წლის მამაკაცს სინთეზური პროთეზით ბარძაყ-მუხლქვეშა შუნტირება ჩაუტარდა. საზარდულის ჭრილობა პირველადი ნაკერებით დაიხურა; ინფექციის ნიშნები არ აღენიშნება და პერიოპერაციული ანტიბიოტიკოპროფილაქტიკა ჩატარებულია. განიხილება ნაკერებზე ადგილობრივი ანტიმიკრობული საშუალების დამატება მხოლოდ ინფექციის პრევენციის მიზნით. NICE-ის რეკომენდაციის თანახმად, რომელია საუკეთესო ტაქტიკა?"
+        },
+        {
+          "n": 22,
+          "stem": "66 წლის მამაკაცს გამოხატული კოჭლობის გამო აორტა-ორბარძაყის გეგმიური სინთეზური პროთეზირება სჭირდება. ყოველდღიურად ეწევა თამბაქოს; კიდურისთვის საფრთხის შემცველი იშემია არ აქვს და ოპერაციამდე ექვსი კვირა რჩება. რომელი ღონისძიებაა ყველაზე დასაბუთებული თამბაქოსთან დაკავშირებული ოპერაციული მიდამოს ინფექციის რისკის შესამცირებლად?"
         }
       ],
       "topic_rotation": "I №1–40 საფუძვლები და პრევენცია; II №41–80 მიკრობიოლოგია; III №81–130 დიაგნოზი; IV №131–190 გამოსახულებითი დიაგნოსტიკა; V №191–230 ანტიმიკრობული მკურნალობა; VI №231–300 ქირურგიული ტაქტიკა; VII №301–360 მასალები და ჭრილობა; VIII №361–410 ლოკალიზაციები; IX №411–460 გართულებები; X №461–500 შედეგები და მეთვალყურეობა.",
       "linguistic_note": "GLOSSARY.md-ის VGEI ტერმინოლოგია და ბუნებრივი აკადემიური ქართული.",
-      "guideline_check": "ESVS 2026 VGEI: no universal early/late timing cutoff; modified Bunt P2 extracavitary segment of a graft with intracavitary origin (ESVS 2020, EANM 2022).",
+      "guideline_check": "NICE NG125 1.4.5: no topical antimicrobials to prevent SSI in primary-closure wounds; WHO/ACC: intensive smoking cessation begun >=4 weeks preoperatively reduces postoperative complications.",
       "last_validation": {
         "range": [
-          19,
-          20
+          21,
+          22
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1912,32 +1920,32 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: modified Bunt P2 isolated extracavitary portion of a graft of intracavitary origin; ESVS 2026 does not recommend a universal rigid time cutoff for early versus late VGEI.",
-        "terminology_self_review": "passed: AGENTS.md and GLOSSARY.md general and VGEI terminology verified",
-        "georgian_language_self_review": "passed: academic Georgian and medical terminology refined",
-        "semantic_duplication_review": "passed: checked all 18 existing VGEI questions; distinct new classification and temporal evaluation decisions",
+        "clinical_self_review": "passed: primary-intention wound topical antimicrobial prophylaxis not recommended by NICE; >=4-week preoperative smoking cessation supported by WHO/ACC.",
+        "terminology_self_review": "passed: GLOSSARY.md general and VGEI terminology reviewed",
+        "georgian_language_self_review": "passed: clinical Georgian refined and language reviewed",
+        "semantic_duplication_review": "passed: compared decisions against all 20 existing VGEI items",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              19
+              21
             ],
-            "source": "ESVS 2020 Clinical Practice Guidelines, Table 4; modified Bunt P2 classification",
-            "url": "https://www.esvs.org/wp-content/uploads/2020/02/Managemen-of-Vascular-Graft-and-Stent-Graft-Infections-Mar-2020.pdf"
+            "source": "NICE NG125 surgical site infections prevention and treatment, recommendation 1.4.5",
+            "url": "https://www.nice.org.uk/guidance/ng125/chapter/Recommendations"
           },
           {
             "questions": [
-              19
+              22
             ],
-            "source": "EANM evidence-based guideline on imaging infection in vascular grafts, Table 1 (Bunt P2)",
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9308572/"
+            "source": "WHO 2020 smoking increases postoperative infection risk; cessation >= 4 weeks before surgery",
+            "url": "https://www.who.int/news-room/detail/20-01-2020-smoking-greatly-increases-risk-of-complications-after-surgery"
           },
           {
             "questions": [
-              20
+              22
             ],
-            "source": "ESVS 2026 Clinical Practice Guidelines on Management of VGEI; updated terminology on early/late infection",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42448560/"
+            "source": "ACC 2018 Expert Consensus Decision Pathway on Tobacco Cessation Treatment, perioperative cessation and support",
+            "url": "https://www.jacc.org/doi/full/10.1016/j.jacc.2018.10.027"
           }
         ]
       }
