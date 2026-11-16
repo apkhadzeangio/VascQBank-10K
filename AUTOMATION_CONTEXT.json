@@ -930,9 +930,9 @@
       "target": 1500,
       "question_file": "PAD_CLTI_questions.txt",
       "explanation_file": "PAD_CLTI_explanations.txt",
-      "last_number": 19,
-      "question_blob_sha": "4b6a570db6a65b2ef9773be0f4c09b11bdc59199",
-      "explanation_blob_sha": "44ecd5bb35e956298a49d05c2db336afee4c7424",
+      "last_number": 21,
+      "question_blob_sha": "e09c25d879b45f88338defdf227295a89c8194b1",
+      "explanation_blob_sha": "43b36f7fd0abe99faf93558c29fd66250b17c296",
       "last_full_audit_at": 0,
       "recent_stems": [
         {
@@ -1010,6 +1010,14 @@
         {
           "n": 19,
           "stem": "56 წლის მამაკაცს აორტა-თეძოს სეგმენტის მაოკლუზირებელი დაავადების გამო აორტა-ორბარძაყის შუნტირება ჩაუტარდა. ოპერაციის შემდეგ ერექცია შენარჩუნებულია, მაგრამ ორგაზმისას ეაკულატი თითქმის არ გამოიყოფა; ორგ"
+        },
+        {
+          "n": 20,
+          "stem": "70 წლის მამაკაცს პერიფერიული არტერიული დაავადების ფონზე ტერფის მეორე თითის დისტალურ ნაწილში მკაფიოდ შემოსაზღვრული მშრალი განგრენა აქვს. ტერფის პირველი თითის სისტოლური წნევა 18 mmHg-ია; DSA-ზე დიდი წვი"
+        },
+        {
+          "n": 21,
+          "stem": "66 წლის ქალს ტერფის მეორე თითის ზედაპირული წყლული რვა კვირის განმავლობაში სათანადო მოვლისა და განტვირთვის მიუხედავად არ უმცირდება. ინფექცია და განგრენა არ აღენიშნება; ტერფის პირველი თითის სისტოლური წნ"
         }
       ],
       "topic_rotation": "ABI/TBI და პერფუზია; Fontaine/Rutherford/WIfI/GLASS; ხანგამოშვებითი კოჭლობა და CLTI; დუპლექსი/CTA/MRA/DSA; ანტიაგრეგანტები/სტატინები/ვარჯიში; აორტა-თეძოს, ბარძაყ-მუხლქვეშა და წვივის სეგმენტები; ენდოვასკულური მკურნალობა/ავტოვენური შუნტირება; ჭრილობა/ინფექცია/ამპუტაცია/მეთვალყურეობა.",
@@ -1017,8 +1025,8 @@
       "guideline_check": "2024 ACC/AHA PAD guideline, 2024 ESVS asymptomatic PAD/intermittent claudication guideline და Global Vascular Guidelines CLTI; კლინიკური გადაწყვეტილება გადაამოწმე პირველწყაროებში.",
       "last_validation": {
         "range": [
-          18,
-          19
+          20,
+          21
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1028,37 +1036,37 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ბ": 1,
-          "გ": 1
+          "დ": 1,
+          "ა": 1
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: asymptomatic PAD revascularization against ACC/AHA 2024; superior hypogastric plexus and retrograde ejaculation against vascular surgical anatomy references",
+        "clinical_self_review": "passed: dry gangrene elective minor amputation after revascularization; low limb threat inflow-first staged approach per GVG 6.20–6.23",
         "georgian_language_self_review": "passed",
         "terminology_self_review": "passed",
-        "semantic_duplication_review": "Compared 1–17 fully; asymptomatic PAD preventive care and open aorto-bifemoral bypass autonomic injury do not repeat the saved clinical decisions.",
+        "semantic_duplication_review": "All existing PAD_CLTI questions screened; latest 19 reviewed, two new scenarios distinct from wet gangrene emergency drainage and hybrid common femoral/iliac reconstruction.",
         "previous_text_unchanged": true,
         "index_precheck": "matched",
         "source_checks": [
           {
             "questions": [
-              18
+              20
             ],
-            "source": "2024 ACC/AHA PAD Guideline, section 7, Revascularization for Asymptomatic PAD",
-            "url": "https://www.jacc.org/doi/10.1016/j.jacc.2024.02.013"
+            "source": "2024 ACC/AHA Multisociety PAD Guideline, section 10.3.4: Amputation for CLTI",
+            "url": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001251"
           },
           {
             "questions": [
-              19
+              20
             ],
-            "source": "Nerve-preserving aortoiliac reconstruction, J Vasc Surg 2001;33:983–989",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/11331838/"
+            "source": "2016 AHA/ACC PAD Guideline, wound healing and minor amputation after revascularization",
+            "url": "https://www.jacc.org/doi/10.1016/j.jacc.2016.11.007"
           },
           {
             "questions": [
-              19
+              21
             ],
-            "source": "Surgical Complications after Open AAA Repair, Ann Vasc Dis 2019",
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6600101/"
+            "source": "Global Vascular Guidelines on the Management of CLTI, Recommendations 6.20–6.23",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8369495/"
           }
         ]
       }
