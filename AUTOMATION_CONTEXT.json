@@ -1647,9 +1647,9 @@
       "target": 600,
       "question_file": "PERIOPERATIVE_questions.txt",
       "explanation_file": "PERIOPERATIVE_explanations.txt",
-      "last_number": 27,
-      "question_blob_sha": "5fa59e1333d3200994687b5d097e7de8d9183862",
-      "explanation_blob_sha": "7ddc025665758f85e0eb34353ba2e29c81064c94",
+      "last_number": 29,
+      "question_blob_sha": "9766bfa7ad374c850769bcfa87989af5ce906f28",
+      "explanation_blob_sha": "4d80dd43de0dbd3150eee07887ab4fe4cb7259fa",
       "last_full_audit_at": 6,
       "recent_stems": [
         {
@@ -1759,6 +1759,14 @@
         {
           "n": 27,
           "stem": "72 წლის მამაკაცი თეძოსა და ბარძაყის არტერიების მრავალდონიანი დაზიანების გამო რთული ენდოვასკულური რევასკულარიზაციისთვის ემზადება იოდშემცველი საკონტრასტო საშუალების გამოყენებით. პაციენტს თირკმლის ქრონიკული დაავადება აქვს დ"
+        },
+        {
+          "n": 28,
+          "stem": "69 წლის მამაკაცს აორტა-ორბარძაყის გეგმიური შუნტირება უნდა ჩაუტარდეს. ბოლო სამი კვირის განმავლობაში მცირე დატვირთვისას ქოშინი დაეწყო; გასინჯვისას ფილტვების ქვედა ველებში ორმხრივი კრეპიტაცია და წვივების შეშუპება აღენიშნება. ორი წლის წინ ჩატარებული ექოკარდიოგრაფიით მარცხენა პარკუჭის ფუნქცია ნორმალური ი"
+        },
+        {
+          "n": 29,
+          "stem": "63 წლის ქალს ფილტვის არტერიული ჰიპერტენზია აქვს; მარჯვენა გულის კათეტერიზაციით ფილტვის არტერიის საშუალო წნევა 48 mmHg, ხოლო ფილტვის სისხლძარღვოვანი წინააღმდეგობა 7 ვუდის ერთეულია. ექოკარდიოგრაფიით მარჯვენა პარკუჭის ზომიერი დისფუნქცია დასტურდება. ორ კვირაში მას მუცლის აორტის ანევრიზმის გეგმიური ღია პ"
         }
       ],
       "topic_rotation": "№1–60 წინასაოპერაციო შეფასება/ოპტიმიზაცია; №61–120 პერიოპერაციული კარდიოვასკულური რისკი; №121–180 ანტიაგრეგანტული და ანტიკოაგულაციური მკურნალობა; №181–250 ჰემოსტაზი, სისხლდენა და ტრანსფუზია; №251–320 თრომბოემბოლია და პროფილაქტიკა; №321–380 ჰემოდინამიკა, ინფუზია და თირკმლის ფუნქცია; №381–440 ფილტვის/მეტაბოლური გართულებები; №441–500 სისხლძარღვოვანი ოპერაციების ადრეული გართულებები; №501–550 ნევროლოგიური/ორგანოსპეციფიკური გართულებები; №551–600 პოსტოპერაციული მეთვალყურეობა. ზუსტად ორი კითხვა თითო ციკლში.",
@@ -1766,30 +1774,43 @@
       "guideline_check": "2024 multi-society GLP-1RA perioperative guidance (published 2024; Surgical Endoscopy 2025): individual aspiration-risk assessment and continuation in lower-risk patients; SA Health vascular surgery antibiotic prophylaxis and ASHP/IDSA/SHEA/SIS: IV cefazolin within 60 min before incision with repeat intraoperative dosing for prolonged surgery and normal kidney function.",
       "last_validation": {
         "range": [
-          23,
-          27
+          28,
+          29
         ],
-        "new_questions": 5,
-        "new_explanations": 5,
+        "new_questions": 2,
+        "new_explanations": 2,
         "numbering_continuous": true,
         "five_options_each": true,
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ა": 1,
           "ბ": 1,
-          "გ": 1,
-          "დ": 1,
           "ე": 1
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed",
-        "georgian_language_self_review": "passed",
-        "terminology_self_review": "passed (GLOSSARY.md)",
-        "semantic_duplication_review": "checked all 22 stored PERIOPERATIVE questions and cross-topic stems",
+        "clinical_self_review": "passed: 2024 AHA/ACC Perioperative Cardiovascular Management, Class I B-NR for LV function evaluation; Class IIa C-LD for severe pulmonary hypertension specialist consultation",
+        "terminology_self_review": "passed: GLOSSARY.md general and PERIOPERATIVE sections",
+        "georgian_language_self_review": "passed: natural academic Georgian, no literal calques",
+        "semantic_duplication_review": "Reviewed all 27 existing questions and recent_stems; new question 28 concerns newly suspected ventricular dysfunction, question 29 severe pulmonary hypertension care coordination",
         "previous_text_unchanged": true,
-        "index_precheck": "matched"
+        "index_precheck": "matched TXT and blob SHA",
+        "source_checks": [
+          {
+            "questions": [
+              28
+            ],
+            "source": "2024 AHA/ACC Multisociety Perioperative Cardiovascular Guideline, 4.2.1 LV Function, Class I B-NR",
+            "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001285"
+          },
+          {
+            "questions": [
+              29
+            ],
+            "source": "2024 AHA/ACC Multisociety Perioperative Cardiovascular Guideline, 6.3.2 Pulmonary Hypertension, Class IIa C-LD",
+            "url": "https://www.jacc.org/doi/10.1016/j.jacc.2024.06.013"
+          }
+        ]
       }
     },
     "VGEI": {
