@@ -1651,9 +1651,9 @@
       "target": 500,
       "question_file": "VGEI_questions.txt",
       "explanation_file": "VGEI_explanations.txt",
-      "last_number": 8,
-      "question_blob_sha": "b0f38db133aebd5c7343e088b992a79366219f4d",
-      "explanation_blob_sha": "eb2149ccda15819ff43f5eeb829038e5faf69de5",
+      "last_number": 10,
+      "question_blob_sha": "5487942baa27143e0f07c6e7fe302189e27f57d5",
+      "explanation_blob_sha": "6917a244c0efb7f3d53ca56b12eded8372b95904",
       "last_full_audit_at": 4,
       "recent_stems": [
         {
@@ -1687,15 +1687,23 @@
         {
           "n": 8,
           "stem": "68 წლის მამაკაცს გამოხატული კოჭლობის გამო აორტა-ორბარძაყის გეგმიური სინთეზური პროთეზირება აქვს დაგეგმილი. წინასაოპერაციო შეფასებისას გამოვლინდა კბილის ფესვის აქტიური აბსცესი; კიდურისთვის საფრთხის შემცველი იშემია არ აღენიშნება. რომელია პროთეზის ინფექციის პრევენციის ყველაზე შესაფერისი ტაქტიკა?"
+        },
+        {
+          "n": 9,
+          "stem": "67 წლის მამაკაცს სინთეზური პროთეზით ბარძაყ-მუხლქვეშა შუნტირება უნდა ჩაუტარდეს. საზარდულში სქელი თმა განაკვეთის მონიშვნასა და სტერილური სახვევის დამაგრებას უშლის ხელს; კანის ინფექცია არ აღენიშნება. რომელი მოქმედებაა ყველაზე შესაფერისი ოპერაციული მიდამოს ინფექციის რისკის შესამცირებლად, თუ თმის მოცილება აუცილებელია?"
+        },
+        {
+          "n": 10,
+          "stem": "71 წლის ქალს აორტა-ორბარძაყის სინთეზური პროთეზირება უტარდება. კანის განაკვეთამდე ინტრავენურად შეუყვანეს ცეფაზოლინი; თირკმლის ფუნქცია ნორმალურია, ალერგია და აქტიური ინფექცია არ აღენიშნება. პირველი დოზის შეყვანიდან ოთხი საათი გავიდა, ოპერაციის დასრულებამდე კი კიდევ ორი საათია მოსალოდნელი. რომელი ანტიბიოტიკოპროფილაქტიკური ნაბიჯია ყველაზე შესაფერისი?"
         }
       ],
       "topic_rotation": "I №1–40 საფუძვლები და პრევენცია; II №41–80 მიკრობიოლოგია; III №81–130 დიაგნოზი; IV №131–190 გამოსახულებითი დიაგნოსტიკა; V №191–230 ანტიმიკრობული მკურნალობა; VI №231–300 ქირურგიული ტაქტიკა; VII №301–360 მასალები და ჭრილობა; VIII №361–410 ლოკალიზაციები; IX №411–460 გართულებები; X №461–500 შედეგები და მეთვალყურეობა.",
       "linguistic_note": "GLOSSARY.md-ის VGEI ტერმინოლოგია და ბუნებრივი აკადემიური ქართული.",
-      "guideline_check": "ESVS 2026 VGEI guidelines DOI 10.1016/j.ejvs.2026.05.035; Szilagyi classification in EANM 2022 VGEI imaging guideline; preoperative dental sepsis source control in ESVS 2020 recommendation 12 and NHS SSI 2026.",
+      "guideline_check": "ESVS 2026 VGEI guidelines DOI 10.1016/j.ejvs.2026.05.035; Szilagyi classification in EANM 2022 VGEI imaging guideline; preoperative dental sepsis source control in ESVS 2020 recommendation 12 and NHS SSI 2026.; WHO Global SSI guidelines §4.6 hair removal; SHEA/IDSA 2022 SSI prevention update (2023), intraoperative cefazolin re-dosing at 4 hours.",
       "last_validation": {
         "range": [
-          7,
-          8
+          9,
+          10
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1705,32 +1713,25 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: Szilagyi grade III graft infection and source control before elective implantation",
-        "terminology_self_review": "passed: GLOSSARY.md general/VGEI; canonical სილადის (Szilagyi)",
-        "georgian_language_self_review": "passed: refined academic Georgian",
-        "semantic_duplication_review": "passed: Q7 Szilagyi graft involvement vs Q1 Samson anastomosis; Q8 pre-implant dental abscess vs Q4 post-implant dental prophylaxis",
+        "clinical_self_review": "passed: WHO SSI guideline hair clipping if necessary; SHEA/IDSA SSI prophylaxis cefazolin intraoperative repeat dose after 4 hours in normal renal function",
+        "terminology_self_review": "passed: GLOSSARY.md general and VGEI sections",
+        "georgian_language_self_review": "passed: concise, academic Georgian and distinct clinical decisions",
+        "semantic_duplication_review": "passed: Q9 hair clipping vs Q1–8 prior subjects; Q10 prolonged-case redosing vs Q2 initial pre-incision prophylaxis",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              7
+              9
             ],
-            "source": "EANM 2022 imaging guideline VGEI Table 1 Szilagyi classification",
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9308572/"
+            "source": "WHO Global Guidelines for the Prevention of Surgical Site Infection section 4.6: hair removal",
+            "url": "https://www.ncbi.nlm.nih.gov/books/NBK536431/"
           },
           {
             "questions": [
-              8
+              10
             ],
-            "source": "ESVS 2020 VGEI guideline Recommendation 12",
-            "url": "https://angiolsurgery.org/society/organisations/esvs/guidelines/ESVS-Guidelines-VGEI-2020.pdf"
-          },
-          {
-            "questions": [
-              8
-            ],
-            "source": "Frimley Health NHS 2026 SSI prevention guideline section 2.1",
-            "url": "https://guidelines.fhft.nhs.uk/IPC-Prevention_of_Surgical_Site_Infection"
+            "source": "SHEA/IDSA Strategies to Prevent Surgical Site Infections in Acute-Care Hospitals: 2022 Update",
+            "url": "https://www.cambridge.org/core/journals/infection-control-and-hospital-epidemiology/article/strategies-to-prevent-surgical-site-infections-in-acutecare-hospitals-2022-update/2F824B9ADD6066B29F89C8A2A127A9DC"
           }
         ]
       }
