@@ -872,19 +872,11 @@
       "target": 1500,
       "question_file": "PAD_CLTI_questions.txt",
       "explanation_file": "PAD_CLTI_explanations.txt",
-      "last_number": 50,
-      "question_blob_sha": "1ca61339aff6fca552e012ee2a907ca40c2d7703",
-      "explanation_blob_sha": "9d2c60e6e74511b7c03c0236319dfb34ed365dbd",
+      "last_number": 52,
+      "question_blob_sha": "0e0eedd0f371273708810aee48674ad3d23b836f",
+      "explanation_blob_sha": "7d6025cc22505ef2772b3fe0349d265367cb4f54",
       "last_full_audit_at": 50,
       "recent_stems": [
-        {
-          "n": 21,
-          "stem": "66 წლის ქალს ტერფის მეორე თითის ზედაპირული წყლული რვა კვირის განმავლობაში სათანადო მოვლისა და განტვირთვის მიუხედავად არ უმცირდება. ინფექცია და განგრენა არ აღენიშნება; ტერფის პირველი თითის სისტოლური წნ"
-        },
-        {
-          "n": 22,
-          "stem": "62 წლის მამაკაცს დაახლოებით 150 მ-ის გავლის შემდეგ მარჯვენა წვივის კუნთებში ტკივილი ეწყება, რომელიც შეჩერებისას რამდენიმე წუთში ქრება. მოსვენებით განსაზღვრული გოჯ-მხრის ინდექსი (ABI) 1,08-ია; გოჯის არ"
-        },
         {
           "n": 23,
           "stem": "75 წლის მამაკაცს ტერფის იშემიური წყლულის გამო ბარძაყის ზედაპირული არტერიის გრძელი ქრონიკული ტოტალური ოკლუზიის ენდოვასკულური მკურნალობა უტარდება. ანტეგრადული გამტარი სუბინტიმურ სივრცეში გავიდა, მაგრამ "
@@ -996,6 +988,14 @@
         {
           "n": 50,
           "stem": "70 წლის ქალს შაქრიანი დიაბეტისა და კიდურისთვის საფრთხის შემცველი ქრონიკული იშემიის გამო წვივის არტერიის რევასკულარიზაცია ჩაუტარდა. პერფუზიის გაუმჯობესების შემდეგ ტერფის მესამე თითის ოსტეომიელიტის გამო"
+        },
+        {
+          "n": 51,
+          "stem": "35 წლის პროფესიონალ ველომრბოლელს მაღალი ინტენსივობის ვარჯიშისას მარცხენა ბარძაყის კუნთების სწრაფი დაღლა და ტკივილი ეწყება, რომლებიც შეჩერებისას ქრება. მოსვენებისას გოჯ-მხრის ინდექსი (ABI) 1,06-ია, ველ"
+        },
+        {
+          "n": 52,
+          "stem": "68 წლის ქალს შაქრიანი დიაბეტი და ტერფის ძირის ნეიროპათიული წყლული აქვს. სამი კვირის წინ წარმატებით ჩაუტარდა წვივის არტერიის რევასკულარიზაცია; ტერფის პირველი თითის სისტოლური წნევა ახლა 62 mmHg-ია, ხოლო"
         }
       ],
       "topic_rotation": "ABI/TBI და პერფუზია; Fontaine/Rutherford/WIfI/GLASS; ხანგამოშვებითი კოჭლობა და CLTI; დუპლექსი/CTA/MRA/DSA; ანტიაგრეგანტები/სტატინები/ვარჯიში; აორტა-თეძოს, ბარძაყ-მუხლქვეშა და წვივის სეგმენტები; ენდოვასკულური მკურნალობა/ავტოვენური შუნტირება; ჭრილობა/ინფექცია/ამპუტაცია/მეთვალყურეობა.",
@@ -1003,8 +1003,8 @@
       "guideline_check": "2024 ACC/AHA PAD guideline, 2024 ESVS asymptomatic PAD/intermittent claudication guideline და Global Vascular Guidelines CLTI; კლინიკური გადაწყვეტილება გადაამოწმე პირველწყაროებში.",
       "last_validation": {
         "range": [
-          49,
-          50
+          51,
+          52
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1014,19 +1014,19 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: ACC/AHA 2024 recommendation 8 (2a C-LD); IWGDF/IDSA 2023 recommendation 16 (conditional low)",
+        "clinical_self_review": "passed: external iliac endofibrosis Delphi consensus and IWGDF/IDSA 2023 recommendation 11",
         "georgian_language_self_review": "passed",
         "terminology_self_review": "passed (GLOSSARY.md)",
-        "semantic_duplication_review": "full 48-question review at boundary 50",
+        "semantic_duplication_review": "reviewed all 50 existing PAD_CLTI stems, including last 30 full questions; distinct decisions",
         "previous_text_unchanged": true,
         "index_precheck": "matched",
         "source_checks": [
           {
-            "question": 49,
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/12728805/"
+            "question": 51,
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27209899/"
           },
           {
-            "question": 50,
+            "question": 52,
             "url": "https://www.idsociety.org/practice-guideline/diabetic-foot-infections/"
           }
         ]
