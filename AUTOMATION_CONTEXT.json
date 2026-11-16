@@ -1893,19 +1893,11 @@
       "target": 500,
       "question_file": "VGEI_questions.txt",
       "explanation_file": "VGEI_explanations.txt",
-      "last_number": 47,
-      "question_blob_sha": "3611d91940d9d8a6ab179e2f15c54587061b09e1",
-      "explanation_blob_sha": "586702dc003ee79c4be468254b887efd79ffb150",
+      "last_number": 49,
+      "question_blob_sha": "285755f1dcf6b2103090d34cd263bb2206f99f8a",
+      "explanation_blob_sha": "68095da014ed80bb98f43458291db449b028667a",
       "last_full_audit_at": 4,
       "recent_stems": [
-        {
-          "n": 18,
-          "stem": "69 წლის ქალს მუცლის აორტის ანევრიზმის გამო გეგმიური EVAR აქვს დაგეგმილი. პაციენტს სიმსუქნე და შაქრიანი დიაბეტი აქვს; CTA-ზე ორივე საერთო ბარძაყის არტერია საკმარისი დიამეტრისაა, პუნქციის უბნები გამოხატულად არ არის კალციფიცირებული და პერკუტანული დახურვა ტექნიკურად შესაძლებელია. გამოცდილმა გუნდმა რომელი მიდგომა უნდა აირჩიოს საზარდულის ჭრილობასთან დაკავშირებული და ლიმფური გართულებების რისკის შესამცირებლად?"
-        },
-        {
-          "n": 19,
-          "stem": "71 წლის ქალს ოთხი წლის წინ აორტა-ორბარძაყის სინთეზური პროთეზირება ჩაუტარდა. ახლა მარჯვენა საზარდულში პროთეზის ტოტის ირგვლივ აბსცესია; CTA-ზე ინფექციური ცვლილებები მხოლოდ საზარდულის, ღრუსგარეთა მონაკვეთში ჩანს, რეტროპერიტონეუმში მდებარე ნაწილი კი დაზიანებული არ არის. ბუნტის (Bunt) მოდიფიცირებული კლასიფიკაციით, რომელი აღწერა შეესაბამება ინფექციის გავრცელებას?"
-        },
         {
           "n": 20,
           "stem": "68 წლის მამაკაცს შვიდი თვის წინ მუცლის აორტის ენდოპროთეზი ჩაუდგეს. ახალი ცხელებისა და წელის ტკივილის გამო ჩატარებულ CTA-ზე პერიპროთეზული აბსცესი გამოვლინდა, სისხლის ბაქტერიოლოგიურ გამოკვლევაში კი ოქროსფერი სტაფილოკოკი გაიზარდა. გუნდი განიხილავს, უნდა ჩაითვალოს თუ არა ინფექცია „გვიანად“ მხოლოდ ენდოპროთეზის ჩადგმიდან გასული დროის გამო. ESVS-ის 2026 წლის გაიდლაინით, რომელი მიდგომაა დასაბუთებული?"
@@ -2017,6 +2009,14 @@
         {
           "n": 47,
           "stem": "73 წლის ქალს აორტის ენდოპროთეზის ინფექციის გამო ქირურგიული მკურნალობა ჩაუტარდა. სხვა კლინიკაში დაწყებული ფართო სპექტრის ანტიბიოტიკოთერაპიის ფონზე სისხლისა და ოპერაციისას აღებული ღრმა პერიპროთეზული ქსოვილების ბაქტერიოლოგიური გამოკვლევები უარყოფითია, მიუხედავად ინფექციის დამაჯერებელი კლინიკური და გამოსახულებითი ნიშნებისა; ღრმა ქსოვილის ნიმუში დამატებითი კვლევისთვის შენახულია. რომელი დამატებითი მეთოდის განხილვაა ყველაზე მიზანშეწონილი ბაქტერიული გამომწვევის დასადგენად?"
+        },
+        {
+          "n": 48,
+          "stem": "69 წლის მამაკაცს აორტა-ორბარძაყის სინთეზური პროთეზირებიდან ოთხი წლის შემდეგ განმეორებითი ცხელება და შემცივნება აქვს. CTA-ზე პროთეზის ირგვლივ სითხე და რბილი ქსოვილების ანთებითი ცვლილებები გამოვლინდა; პაციენტი ჰემოდინამიკურად სტაბილურია და ანტიმიკრობული მკურნალობა ჯერ არ დაწყებულა. ESVS-ის 2026 წლის რეკომენდაციით, რომელი სისხლის ბაქტერიოლოგიური გამოკვლევის (ჰემოკულტურის) სქემაა ყველაზე შესაფერისი?"
+        },
+        {
+          "n": 49,
+          "stem": "73 წლის ქალს აორტის სინთეზური პროთეზის დუნედ მიმდინარე ინფექციის გამო პროთეზის სრული ექსპლანტაცია ჩაუტარდა; ოპერაციისას პერიპროთეზული ჩირქოვანი კერა დადასტურდა. სისხლისა და ღრმა პერიპროთეზული ქსოვილების ბაქტერიოლოგიურ გამოკვლევებში მეხუთე დღისთვის მიკროორგანიზმების ზრდა არ გამოვლენილა; პაციენტი მკურნალობის ფონზე სტაბილურია. რომელი დამატებითი ლაბორატორიული ნაბიჯია ყველაზე დასაბუთებული ნელა მზარდი გამომწვევის გამოსავლენად?"
         }
       ],
       "topic_rotation": "I №1–40 საფუძვლები და პრევენცია; II №41–80 მიკრობიოლოგია; III №81–130 დიაგნოზი; IV №131–190 გამოსახულებითი დიაგნოსტიკა; V №191–230 ანტიმიკრობული მკურნალობა; VI №231–300 ქირურგიული ტაქტიკა; VII №301–360 მასალები და ჭრილობა; VIII №361–410 ლოკალიზაციები; IX №411–460 გართულებები; X №461–500 შედეგები და მეთვალყურეობა.",
@@ -2024,8 +2024,8 @@
       "guideline_check": "NICE NG125 1.4.5: no topical antimicrobials to prevent SSI in primary-closure wounds; WHO/ACC: intensive smoking cessation begun >=4 weeks preoperatively reduces postoperative complications.",
       "last_validation": {
         "range": [
-          46,
-          47
+          48,
+          49
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -2035,25 +2035,25 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: 2026 ESVS VGEI deep tissue sampling and molecular testing in culture-negative patients; different decisions",
-        "terminology_self_review": "passed: AGENTS.md and GLOSSARY.md general + VGEI",
-        "georgian_language_self_review": "passed: academic Georgian, sentence and choice refinement",
-        "semantic_duplication_review": "Compared 45 existing full VGEI stems; maximum lexical Jaccard 0.16,0.13; clinical decisions not repeated",
+        "clinical_self_review": "passed: ESVS 2026 recommendations 8 (three aerobic/anaerobic blood culture pairs before antimicrobials) and 10 (consider 10-14 days culture incubation)",
+        "terminology_self_review": "passed: AGENTS.md and GLOSSARY.md general/VGEI sections",
+        "georgian_language_self_review": "passed: refined academic Georgian",
+        "semantic_duplication_review": "reviewed 47 stored full stems; lexical maximum Jaccard: 0.190, 0.235; distinct clinical decisions",
         "previous_text_unchanged": true,
-        "index_precheck": "matched true TXT count and both SHA",
+        "index_precheck": "matched TXT sequential counts and SHAs",
         "source_checks": [
           {
             "questions": [
-              46
+              48
             ],
-            "source": "ESVS 2026 VGEI guideline, recommendations 11–12 (deep specimens and sterile separate containers)",
+            "source": "ESVS 2026 VGEI guideline Recommendation 8; JCS 2026 section 7.2",
             "url": "https://doi.org/10.1016/j.ejvs.2026.05.035"
           },
           {
             "questions": [
-              47
+              49
             ],
-            "source": "ESVS 2026 VGEI guideline, recommendation 18 (molecular testing in antimicrobial-pretreated/culture-negative infection)",
+            "source": "ESVS 2026 VGEI guideline Recommendation 10, extended incubation of deep tissue and blood cultures",
             "url": "https://doi.org/10.1016/j.ejvs.2026.05.035"
           }
         ]
