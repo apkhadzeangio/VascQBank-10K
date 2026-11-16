@@ -250,19 +250,11 @@
         "target": 1200,
         "question_file": "AAA_EVAR_questions.txt",
         "explanation_file": "AAA_EVAR_explanations.txt",
-        "last_number": 127,
-        "question_blob_sha": "4b068b9739d96e4fafa49d630da59207b7639268",
-        "explanation_blob_sha": "e7ab9e29545d3bcdf2aa2dca61febfdf359f705a",
+        "last_number": 129,
+        "question_blob_sha": "3d148421493b48dca17779b060649a09c2c3d324",
+        "explanation_blob_sha": "325d7a2d42a61ad2d794268f6418ee75b6c0d83d",
         "last_full_audit_at": 100,
         "recent_stems": [
-          {
-            "n": 98,
-            "stem": "71 წლის მამაკაცს მუცლის აორტის 61 მმ დიამეტრის უსიმპტომო ინფრარენალური ანევრიზმა აქვს. CTA-ზე ანატომია გეგმიური EVAR-ისთვის შესაფერისია, თუმცა წინასაოპერაციო შეფასებისას გულის უკმარისობის მწვავე დეკომ"
-          },
-          {
-            "n": 99,
-            "stem": "67 წლის მამაკაცს CTA-ზე მუცლის აორტის 44 მმ დიამეტრის უსიმპტომო ტომრისებრი ანევრიზმა გამოუვლინდა. ინფექციური, ტრავმული და იატროგენული მიზეზები გამორიცხულია; სიცოცხლის მოსალოდნელი ხანგრძლივობა დიდია და"
-          },
           {
             "n": 100,
             "stem": "იუქსტარენალური ანევრიზმის ფენესტრირებული ენდოპროთეზით მკურნალობა დასრულდა. საკონტროლო DSA-ზე სამიზნე არტერიები გამავალია და აშკარა ენდოლიკი არ ჩანს, თუმცა გუნდს სურს დამაკავშირებელი სტენტების შეკუმშვი"
@@ -374,19 +366,27 @@
           {
             "n": 127,
             "stem": "69 წლის მამაკაცს სტანდარტული EVAR-ის შემდეგ 30-ე დღეს CTA ჩაუტარდა. ენდოლიკი არ ჩანს; ენდოპროთეზის კომპონენტების გადაფარვა საკმარისია, ხოლო პროქსიმალური და დისტალური ჰერმეტიზაციის ზონების სიგრძე თითოე"
+          },
+          {
+            "n": 128,
+            "stem": "74 წლის მამაკაცს მუცლის აორტის 61 მმ დიამეტრის უსიმპტომო ანევრიზმის გამო გეგმიური EVAR უტარდება. წინაგულთა ფიბრილაციის გამო იღებს აპიქსაბანს; კრეატინინის კლირენსია 75 მლ/წთ, ბოლო თვეებში ინსულტი ან თრ"
+          },
+          {
+            "n": 129,
+            "stem": "77 წლის მამაკაცს მუცლის აორტის ინფრარენალური ანევრიზმის გამო სტანდარტული EVAR ჩაუტარდა. ენდოპროთეზის ჰერმეტიზაცია დამაკმაყოფილებელია; მარჯვენა ბარძაყის არტერიიდან დიდი შემყვანი სისტემის ამოღების შემდე"
           }
         ],
-        "topic_rotation": "გამსკდარი AAA-ის მკურნალობის შემდგომი ღია მუცლის დახურვა; სტანდარტული EVAR-ის დაბალი რისკის გამოსახულებითი მეთვალყურეობის სქემა; შემდეგ განსხვავებული ქვეთემები.",
+        "topic_rotation": "პერიოპერაციული ანტიკოაგულანტის მართვა (DOAC); EVAR-ის არტერიული მიდგომის იატროგენული დაზიანება და გადაუდებელი ენდოვასკულური ჰერმეტიზაცია; შემდეგ განსხვავებული ქვეთემები.",
         "linguistic_note": "„რუპტურირებული“, „გადარჩენადობა“, „სიკვდილისგან თავისუფალი“ — არ გამოიყენო; surgical repair აღწერე როგორც რეკონსტრუქცია/პროთეზირება/მკურნალობა და არა „აღდგენა“.",
-        "guideline_check": "ESVS 2024 AAA Recommendations 83 (temporary vacuum-assisted closure with mesh-mediated traction) and 114 (low-frequency imaging after low-risk standard EVAR), pp. 247 and 262: https://cprv.fr/aneurism-esvs-2024.pdf",
+        "guideline_check": "ESVS 2024 AAA Recommendation 41 and section 5.2.1 (p. 224): https://cprv.fr/aneurism-esvs-2024.pdf ; Kotelis et al. J Vasc Surg 2009, iliac artery rupture during EVAR: https://pubmed.ncbi.nlm.nih.gov/19703755/",
         "last_validation": {
           "range": [
-            126,
-            127
+            128,
+            129
           ],
           "new_questions": 2,
           "new_explanations": 2,
-          "clinical_self_review": "passed against ESVS 2024 Recommendations 83 and 114",
+          "clinical_self_review": "passed against ESVS 2024 Recommendation 41 and J Vasc Surg 2009 iliac-rupture series",
           "georgian_language_self_review": "passed",
           "numbering_continuous": true,
           "five_options_each": true,
@@ -394,22 +394,22 @@
           "answer_letters_match": true,
           "two_sentences_each": true,
           "numeric_options_ascending": true,
-          "semantic_duplication_review": "Compared against full 125-question bank and last 30 questions; highest token Jaccard 0.204 versus question 85",
+          "semantic_duplication_review": "Compared against 127 historical question stems; highest new-stem Jaccard scores 56:0.218, 94:0.174",
           "previous_text_unchanged": true,
           "source_checks": [
             {
               "questions": [
-                126
+                128
               ],
-              "source": "ESVS 2024 AAA Recommendation 83, p. 247",
+              "source": "ESVS 2024 AAA Recommendations 41; perioperative oral anticoagulants, p. 224",
               "url": "https://cprv.fr/aneurism-esvs-2024.pdf"
             },
             {
               "questions": [
-                127
+                129
               ],
-              "source": "ESVS 2024 AAA Recommendation 114 and Figure 6, pp. 261–262",
-              "url": "https://cprv.fr/aneurism-esvs-2024.pdf"
+              "source": "Kotelis et al. Endovascular management of iliac rupture during endovascular aneurysm repair. J Vasc Surg 2009",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/19703755/"
             }
           ]
         }
