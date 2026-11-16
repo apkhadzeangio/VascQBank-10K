@@ -1798,9 +1798,9 @@
       "target": 500,
       "question_file": "VGEI_questions.txt",
       "explanation_file": "VGEI_explanations.txt",
-      "last_number": 22,
-      "question_blob_sha": "6d21b9f6a50d1733eedd52a5bcb27724219fcf58",
-      "explanation_blob_sha": "c8a3e9c1ae866a63353323898c040a5524684f85",
+      "last_number": 27,
+      "question_blob_sha": "06de67930bb8d127fadaf712d921a81d235c0cc8",
+      "explanation_blob_sha": "24c20db465e4173c06ff3c703e0d059e86af9f37",
       "last_full_audit_at": 4,
       "recent_stems": [
         {
@@ -1890,6 +1890,26 @@
         {
           "n": 22,
           "stem": "66 წლის მამაკაცს გამოხატული კოჭლობის გამო აორტა-ორბარძაყის გეგმიური სინთეზური პროთეზირება სჭირდება. ყოველდღიურად ეწევა თამბაქოს; კიდურისთვის საფრთხის შემცველი იშემია არ აქვს და ოპერაციამდე ექვსი კვირა რჩება. რომელი ღონისძიებაა ყველაზე დასაბუთებული თამბაქოსთან დაკავშირებული ოპერაციული მიდამოს ინფექციის რისკის შესამცირებლად?"
+        },
+        {
+          "n": 23,
+          "stem": "69 წლის მამაკაცს სამი წლის წინ აორტა-ორბარძაყის სინთეზური პროთეზირება ჩაუტარდა. პაციენტმა მომართა სუბფებრილური ცხელებითა და საზარდულის არეში ქრონიკული ფისტულით, საიდანაც ჩირქოვანი გამონადენი აღინიშნება. MAGIC კრიტერიუმებ"
+        },
+        {
+          "n": 24,
+          "stem": "71 წლის ქალს ორი წლის წინ ჩადგმული ბარძაყ-მუხლქვეშა სინთეზური პროთეზის გვიანი, დუნედ მიმდინარე ინფექციის გამო პროთეზის სრული ექსპლანტაცია უტარდება. წინასაოპერაციოდ აღებული სისხლის ბაქტერიოლოგიური გამოკვლევები უარყოფითია "
+        },
+        {
+          "n": 25,
+          "stem": "67 წლის მამაკაცს შაქრიანი დიაბეტისა და საზარდულის მიდამოს მრავალჯერადი წინა ოპერაციების ფონზე სინთეზური პროთეზის ბარძაყის ანასტომოზის გეგმიური რეკონსტრუქცია უტარდება. ნაწიბუროვანი ცვლილებების გამო კანქვეშა ქსოვილი გათხელ"
+        },
+        {
+          "n": 26,
+          "stem": "70 წლის მამაკაცს მუცლის აორტის ინფრარენალური ანევრიზმის ღია პროთეზირება უტარდება ბიფურკაციული სინთეზური პროთეზით. ანასტომოზების დასრულების შემდეგ თორმეტგოჯა ნაწლავის მესამე-მეოთხე მონაკვეთი უშუალოდ პროქსიმალური აორტული ნ"
+        },
+        {
+          "n": 27,
+          "stem": "65 წლის ქალს სინთეზური პროთეზით ბარძაყ-მუხლქვეშა გეგმიური შუნტირება უნდა ჩაუტარდეს. ანამნეზში დადასტურებული აქვს ცეფალოსპორინებსა და პენიცილინებზე მძიმე ანაფილაქსიური რეაქცია, რის გამოც პერიოპერაციული ანტიბიოტიკოპროფილაქ"
         }
       ],
       "topic_rotation": "I №1–40 საფუძვლები და პრევენცია; II №41–80 მიკრობიოლოგია; III №81–130 დიაგნოზი; IV №131–190 გამოსახულებითი დიაგნოსტიკა; V №191–230 ანტიმიკრობული მკურნალობა; VI №231–300 ქირურგიული ტაქტიკა; VII №301–360 მასალები და ჭრილობა; VIII №361–410 ლოკალიზაციები; IX №411–460 გართულებები; X №461–500 შედეგები და მეთვალყურეობა.",
@@ -1897,45 +1917,30 @@
       "guideline_check": "NICE NG125 1.4.5: no topical antimicrobials to prevent SSI in primary-closure wounds; WHO/ACC: intensive smoking cessation begun >=4 weeks preoperatively reduces postoperative complications.",
       "last_validation": {
         "range": [
-          21,
-          22
+          23,
+          27
         ],
-        "new_questions": 2,
-        "new_explanations": 2,
+        "new_questions": 5,
+        "new_explanations": 5,
         "numbering_continuous": true,
         "five_options_each": true,
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
+        "answer_distribution": {
+          "ა": 1,
+          "ბ": 1,
+          "გ": 1,
+          "დ": 1,
+          "ე": 1
+        },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: primary-intention wound topical antimicrobial prophylaxis not recommended by NICE; >=4-week preoperative smoking cessation supported by WHO/ACC.",
-        "terminology_self_review": "passed: GLOSSARY.md general and VGEI terminology reviewed",
-        "georgian_language_self_review": "passed: clinical Georgian refined and language reviewed",
-        "semantic_duplication_review": "passed: compared decisions against all 20 existing VGEI items",
+        "clinical_self_review": "passed",
+        "georgian_language_self_review": "passed",
+        "terminology_self_review": "passed (GLOSSARY.md)",
+        "semantic_duplication_review": "checked all 22 stored VGEI questions and cross-topic stems",
         "previous_text_unchanged": true,
-        "source_checks": [
-          {
-            "questions": [
-              21
-            ],
-            "source": "NICE NG125 surgical site infections prevention and treatment, recommendation 1.4.5",
-            "url": "https://www.nice.org.uk/guidance/ng125/chapter/Recommendations"
-          },
-          {
-            "questions": [
-              22
-            ],
-            "source": "WHO 2020 smoking increases postoperative infection risk; cessation >= 4 weeks before surgery",
-            "url": "https://www.who.int/news-room/detail/20-01-2020-smoking-greatly-increases-risk-of-complications-after-surgery"
-          },
-          {
-            "questions": [
-              22
-            ],
-            "source": "ACC 2018 Expert Consensus Decision Pathway on Tobacco Cessation Treatment, perioperative cessation and support",
-            "url": "https://www.jacc.org/doi/full/10.1016/j.jacc.2018.10.027"
-          }
-        ]
+        "index_precheck": "matched"
       }
     }
   }
