@@ -1396,9 +1396,9 @@
       "target": 900,
       "question_file": "ANATOMY_IMAGING_questions.txt",
       "explanation_file": "ANATOMY_IMAGING_explanations.txt",
-      "last_number": 18,
-      "question_blob_sha": "0c9ad2ea8bf7c182b22a2c87e8abe287703e2c56",
-      "explanation_blob_sha": "399ba98e325f8d261b7e1ef0c69dbee6871b7d5b",
+      "last_number": 20,
+      "question_blob_sha": "322e755dacf3151d00f51f03167cd1057e8ec86e",
+      "explanation_blob_sha": "d5ab403c31f6f5f9fd9722fa30bc61d4c0ecd61f",
       "last_full_audit_at": 2,
       "recent_stems": [
         {
@@ -1472,6 +1472,14 @@
         {
           "n": 18,
           "stem": "მარცხენა ქვედა კიდურის შეშუპების გამო ჩატარებული მენჯის CT-ის ვენურ ფაზაზე მარცხენა თეძოს საერთო ვენა ხერხემლის წინა ზედაპირთან შევიწროებულია, თრომბი არ ჩანს."
+        },
+        {
+          "n": 19,
+          "stem": "ქვედა კიდურის დისტალური შუნტირებისას დიდი წვივის უკანა არტერიის გამოყოფა შიგნითა გოჯის უკან, ტარსალურ გვირაბში იგეგმება. რომელი მყესი მდებარეობს ჩვეულებრივ უშუალოდ არტერიის წინ ამ დონეზე?"
+        },
+        {
+          "n": 20,
+          "stem": "თირკმლის არტერიის რეკონსტრუქციისთვის ჩატარებულ CTA-ზე თირკმლის კარის ანატომიურ ურთიერთმდებარეობას აფასებენ. ჩვეულებრივი აგებულებისას როგორია ამ მიდამოს ძირითადი სისხლძარღვებისა და თირკმლის მენჯის თანმიმდევრობა წინიდან უკან?"
         }
       ],
       "topic_rotation": "№1–100 ძირითადი სისხლძარღვოვანი ანატომია; №101–180 ვარიაციები; №181–260 ჰემოდინამიკა; №261–360 დოპლერის საფუძვლები; №361–460 არტერიული დუპლექსსკანირება; №461–540 ვენური დუპლექსსკანირება; №541–630 CTA; №631–720 MRA, DSA, IVUS; №721–820 ოპერაციული დაგეგმვა; №821–900 ინტეგრირებული კლინიკური ვიზუალიზაცია. ზუსტად ორი კითხვა ყოველ ციკლში.",
@@ -1479,8 +1487,8 @@
       "guideline_check": "სტანდარტული ანატომია, ESVS/SVS/AIUM/IAC შესაბამისი წყაროები. არ გამოიგონო მეთოდოლოგიაზე დამოკიდებული PSV/EDV/PSVR ზღვრები.",
       "last_validation": {
         "range": [
-          17,
-          18
+          19,
+          20
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1490,36 +1498,36 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "გ": 1,
-          "ე": 1
+          "ბ": 1,
+          "დ": 1
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: standard subclavian artery posterior to anterior scalene within interscalene triangle, subclavian vein anterior to it; right common iliac artery crosses and can compress left common iliac vein.",
-        "terminology_self_review": "passed: ლავიწქვეშა არტერია/ვენა, წინა და შუა კიბისებრი კუნთები, თეძოს საერთო არტერია/ვენა, CT.",
-        "georgian_language_self_review": "passed: concise idiomatic Georgian clinical anatomy; parallel options and two-sentence explanations.",
-        "semantic_duplication_review": "Full existing №1–16 question and explanation records checked; these topics (anterior scalene vessel relations; left common iliac vein compression) have no overlapping tested decision with prior items.",
+        "clinical_self_review": "passed: tarsal tunnel anterior-to-posterior tendon and neurovascular anatomy; conventional renal hilar vein-artery-pelvis arrangement",
+        "terminology_self_review": "passed",
+        "georgian_language_self_review": "passed",
+        "semantic_duplication_review": "Compared questions 1-18; new ankle neurovascular landmark and renal hilum arrangement do not duplicate existing topics",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              17
+              19
             ],
-            "source": "Anatomy and Embryology of the Thoracic Outlet",
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8057296/"
+            "source": "Fine dissection of the tarsal tunnel in 60 cases, Scientific Reports 2017",
+            "url": "https://www.nature.com/articles/srep46351"
           },
           {
             "questions": [
-              17
+              19
             ],
-            "source": "Anatomy, Head and Neck: Inter-scalene Triangle",
-            "url": "https://www.ncbi.nlm.nih.gov/books/NBK544222/"
+            "source": "The bifurcation and topography of the posterior tibial artery within the tarsal tunnel, Surgical and Radiologic Anatomy 2023",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10130123/"
           },
           {
             "questions": [
-              18
+              20
             ],
-            "source": "May-Thurner Syndrome",
-            "url": "https://www.ncbi.nlm.nih.gov/books/NBK554377/"
+            "source": "Anatomical Variations in Arrangement of Renal Hilar Structures and its Applied Importance 2024",
+            "url": "https://doi.org/10.7860/IJARS/2024/73168.3009"
           }
         ]
       }
