@@ -872,19 +872,11 @@
       "target": 1500,
       "question_file": "PAD_CLTI_questions.txt",
       "explanation_file": "PAD_CLTI_explanations.txt",
-      "last_number": 52,
-      "question_blob_sha": "0e0eedd0f371273708810aee48674ad3d23b836f",
-      "explanation_blob_sha": "7d6025cc22505ef2772b3fe0349d265367cb4f54",
+      "last_number": 54,
+      "question_blob_sha": "aa08e2d746b5e3a50f848c2d74e6dcd46e8dbdc0",
+      "explanation_blob_sha": "801d4234bf613bb59688893dde1e3606c751fb33",
       "last_full_audit_at": 50,
       "recent_stems": [
-        {
-          "n": 23,
-          "stem": "75 წლის მამაკაცს ტერფის იშემიური წყლულის გამო ბარძაყის ზედაპირული არტერიის გრძელი ქრონიკული ტოტალური ოკლუზიის ენდოვასკულური მკურნალობა უტარდება. ანტეგრადული გამტარი სუბინტიმურ სივრცეში გავიდა, მაგრამ "
-        },
-        {
-          "n": 24,
-          "stem": "61 წლის მამაკაცს დაახლოებით 120 მ-ის გავლის შემდეგ ორივე დუნდულოს კუნთებში ტკივილი ეწყება, რომელიც შეჩერებიდან რამდენიმე წუთში ქრება. ბოლო თვეებში ერექტიული დისფუნქციაც განუვითარდა. ბარძაყისა და ტერფი"
-        },
         {
           "n": 25,
           "stem": "70 წლის ქალს კიდურისთვის საფრთხის შემცველი ქრონიკული იშემიის გამო ბარძაყის ზედაპირული არტერიის ბალონური ანგიოპლასტიკა უტარდება. საკონტროლო DSA-ზე არტერიის შუა სეგმენტიდან კონტრასტული ნივთიერების აქტიუ"
@@ -996,6 +988,14 @@
         {
           "n": 52,
           "stem": "68 წლის ქალს შაქრიანი დიაბეტი და ტერფის ძირის ნეიროპათიული წყლული აქვს. სამი კვირის წინ წარმატებით ჩაუტარდა წვივის არტერიის რევასკულარიზაცია; ტერფის პირველი თითის სისტოლური წნევა ახლა 62 mmHg-ია, ხოლო"
+        },
+        {
+          "n": 53,
+          "stem": "72 წლის ქალს კიდურისთვის საფრთხის შემცველი ქრონიკული იშემიის გამო ორი კვირის წინ ბარძაყის საერთო არტერიიდან დიდი წვივის უკანა არტერიაზე დიდი საჩინო ვენის უწყვეტი სეგმენტით შუნტირება ჩაუტარდა. გოჯ-მხრი"
+        },
+        {
+          "n": 54,
+          "stem": "69 წლის მამაკაცს თერთმეტი თვის წინ ბარძაყ-მუხლქვეშა შუნტირება სინთეზური პროთეზით ჩაუტარდა. ამჟამად საზარდულში ჩირქოვანი ფისტულა და მტკივნეული, პულსირებადი წარმონაქმნი აქვს; CTA-ზე პროთეზის პროქსიმალურ"
         }
       ],
       "topic_rotation": "ABI/TBI და პერფუზია; Fontaine/Rutherford/WIfI/GLASS; ხანგამოშვებითი კოჭლობა და CLTI; დუპლექსი/CTA/MRA/DSA; ანტიაგრეგანტები/სტატინები/ვარჯიში; აორტა-თეძოს, ბარძაყ-მუხლქვეშა და წვივის სეგმენტები; ენდოვასკულური მკურნალობა/ავტოვენური შუნტირება; ჭრილობა/ინფექცია/ამპუტაცია/მეთვალყურეობა.",
@@ -1003,8 +1003,8 @@
       "guideline_check": "2024 ACC/AHA PAD guideline, 2024 ESVS asymptomatic PAD/intermittent claudication guideline და Global Vascular Guidelines CLTI; კლინიკური გადაწყვეტილება გადაამოწმე პირველწყაროებში.",
       "last_validation": {
         "range": [
-          51,
-          52
+          53,
+          54
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1014,20 +1014,30 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: external iliac endofibrosis Delphi consensus and IWGDF/IDSA 2023 recommendation 11",
+        "clinical_self_review": "passed: ACC/AHA 2024 PAD follow-up recommendation 7 and ESVS VGEI peripheral infection guidance",
         "georgian_language_self_review": "passed",
         "terminology_self_review": "passed (GLOSSARY.md)",
-        "semantic_duplication_review": "reviewed all 50 existing PAD_CLTI stems, including last 30 full questions; distinct decisions",
+        "semantic_duplication_review": "Compared both new topics with all 52 existing full PAD_CLTI questions; max token-set overlaps 0.246, 0.12",
         "previous_text_unchanged": true,
         "index_precheck": "matched",
         "source_checks": [
           {
-            "question": 51,
-            "url": "https://pubmed.ncbi.nlm.nih.gov/27209899/"
+            "questions": [
+              53
+            ],
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12728805/"
           },
           {
-            "question": 52,
-            "url": "https://www.idsociety.org/practice-guideline/diabetic-foot-infections/"
+            "questions": [
+              54
+            ],
+            "url": "https://esvs.org/esvs-vgei-guidelines/"
+          },
+          {
+            "questions": [
+              54
+            ],
+            "url": "https://www.ejves.com/article/S1078588419325328/pdf"
           }
         ]
       }
