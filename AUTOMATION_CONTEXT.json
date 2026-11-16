@@ -1042,19 +1042,11 @@
       "target": 650,
       "question_file": "DIALYSIS_ACCESS_questions.txt",
       "explanation_file": "DIALYSIS_ACCESS_explanations.txt",
-      "last_number": 34,
-      "question_blob_sha": "f7a7eadb423ab4348cdd78859fb52c82baf2d42c",
-      "explanation_blob_sha": "48377b627c8e08f6f9025ac3fdfb6f87e31ce7ad",
+      "last_number": 36,
+      "question_blob_sha": "d2f17f5923dd955aaebe3a0a5b4126decb3a619a",
+      "explanation_blob_sha": "ddb506b57622284fed851559cb72578f506390f4",
       "last_full_audit_at": 5,
       "recent_stems": [
-        {
-          "n": 5,
-          "stem": "59 წლის პაციენტი ჰემოდიალიზს მარცხენა ბრაქიოცეფალური ფისტულით იტარებს. ბოლო თვეებში მარცხენა ზედა კიდურის შეშუპება თანდათან გაძლიერდა და გულმკერდის იმავე მხარეს კანქვეშა ვენები გაუფართოვდა. წარსულში მარცხენა ლავიწქვეშა ვ"
-        },
-        {
-          "n": 6,
-          "stem": "63 წლის პაციენტს, რომელსაც ოთხი წელია ბრაქიოცეფალური ფისტულით უტარდება ჰემოდიალიზი, თანდათან გაუძლიერდა ქოშინი და ქვედა კიდურების შეშუპება. დუპლექსსკანირებით ფისტულაში სისხლის მოცულობითი ნაკადი მკვეთრად მომატებულია; ჰემო"
-        },
         {
           "n": 7,
           "stem": "57 წლის პაციენტს ხუთი წელია რადიოცეფალური ფისტულით უტარდება ჰემოდიალიზი. ფისტულის კანულაციის მონაკვეთი ანევრიზმულად გაფართოებულია; მის თავზე კანი მკვეთრად გათხელდა, მცირე წყლული გაჩნდა და წინა დღეს სპონტანური სისხლდენის "
@@ -1166,6 +1158,14 @@
         {
           "n": 34,
           "stem": "69 წლის პაციენტს ჰემოდიალიზი ტუნელირებული, მანჟეტიანი სადიალიზო კათეტერით უტარდება; სხვა სისხლძარღვოვანი წვდომის შექმნის შესაძლებლობა მკვეთრად შეზღუდულია. სისხლის კულტურებით დადასტურდა კათეტერთან ასოცირებული სისხლის ნაკა"
+        },
+        {
+          "n": 35,
+          "stem": "62 წლის პაციენტს გადაუდებელი ჰემოდიალიზისთვის მარჯვენა შიგნითა საუღლე ვენაში არატუნელირებული სადიალიზო კათეტერის ჩადგმას უტარებენ. პროცედურის დასრულების შემდეგ არტერიული წნევის ტალღის ფორმამ და CTA-მ დაადასტურა, რომ მსხვ"
+        },
+        {
+          "n": 36,
+          "stem": "64 წლის პაციენტს ჰემოდიალიზი მარცხენა წინამხრის რადიოცეფალური ფისტულით უტარდება. დიალიზის სეანსისას კანულაციის დროს ვენის კედელი დაზიანდა და წინამხარში სისხლჩაქცევა განვითარდა. მომდევნო საათებში წინამხარი მკვეთრად შესივდ"
         }
       ],
       "topic_rotation": "AVF და AVG-ის შერჩევა; წინასაოპერაციო დუპლექსსკანირება; რადიოცეფალური, ბრაქიოცეფალური და ბრაქიობაზილიკური ფისტულები; ბაზილარული ვენის ტრანსპოზიცია; მომწიფება და არასაკმარისი მომწიფება; Qa, ვენური სტენოზი და თრომბოზი; ენდოვასკულური და ღია რეკონსტრუქცია; ანევრიზმა, ფსევდოანევრიზმა, სისხლდენა და ინფექცია; HAIDI და იშემიური მონომელური ნეიროპათია; მაღალი ნაკადი და გულის უკმარისობა; ცენტრალური ვენები; ტუნელირებული კათეტერები, ალტერნატიული წვდომა და მეთვალყურეობა.",
@@ -1173,8 +1173,8 @@
       "guideline_check": "KDOQI 2019 (გამოქვეყნებულია 2020 წელს), ESVS Vascular Access 2018, UK Kidney Association Vascular Access 2025; არ ააგო კითხვა სადავო რიცხვით ზღვრებზე და გაითვალისწინე ESKD Life-Plan.",
       "last_validation": {
         "range": [
-          33,
-          34
+          35,
+          36
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1184,28 +1184,28 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ბ": 1,
-          "ე": 1
+          "დ": 1,
+          "ა": 1
         },
-        "clinical_self_review": "passed: persistent angioplasty-induced venous rupture after failed tamponade; uncomplicated coagulase-negative staphylococcal catheter bacteraemia with catheter retention",
-        "georgian_language_self_review": "passed: independently refined academic Georgian",
-        "terminology_self_review": "passed: AGENTS.md v2.3; GLOSSARY.md GENERAL and DIALYSIS_ACCESS",
-        "semantic_duplication_review": "Compared all 32 prior dialysis questions and 30 recent stems; new mechanisms and decisions are distinct.",
+        "clinical_self_review": "passed: large-bore hemodialysis catheter inadvertently placed in common carotid artery requires leave-in-place and specialist-controlled removal; acute forearm compartment syndrome with retained arterial pulse requires urgent fasciotomy and bleeding control",
+        "georgian_language_self_review": "passed: separate specialist idiomatic Georgian revision of both stems, five options and explanations",
+        "terminology_self_review": "passed: AGENTS.md v2.3 and GLOSSARY.md GENERAL and DIALYSIS_ACCESS",
+        "semantic_duplication_review": "Checked all 34 questions and recent stems; new topics of arterial dialysis catheter malposition and postcannulation forearm compartment syndrome have different decisions.",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              33
+              35
             ],
-            "source": "KDOQI Vascular Access 2019 update, Table 2 stent graft indications for venous rupture; 2021 ruptured access observational study",
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8856770/"
+            "source": "Inadvertent carotid artery cannulation during hemodialysis catheter placement: leave in place pending specialist repair; ANZCA arterial cannulation decision algorithm and published HD catheter case reports",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3954672/"
           },
           {
             "questions": [
-              34
+              36
             ],
-            "source": "UK Kidney Association 2025 Vascular Access guideline 6.5; KDOQI 2019 CVC infection algorithm catheter salvage",
-            "url": "https://link.springer.com/article/10.1186/s12882-025-04374-y"
+            "source": "Acute forearm compartment syndrome following haemodialysis access fistula puncture in uraemia (2014 online/2016 print); urgent exploration and fasciotomy",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24889660/"
           }
         ]
       }
