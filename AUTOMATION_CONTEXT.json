@@ -1512,9 +1512,9 @@
       "target": 600,
       "question_file": "PERIOPERATIVE_questions.txt",
       "explanation_file": "PERIOPERATIVE_explanations.txt",
-      "last_number": 16,
-      "question_blob_sha": "91628c72a35521e60f08866161e54633d9b6c060",
-      "explanation_blob_sha": "879cd4e3c0f029890202777ade1bc8651a201b4c",
+      "last_number": 18,
+      "question_blob_sha": "171127338508bbe2b01df068502056c1a0319cdd",
+      "explanation_blob_sha": "4ab606cf26f11ec650026a943dc026771648f5c6",
       "last_full_audit_at": 6,
       "recent_stems": [
         {
@@ -1580,15 +1580,23 @@
         {
           "n": 16,
           "stem": "16. 70 წლის მამაკაცს ოთხი კვირის წინ ჰქონდა იშემიური ინსულტი, რის შემდეგაც ნევროლოგიური მდგომარეობა სტაბილურია. კოჭლობის გამო მას ქვედა კიდურის გეგმიური არტერიული შუნტირება უნდა ჩაუტარდეს, თუმცა კიდურისთვის უშუალო ს"
+        },
+        {
+          "n": 17,
+          "stem": "66 წლის ქალს შაქრიანი დიაბეტის გამო რვა თვეა ყოველკვირეულად ენიშნება სემაგლუტიდი უცვლელი დოზით; გლიკემია კონტროლდება. მას არ აღენიშნება გულისრევა, ღებინება ან კუჭის დაცლის შეფერხების სხვა რისკფაქტორები; ორ კვირაში დაგეგმილი აქვს თეძო-ბარძაყის ღია შუნტირება"
+        },
+        {
+          "n": 18,
+          "stem": "69 წლის მამაკაცს სინთეზური პროთეზით აორტა-ორბარძაყის გეგმიური შუნტირება უნდა ჩაუტარდეს. ოპერაცია სავარაუდოდ ექვს საათს გასტანს; თირკმლის ფუნქცია შენარჩუნებულია, ბეტა-ლაქტამურ ანტიბიოტიკებზე ალერგია და MRSA-ით კოლონიზაციის რისკფაქტორები არ აქვს. რომელია ოპე"
         }
       ],
       "topic_rotation": "№1–60 წინასაოპერაციო შეფასება/ოპტიმიზაცია; №61–120 პერიოპერაციული კარდიოვასკულური რისკი; №121–180 ანტიაგრეგანტული და ანტიკოაგულაციური მკურნალობა; №181–250 ჰემოსტაზი, სისხლდენა და ტრანსფუზია; №251–320 თრომბოემბოლია და პროფილაქტიკა; №321–380 ჰემოდინამიკა, ინფუზია და თირკმლის ფუნქცია; №381–440 ფილტვის/მეტაბოლური გართულებები; №441–500 სისხლძარღვოვანი ოპერაციების ადრეული გართულებები; №501–550 ნევროლოგიური/ორგანოსპეციფიკური გართულებები; №551–600 პოსტოპერაციული მეთვალყურეობა. ზუსტად ორი კითხვა თითო ციკლში.",
       "linguistic_note": "აკადემიურად რაფინირებული ბუნებრივი ქართული, GLOSSARY.md-ის ზოგადი და პერიოპერაციული განყოფილების ზუსტი ტერმინოლოგია; არ გამოიყენო კალკები. ზუსტად ორი კითხვა და ორი ორწინადადებიანი განმარტება ყოველ ციკლში.",
-      "guideline_check": "2026 AHA/ACC multisociety Perioperative Guideline (JACC, 2026): section 7.1 statin initiation in statin-naive patients with ASCVD indication, Class I, B-R; section 6.7 elective noncardiac surgery postponement ≥3 months after stroke/TIA, Class IIa, B-NR.",
+      "guideline_check": "2024 multi-society GLP-1RA perioperative guidance (published 2024; Surgical Endoscopy 2025): individual aspiration-risk assessment and continuation in lower-risk patients; SA Health vascular surgery antibiotic prophylaxis and ASHP/IDSA/SHEA/SIS: IV cefazolin within 60 min before incision with repeat intraoperative dosing for prolonged surgery and normal kidney function.",
       "last_validation": {
         "range": [
-          15,
-          16
+          17,
+          18
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1598,29 +1606,36 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ე": 1,
-          "ა": 1
+          "დ": 1,
+          "ბ": 1
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: 2026 ACC/AHA Section 7.1 and Section 6.7; elective condition and statin indication explicit",
-        "terminology_self_review": "passed against latest GLOSSARY general/perioperative",
-        "georgian_language_self_review": "passed: academic Georgian style and accurate clinical terminology",
-        "semantic_duplication_review": "Compared all existing 1–14 scenarios; new long-term statin initiation and surgery timing after recent stroke are clinically distinct.",
+        "clinical_self_review": "passed: stable GLP-1RA maintenance with no gastric risk features; prosthetic vascular surgery prophylaxis, 6-hour case and normal renal function",
+        "terminology_self_review": "passed with GLOSSARY.md general and PERIOPERATIVE sections",
+        "georgian_language_self_review": "passed: concise academic Georgian",
+        "semantic_duplication_review": "Compared existing 1–16 cases: neither stable GLP-1 receptor agonist management nor antibiotic prophylaxis with intraoperative repeat dosing repeats an earlier decision.",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              15
+              17
             ],
-            "source": "2026 AHA/ACC Multisociety Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery, Section 7.1, Recommendation 2 (COR 1, LOE B-R)",
-            "url": "https://www.jacc.org/doi/10.1016/j.jacc.2026.06.017"
+            "source": "Multisociety clinical practice guidance for the safe use of GLP-1 receptor agonists in the perioperative period (2024 published; Surgical Endoscopy 2025), Recommendations 1a–1c",
+            "url": "https://doi.org/10.1007/s00464-024-11263-2"
           },
           {
             "questions": [
-              16
+              18
             ],
-            "source": "2026 AHA/ACC Multisociety Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery, Section 6.7 (COR 2a, LOE B-NR)",
-            "url": "https://www.jacc.org/doi/10.1016/j.jacc.2026.06.017"
+            "source": "SA Health, Surgical Antimicrobial Prophylaxis Guidelines — Vascular Surgery, v3 (December 2021), timing and intraoperative cefazolin re-dosing",
+            "url": "https://www.sahealth.sa.gov.au/wps/wcm/connect/1ca95b81-0055-4934-b69d-a44888878811/Appendix%2B17%2B-%2BVascular%2BSurgery_v3.0_December_2021.pdf?MOD=AJPERES"
+          },
+          {
+            "questions": [
+              18
+            ],
+            "source": "ASHP/IDSA/SIS/SHEA Clinical Practice Guidelines for Antimicrobial Prophylaxis in Surgery, Vascular Procedures and General Principles",
+            "url": "https://www.ashp.org/-/media/assets/policy-guidelines/docs/therapeutic-guidelines/therapeutic-guidelines-antimicrobial-prophylaxis-surgery.pdf"
           }
         ]
       }
