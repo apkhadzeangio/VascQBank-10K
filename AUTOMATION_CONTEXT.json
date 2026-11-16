@@ -1676,9 +1676,9 @@
       "target": 500,
       "question_file": "VGEI_questions.txt",
       "explanation_file": "VGEI_explanations.txt",
-      "last_number": 10,
-      "question_blob_sha": "5487942baa27143e0f07c6e7fe302189e27f57d5",
-      "explanation_blob_sha": "6917a244c0efb7f3d53ca56b12eded8372b95904",
+      "last_number": 12,
+      "question_blob_sha": "1d7b33156a1093ed7f2cc1108f8f773dc934477c",
+      "explanation_blob_sha": "329532f97e529d9053297ba48da5ecf2add17e11",
       "last_full_audit_at": 4,
       "recent_stems": [
         {
@@ -1720,15 +1720,23 @@
         {
           "n": 10,
           "stem": "71 წლის ქალს აორტა-ორბარძაყის სინთეზური პროთეზირება უტარდება. კანის განაკვეთამდე ინტრავენურად შეუყვანეს ცეფაზოლინი; თირკმლის ფუნქცია ნორმალურია, ალერგია და აქტიური ინფექცია არ აღენიშნება. პირველი დოზის შეყვანიდან ოთხი საათი გავიდა, ოპერაციის დასრულებამდე კი კიდევ ორი საათია მოსალოდნელი. რომელი ანტიბიოტიკოპროფილაქტიკური ნაბიჯია ყველაზე შესაფერისი?"
+        },
+        {
+          "n": 11,
+          "stem": "65 წლის მამაკაცს ბარძაყის არტერიის სინთეზური პროთეზირება საზარდულის მიდგომით უნდა ჩაუტარდეს. საოპერაციო ველზე კანი დაუზიანებელია და ქლორჰექსიდინზე ან ალკოჰოლზე ალერგია არ აქვს. WHO-ის რეკომენდაციის მიხედვით, რომელი საშუალებაა უპირატესი კანის დასამუშავებლად უშუალოდ განაკვეთამდე, ოპერაციული მიდამოს ინფექციის რისკის შესამცირებლად?"
+        },
+        {
+          "n": 12,
+          "stem": "69 წლის მამაკაცს აორტა-ორბარძაყის სინთეზური პროთეზირების შემდეგ პირველ დღე-ღამეში სისხლში გლუკოზა განმეორებით 235–250 მგ/დლ აქვს; მანამდე შაქრიანი დიაბეტი არ დაუდგენიათ. ჰემოდინამიკურად სტაბილურია, ჭრილობის ინფექციის ნიშნები არ აღენიშნება. რომელი მოქმედებაა მიზანშეწონილი ოპერაციული მიდამოს ინფექციის პრევენციისთვის?"
         }
       ],
       "topic_rotation": "I №1–40 საფუძვლები და პრევენცია; II №41–80 მიკრობიოლოგია; III №81–130 დიაგნოზი; IV №131–190 გამოსახულებითი დიაგნოსტიკა; V №191–230 ანტიმიკრობული მკურნალობა; VI №231–300 ქირურგიული ტაქტიკა; VII №301–360 მასალები და ჭრილობა; VIII №361–410 ლოკალიზაციები; IX №411–460 გართულებები; X №461–500 შედეგები და მეთვალყურეობა.",
       "linguistic_note": "GLOSSARY.md-ის VGEI ტერმინოლოგია და ბუნებრივი აკადემიური ქართული.",
-      "guideline_check": "ESVS 2026 VGEI guidelines DOI 10.1016/j.ejvs.2026.05.035; Szilagyi classification in EANM 2022 VGEI imaging guideline; preoperative dental sepsis source control in ESVS 2020 recommendation 12 and NHS SSI 2026.; WHO Global SSI guidelines §4.6 hair removal; SHEA/IDSA 2022 SSI prevention update (2023), intraoperative cefazolin re-dosing at 4 hours.",
+      "guideline_check": "ESVS 2026 VGEI guidelines DOI 10.1016/j.ejvs.2026.05.035; WHO Global SSI guidelines section 4.7 surgical-site skin preparation; SHEA/IDSA/APIC 2022 SSI Prevention Update (published 2023), immediate postoperative glycemic control.",
       "last_validation": {
         "range": [
-          9,
-          10
+          11,
+          12
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1738,25 +1746,33 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: WHO SSI guideline hair clipping if necessary; SHEA/IDSA SSI prophylaxis cefazolin intraoperative repeat dose after 4 hours in normal renal function",
-        "terminology_self_review": "passed: GLOSSARY.md general and VGEI sections",
-        "georgian_language_self_review": "passed: concise, academic Georgian and distinct clinical decisions",
-        "semantic_duplication_review": "passed: Q9 hair clipping vs Q1–8 prior subjects; Q10 prolonged-case redosing vs Q2 initial pre-incision prophylaxis",
+        "clinical_self_review": "passed: WHO section 4.7 recommends alcohol-based CHG skin preparation for intact skin; SHEA/IDSA/APIC 2022 essential practice recommends postoperative glycemic control for all patients regardless of diabetes diagnosis",
+        "terminology_self_review": "passed: AGENTS.md and GLOSSARY.md general and VGEI sections",
+        "georgian_language_self_review": "passed: edited Georgian prose; no unacceptable English calques",
+        "semantic_duplication_review": "passed: prior 1–10 cover graft infection classification, initial/repeat prophylactic antibiotics, lymphocele, dental sepsis, hematogenous transmission, S. aureus decolonization, hair removal; Q11 skin antiseptic preparation and Q12 postoperative glucose management are distinct",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              9
+              11
             ],
-            "source": "WHO Global Guidelines for the Prevention of Surgical Site Infection section 4.6: hair removal",
+            "source": "WHO Global Guidelines for the Prevention of Surgical Site Infection, section 4.7",
             "url": "https://www.ncbi.nlm.nih.gov/books/NBK536431/"
           },
           {
             "questions": [
-              10
+              12
             ],
-            "source": "SHEA/IDSA Strategies to Prevent Surgical Site Infections in Acute-Care Hospitals: 2022 Update",
-            "url": "https://www.cambridge.org/core/journals/infection-control-and-hospital-epidemiology/article/strategies-to-prevent-surgical-site-infections-in-acutecare-hospitals-2022-update/2F824B9ADD6066B29F89C8A2A127A9DC"
+            "source": "SHEA/IDSA/APIC Strategies to Prevent Surgical Site Infections in Acute-Care Hospitals: 2022 Update, published 2023",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10867741/"
+          },
+          {
+            "questions": [
+              11,
+              12
+            ],
+            "source": "ESVS 2026 Guidelines on the Management of VGEI",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42448560/"
           }
         ]
       }
