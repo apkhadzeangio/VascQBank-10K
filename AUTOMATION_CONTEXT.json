@@ -1838,19 +1838,11 @@
       "target": 500,
       "question_file": "VGEI_questions.txt",
       "explanation_file": "VGEI_explanations.txt",
-      "last_number": 45,
-      "question_blob_sha": "0f5e44112ecc6afc3f21fd9062e7295e5946cb35",
-      "explanation_blob_sha": "cc1c2a83c47a873575dd377f53284073b2889b80",
+      "last_number": 47,
+      "question_blob_sha": "3611d91940d9d8a6ab179e2f15c54587061b09e1",
+      "explanation_blob_sha": "586702dc003ee79c4be468254b887efd79ffb150",
       "last_full_audit_at": 4,
       "recent_stems": [
-        {
-          "n": 16,
-          "stem": "73 წლის ქალს თეძოს არტერიის ანევრიზმის გამო გეგმიური სინთეზური პროთეზირება აქვს დაგეგმილი. სხვა მიზეზით ჩატარებულ შარდის ბაქტერიოლოგიურ გამოკვლევაში გამოვლინდა Escherichia coli, თუმცა პაციენტს შარდვის ჩივილები, ცხელება და სისტემური ინფექციის ნიშნები არ აქვს; უროლოგიური ჩარევა არ იგეგმება. სტანდარტული პერიოპერაციული ანტიბიოტიკოპროფილაქტიკის ფონზე რომელი ტაქტიკაა ყველაზე დასაბუთებული?"
-        },
-        {
-          "n": 17,
-          "stem": "74 წლის მამაკაცს მუცლის აორტის ანევრიზმის გამო გეგმიური EVAR ჩაუტარდა. მეორე დღეს ტემპერატურა 38,2 °C-მდე მოემატა, ლეიკოციტოზი და C-რეაქტიული ცილის მატება აღენიშნება. სისხლის ბაქტერიოლოგიური გამოკვლევები უარყოფითია, CTA-ზე პერიპროთეზული სითხე ან აირი არ ჩანს; პაციენტი ჰემოდინამიკურად სტაბილურია და ცხელება მესამე დღისთვის ჩაცხრა. რომელი მდგომარეობა ხსნის ამ მიმდინარეობას ყველაზე დამაჯერებლად?"
-        },
         {
           "n": 18,
           "stem": "69 წლის ქალს მუცლის აორტის ანევრიზმის გამო გეგმიური EVAR აქვს დაგეგმილი. პაციენტს სიმსუქნე და შაქრიანი დიაბეტი აქვს; CTA-ზე ორივე საერთო ბარძაყის არტერია საკმარისი დიამეტრისაა, პუნქციის უბნები გამოხატულად არ არის კალციფიცირებული და პერკუტანული დახურვა ტექნიკურად შესაძლებელია. გამოცდილმა გუნდმა რომელი მიდგომა უნდა აირჩიოს საზარდულის ჭრილობასთან დაკავშირებული და ლიმფური გართულებების რისკის შესამცირებლად?"
@@ -1962,6 +1954,14 @@
         {
           "n": 45,
           "stem": "65 წლის პაციენტს მეორეული აორტოენტერული ფისტულის გამო ამოკვეთილი პროთეზის სონიკაციური ნათესიდან და ინტრაოპერაციული ქსოვილებიდან ამოეთესა Candida albicans. რომელი სისტემური სოკოს საწინააღმდეგო პრეპარატია არჩევის საშუალება"
+        },
+        {
+          "n": 46,
+          "stem": "70 წლის მამაკაცს ოთხი წლის წინ ჩადგმული აორტა-ორბარძაყის სინთეზური პროთეზის ინფექცია დაუდასტურდა; სისხლის ბაქტერიოლოგიური გამოკვლევა (ჰემოკულტურა) უარყოფითია. პროთეზის ექსპლანტაციისას პერიპროთეზულ სივრცეში ჩირქოვანი ქსოვილები გამოვლინდა და საჭიროა გამომწვევის სარწმუნო მიკრობიოლოგიური დადგენა. რომელი ნიმუშების აღების ტაქტიკაა ყველაზე მიზანშეწონილი?"
+        },
+        {
+          "n": 47,
+          "stem": "73 წლის ქალს აორტის ენდოპროთეზის ინფექციის გამო ქირურგიული მკურნალობა ჩაუტარდა. სხვა კლინიკაში დაწყებული ფართო სპექტრის ანტიბიოტიკოთერაპიის ფონზე სისხლისა და ოპერაციისას აღებული ღრმა პერიპროთეზული ქსოვილების ბაქტერიოლოგიური გამოკვლევები უარყოფითია, მიუხედავად ინფექციის დამაჯერებელი კლინიკური და გამოსახულებითი ნიშნებისა; ღრმა ქსოვილის ნიმუში დამატებითი კვლევისთვის შენახულია. რომელი დამატებითი მეთოდის განხილვაა ყველაზე მიზანშეწონილი ბაქტერიული გამომწვევის დასადგენად?"
         }
       ],
       "topic_rotation": "I №1–40 საფუძვლები და პრევენცია; II №41–80 მიკრობიოლოგია; III №81–130 დიაგნოზი; IV №131–190 გამოსახულებითი დიაგნოსტიკა; V №191–230 ანტიმიკრობული მკურნალობა; VI №231–300 ქირურგიული ტაქტიკა; VII №301–360 მასალები და ჭრილობა; VIII №361–410 ლოკალიზაციები; IX №411–460 გართულებები; X №461–500 შედეგები და მეთვალყურეობა.",
@@ -1969,30 +1969,39 @@
       "guideline_check": "NICE NG125 1.4.5: no topical antimicrobials to prevent SSI in primary-closure wounds; WHO/ACC: intensive smoking cessation begun >=4 weeks preoperatively reduces postoperative complications.",
       "last_validation": {
         "range": [
-          36,
-          45
+          46,
+          47
         ],
-        "new_questions": 10,
-        "new_explanations": 10,
+        "new_questions": 2,
+        "new_explanations": 2,
         "numbering_continuous": true,
         "five_options_each": true,
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
-        "answer_distribution": {
-          "ა": 2,
-          "ბ": 2,
-          "გ": 2,
-          "დ": 2,
-          "ე": 2
-        },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed",
-        "georgian_language_self_review": "passed",
-        "terminology_self_review": "passed (GLOSSARY.md)",
-        "semantic_duplication_review": "checked all 35 stored VGEI questions and cross-topic stems",
+        "clinical_self_review": "passed: 2026 ESVS VGEI deep tissue sampling and molecular testing in culture-negative patients; different decisions",
+        "terminology_self_review": "passed: AGENTS.md and GLOSSARY.md general + VGEI",
+        "georgian_language_self_review": "passed: academic Georgian, sentence and choice refinement",
+        "semantic_duplication_review": "Compared 45 existing full VGEI stems; maximum lexical Jaccard 0.16,0.13; clinical decisions not repeated",
         "previous_text_unchanged": true,
-        "index_precheck": "matched"
+        "index_precheck": "matched true TXT count and both SHA",
+        "source_checks": [
+          {
+            "questions": [
+              46
+            ],
+            "source": "ESVS 2026 VGEI guideline, recommendations 11–12 (deep specimens and sterile separate containers)",
+            "url": "https://doi.org/10.1016/j.ejvs.2026.05.035"
+          },
+          {
+            "questions": [
+              47
+            ],
+            "source": "ESVS 2026 VGEI guideline, recommendation 18 (molecular testing in antimicrobial-pretreated/culture-negative infection)",
+            "url": "https://doi.org/10.1016/j.ejvs.2026.05.035"
+          }
+        ]
       }
     }
   }
