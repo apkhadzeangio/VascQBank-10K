@@ -1783,9 +1783,9 @@
       "target": 500,
       "question_file": "VGEI_questions.txt",
       "explanation_file": "VGEI_explanations.txt",
-      "last_number": 18,
-      "question_blob_sha": "baf5ee5325570f7f3405329e670c0146ea2b2b08",
-      "explanation_blob_sha": "db39189df9d9f1f0e6ef2d368a48eb56f6d68867",
+      "last_number": 20,
+      "question_blob_sha": "71b199b3e05d7c64d51ce3a7e7676233d1372b32",
+      "explanation_blob_sha": "6c15829708a1826edc2307240e4d484b568e56a2",
       "last_full_audit_at": 4,
       "recent_stems": [
         {
@@ -1859,15 +1859,23 @@
         {
           "n": 18,
           "stem": "69 წლის ქალს მუცლის აორტის ანევრიზმის გამო გეგმიური EVAR აქვს დაგეგმილი. პაციენტს სიმსუქნე და შაქრიანი დიაბეტი აქვს; CTA-ზე ორივე საერთო ბარძაყის არტერია საკმარისი დიამეტრისაა, პუნქციის უბნები გამოხატულად არ არის კალციფიცირებული და პერკუტანული დახურვა ტექნიკურად შესაძლებელია. გამოცდილმა გუნდმა რომელი მიდგომა უნდა აირჩიოს საზარდულის ჭრილობასთან დაკავშირებული და ლიმფური გართულებების რისკის შესამცირებლად?"
+        },
+        {
+          "n": 19,
+          "stem": "71 წლის ქალს ოთხი წლის წინ აორტა-ორბარძაყის სინთეზური პროთეზირება ჩაუტარდა. ახლა მარჯვენა საზარდულში პროთეზის ტოტის ირგვლივ აბსცესია; CTA-ზე ინფექციური ცვლილებები მხოლოდ საზარდულის, ღრუსგარეთა მონაკვეთში ჩანს, რეტროპერიტონეუმში მდებარე ნაწილი კი დაზიანებული არ არის. ბუნტის (Bunt) მოდიფიცირებული კლასიფიკაციით, რომელი აღწერა შეესაბამება ინფექციის გავრცელებას?"
+        },
+        {
+          "n": 20,
+          "stem": "68 წლის მამაკაცს შვიდი თვის წინ მუცლის აორტის ენდოპროთეზი ჩაუდგეს. ახალი ცხელებისა და წელის ტკივილის გამო ჩატარებულ CTA-ზე პერიპროთეზული აბსცესი გამოვლინდა, სისხლის ბაქტერიოლოგიურ გამოკვლევაში კი ოქროსფერი სტაფილოკოკი გაიზარდა. გუნდი განიხილავს, უნდა ჩაითვალოს თუ არა ინფექცია „გვიანად“ მხოლოდ ენდოპროთეზის ჩადგმიდან გასული დროის გამო. ESVS-ის 2026 წლის გაიდლაინით, რომელი მიდგომაა დასაბუთებული?"
         }
       ],
       "topic_rotation": "I №1–40 საფუძვლები და პრევენცია; II №41–80 მიკრობიოლოგია; III №81–130 დიაგნოზი; IV №131–190 გამოსახულებითი დიაგნოსტიკა; V №191–230 ანტიმიკრობული მკურნალობა; VI №231–300 ქირურგიული ტაქტიკა; VII №301–360 მასალები და ჭრილობა; VIII №361–410 ლოკალიზაციები; IX №411–460 გართულებები; X №461–500 შედეგები და მეთვალყურეობა.",
       "linguistic_note": "GLOSSARY.md-ის VGEI ტერმინოლოგია და ბუნებრივი აკადემიური ქართული.",
-      "guideline_check": "ESVS 2026 VGEI; post-EVAR post-implantation syndrome systematic review (JVS 2024); percutaneous EVAR wound/lymphatic complications (RCT PiERO 2019, meta-analysis 2022).",
+      "guideline_check": "ESVS 2026 VGEI: no universal early/late timing cutoff; modified Bunt P2 extracavitary segment of a graft with intracavitary origin (ESVS 2020, EANM 2022).",
       "last_validation": {
         "range": [
-          17,
-          18
+          19,
+          20
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1877,39 +1885,31 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: early transient sterile systemic inflammation after EVAR is characteristic of post-implantation syndrome; suitable percutaneous CFA access reduces overall groin and lymphatic wound complications, not proven to independently lower endograft infection incidence",
-        "terminology_self_review": "passed: current AGENTS.md; GLOSSARY.md general and VGEI sections",
-        "georgian_language_self_review": "passed: academic Georgian reviewed and refined",
-        "semantic_duplication_review": "passed: checked all 16 existing VGEI questions; new differential decision and access-strategy decision were not present",
+        "clinical_self_review": "passed: modified Bunt P2 isolated extracavitary portion of a graft of intracavitary origin; ESVS 2026 does not recommend a universal rigid time cutoff for early versus late VGEI.",
+        "terminology_self_review": "passed: AGENTS.md and GLOSSARY.md general and VGEI terminology verified",
+        "georgian_language_self_review": "passed: academic Georgian and medical terminology refined",
+        "semantic_duplication_review": "passed: checked all 18 existing VGEI questions; distinct new classification and temporal evaluation decisions",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              17
+              19
             ],
-            "source": "D’Oria et al. Systematic review of post-implantation syndrome following EVAR, J Vasc Surg 2024;79:1240–1250.e4",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/38122858/"
+            "source": "ESVS 2020 Clinical Practice Guidelines, Table 4; modified Bunt P2 classification",
+            "url": "https://www.esvs.org/wp-content/uploads/2020/02/Managemen-of-Vascular-Graft-and-Stent-Graft-Infections-Mar-2020.pdf"
           },
           {
             "questions": [
-              18
+              19
             ],
-            "source": "Meta-analysis of percutaneous versus cutdown EVAR (4 RCTs and 9 observational studies), Vascular 2022;30(5)",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/34259113/"
+            "source": "EANM evidence-based guideline on imaging infection in vascular grafts, Table 1 (Bunt P2)",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9308572/"
           },
           {
             "questions": [
-              18
+              20
             ],
-            "source": "PiERO randomized multicentre trial: percutaneous versus open femoral access; wound outcomes; no statistically established SSI reduction, J Vasc Surg 2019",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/30292613/"
-          },
-          {
-            "questions": [
-              17,
-              18
-            ],
-            "source": "ESVS 2026 Clinical Practice Guidelines on Management of Vascular Graft and Endograft Infections",
+            "source": "ESVS 2026 Clinical Practice Guidelines on Management of VGEI; updated terminology on early/late infection",
             "url": "https://pubmed.ncbi.nlm.nih.gov/42448560/"
           }
         ]
