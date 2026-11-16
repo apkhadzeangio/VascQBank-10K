@@ -1218,19 +1218,11 @@
       "target": 600,
       "question_file": "MESENTERIC_RENAL_questions.txt",
       "explanation_file": "MESENTERIC_RENAL_explanations.txt",
-      "last_number": 37,
-      "question_blob_sha": "b65dfc3fb6be8fa05cfaded5905aaff87ea3cc27",
-      "explanation_blob_sha": "5b0a495730af895d0af43a3947d71ea8fdfca624",
+      "last_number": 39,
+      "question_blob_sha": "427cdbbf35efbc50504ba29ca9f0bdb7e14c6bb8",
+      "explanation_blob_sha": "1563d49ece72987eded2a4bcce9c21e92d4a2866",
       "last_full_audit_at": 2,
       "recent_stems": [
-        {
-          "n": 8,
-          "stem": "64 წლის მამაკაცს სხვა მიზეზით ჩატარებულ CTA-ზე მარჯვენა თირკმლის არტერიის მთავარ ღეროში 24 მმ დიამეტრის ჭეშმარიტი ანევრიზმა აღმოაჩნდა. ტკივილი, ჰემატურია და ემბოლიური გართულებები არ აღენიშნება; არტერიული წნევა კონტროლდებ"
-        },
-        {
-          "n": 9,
-          "stem": "70 წლის მამაკაცს ჯორჯლის ზემო არტერიის მწვავე თრომბოზით გამოწვეული მეზენტერიული იშემიის გამო რევასკულარიზაცია ჩაუტარდა. ლაპაროტომიისას გამოვლინდა წვრილი ნაწლავის აშკარად ნეკროზული მონაკვეთი, ხოლო მის მომიჯნავე უბნის სიცო"
-        },
         {
           "n": 10,
           "stem": "67 წლის მამაკაცს 16 თვის წინ ფილტვების განმეორებითი ელვისებური შეშუპების გამო მარჯვენა თირკმლის არტერიის სათავის სტენტირება ჩაუტარდა. ჩარევის შემდეგ არტერიული წნევა კონტროლდებოდა, მაგრამ ბოლო ორ თვეში ჰიპერტენზია კვლავ გ"
@@ -1342,6 +1334,14 @@
         {
           "n": 37,
           "stem": "47 წლის მამაკაცს უეცრად განვითარებული მარჯვენა ფერდის ტკივილის გამო CTA ჩაუტარდა, რომელზეც თირკმლის არტერიის შუა სეგმენტის იზოლირებული სპონტანური დისექცია გამოვლინდა. არტერიის ჭეშმარიტი სანათური გამავალია, თირკმლის პარენ"
+        },
+        {
+          "n": 38,
+          "stem": "71 წლის მამაკაცს 11 თვის წინ ქრონიკული მეზენტერიული იშემიის გამო ჯორჯლის ზემო არტერიის სტენტირება ჩაუტარდა, რის შემდეგაც ჭამისშემდგომი ტკივილი გაუქრა. ბოლო ორი თვის განმავლობაში ტკივილი კვლავ დაეწყო და წონაში დაიკლო; დუპ"
+        },
+        {
+          "n": 39,
+          "stem": "66 წლის მამაკაცს მარჯვენა თირკმლის არტერიის სათავის 82%-იანი ათეროსკლეროზული სტენოზი აქვს, რომელსაც DSA-ზე 18 mmHg ტრანსსტენოზური წნევითი სხვაობა ახლავს. სამი სათანადო დოზით დანიშნული ანტიჰიპერტენზიული პრეპარატის, მათ შო"
         }
       ],
       "topic_rotation": "მეზენტერიული და თირკმლის პათოლოგიების მონაცვლეობა; მწვავე მეზენტერიული იშემიის ემბოლია/თრომბოზი/NOMI/MVT; ქრონიკული მეზენტერიული იშემია; CTA/DSA/დუპლექსსკანირება; ენდოვასკულური და ღია რევასკულარიზაცია; ნაწლავის სიცოცხლისუნარიანობა და განმეორებითი ლაპაროტომია; თირკმლის არტერიის ათეროსკლეროზული სტენოზი/FMD; რენოვასკულური ჰიპერტენზია; რევასკულარიზაციის ჩვენებები და უარყოფა; ანევრიზმა/დისექცია; მკურნალობისშემდგომი მეთვალყურეობა.",
@@ -1349,8 +1349,8 @@
       "guideline_check": "ESVS 2025 Mesenteric and Renal Arteries and Veins (რეკომენდაციები 33 და 63), ESC 2024 PAAD. მწვავე მეზენტერიული იშემიის ეჭვისას გადაუდებელი CTA თირკმლის ფუნქციის დაქვეითების მიუხედავად; კონტროლირებადი ჰიპერტენზიისა და სტაბილური თირკმლის ფუნქციისას თირკმლის ათეროსკლეროზული სტენოზის რუტინული სტენტირება არ არის გამართლებული.",
       "last_validation": {
         "range": [
-          36,
-          37
+          38,
+          39
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1360,32 +1360,32 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ა": 1,
-          "ბ": 2,
-          "გ": 1,
-          "დ": 3,
-          "ე": 3
+          "ა": 7,
+          "ბ": 8,
+          "გ": 8,
+          "დ": 8,
+          "ე": 8
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: ESVS 2025 Recommendations 56 and 100",
-        "georgian_language_self_review": "passed",
-        "terminology_self_review": "passed (general and mesenteric/renal GLOSSARY)",
-        "semantic_duplication_review": "Compared 35 existing stems; Jaccard max 0.135 / 0.211, distinct clinical decisions",
+        "clinical_self_review": "passed — ESVS 2025 recommendations 24 and 66",
+        "georgian_language_self_review": "passed — academic Georgian",
+        "terminology_self_review": "passed — AGENTS.md and GLOSSARY.md general/mesenteric-renal",
+        "semantic_duplication_review": "Compared all 37 stored MESENTERIC_RENAL scenarios; closest lexical overlap [{\"score\":0.218,\"n\":3},{\"score\":0.259,\"n\":34}]; distinct clinical decisions",
         "previous_text_unchanged": true,
         "index_precheck": "matched",
         "source_checks": [
           {
             "questions": [
-              36
+              38
             ],
-            "source": "ESVS 2025 Recommendation 56",
+            "source": "ESVS 2025 Mesenteric and Renal Arteries and Veins, Recommendation 24 (symptomatic restenosis: endovascular first)",
             "url": "https://doi.org/10.1016/j.ejvs.2025.06.010"
           },
           {
             "questions": [
-              37
+              39
             ],
-            "source": "ESVS 2025 Recommendation 100",
+            "source": "ESVS 2025 Mesenteric and Renal Arteries and Veins, Recommendation 66 (selected resistant hypertension: consider PTRAS)",
             "url": "https://doi.org/10.1016/j.ejvs.2025.06.010"
           }
         ]
