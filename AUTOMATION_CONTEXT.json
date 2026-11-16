@@ -223,19 +223,11 @@
       "target": 1200,
       "question_file": "AAA_EVAR_questions.txt",
       "explanation_file": "AAA_EVAR_explanations.txt",
-      "last_number": 134,
-      "question_blob_sha": "e74bc18a35a937f861097bc0e3f3755e6d0345c9",
-      "explanation_blob_sha": "8586525216d5f7de4c9e8c60b562b69087ac49d9",
+      "last_number": 136,
+      "question_blob_sha": "1bc2773ebbce283f39b37df922182badb9b84cc7",
+      "explanation_blob_sha": "3976d5dfafc6703e3f054f0541e0a19d738f1ee6",
       "last_full_audit_at": 100,
       "recent_stems": [
-        {
-          "n": 105,
-          "stem": "მუცლის აორტის იუქსტარენალური ანევრიზმის ღია პროთეზირების წინ CTA-ზე ჩანს, რომ მარცხენა თირკმლის ვენა აორტის უკან გადის და ქვედა ღრუ ვენას უერთდება. იგეგმება პროქსიმალური აორტის წრიული გამოყოფა და დამჭ"
-        },
-        {
-          "n": 106,
-          "stem": "იუქსტარენალური ანევრიზმის FEVAR-იდან ორი წლის შემდეგ CTA-ზე ჩანს, რომ მარცხენა თირკმლის არტერიის დამაკავშირებელი დაფარული სტენტი ენდოპროთეზის ფენესტრაციას ნაწილობრივ დასცილდა. კონტრასტი შეერთების ადგი"
-        },
         {
           "n": 107,
           "stem": "70 წლის მამაკაცს მუცლის აორტის პარარენალური ანევრიზმის ფენესტრირებული და განშტოებიანი ენდოპროთეზით მკურნალობა ესაჭიროება. წარსულში გულმკერდის დასწვრივი აორტის ნაწილი ენდოპროთეზით აქვს დაფარული. CTA-ის"
@@ -347,37 +339,35 @@
         {
           "n": 134,
           "stem": "მუცლის აორტის ინფრარენალური ანევრიზმისა და თეძოს საერთო არტერიების ექტაზიის გამო პაციენტს ღია ქირურგიული პროთეზირება უტარდება ბიფურკაციული პროთეზით, რომლის ტოტებიც თეძოს საერთო არტერიების ბიფურკაციების დონეზე ეკერება; ორ"
+        },
+        {
+          "n": 135,
+          "stem": "72 წლის მამაკაცს მუცლის აორტის 64 მმ დიამეტრის ინფრარენალური ანევრიზმის გამო სტანდარტული EVAR უტარდება. ენდოპროთეზის ძირითადი კორპუსის გაშლის შემდეგ საკონტროლო ანგიოგრაფიაზე მარცხენა თირკმლის არტერიის"
+        },
+        {
+          "n": 136,
+          "stem": "სტანდარტული EVAR-იდან სამი წლის შემდეგ 70 წლის მამაკაცს ანევრიზმული ტომრის დიამეტრი 55 მმ-დან 68 მმ-მდე გაეზარდა. მრავალფაზიან CTA-ზე II ტიპის ენდოლიკი ჯორჯლის ქვემო არტერიიდან რეტროგრადული ნაკადით ივ"
         }
       ],
-      "topic_rotation": "პერიოპერაციული ანტიკოაგულანტის მართვა (DOAC); EVAR-ის არტერიული მიდგომის იატროგენული დაზიანება და გადაუდებელი ენდოვასკულური ჰერმეტიზაცია; შემდეგ განსხვავებული ქვეთემები.",
+      "topic_rotation": "თირკმლის არტერიის იატროგენული გადაფარვის დაუყოვნებელი კორექცია; II ტიპის ენდოლიკის ტრანსარტერიული ემბოლიზაცია ჯორჯლის კოლატერალებით; შემდეგ განსხვავებული ქვეთემები.",
       "linguistic_note": "„რუპტურირებული“, „გადარჩენადობა“, „სიკვდილისგან თავისუფალი“ — არ გამოიყენო; surgical repair აღწერე როგორც რეკონსტრუქცია/პროთეზირება/მკურნალობა და არა „აღდგენა“.",
       "guideline_check": "ESVS 2024 AAA Recommendation 41 and section 5.2.1 (p. 224): https://cprv.fr/aneurism-esvs-2024.pdf ; Kotelis et al. J Vasc Surg 2009, iliac artery rupture during EVAR: https://pubmed.ncbi.nlm.nih.gov/19703755/",
       "last_validation": {
         "range": [
-          130,
-          134
+          135,
+          136
         ],
-        "new_questions": 5,
-        "new_explanations": 5,
+        "new_questions": 2,
+        "new_explanations": 2,
         "numbering_continuous": true,
         "five_options_each": true,
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
-        "answer_distribution": {
-          "ა": 1,
-          "ბ": 1,
-          "გ": 1,
-          "დ": 1,
-          "ე": 1
-        },
-        "numeric_options_ascending": true,
         "clinical_self_review": "passed",
         "georgian_language_self_review": "passed",
-        "terminology_self_review": "passed (GLOSSARY.md)",
-        "semantic_duplication_review": "checked all 129 stored AAA_EVAR questions and cross-topic stems",
-        "previous_text_unchanged": true,
-        "index_precheck": "matched"
+        "semantic_duplication_review": "Compared against 134 stored questions; distinct from renal bridging stent occlusion and lumbar type II endoleak embolization",
+        "previous_text_unchanged": true
       }
     },
     "CAROTID_VERTEBRAL": {
