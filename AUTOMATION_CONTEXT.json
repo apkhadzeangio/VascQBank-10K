@@ -1025,19 +1025,11 @@
       "target": 650,
       "question_file": "DIALYSIS_ACCESS_questions.txt",
       "explanation_file": "DIALYSIS_ACCESS_explanations.txt",
-      "last_number": 46,
-      "question_blob_sha": "b879a38447cdda71898f9ef124454d21a4b7b4ab",
-      "explanation_blob_sha": "f34169c7503308310308ed67688ce0e4e9b91062",
+      "last_number": 48,
+      "question_blob_sha": "5f345b780dd1774b85fdb7bdd43507bff456c298",
+      "explanation_blob_sha": "17e3e68c1bba49f37a67ed586f90ea9d785e3a9e",
       "last_full_audit_at": 5,
       "recent_stems": [
-        {
-          "n": 17,
-          "stem": "64 წლის პაციენტს ჰემოდიალიზი მაჯის რადიოცეფალური ფისტულით უტარდება. ხელის მოსვენების ტკივილი ფისტულის დროებითი შეკუმშვისას სუსტდება. ანგიოგრაფიით დადასტურდა, რომ იდაყვის არტერია და ხელისგულის არტერიული რკალი გამავალია, ხ"
-        },
-        {
-          "n": 18,
-          "stem": "54 წლის პაციენტს ექვსი თვის წინ მარცხენა ბრაქიოცეფალური არტერიოვენური ფისტულა შეუქმნეს. დუპლექსსკანირებით ცეფალური ვენა საკმარისად გაფართოებულია, სისხლის მოცულობითი ნაკადი ჰემოდიალიზისთვის ადეკვატურია"
-        },
         {
           "n": 19,
           "stem": "61 წლის პაციენტს ჰემოდიალიზი წინამხრის მარყუჟისებრი არტერიოვენური პროთეზით უტარდება. ბოლო თვეებში ნემსების შეყვანა უპირატესად ერთსა და იმავე მოკლე მონაკვეთში ხდება; ამ უბანში კანქვეშა ქსოვილი დაზიანებ"
@@ -1149,6 +1141,14 @@
         {
           "n": 46,
           "stem": "57 წლის პაციენტს მარცხენა ბრაქიოცეფალური ფისტულა სრულად მოუმწიფდა და უკვე სამი კვირაა გართულების გარეშე გამოიყენება ჰემოდიალიზისთვის, რის გამოც დაიგეგმა მარჯვენა შიგნითა საუღლე ვენაში ჩადგმული ტუნელირებული, მანჟეტიანი სა"
+        },
+        {
+          "n": 47,
+          "stem": "58 წლის პაციენტს მაჯის დონეზე შექმნილი რადიოცეფალური არტერიოვენური ფისტულით ჰემოდიალიზი უტარდება. ფისტულის შექმნის შემდეგ მტევანი თანდათან შეუშუპდა, თითები მოლურჯო გახდა და ზედაპირული ვენები გაფართოვდა; მტევანი თბილია და არტე"
+        },
+        {
+          "n": 48,
+          "stem": "61 წლის პაციენტს წინამხარზე ექსპანდირებული პოლიტეტრაფტორეთილენის (ePTFE) მარყუჟისებრი არტერიოვენური პროთეზი ჩაუდგეს. ერთი თვის შემდეგ არტერიულ ანასტომოზთან ნელა მზარდი, უმტკივნეულო და არაპულსირებადი შეშუპება გამოვლინდა. პაციე"
         }
       ],
       "topic_rotation": "AVF და AVG-ის შერჩევა; წინასაოპერაციო დუპლექსსკანირება; რადიოცეფალური, ბრაქიოცეფალური და ბრაქიობაზილიკური ფისტულები; ბაზილარული ვენის ტრანსპოზიცია; მომწიფება და არასაკმარისი მომწიფება; Qa, ვენური სტენოზი და თრომბოზი; ენდოვასკულური და ღია რეკონსტრუქცია; ანევრიზმა, ფსევდოანევრიზმა, სისხლდენა და ინფექცია; HAIDI და იშემიური მონომელური ნეიროპათია; მაღალი ნაკადი და გულის უკმარისობა; ცენტრალური ვენები; ტუნელირებული კათეტერები, ალტერნატიული წვდომა და მეთვალყურეობა.",
@@ -1156,30 +1156,45 @@
       "guideline_check": "KDOQI 2019 (გამოქვეყნებულია 2020 წელს), ESVS Vascular Access 2018, UK Kidney Association Vascular Access 2025; არ ააგო კითხვა სადავო რიცხვით ზღვრებზე და გაითვალისწინე ESKD Life-Plan.",
       "last_validation": {
         "range": [
-          37,
-          46
+          47,
+          48
         ],
-        "new_questions": 10,
-        "new_explanations": 10,
+        "new_questions": 2,
+        "new_explanations": 2,
         "numbering_continuous": true,
         "five_options_each": true,
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ა": 2,
-          "ბ": 2,
-          "გ": 2,
-          "დ": 2,
-          "ე": 2
+          "ა": 10,
+          "ბ": 9,
+          "გ": 9,
+          "დ": 10,
+          "ე": 10
         },
-        "numeric_options_ascending": true,
-        "clinical_self_review": "passed",
-        "georgian_language_self_review": "passed",
-        "terminology_self_review": "passed (GLOSSARY.md)",
-        "semantic_duplication_review": "checked all 36 stored DIALYSIS_ACCESS questions and cross-topic stems",
+        "clinical_self_review": "passed: distal venous reflux after side-to-side radiocephalic fistula, and sterile periprosthetic seroma",
+        "georgian_language_self_review": "passed: independent stem and option editorial revision",
+        "terminology_self_review": "passed: GLOSSARY.md GENERAL and DIALYSIS_ACCESS",
+        "semantic_duplication_review": "Compared all 46 existing questions and 30 recent question stems; no previous match for distal venous hypertension from side-to-side anastomosis or perigraft seroma",
         "previous_text_unchanged": true,
-        "index_precheck": "matched"
+        "index_precheck": "matched",
+        "source_checks": [
+          {
+            "questions": [
+              47
+            ],
+            "source": "ESVS 2018 Vascular Access Clinical Practice Guidelines, section 5.1.9; J Vasc Surg review of hand venous hypertension",
+            "url": "https://www.vasbi.org.uk/static/uploads/resources/VA_2018_Euro_Clinical_Practice_Guidelines.pdf"
+          },
+          {
+            "questions": [
+              48
+            ],
+            "source": "ESVS 2018 Vascular Access Clinical Practice Guidelines, section 5.3.3 non-infected fluid collections",
+            "url": "https://www.vasbi.org.uk/static/uploads/resources/VA_2018_Euro_Clinical_Practice_Guidelines.pdf"
+          }
+        ]
       }
     },
     "MESENTERIC_RENAL": {
