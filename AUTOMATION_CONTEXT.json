@@ -929,9 +929,9 @@
       "target": 1500,
       "question_file": "PAD_CLTI_questions.txt",
       "explanation_file": "PAD_CLTI_explanations.txt",
-      "last_number": 17,
-      "question_blob_sha": "a9ad3754cc08b6ff164770e17eeda14eb2862de8",
-      "explanation_blob_sha": "9c22434385ab65ed8bda7f3c260cd2dd34bf3a4e",
+      "last_number": 19,
+      "question_blob_sha": "4b6a570db6a65b2ef9773be0f4c09b11bdc59199",
+      "explanation_blob_sha": "44ecd5bb35e956298a49d05c2db336afee4c7424",
       "last_full_audit_at": 0,
       "recent_stems": [
         {
@@ -1001,6 +1001,14 @@
         {
           "n": 17,
           "stem": "38 წლის მამაკაცს, რომელიც მრავალი წელია თამბაქოს მოიხმარს, ორივე ტერფის თითებზე განმეორებითი იშემიური წყლულები და ზედაპირული ვენების მიგრირებადი თრომბოფლებიტი აქვს. შაქრიანი დიაბეტი, სისტემური ვასკული"
+        },
+        {
+          "n": 18,
+          "stem": "68 წლის მამაკაცს სხვა მიზეზით ჩატარებულ CTA-ზე თეძოს საერთო არტერიის 85%-იანი სტენოზი გამოუვლინდა. გოჯ-მხრის ინდექსი (ABI) 0,65-ია, თუმცა პაციენტი ყოველდღიურად რამდენიმე კილომეტრს ტკივილის გარეშე გადი"
+        },
+        {
+          "n": 19,
+          "stem": "56 წლის მამაკაცს აორტა-თეძოს სეგმენტის მაოკლუზირებელი დაავადების გამო აორტა-ორბარძაყის შუნტირება ჩაუტარდა. ოპერაციის შემდეგ ერექცია შენარჩუნებულია, მაგრამ ორგაზმისას ეაკულატი თითქმის არ გამოიყოფა; ორგ"
         }
       ],
       "topic_rotation": "ABI/TBI და პერფუზია; Fontaine/Rutherford/WIfI/GLASS; ხანგამოშვებითი კოჭლობა და CLTI; დუპლექსი/CTA/MRA/DSA; ანტიაგრეგანტები/სტატინები/ვარჯიში; აორტა-თეძოს, ბარძაყ-მუხლქვეშა და წვივის სეგმენტები; ენდოვასკულური მკურნალობა/ავტოვენური შუნტირება; ჭრილობა/ინფექცია/ამპუტაცია/მეთვალყურეობა.",
@@ -1008,8 +1016,8 @@
       "guideline_check": "2024 ACC/AHA PAD guideline, 2024 ESVS asymptomatic PAD/intermittent claudication guideline და Global Vascular Guidelines CLTI; კლინიკური გადაწყვეტილება გადაამოწმე პირველწყაროებში.",
       "last_validation": {
         "range": [
-          16,
-          17
+          18,
+          19
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1019,36 +1027,37 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ე": 1,
-          "ა": 1
+          "ბ": 1,
+          "გ": 1
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: GVG (2019) PLAN/GLASS/WIfI favors autologous vein bypass for average-risk patients with advanced limb threat and complex disease; thromboangiitis diagnosis based on tobacco exposure, distal occlusions, migratory thrombophlebitis and exclusion of mimics",
+        "clinical_self_review": "passed: asymptomatic PAD revascularization against ACC/AHA 2024; superior hypogastric plexus and retrograde ejaculation against vascular surgical anatomy references",
         "georgian_language_self_review": "passed",
-        "terminology_self_review": "passed: current GENERAL and PAD_CLTI glossary",
-        "semantic_duplication_review": "Reviewed all saved PAD_CLTI questions 1–15; new topics are high-complexity CLTI revascularization strategy and thromboangiitis obliterans differential diagnosis. No repeated clinical decision point.",
+        "terminology_self_review": "passed",
+        "semantic_duplication_review": "Compared 1–17 fully; asymptomatic PAD preventive care and open aorto-bifemoral bypass autonomic injury do not repeat the saved clinical decisions.",
         "previous_text_unchanged": true,
+        "index_precheck": "matched",
         "source_checks": [
           {
             "questions": [
-              16
+              18
             ],
-            "source": "2019 Global Vascular Guidelines on Management of Chronic Limb-Threatening Ischemia; PLAN and GLASS, section on bypass versus endovascular treatment",
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8369495/"
-          },
-          {
-            "questions": [
-              16
-            ],
-            "source": "2024 ACC/AHA Multisociety Guideline for Management of Lower Extremity PAD, section 10.2 and table 16",
+            "source": "2024 ACC/AHA PAD Guideline, section 7, Revascularization for Asymptomatic PAD",
             "url": "https://www.jacc.org/doi/10.1016/j.jacc.2024.02.013"
           },
           {
             "questions": [
-              17
+              19
             ],
-            "source": "Thromboangiitis obliterans (Buerger's disease), Orphanet Journal of Rare Diseases 2006, diagnostic criteria of Shionoya and Olin",
-            "url": "https://doi.org/10.1186/1750-1172-1-14"
+            "source": "Nerve-preserving aortoiliac reconstruction, J Vasc Surg 2001;33:983–989",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11331838/"
+          },
+          {
+            "questions": [
+              19
+            ],
+            "source": "Surgical Complications after Open AAA Repair, Ann Vasc Dis 2019",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6600101/"
           }
         ]
       }
