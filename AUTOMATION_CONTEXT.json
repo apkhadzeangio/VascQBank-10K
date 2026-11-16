@@ -428,19 +428,11 @@
       "target": 900,
       "question_file": "CAROTID_VERTEBRAL_questions.txt",
       "explanation_file": "CAROTID_VERTEBRAL_explanations.txt",
-      "last_number": 103,
-      "question_blob_sha": "e7eebb10eabc60ed3dbc7db4ef0de0cb05268f82",
-      "explanation_blob_sha": "922660de09a079a27567732d7233b31e791ae376",
+      "last_number": 105,
+      "question_blob_sha": "158ce2ef229f79a9e0bca7d859eb826567823aa8",
+      "explanation_blob_sha": "b013f962fd475c6df76626e0ae6aea7df6e2403d",
       "last_full_audit_at": 100,
       "recent_stems": [
-        {
-          "n": 74,
-          "stem": "32 წლის ქალს სამი წლის წინ შიგნითა საძილე არტერიის სპონტანური დისექცია ჰქონდა, ახლა კი მეორე მხარეს ხერხემლის არტერიის დისექცია დაუდასტურდა. ანამნეზში აღნიშნავს ადვილად წარმოქმნილ ფართო სისხლჩაქცევებს; მამა ახალგაზრდა ას"
-        },
-        {
-          "n": 75,
-          "stem": "72 წლის მამაკაცს კაროტიდული სტენტირების შემდეგ არტერიული წნევა 75/45 mmHg აქვს. საწყისი ბრადიკარდია გამოსწორდა და გულისცემის სიხშირე 72 წუთშია; სისხლდენა, მიოკარდიუმის მწვავე იშემია და მარცხენა პარკუჭის სისტოლური ფუნქციი"
-        },
         {
           "n": 76,
           "stem": "71 წლის მამაკაცს მარჯვენა შიგნითა საძილე არტერიის ქრონიკული ოკლუზია აქვს. მარცხენა მხარეს დუპლექსსკანირებით პიკური სისტოლური სიჩქარე 260 სმ/წმ-ია, თუმცა ფოლაქი სანათურს მხოლოდ ზომიერად ავიწროებს. ხარისხიან CTA-ზე მარცხენ"
@@ -552,6 +544,14 @@
         {
           "n": 103,
           "stem": "კაროტიდული ენდარტერექტომიის დასრულებისას პაციენტი ჰემოდინამიკურად სტაბილურია და აშკარა ნევროლოგიური ცვლილება არ აღენიშნება. გუნდი განიხილავს, საჭიროა თუ არა არტერიის ტექნიკური შედეგის ინტრაოპერაციული შემოწმება ჭრილობის დ"
+        },
+        {
+          "n": 104,
+          "stem": "67 წლის მამაკაცს ხახის სიმსივნის გამო ჩატარებული ოპერაციისა და სხივური თერაპიის შემდეგ კისერზე შეუხორცებელი ჭრილობა აქვს. ჭრილობიდან ძლიერი სისხლდენა დაეწყო, რომელიც რამდენიმე წუთში შეწყდა; ამჟამად ჰემოდინამიკურად სტაბილ"
+        },
+        {
+          "n": 105,
+          "stem": "69 წლის მამაკაცს წლების წინ კორონარული შუნტირება მარცხენა შიგნითა გულმკერდის არტერიის გამოყენებით ჩაუტარდა. მარცხენა ხელის დატვირთვისას უვითარდება სტენოკარდია, ხოლო კორონაროგრაფიით შუნტში სისხლის ნაკადის შებრუნებული მიმა"
         }
       ],
       "topic_rotation": "TIA/ინსულტი; NASCET; CTA/MRA/დუპლექსი; CEA/CAS/TCAR დრო და არჩევანი; ფოლაქის მორფოლოგია; ანტითრომბოციტული მკურნალობა; პერიოპერაციული გართულებები; რესტენოზი; ხერხემლის არტერიის სტენოზი/დისექცია და უკანა ცირკულაცია; ESVS 2023 და უფრო ახალი წყაროები.",
@@ -559,11 +559,11 @@
       "guideline_check": "კლინიკურად სადავო გადაწყვეტილებაზე ერთმნიშვნელოვანი პასუხი არ ააგო; პირველწყარო ESVS/SVS და შესაბამისი გაიდლაინები გადაამოწმე, როცა საჭიროა.",
       "last_validation": {
         "range": [
-          99,
-          103
+          104,
+          105
         ],
-        "new_questions": 5,
-        "new_explanations": 5,
+        "new_questions": 2,
+        "new_explanations": 2,
         "numbering_continuous": true,
         "five_options_each": true,
         "one_ascii_star_each": true,
@@ -572,7 +572,7 @@
         "numeric_options_ascending": true,
         "clinical_self_review": "passed",
         "georgian_language_self_review": "passed",
-        "semantic_duplication_review": "Full audit of questions 1-98 completed at the 100-question boundary; questions 99-103 introduce distinct decisions on age-related CEA selection, asymptomatic carotid kinking, blunt cerebrovascular injury screening and treatment, and completion imaging after CEA.",
+        "semantic_duplication_review": "No overlapping clinical decisions in questions 1-103; two new decisions: emergent treatment of impending carotid blowout after sentinel bleeding and proximal subclavian revascularization for coronary-subclavian steal.",
         "previous_text_unchanged": true
       }
     },
