@@ -1504,19 +1504,11 @@
       "target": 900,
       "question_file": "ANATOMY_IMAGING_questions.txt",
       "explanation_file": "ANATOMY_IMAGING_explanations.txt",
-      "last_number": 35,
-      "question_blob_sha": "082b664d76c2f32bf36c75ee97611f8dd027c373",
-      "explanation_blob_sha": "1a5519281e311e94db0bbd06d4626f57775dbfc4",
+      "last_number": 37,
+      "question_blob_sha": "e599d921c3fbf3fcbd28aab2e687a408a1dea88e",
+      "explanation_blob_sha": "5f980aafd8dfd91d3fab257520e9939458da8181",
       "last_full_audit_at": 2,
       "recent_stems": [
-        {
-          "n": 6,
-          "stem": "სხივის არტერიიდან სისხლძარღვოვანი წვდომის დაგეგმვისას ხელის არტერიული რკალების ჩვეულებრივ აგებულებას განიხილავენ. რომელი არტერია ქმნის ხელისგულის ზედაპირული არტერიული რკალის ძირითად ნაწილს?"
-        },
-        {
-          "n": 7,
-          "stem": "კისრის CTA-ზე ხერხემლის არტერიის V2 სეგმენტის მდებარეობას აფასებენ ხერხემლის ოპერაციის დაგეგმვისას. რომელ ანატომიურ სტრუქტურაში გადის ეს სეგმენტი ჩვეულებრივი აგებულებისას?"
-        },
         {
           "n": 8,
           "stem": "ბარძაყის საერთო არტერიიდან სისხლძარღვოვანი წვდომის ულტრაბგერითი დაგეგმვისას გადამწოდი საზარდულის იოგის უშუალოდ ქვემოთ თავსდება. რომელი ვენა მდებარეობს ამ დონეზე არტერიის უშუალოდ მედიალურად, ბარძაყის სისხლძარღვოვან ბუდეში, ჩვეულებრივი ანატომიისას?"
@@ -1628,6 +1620,14 @@
         {
           "n": 35,
           "stem": "ზედა ღრუ ვენის ობსტრუქციის გამო ენდოვასკულური ჩარევის დაგეგმვისას CTA-ზე გაფართოებული ვენა მარჯვენა პარავერტებრალური მიდამოდან მარჯვენა მთავარი ბრონქის ზემოთ რკალად გადადის და ზედა ღრუ ვენას უერთდება. რომელი ვენის შესართავია ეს, რომლის მდებარეობაც კოლატერალური გადინების შესაფასებლად მნიშვნელოვანია?"
+        },
+        {
+          "n": 36,
+          "stem": "კიდურისთვის საფრთხის შემცველი ქრონიკული იშემიის მქონე პაციენტს ქუსლის უკანა-ლატერალურ ზედაპირზე წყლული აქვს. DSA-ზე ქუსლის არტერიულ ტოტებს აფასებენ, რათა უშუალოდ დაზიანებული უბნის ანგიოსომის მკვებავი სისხლძარღვი განსაზღვრონ. რომელი არტერია იძლევა ჩვეულებრივ ქუსლის ლატერალურ ტოტს და უზრუნველყოფს ამ უბნის პირდაპირ სისხლმომარაგებას?"
+        },
+        {
+          "n": 37,
+          "stem": "ფარისებრი ჯირკვლის ოპერაციის შემდეგ კისრის ქვედა ნაწილში სისხლდენა განვითარდა. CTA-ზე კონტრასტული ნივთიერების ექსტრავაზაცია ქვემო ფარისებრი არტერიის ტოტიდან ვლინდება; სელექტიური ანგიოგრაფიისთვის ამ არტერიის სათავის მოძებნაა საჭირო. რომელი სისხლძარღვიდან იწყება ქვემო ფარისებრი არტერია ტიპური ანატომიისას?"
         }
       ],
       "topic_rotation": "№1–100 ძირითადი სისხლძარღვოვანი ანატომია; №101–180 ვარიაციები; №181–260 ჰემოდინამიკა; №261–360 დოპლერის საფუძვლები; №361–460 არტერიული დუპლექსსკანირება; №461–540 ვენური დუპლექსსკანირება; №541–630 CTA; №631–720 MRA, DSA, IVUS; №721–820 ოპერაციული დაგეგმვა; №821–900 ინტეგრირებული კლინიკური ვიზუალიზაცია. ზუსტად ორი კითხვა ყოველ ციკლში.",
@@ -1635,8 +1635,8 @@
       "guideline_check": "სტანდარტული ანატომია, ESVS/SVS/AIUM/IAC შესაბამისი წყაროები. არ გამოიგონო მეთოდოლოგიაზე დამოკიდებული PSV/EDV/PSVR ზღვრები.",
       "last_validation": {
         "range": [
-          34,
-          35
+          36,
+          37
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1645,27 +1645,34 @@
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
+        "answer_distribution": {
+          "ა": 7,
+          "ბ": 8,
+          "გ": 7,
+          "დ": 7,
+          "ე": 8
+        },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: carotid sinus afferent glossopharyngeal/Hering nerve and azygos arch to superior vena cava, cross-checked anatomy references",
-        "terminology_self_review": "passed: GLOSSARY.md general and ANATOMY_IMAGING sections",
-        "georgian_language_self_review": "passed: academic Georgian; homogenous options",
-        "exam_technical_self_review": "passed: 2 questions, 5 Georgian-letter options, 1 ASCII star, matching 2-sentence explanations",
-        "semantic_duplication_review": "All 33 stored stems reviewed: no duplicated afferent carotid baroreflex or azygos/SVC anatomy decision.",
+        "clinical_self_review": "passed: lateral calcaneal angiosome supplied by fibular/peroneal artery; inferior thyroid artery originates from thyrocervical trunk in usual anatomy",
+        "terminology_self_review": "passed: AGENTS.md v2.3 and GENERAL/ANATOMY_IMAGING GLOSSARY.md",
+        "georgian_language_self_review": "passed: refined academic Georgian and homogeneous distractors",
+        "exam_technical_self_review": "passed: 2 questions, 5 answers each, 1 ASCII star each, matching two-sentence explanations",
+        "semantic_duplication_review": "Compared all 35 existing ANATOMY_IMAGING stems and decisions; lateral heel angiosome and thyrocervical origin are new",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              34
+              36
             ],
-            "source": "The Carotid Sinus Nerve—Structure, Function, and Clinical Implications, Anatomical Record (2019)",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/29663677/"
+            "source": "Angiosomes of the foot: lateral calcaneal branch of peroneal artery, J Cardiovasc Interv 2023",
+            "url": "https://www.e-jci.org/pdf/10.54912/jci.2023.0010"
           },
           {
             "questions": [
-              35
+              37
             ],
-            "source": "CT Findings of Azygos Venous System: Congenital Variants and Acquired Structural Changes",
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10864146/"
+            "source": "Thyrocervical trunk anatomy, Kenhub and NCBI StatPearls",
+            "url": "https://www.kenhub.com/en/library/anatomy/thyrocervical-trunk"
           }
         ]
       }
