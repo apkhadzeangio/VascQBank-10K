@@ -750,31 +750,11 @@
       "target": 900,
       "question_file": "VENOUS_questions.txt",
       "explanation_file": "VENOUS_explanations.txt",
-      "last_number": 107,
-      "question_blob_sha": "7579f596920299ca0576f4ddf8b3997dbb81f94c",
-      "explanation_blob_sha": "7bc178d40b914f06f14f5801317f218d352fe638",
+      "last_number": 112,
+      "question_blob_sha": "0b601b409501e56e500a1f6a4458c83f5934e57a",
+      "explanation_blob_sha": "c1f320c7cb1ed7cf2f4121dfc81d01c5dcc5553e",
       "last_full_audit_at": 100,
       "recent_stems": [
-        {
-          "number": 78,
-          "stem": "64 წლის მამაკაცს თეძო-ბარძაყის თრომბოზის გადატანიდან ორი წლის შემდეგ იმავე ფეხზე პოსტთრომბოზული ცვლილებები და აქტიური ვენური წყლული აქვს. წყლულის სხვა მიზეზები გამორიცხულია. ვილალტას სკალის სიმპტომებისა და ნიშნების ჯამური შეფასება 8 ქულაა. წყლულის არსებობის გათვალისწინებით, როგორ უნდა შეფასდეს პოსტთრომბოზული სინდრომის სიმძიმე?"
-        },
-        {
-          "number": 79,
-          "stem": "46 წლის მამაკაცს ფილტვის არტერიის მწვავე თრომბოემბოლია დაუდასტურდა. არტერიული წნევა 124/76 mmHg-ია, პულსი 82 წუთში, სატურაცია ოთახის ჰაერზე 97%-ია; მარჯვენა პარკუჭის ფუნქცია და ტროპონინი ნორმალურია. Hestia-ს კრიტერიუმებიდან ჰოსპიტალიზაციის არც ერთი მიზეზი არ გამოვლინდა. ანტიკოაგულანტი დაუყოვნებლივ ხელმისაწვდომია, სახლში დახმარება და სპეციალისტთან დროული კონტროლი უზრუნველყოფილია; პაციენტს სახლში მკურნალობა სურს. AHA/ACC-ის 2026 წლის გაიდლაინით, რომელი ტაქტიკაა დასაბუთებული?"
-        },
-        {
-          "number": 80,
-          "stem": "თეძოს ვენის სტენტირების შემდეგ განვითარებული მწვავე სიმპტომური სტენტის თრომბოზის გამო პაციენტს ენდოვენური თრომბექტომია ჩაუტარდა. თრომბი მოცილებულია, თუმცა ფლებოგრაფიითა და ინტრავასკულური ულტრაბგერითი კვლევით სტენტის პროქსიმალური კიდის მიღმა მნიშვნელოვანი ობსტრუქციული დაზიანება რჩება და გადინება შეზღუდულია. ანტიკოაგულაცია გრძელდება. განმეორებითი თრომბოზის რისკის შესამცირებლად რომელი დამატებითი ნაბიჯია ყველაზე დასაბუთებული?"
-        },
-        {
-          "number": 81,
-          "stem": "62 წლის მამაკაცს აქტიური, არარეზეცირებული კუჭის სიმსივნის ფონზე პროქსიმალური ღრმა ვენების თრომბოზი დაუდასტურდა. სიმსივნე ლორწოვანს აზიანებს და კუჭ-ნაწლავის სისხლდენის რისკი მაღალია, თუმცა მიმდინარე სისხლდენა არ აღინიშნება. თრომბოციტების რაოდენობა და თირკმლის ფუნქცია ნორმალურია. თრომბოზისა და კიბოს საერთაშორისო ინიციატივის (ITAC) 2022 წლის რეკომენდაციებით, ჩამოთვლილთაგან რომელი მკურნალობაა უპირატესი?"
-        },
-        {
-          "number": 82,
-          "stem": "59 წლის ქალს დიდი საჩინო ვენის სიმპტომური რეფლუქსის გამო ენდოვენური აბლაცია უტარდება. ანამნეზში აქვს ღრმა ვენების თრომბოზი; ამჟამად აქტიური თრომბოზი არ ვლინდება და მუდმივ ანტიკოაგულაციას არ იღებს. სიმსუქნისა და შეზღუდული მობილობის გათვალისწინებით, კლინიკურმა შეფასებამ თრომბოემბოლიის მაღალი რისკი აჩვენა; სისხლდენის რისკი დაბალია. SVS/AVF/AVLS-ის 2023 წლის რეკომენდაციით, რომელი ტაქტიკა უნდა განიხილებოდეს?"
-        },
         {
           "number": 83,
           "stem": "51 წლის მამაკაცს პროქსიმალური ღრმა ვენების თრომბოზის გამო ანტიკოაგულაცია უტარდება. ფეხის ტკივილი და შეშუპება აღარ აწუხებს, წყლული ან ქრონიკული ვენური დაავადების სხვა სიმპტომი არ აქვს. კომპრესიული ტრიკოტაჟის ხანგრძლივი დანიშვნა განიხილება მხოლოდ პოსტთრომბოზული სინდრომის თავიდან ასაცილებლად. ASH-ის 2020 წლის რეკომენდაციით, რომელი მიდგომაა სწორი?"
@@ -874,6 +854,26 @@
         {
           "number": 107,
           "stem": "55 წლის ქალს CEAP-ის C2 კლასის მტკივნეული ვარიკოზი და დიდი საჩინო ვენის ღეროვანი რეფლუქსი აქვს. დგომისას ჩატარებული დუპლექსსკანირებით ვენის დიამეტრი 14 მმ-ია; ვენა ანევრიზმულად შეცვლილი არ არის, კანიდან უსაფრთხო სიღრმეზე მდებარეობს და პაციენტს ჩარევის უკუჩვენება არ აქვს. SVS/AVF/AVLS-ის 2023 წლის კონსენსუსით, რომელი მეთოდია უპირატესი?"
+        },
+        {
+          "number": 108,
+          "stem": "61 წლის ქალს დიდი საჩინო ვენის თერმული აბლაციის შემდეგ, მაღალი თრომბოემბოლიური რისკის გამო, ადრეული დუპლექსსკანირება ჩაუტარდა. თრომბი დამუშავებული ვენიდან ბარძაყის საერთო ვენაში ვრცელდება და მისი სანათურის ნახევარზე მეტს იკავებს, თუმცა სრულ ოკლუზიას არ იწვევს; პაციენტი უსიმპტომოა და ანტიკოაგულაციის უკუჩვენება არ აქვს. SVS/AVF/AVLS-ის 2023 წლის კონსენსუსით, რომელია მიზანშეწონილი ტაქტიკა?"
+        },
+        {
+          "number": 109,
+          "stem": "49 წლის ქალს დიდი საჩინო ვენის თერმული აბლაცია და თანმხლები მინიფლებექტომია გაურთულებლად ჩაუტარდა. არტერიული სისხლმომარაგება საკმარისია, კომპრესიის უკუჩვენება არ აქვს და ჩარევის შემდგომი ტკივილის შემცირება სურს. SVS/AVF/AVLS-ის 2023 წლის რეკომენდაციით, სულ მცირე რამდენ ხანს უნდა გამოიყენოს ჩარევის შემდგომი კომპრესია?"
+        },
+        {
+          "number": 110,
+          "stem": "52 წლის მამაკაცს სიმპტომური თეძო-ბარძაყის ღრმა ვენების თრომბოზის გამო კათეტერით მიმართული თრომბოლიზი და ნარჩენი თეძოს ვენური ობსტრუქციის სტენტირება ჩაუტარდა. სტენტი გამავალია, სიმპტომები შემცირდა და სისხლდენის რისკი დაბალია. ESVS-ის 2021 წლის რეკომენდაციით, როგორ უნდა განისაზღვროს ანტიკოაგულაციის ხანგრძლივობა?"
+        },
+        {
+          "number": 111,
+          "stem": "64 წლის ქალს ქიმიოთერაპიისთვის ჩადგმულ პორტთან დაკავშირებული იღლია-ლავიწქვეშა ვენური სეგმენტის თრომბოზი დაუდასტურდა. პორტი აღარ სჭირდება და ამოიღეს; თრომბოზის ნიშნები შემცირდა, სისხლდენის რისკი დაბალია და სამკურნალო ანტიკოაგულაციას კარგად იტანს. ESVS-ის 2021 წლის რეკომენდაციით, როგორ უნდა გაგრძელდეს ანტიკოაგულაცია?"
+        },
+        {
+          "number": 112,
+          "stem": "56 წლის მამაკაცს ფილტვის არტერიის თრომბოემბოლიიდან ექვსი თვის შემდეგ ქოშინი, გულმკერდის ტკივილი და ფიზიკური დატვირთვის შეზღუდვა აღარ აქვს. კლინიკური შეფასებით ქრონიკული თრომბოემბოლიური ფილტვის დაავადების ალბათობა დაბალია; ანტიკოაგულაციის ხანგრძლივობა უკვე ცალკე შეფასდა. AHA/ACC-ის 2026 წლის მრავალსაზოგადოებრივი გაიდლაინით, რომელი გამოსახულებითი მეთვალყურეობაა მიზანშეწონილი თრომბის გაქრობის დასადასტურებლად?"
         }
       ],
       "topic_rotation": "DVT/ზედაპირული თრომბოზი; ანტიკოაგულაცია (ჩვენებები/ხანგრძლივობა); თრომბის მოცილება; PTS; CEAP; რეფლუქსი/დუპლექსი; ვარიკოზი, აბლაცია/სკლეროთერაპია; ვენური წყლული; მენჯის ობსტრუქცია; May-Thurner/Paget-Schroetter; ორსულობა; კავა-ფილტრები; ESVS/SVS/AVF/CHEST/ASH.",
@@ -881,8 +881,8 @@
       "guideline_check": "კლინიკურად სადავო გადაწყვეტილებაზე ერთმნიშვნელოვანი პასუხი არ ააგო; პირველწყარო ESVS/SVS და შესაბამისი გაიდლაინები გადაამოწმე, როცა საჭიროა.",
       "last_validation": {
         "range": [
-          103,
-          107
+          108,
+          112
         ],
         "new_questions": 5,
         "new_explanations": 5,
@@ -892,46 +892,40 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed; low-risk isolated calf DVT surveillance, junction-adjacent superficial thrombosis anticoagulation, asymptomatic iliac compression, anticoagulation during CTEPD evaluation, and large-diameter saphenous vein ablation",
+        "clinical_self_review": "passed; asymptomatic ARTE III anticoagulation, post-thermal compression duration, anticoagulation after early thrombus removal and stenting, catheter-related upper-extremity DVT duration, and asymptomatic post-PE imaging follow-up",
         "terminology_self_review": "passed; GENERAL and VENOUS glossary sections checked",
         "georgian_language_self_review": "passed",
-        "semantic_duplication_review": "Reviewed the latest 25 full questions/explanations, the indexed latest 30 stems, and all 102 stored stems programmatically; five distinct decisions without a repeated existing stem/decision.",
+        "semantic_duplication_review": "Reviewed the latest 25 full questions/explanations, the indexed latest 30 stems, and all 107 stored stems programmatically; five distinct decisions without a repeated existing stem/decision.",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              103
+              108,
+              109
             ],
-            "source": "CHEST 2021 Antithrombotic Therapy for VTE Disease, Second Update, guidance statement 1",
-            "url": "https://journal.chestnet.org/article/S0012-3692%2821%2901506-3/fulltext"
-          },
-          {
-            "questions": [
-              104
-            ],
-            "source": "ESVS 2021 Venous Thrombosis guideline, recommendation 48",
-            "url": "https://www.angiolsurgery.org/society/organisations/esvs/guidelines/ESVS-Guidelines-Venous-Thrombosis-2021.pdf"
-          },
-          {
-            "questions": [
-              105
-            ],
-            "source": "ESVS 2022 Chronic Venous Disease guideline, recommendation 61",
-            "url": "https://www.sf-phlebologie.org/wp-content/uploads/2022/04/ESVS-2022-CVD-guidelines.pdf"
-          },
-          {
-            "questions": [
-              106
-            ],
-            "source": "2026 AHA/ACC multisociety acute pulmonary embolism guideline, recommendation for patients undergoing CTEPD evaluation",
-            "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001415"
-          },
-          {
-            "questions": [
-              107
-            ],
-            "source": "SVS/AVF/AVLS 2023 varicose veins Part II, consensus statement 5.2.7",
+            "source": "SVS/AVF/AVLS 2023 varicose veins Part II, consensus 11.4.1-11.4.2 and recommendation 2.2.1",
             "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11523430/"
+          },
+          {
+            "questions": [
+              110
+            ],
+            "source": "ESVS 2021 Venous Thrombosis guideline, recommendation 36",
+            "url": "https://www.esvs.org/wp-content/uploads/2020/12/VT-Guidelines-PDF.pdf"
+          },
+          {
+            "questions": [
+              111
+            ],
+            "source": "ESVS 2021 Venous Thrombosis guideline, recommendation 58",
+            "url": "https://www.esvs.org/wp-content/uploads/2020/12/VT-Guidelines-PDF.pdf"
+          },
+          {
+            "questions": [
+              112
+            ],
+            "source": "2026 AHA/ACC multisociety acute pulmonary embolism guideline, follow-up imaging recommendation 4",
+            "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001415"
           }
         ]
       }
