@@ -419,19 +419,11 @@
       "target": 900,
       "question_file": "CAROTID_VERTEBRAL_questions.txt",
       "explanation_file": "CAROTID_VERTEBRAL_explanations.txt",
-      "last_number": 110,
-      "question_blob_sha": "04b92e80eb6b757a681d436d2f81013a7e719249",
-      "explanation_blob_sha": "0a7834aa89b4527bc2bbefb3133ffa6a17e5fe89",
+      "last_number": 112,
+      "question_blob_sha": "8b0842d2c4fd0c4ec2be7d7bce11aa33f0bf8a72",
+      "explanation_blob_sha": "2a5dd302c80587fa30c9e392fd4cb1c142ec8e1e",
       "last_full_audit_at": 100,
       "recent_stems": [
-        {
-          "n": 81,
-          "stem": "68 წლის პაციენტს სამძარღვოვანი კორონარული დაავადების გამო აორტოკორონარული შუნტირება ესაჭიროება; მწვავე კორონარული სინდრომი არ აღენიშნება. ოთხი დღის წინ მარცხენა ხელის სისუსტის 15-წუთიანი ეპიზოდი ჰქონდა, ხოლო CTA-ზე მარჯვ"
-        },
-        {
-          "n": 82,
-          "stem": "კაროტიდული სტენტირებიდან სამი თვის შემდეგ უსიმპტომო პაციენტს დუპლექსსკანირებით სტენტის მიდამოში პიკური სისტოლური სიჩქარე 280 სმ/წმ აქვს. სტენტის სანათურში ფოკალური შევიწროება მკაფიოდ არ ჩანს, ხოლო CTA-ზე ნარჩენი შევიწროე"
-        },
         {
           "n": 83,
           "stem": "63 წლის პაციენტს უეცრად განუვითარდა დიპლოპია, დიზართრია და სიარულის მკვეთრი ატაქსია, რომლებიც გასინჯვისას კვლავ აღენიშნება. CTA-ზე ბაზილარული არტერია გამავალია, ხოლო დაწყებიდან ოთხ საათში ჩატარებულ MRI-ზე დიფუზიის შეწონი"
@@ -543,6 +535,14 @@
         {
           "n": 110,
           "stem": "64 წლის პაციენტს ორი საათის წინ უეცრად განუვითარდა მსუბუქი სახის ასიმეტრია და გამოხატული აფაზია, რის გამოც პროფესიულ და ყოველდღიურ ურთიერთობას ვერ ახერხებს. NIHSS-ის შეფასება 3 ქულაა, გლუკოზა ნორმაშია, CT-ზე სისხლჩაქცევა"
+        },
+        {
+          "n": 111,
+          "stem": "64 წლის ქალს სამი წლის წინ მარცხენა კაროტიდული ენდარტერექტომია ჩაუტარდა. ბოლო ორი დუპლექსსკანირებისას ოპერირებულ მონაკვეთში შევიწროების პროგრესირება დაფიქსირდა; CTA-ზე მარცხენა შიგნითა საძილე არტერიის 85%-იანი რესტენოზია, დისტალური კოლაფსის"
+        },
+        {
+          "n": 112,
+          "stem": "51 წლის ქალს ყბის კუთხესთან უმტკივნეულო, ნელა მზარდი წარმონაქმნი აქვს. დუპლექსსკანირებასა და CTA-ზე საძილე არტერიის ბიფურკაციაში 3,5 სმ ზომის, მკვეთრად სისხლმომარაგებული წარმონაქმნია, რომელიც შიგნითა და გარეთა საძილე არტერიებს ერთმანეთისგან"
         }
       ],
       "topic_rotation": "TIA/ინსულტი; NASCET; CTA/MRA/დუპლექსი; CEA/CAS/TCAR დრო და არჩევანი; ფოლაქის მორფოლოგია; ანტითრომბოციტული მკურნალობა; პერიოპერაციული გართულებები; რესტენოზი; ხერხემლის არტერიის სტენოზი/დისექცია და უკანა ცირკულაცია; ESVS 2023 და უფრო ახალი წყაროები.",
@@ -550,20 +550,20 @@
       "guideline_check": "კლინიკურად სადავო გადაწყვეტილებაზე ერთმნიშვნელოვანი პასუხი არ ააგო; პირველწყარო ESVS/SVS და შესაბამისი გაიდლაინები გადაამოწმე, როცა საჭიროა.",
       "last_validation": {
         "range": [
-          106,
-          110
+          111,
+          112
         ],
-        "new_questions": 5,
-        "new_explanations": 5,
+        "new_questions": 2,
+        "new_explanations": 2,
         "numbering_continuous": true,
         "five_options_each": true,
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed",
+        "clinical_self_review": "passed (ESVS 2023 Recommendation 104; carotid body paraganglioma biopsy risk)",
         "georgian_language_self_review": "passed",
-        "semantic_duplication_review": "Reviewed questions 81-105 in full and the recent-stem index; questions 106-110 cover distinct decisions on symptomatic carotid kinking, surveillance of contralateral stenosis, cerebral protection selection during CAS, and disabling versus nondisabling acute ischemic stroke.",
+        "semantic_duplication_review": "Compared all 110 previous question stems, recent-stem index and last 30 complete questions. New decisions: asymptomatic severe restenosis after CEA requiring MDT evaluation; avoiding biopsy of a hypervascular carotid body paraganglioma.",
         "previous_text_unchanged": true
       }
     },
