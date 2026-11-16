@@ -1444,9 +1444,9 @@
       "target": 900,
       "question_file": "ANATOMY_IMAGING_questions.txt",
       "explanation_file": "ANATOMY_IMAGING_explanations.txt",
-      "last_number": 22,
-      "question_blob_sha": "efc98c6f4dfad384e658ea2afdbf0f3fdf8b1c7b",
-      "explanation_blob_sha": "13e191b89ce476853962704badb596f3cff462ef",
+      "last_number": 24,
+      "question_blob_sha": "a86ca6966c48a1a4d7efeeadc93b9c11ab4441d1",
+      "explanation_blob_sha": "b6987bb0bba68f47410414cbbd6f7c76bf3b39b6",
       "last_full_audit_at": 2,
       "recent_stems": [
         {
@@ -1515,11 +1515,11 @@
         },
         {
           "n": 17,
-          "stem": "გულმკერდის ზემო აპერტურის სინდრომის გამო ლავიწზედა დეკომპრესიის დაგეგმვისას საჭიროა ლავიწქვეშა სისხლძარღვების მდებარეობის განსაზღვრა წინა კიბისებრ კუნთთან მიმართებით."
+          "stem": "გულმკერდის ზემო აპერტურის სინდრომის გამო ლავიწზედა დეკომპრესიის დაგეგმვისას საჭიროა ლავიწქვეშა სისხლძარღვების მდებარეობის განსაზღვრა წინა კიბისებრ კუნთთან მიმართებით. რომელი ურთიერთმდებარეობაა დამახასიათებელი ტიპური ანატომიისთვის?"
         },
         {
           "n": 18,
-          "stem": "მარცხენა ქვედა კიდურის შეშუპების გამო ჩატარებული მენჯის CT-ის ვენურ ფაზაზე მარცხენა თეძოს საერთო ვენა ხერხემლის წინა ზედაპირთან შევიწროებულია, თრომბი არ ჩანს."
+          "stem": "მარცხენა ქვედა კიდურის შეშუპების გამო ჩატარებული მენჯის CT-ის ვენურ ფაზაზე მარცხენა თეძოს საერთო ვენა ხერხემლის წინა ზედაპირთან შევიწროებულია, თრომბი არ ჩანს. რომელი არტერია კვეთს ჩვეულებრივ ამ ვენას და შეიძლება მის კომპრესიას იწვევდეს?"
         },
         {
           "n": 19,
@@ -1536,6 +1536,14 @@
         {
           "n": 22,
           "stem": "მცირე საჩინო ვენის ზედაპირული თრომბოზისას დუპლექსსკანირებით დადასტურდა, რომ თრომბი მისი ტიპური შესართავიდან ღრმა ვენურ სისტემაში ვრცელდება. რომელ ღრმა ვენაში ხვდება თრომბი პირველად?"
+        },
+        {
+          "n": 23,
+          "stem": "კაროტიდული ენდარტერექტომიის დაგეგმვისას CTA-ზე ფოლაქის დისტალური საზღვარი საძილე არტერიის ბიფურკაციაზე მაღლა ჩანს და საჭიროა შიგნითა საძილე არტერიის მაღალი მონაკვეთის გამოყოფა. რომელი ნერვი კვეთს ჩვეულებრივ შიგნითა და გარეთა საძილე არტერიებს წინიდან და ამ მიდგომისას განსაკუთრებულ დაცვას საჭიროებს?"
+        },
+        {
+          "n": 24,
+          "stem": "მხრის ძვლის შუა მესამედის მოტეხილობის შემდეგ ჩატარებულ CTA-ზე სხივის ნერვის ღარის მიდამოში არტერიის დაზიანებაა ნავარაუდევი. რომელი არტერია გადის ჩვეულებრივ ამ ღარში სხივის ნერვთან ერთად?"
         }
       ],
       "topic_rotation": "№1–100 ძირითადი სისხლძარღვოვანი ანატომია; №101–180 ვარიაციები; №181–260 ჰემოდინამიკა; №261–360 დოპლერის საფუძვლები; №361–460 არტერიული დუპლექსსკანირება; №461–540 ვენური დუპლექსსკანირება; №541–630 CTA; №631–720 MRA, DSA, IVUS; №721–820 ოპერაციული დაგეგმვა; №821–900 ინტეგრირებული კლინიკური ვიზუალიზაცია. ზუსტად ორი კითხვა ყოველ ციკლში.",
@@ -1543,8 +1551,8 @@
       "guideline_check": "სტანდარტული ანატომია, ESVS/SVS/AIUM/IAC შესაბამისი წყაროები. არ გამოიგონო მეთოდოლოგიაზე დამოკიდებული PSV/EDV/PSVR ზღვრები.",
       "last_validation": {
         "range": [
-          21,
-          22
+          23,
+          24
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1554,43 +1562,37 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ა": 1,
-          "ე": 1
+          "გ": 1,
+          "დ": 1
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: medial circumflex femoral arterial supply to adult femoral head; typical small saphenous-popliteal venous confluence and deep venous extension",
-        "terminology_self_review": "passed: GLOSSARY.md general and ANATOMY_IMAGING and Georgian venous terms checked",
-        "georgian_language_self_review": "passed",
-        "semantic_duplication_review": "Compared full 1–20 question stems; new items address femoral-head perfusion and small-saphenous deep venous confluence, with different tested knowledge.",
+        "clinical_self_review": "passed: superior crossing of carotid vessels by hypoglossal nerve and surgical exposure; profunda brachii accompanies radial nerve within humeral radial groove",
+        "terminology_self_review": "passed: GLOSSARY.md general and ANATOMY_IMAGING sections; Georgian names of cranial nerves checked",
+        "georgian_language_self_review": "passed: natural academic Georgian and uniform five-choice response style",
+        "exam_technical_self_review": "passed: 2 questions, 5 homogeneous options, unique ASCII star, matching correct answers and exactly 2 sentences per explanation",
+        "semantic_duplication_review": "Full questions 1-22 compared by clinical subject and decision; selected hypoglossal crossing and humeral radial groove neurovascular anatomy; closest token Jaccard similarities 0.143, 0.114",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              21
+              23
             ],
-            "source": "NCBI Bookshelf Anatomy, Bony Pelvis and Lower Limb: Arteries",
-            "url": "https://www.ncbi.nlm.nih.gov/books/NBK544319/"
+            "source": "Society for Vascular Surgery: Carotid Endarterectomy Technique",
+            "url": "https://vasculearn.vascular.org/content/carotid-endarterectomy-technique"
           },
           {
             "questions": [
-              21
+              23
             ],
-            "source": "Anatomy of the medial femoral circumflex artery with respect to the vascularity of the femoral head",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/22058296/"
+            "source": "Carotid artery-hypoglossal nerve relationships in the neck (Neurol Res, 2009)",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19215658/"
           },
           {
             "questions": [
-              22
+              24
             ],
-            "source": "Ultrasonography of the lower extremity veins: anatomy and basic approach",
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5381851/"
-          },
-          {
-            "questions": [
-              22
-            ],
-            "source": "NCBI Bookshelf Anatomy, Bony Pelvis and Lower Limb: Popliteal Vein",
-            "url": "https://www.ncbi.nlm.nih.gov/books/NBK541078/"
+            "source": "Anatomical relationship between the profunda brachii artery and the radial nerve in the radial groove (Surg Radiol Anat, 2025)",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40029465/"
           }
         ]
       }
