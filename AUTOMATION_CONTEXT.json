@@ -1769,9 +1769,9 @@
       "target": 500,
       "question_file": "VGEI_questions.txt",
       "explanation_file": "VGEI_explanations.txt",
-      "last_number": 16,
-      "question_blob_sha": "0d75d4e74a6b02f044ee6b42122eed2e34bf2819",
-      "explanation_blob_sha": "679cd9a3c55177f0273b8dac480f6ed7b310b9b4",
+      "last_number": 18,
+      "question_blob_sha": "baf5ee5325570f7f3405329e670c0146ea2b2b08",
+      "explanation_blob_sha": "db39189df9d9f1f0e6ef2d368a48eb56f6d68867",
       "last_full_audit_at": 4,
       "recent_stems": [
         {
@@ -1837,15 +1837,23 @@
         {
           "n": 16,
           "stem": "73 წლის ქალს თეძოს არტერიის ანევრიზმის გამო გეგმიური სინთეზური პროთეზირება აქვს დაგეგმილი. სხვა მიზეზით ჩატარებულ შარდის ბაქტერიოლოგიურ გამოკვლევაში გამოვლინდა Escherichia coli, თუმცა პაციენტს შარდვის ჩივილები, ცხელება და სისტემური ინფექციის ნიშნები არ აქვს; უროლოგიური ჩარევა არ იგეგმება. სტანდარტული პერიოპერაციული ანტიბიოტიკოპროფილაქტიკის ფონზე რომელი ტაქტიკაა ყველაზე დასაბუთებული?"
+        },
+        {
+          "n": 17,
+          "stem": "74 წლის მამაკაცს მუცლის აორტის ანევრიზმის გამო გეგმიური EVAR ჩაუტარდა. მეორე დღეს ტემპერატურა 38,2 °C-მდე მოემატა, ლეიკოციტოზი და C-რეაქტიული ცილის მატება აღენიშნება. სისხლის ბაქტერიოლოგიური გამოკვლევები უარყოფითია, CTA-ზე პერიპროთეზული სითხე ან აირი არ ჩანს; პაციენტი ჰემოდინამიკურად სტაბილურია და ცხელება მესამე დღისთვის ჩაცხრა. რომელი მდგომარეობა ხსნის ამ მიმდინარეობას ყველაზე დამაჯერებლად?"
+        },
+        {
+          "n": 18,
+          "stem": "69 წლის ქალს მუცლის აორტის ანევრიზმის გამო გეგმიური EVAR აქვს დაგეგმილი. პაციენტს სიმსუქნე და შაქრიანი დიაბეტი აქვს; CTA-ზე ორივე საერთო ბარძაყის არტერია საკმარისი დიამეტრისაა, პუნქციის უბნები გამოხატულად არ არის კალციფიცირებული და პერკუტანული დახურვა ტექნიკურად შესაძლებელია. გამოცდილმა გუნდმა რომელი მიდგომა უნდა აირჩიოს საზარდულის ჭრილობასთან დაკავშირებული და ლიმფური გართულებების რისკის შესამცირებლად?"
         }
       ],
       "topic_rotation": "I №1–40 საფუძვლები და პრევენცია; II №41–80 მიკრობიოლოგია; III №81–130 დიაგნოზი; IV №131–190 გამოსახულებითი დიაგნოსტიკა; V №191–230 ანტიმიკრობული მკურნალობა; VI №231–300 ქირურგიული ტაქტიკა; VII №301–360 მასალები და ჭრილობა; VIII №361–410 ლოკალიზაციები; IX №411–460 გართულებები; X №461–500 შედეგები და მეთვალყურეობა.",
       "linguistic_note": "GLOSSARY.md-ის VGEI ტერმინოლოგია და ბუნებრივი აკადემიური ქართული.",
-      "guideline_check": "ESVS 2026 VGEI guidelines (doi:10.1016/j.ejvs.2026.05.035); SHEA/IDSA/APIC SSI prevention update 2022 (published 2023), MRSA-directed prophylaxis; IDSA 2019 asymptomatic bacteriuria, elective nonurologic surgery.",
+      "guideline_check": "ESVS 2026 VGEI; post-EVAR post-implantation syndrome systematic review (JVS 2024); percutaneous EVAR wound/lymphatic complications (RCT PiERO 2019, meta-analysis 2022).",
       "last_validation": {
         "range": [
-          15,
-          16
+          17,
+          18
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1855,39 +1863,39 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: vancomycin should be considered for known MRSA colonization with prosthesis; asymptomatic bacteriuria should not be treated before elective nonurologic surgery",
-        "terminology_self_review": "passed: current AGENTS.md and GLOSSARY.md general/VGEI sections",
-        "georgian_language_self_review": "passed: reviewed and refined Georgian, glossary terminology preserved",
-        "semantic_duplication_review": "passed: compared to VGEI 1-14; new clinical decisions differ from prior S. aureus decolonization and treatment of active dental focus",
+        "clinical_self_review": "passed: early transient sterile systemic inflammation after EVAR is characteristic of post-implantation syndrome; suitable percutaneous CFA access reduces overall groin and lymphatic wound complications, not proven to independently lower endograft infection incidence",
+        "terminology_self_review": "passed: current AGENTS.md; GLOSSARY.md general and VGEI sections",
+        "georgian_language_self_review": "passed: academic Georgian reviewed and refined",
+        "semantic_duplication_review": "passed: checked all 16 existing VGEI questions; new differential decision and access-strategy decision were not present",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              15
+              17
             ],
-            "source": "SHEA/IDSA/APIC Strategies to Prevent Surgical Site Infections in Acute-Care Hospitals: 2022 Update (May 2023); reserve vancomycin for confirmed MRSA colonization, particularly prosthetic surgery",
-            "url": "https://www.cambridge.org/core/journals/infection-control-and-hospital-epidemiology/article/strategies-to-prevent-surgical-site-infections-in-acutecare-hospitals-2022-update/2F824B9ADD6066B29F89C8A2A127A9DC"
+            "source": "D’Oria et al. Systematic review of post-implantation syndrome following EVAR, J Vasc Surg 2024;79:1240–1250.e4",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38122858/"
           },
           {
             "questions": [
-              15
+              18
             ],
-            "source": "ASHP/IDSA/SIS/SHEA Clinical Practice Guidelines for Antimicrobial Prophylaxis in Surgery; some institutions combine vancomycin with cefazolin for MRSA/MSSA",
-            "url": "https://www.ashp.org/-/media/assets/policy-guidelines/docs/therapeutic-guidelines/therapeutic-guidelines-antimicrobial-prophylaxis-surgery.pdf"
+            "source": "Meta-analysis of percutaneous versus cutdown EVAR (4 RCTs and 9 observational studies), Vascular 2022;30(5)",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34259113/"
           },
           {
             "questions": [
-              16
+              18
             ],
-            "source": "IDSA 2019 Clinical Practice Guideline for the Management of Asymptomatic Bacteriuria, Section XII",
-            "url": "https://www.idsociety.org/practice-guideline/asymptomatic-bacteriuria/"
+            "source": "PiERO randomized multicentre trial: percutaneous versus open femoral access; wound outcomes; no statistically established SSI reduction, J Vasc Surg 2019",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30292613/"
           },
           {
             "questions": [
-              15,
-              16
+              17,
+              18
             ],
-            "source": "ESVS 2026 Clinical Practice Guidelines on Management of VGEI, doi:10.1016/j.ejvs.2026.05.035",
+            "source": "ESVS 2026 Clinical Practice Guidelines on Management of Vascular Graft and Endograft Infections",
             "url": "https://pubmed.ncbi.nlm.nih.gov/42448560/"
           }
         ]
