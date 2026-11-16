@@ -1018,9 +1018,9 @@
       "target": 650,
       "question_file": "DIALYSIS_ACCESS_questions.txt",
       "explanation_file": "DIALYSIS_ACCESS_explanations.txt",
-      "last_number": 26,
-      "question_blob_sha": "08df24a11f6d128d0d2ca1aa046e7bc69108331f",
-      "explanation_blob_sha": "2fc8d029812f8988d27fadf9acc2d5b04b487014",
+      "last_number": 28,
+      "question_blob_sha": "2eb546231725f4e5e08f1ddd201523c148b02657",
+      "explanation_blob_sha": "0307d7993a9caebbfcc89b79a5ae7832226a3572",
       "last_full_audit_at": 5,
       "recent_stems": [
         {
@@ -1126,6 +1126,14 @@
         {
           "n": 26,
           "stem": "59 წლის პაციენტს მარცხენა ბრაქიოცეფალური არტერიოვენური ფისტულის ფონზე განუვითარდა ქოშინი, გულის მოცულობითი გადატვირთვა და ჰემოდიალიზის წვდომასთან ასოცირებული ხელის იშემია (HAIDI) მტევნის მოსვენების ტკივილითა და მეორე თით"
+        },
+        {
+          "n": 27,
+          "stem": "65 წლის პაციენტს ჰემოდიალიზი წინამხრის მარყუჟისებრი არტერიოვენური პროთეზით უტარდება. ბოლო სეანსებზე დიალიზის ეფექტიანობა შემცირდა, თუმცა პროთეზზე თრთოლვა შენარჩუნებულია და სისხლის ტუმბოს დანიშნული სიჩქარე მიიღწევა. დუპლე"
+        },
+        {
+          "n": 28,
+          "stem": "57 წლის პაციენტს ათი კვირის წინ რადიოცეფალური არტერიოვენური ფისტულა შეუქმნეს. დუპლექსსკანირებით ანასტომოზი გამავალია, არტერიული შემოდინება საკმარისია და ძირითადი ვენური გადინების სტენოზი არ აღინიშნება, მაგრამ ცეფალური ვე"
         }
       ],
       "topic_rotation": "AVF და AVG-ის შერჩევა; წინასაოპერაციო დუპლექსსკანირება; რადიოცეფალური, ბრაქიოცეფალური და ბრაქიობაზილიკური ფისტულები; ბაზილარული ვენის ტრანსპოზიცია; მომწიფება და არასაკმარისი მომწიფება; Qa, ვენური სტენოზი და თრომბოზი; ენდოვასკულური და ღია რეკონსტრუქცია; ანევრიზმა, ფსევდოანევრიზმა, სისხლდენა და ინფექცია; HAIDI და იშემიური მონომელური ნეიროპათია; მაღალი ნაკადი და გულის უკმარისობა; ცენტრალური ვენები; ტუნელირებული კათეტერები, ალტერნატიული წვდომა და მეთვალყურეობა.",
@@ -1133,30 +1141,20 @@
       "guideline_check": "KDOQI 2019 (გამოქვეყნებულია 2020 წელს), ESVS Vascular Access 2018, UK Kidney Association Vascular Access 2025; არ ააგო კითხვა სადავო რიცხვით ზღვრებზე და გაითვალისწინე ESKD Life-Plan.",
       "last_validation": {
         "range": [
-          22,
-          26
+          27,
+          28
         ],
-        "new_questions": 5,
-        "new_explanations": 5,
+        "new_questions": 2,
+        "new_explanations": 2,
         "numbering_continuous": true,
         "five_options_each": true,
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
-        "answer_distribution": {
-          "ა": 1,
-          "ბ": 1,
-          "გ": 1,
-          "დ": 1,
-          "ე": 1
-        },
-        "numeric_options_ascending": true,
         "clinical_self_review": "passed",
         "georgian_language_self_review": "passed",
-        "terminology_self_review": "passed (GLOSSARY.md)",
-        "semantic_duplication_review": "checked all 21 stored DIALYSIS_ACCESS questions and cross-topic stems",
-        "previous_text_unchanged": true,
-        "index_precheck": "matched"
+        "semantic_duplication_review": "new topics: needle-related recirculation and side-branch diversion impairing maturation",
+        "previous_text_unchanged": true
       }
     },
     "MESENTERIC_RENAL": {
