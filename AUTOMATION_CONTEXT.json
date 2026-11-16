@@ -419,19 +419,11 @@
       "target": 900,
       "question_file": "CAROTID_VERTEBRAL_questions.txt",
       "explanation_file": "CAROTID_VERTEBRAL_explanations.txt",
-      "last_number": 112,
-      "question_blob_sha": "8b0842d2c4fd0c4ec2be7d7bce11aa33f0bf8a72",
-      "explanation_blob_sha": "2a5dd302c80587fa30c9e392fd4cb1c142ec8e1e",
+      "last_number": 114,
+      "question_blob_sha": "5bba62a5191c31a7e8a5791030126aa7b14e992f",
+      "explanation_blob_sha": "e683a0928584bc353e6edfe8b4b81005f825b2b4",
       "last_full_audit_at": 100,
       "recent_stems": [
-        {
-          "n": 83,
-          "stem": "63 წლის პაციენტს უეცრად განუვითარდა დიპლოპია, დიზართრია და სიარულის მკვეთრი ატაქსია, რომლებიც გასინჯვისას კვლავ აღენიშნება. CTA-ზე ბაზილარული არტერია გამავალია, ხოლო დაწყებიდან ოთხ საათში ჩატარებულ MRI-ზე დიფუზიის შეწონი"
-        },
-        {
-          "n": 84,
-          "stem": "კაროტიდული ენდარტერექტომიიდან ცხრა თვის შემდეგ პაციენტი კვლავ ყოველდღიურად იღებს ასპირინსა და კლოპიდოგრელს. ნევროლოგიური მოვლენები არ განმეორებულა, არტერია გამავალია და ხანგრძლივი ორმაგი ანტიაგრეგანტული მკურნალობის სხვა "
-        },
         {
           "n": 85,
           "stem": "71 წლის პაციენტს ოფთალმოლოგმა მარჯვენა თვალის იშემიური სინდრომი დაუდასტურა; აღინიშნება ბადურის ჰიპოპერფუზია და საწყისი ნეოვასკულარიზაცია. CTA-ზე მარჯვენა შიგნითა საძილე არტერიის 85%-იანი სტენოზია, დისტალური კოლაფსის გარე"
@@ -543,6 +535,14 @@
         {
           "n": 112,
           "stem": "51 წლის ქალს ყბის კუთხესთან უმტკივნეულო, ნელა მზარდი წარმონაქმნი აქვს. დუპლექსსკანირებასა და CTA-ზე საძილე არტერიის ბიფურკაციაში 3,5 სმ ზომის, მკვეთრად სისხლმომარაგებული წარმონაქმნია, რომელიც შიგნითა და გარეთა საძილე არტერიებს ერთმანეთისგან"
+        },
+        {
+          "n": 113,
+          "stem": "69 წლის ქალს ბოლო ორი კვირის განმავლობაში მარჯვენა თვალში მხედველობა სამჯერ გარდამავლად დაეკარგა. MRI-ზე მარჯვენა ჰემისფეროში მცირე ახალი ემბოლიური ინფარქტები ჩანს. CTA-ითა და DSA-ით დადასტურებულია მარჯვენა შიგნითა საძილე არტერიის სრული ოკლ"
+        },
+        {
+          "n": 114,
+          "stem": "67 წლის მამაკაცს ერთი თვის განმავლობაში დიპლოპიისა და ატაქსიის რამდენიმე გარდამავალი ეპიზოდი ჰქონდა. სისხლის ნაკადზე დამოკიდებული უკონტრასტო მაგნიტურ-რეზონანსული ანგიოგრაფიით (TOF-MRA) მარცხენა ხერხემლის არტერიის საწყის მონაკვეთში სიგნალის "
         }
       ],
       "topic_rotation": "TIA/ინსულტი; NASCET; CTA/MRA/დუპლექსი; CEA/CAS/TCAR დრო და არჩევანი; ფოლაქის მორფოლოგია; ანტითრომბოციტული მკურნალობა; პერიოპერაციული გართულებები; რესტენოზი; ხერხემლის არტერიის სტენოზი/დისექცია და უკანა ცირკულაცია; ESVS 2023 და უფრო ახალი წყაროები.",
@@ -550,8 +550,8 @@
       "guideline_check": "კლინიკურად სადავო გადაწყვეტილებაზე ერთმნიშვნელოვანი პასუხი არ ააგო; პირველწყარო ESVS/SVS და შესაბამისი გაიდლაინები გადაამოწმე, როცა საჭიროა.",
       "last_validation": {
         "range": [
-          111,
-          112
+          113,
+          114
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -561,9 +561,9 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed (ESVS 2023 Recommendation 104; carotid body paraganglioma biopsy risk)",
+        "clinical_self_review": "passed (carotid stump microembolism evidence; vertebral TOF-MRA flow signal artifact and confirmatory CTA)",
         "georgian_language_self_review": "passed",
-        "semantic_duplication_review": "Compared all 110 previous question stems, recent-stem index and last 30 complete questions. New decisions: asymptomatic severe restenosis after CEA requiring MDT evaluation; avoiding biopsy of a hypervascular carotid body paraganglioma.",
+        "semantic_duplication_review": "Compared all 112 previous stems and recent 30 full questions. New decisions: residual internal carotid stump as ipsilateral recurrent embolic source; CTA confirmation of TOF-MRA vertebral stenosis artifact.",
         "previous_text_unchanged": true
       }
     },
