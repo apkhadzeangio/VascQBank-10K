@@ -393,19 +393,11 @@
       "target": 900,
       "question_file": "CAROTID_VERTEBRAL_questions.txt",
       "explanation_file": "CAROTID_VERTEBRAL_explanations.txt",
-      "last_number": 139,
-      "question_blob_sha": "e18fc3381f0510418d0c0c5e0f27c034935b3979",
-      "explanation_blob_sha": "0b5ccbcd4ae8875488be467a9fb7f036dd5dce53",
+      "last_number": 141,
+      "question_blob_sha": "cda2983324e0ff9547a21ea179ac9dc67e570712",
+      "explanation_blob_sha": "ab2a6f7c0a12e4bd81ed9bd30db53c9b51e22e28",
       "last_full_audit_at": 100,
       "recent_stems": [
-        {
-          "n": 110,
-          "stem": "64 წლის პაციენტს ორი საათის წინ უეცრად განუვითარდა მსუბუქი სახის ასიმეტრია და გამოხატული აფაზია, რის გამოც პროფესიულ და ყოველდღიურ ურთიერთობას ვერ ახერხებს. NIHSS-ის შეფასება 3 ქულაა, გლუკოზა ნორმაშია, CT-ზე სისხლჩაქცევა"
-        },
-        {
-          "n": 111,
-          "stem": "64 წლის ქალს სამი წლის წინ მარცხენა კაროტიდული ენდარტერექტომია ჩაუტარდა. ბოლო ორი დუპლექსსკანირებისას ოპერირებულ მონაკვეთში შევიწროების პროგრესირება დაფიქსირდა; CTA-ზე მარცხენა შიგნითა საძილე არტერიის 85%-იანი რესტენოზია"
-        },
         {
           "n": 112,
           "stem": "51 წლის ქალს ყბის კუთხესთან უმტკივნეულო, ნელა მზარდი წარმონაქმნი აქვს. დუპლექსსკანირებასა და CTA-ზე საძილე არტერიის ბიფურკაციაში 3,5 სმ ზომის, მკვეთრად სისხლმომარაგებული წარმონაქმნია, რომელიც შიგნითა და გარეთა საძილე არტ"
@@ -517,6 +509,14 @@
         {
           "n": 139,
           "stem": "70 წლის მამაკაცს მარჯვენა ხელის დატვირთვისას დაღლა და თავბრუსხვევა აწუხებს. მარჯვენა ხელზე სისტოლური წნევა მარცხენასთან შედარებით 35 mmHg-ით დაბალია. დუპლექსსკანირებით მარჯვენა საერთო საძილე არტერიაში შენელებული სის"
+        },
+        {
+          "n": 140,
+          "stem": "59 წლის ქალს მარცხენა საძილე გორგლის სიმსივნის ამოკვეთიდან მეორე დღეს ყლაპვის მსუბუქი გაძნელება და ენის უკანა მესამედში გემოსა და შეხების შეგრძნების დაქვეითება აღენიშნება. ხახის მარცხენა კედელზე შეხებისას ღებინების რეფლე"
+        },
+        {
+          "n": 141,
+          "stem": "67 წლის მამაკაცს კისრის სიმსივნის გამო ორმხრივი სხივური თერაპიიდან რვა წლის შემდეგ არტერიული წნევის მკვეთრი მერყეობა დაეწყო. ემოციური სტრესისას წნევა 225/115 mmHg-მდე იზრდება, რასაც ტაქიკარდია და სახის წამოწითლება ახლავს"
         }
       ],
       "topic_rotation": "TIA/ინსულტი; NASCET; CTA/MRA/დუპლექსი; CEA/CAS/TCAR დრო და არჩევანი; ფოლაქის მორფოლოგია; ანტითრომბოციტული მკურნალობა; პერიოპერაციული გართულებები; რესტენოზი; ხერხემლის არტერიის სტენოზი/დისექცია და უკანა ცირკულაცია; ESVS 2023 და უფრო ახალი წყაროები.",
@@ -524,8 +524,8 @@
       "guideline_check": "კლინიკურად სადავო გადაწყვეტილებაზე ერთმნიშვნელოვანი პასუხი არ ააგო; პირველწყარო ESVS/SVS და შესაბამისი გაიდლაინები გადაამოწმე, როცა საჭიროა.",
       "last_validation": {
         "range": [
-          138,
-          139
+          140,
+          141
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -534,11 +534,15 @@
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
+        "answer_distribution": {
+          "ე": 1,
+          "გ": 1
+        },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed",
+        "clinical_self_review": "passed, CN IX and afferent baroreflex failure clinical literature checked",
         "georgian_language_self_review": "passed",
         "terminology_self_review": "passed (GLOSSARY.md)",
-        "semantic_duplication_review": "reviewed all 137 stored stems",
+        "semantic_duplication_review": "reviewed 139 existing question stems and last 30 full questions",
         "previous_text_unchanged": true,
         "index_precheck": "matched"
       }
