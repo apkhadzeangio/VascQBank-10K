@@ -1325,9 +1325,9 @@
       "target": 650,
       "question_file": "VASCULAR_TRAUMA_questions.txt",
       "explanation_file": "VASCULAR_TRAUMA_explanations.txt",
-      "last_number": 22,
-      "question_blob_sha": "44e79fa8a188b0d37b460f2ab07d9e1a72ee538b",
-      "explanation_blob_sha": "176c38668b2eae10780d8c5d85f486a2a60a3d44",
+      "last_number": 27,
+      "question_blob_sha": "07861467988c53e568d6b693b383a79671df8b7f",
+      "explanation_blob_sha": "1a59c03f6842727eeafb88454f20d5b7397fa10e",
       "last_full_audit_at": 2,
       "recent_stems": [
         {
@@ -1417,6 +1417,26 @@
         {
           "n": 22,
           "stem": "35 წლის მამაკაცს მაღალი ენერგიის ავტოსაგზაო ტრავმის შემდეგ კისრის მეოთხე მალის განივი მორჩის მოტეხილობა დაუდგინდა, რომელიც განივ ხვრელსაც მოიცავს. პაციენტი ჰემოდინამიკურად სტაბილურ"
+        },
+        {
+          "n": 23,
+          "stem": "32 წლის მამაკაცს ორი თვის წინ ბარძაყის შუა მესამედში ცეცხლნასროლი ჭრილობა ჰქონდა, რომელიც გართულების გარეშე შეუხორცდა. ბოლო კვირებში მას განუვითარდა იმავე ქვედა კიდურის პროგრესირებადი შეშუპება, კანქვეშა ვენების გაგანიერე"
+        },
+        {
+          "n": 24,
+          "stem": "40 წლის მამაკაცი მაღალი სიჩქარით ავტოსაგზაო შემთხვევის შემდეგ ჰემორაგიული შოკით შემოიყვანეს; მენჯის ქამრის დადებისა და დაზიანების კონტროლის რეანიმაციული ღონისძიებების მიუხედავად არტერიული წნევა 65/40 mmHg-ია. რენტგენოგრა"
+        },
+        {
+          "n": 25,
+          "stem": "24 წლის მამაკაცს ბარძაყის მედიალურ ზედაპირზე მიყენებული ნაჩხვლეტ-ნაკვეთი ჭრილობით მიმღებ განყოფილებაში შეაფასეს. პაციენტი ჰემოდინამიკურად სტაბილურია, სისხლძარღვის დაზიანების სარწმუნო და სავარაუდო ნიშნები არ ვლინდება, ტერ"
+        },
+        {
+          "n": 26,
+          "stem": "28 წლის მამაკაცს ბარძაყის ზედა მესამედის დაბინძურებული ცეცხლნასროლი ჭრილობის გამო ოპერაცია უტარდება; პაციენტის ზოგადი მდგომარეობა სტაბილიზებულია და საბოლოო რეკონსტრუქცია შესაძლებელია. რევიზიისას გამოვლინდა ბარძაყის ზედაპ"
+        },
+        {
+          "n": 27,
+          "stem": "30 წლის მამაკაცი მოტოციკლით ავარიიდან ოთხ საათში შემოიყვანეს ბარძაყის ძვლის როკზედა არასტაბილური მოტეხილობითა და მუხლქვეშა არტერიის სრული გადაკვეთით. ტერფი ცივი და ფერმკრთალია, მგრძნობელობა და აქტიური მოძრაობა დაქვეითებუ"
         }
       ],
       "topic_rotation": "ბლაგვი და შემავალი ტრავმა; სისხლძარღვის დაზიანების სარწმუნო და სავარაუდო ნიშნები; ჰემოდინამიკური სტაბილურობა; CTA და გადაუდებელი ოპერაცია; კისრის, გულმკერდის, მუცლის, მენჯისა და კიდურების სისხლძარღვები; სისხლდენის კონტროლი და დაზიანების კონტროლის ქირურგია; დროებითი ინტრავასკულური შუნტი; არტერიული/ვენური რეკონსტრუქცია; ენდოვასკულური ჩარევა; კომპარტმენტ-სინდრომი და ფასციოტომია; რეპერფუზია; იატროგენული ტრავმა; მეთვალყურეობა.",
@@ -1424,45 +1444,30 @@
       "guideline_check": "ESVS 2025 Clinical Practice Guidelines on the Management of Vascular Trauma (Wahlgren et al., EJVES 69:179–237), DOI 10.1016/j.ejvs.2024.12.018; ყურადღება მიაქციე რეკომენდაციებს 9, 19, 20, 82–86.",
       "last_validation": {
         "range": [
-          21,
-          22
+          23,
+          27
         ],
-        "new_questions": 2,
-        "new_explanations": 2,
+        "new_questions": 5,
+        "new_explanations": 5,
         "numbering_continuous": true,
         "five_options_each": true,
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ა": 0,
-          "ბ": 0,
+          "ა": 1,
+          "ბ": 1,
           "გ": 1,
-          "დ": 0,
+          "დ": 1,
           "ე": 1
         },
         "numeric_options_ascending": true,
         "clinical_self_review": "passed",
         "georgian_language_self_review": "passed",
-        "semantic_duplication_review": "№1–20-ის კლინიკური სცენარებისა და გადაწყვეტილებების შემოწმება: ახალი №21 ეხება პედიატრიული როკზედა მოტეხილობის ჩასწორების შემდეგ ვარდისფერ, უპულსო მტევანს; №22 — კისრის მალის განივი ხვრელის მოტეხილობის ფონზე ბლაგვი სისხლძარღვოვანი დაზიანების სკრინინგს.",
+        "terminology_self_review": "passed (GLOSSARY.md)",
+        "semantic_duplication_review": "checked all 22 stored VASCULAR_TRAUMA questions and cross-topic stems",
         "previous_text_unchanged": true,
-        "source_checks": [
-          {
-            "questions": [
-              21
-            ],
-            "source": "ESVS 2025 Clinical Practice Guidelines on the Management of Vascular Trauma, Recommendation 104 (Class IIa, Level C)",
-            "url": "https://doi.org/10.1016/j.ejvs.2024.12.018"
-          },
-          {
-            "questions": [
-              22
-            ],
-            "source": "ESVS 2025 Clinical Practice Guidelines on the Management of Vascular Trauma, Recommendation 29 (Class I, Level B) and modified Denver screening criteria (Table 7)",
-            "url": "https://doi.org/10.1016/j.ejvs.2024.12.018"
-          }
-        ],
-        "academic_refinement": "პედიატრიული შემთხვევა მკაფიოდ განსაზღვრავს შენარჩუნებულ მტევნის პერფუზიას; კისრის ტრავმის შემთხვევაში განივი ხვრელის დაზიანება ქმნის CTA-ს სპეციფიკურ ჩვენებას ნევროლოგიური დეფიციტის არარსებობის მიუხედავად."
+        "index_precheck": "matched"
       }
     },
     "ANATOMY_IMAGING": {
