@@ -936,9 +936,9 @@
       "target": 1500,
       "question_file": "PAD_CLTI_questions.txt",
       "explanation_file": "PAD_CLTI_explanations.txt",
-      "last_number": 21,
-      "question_blob_sha": "e09c25d879b45f88338defdf227295a89c8194b1",
-      "explanation_blob_sha": "43b36f7fd0abe99faf93558c29fd66250b17c296",
+      "last_number": 23,
+      "question_blob_sha": "1d747c641941afb15053c54312cdb16e611c2aaf",
+      "explanation_blob_sha": "0b0c0fec02b82f2371cbaee8da2430bc16a68442",
       "last_full_audit_at": 0,
       "recent_stems": [
         {
@@ -1024,6 +1024,14 @@
         {
           "n": 21,
           "stem": "66 წლის ქალს ტერფის მეორე თითის ზედაპირული წყლული რვა კვირის განმავლობაში სათანადო მოვლისა და განტვირთვის მიუხედავად არ უმცირდება. ინფექცია და განგრენა არ აღენიშნება; ტერფის პირველი თითის სისტოლური წნ"
+        },
+        {
+          "n": 22,
+          "stem": "62 წლის მამაკაცს დაახლოებით 150 მ-ის გავლის შემდეგ მარჯვენა წვივის კუნთებში ტკივილი ეწყება, რომელიც შეჩერებისას რამდენიმე წუთში ქრება. მოსვენებით განსაზღვრული გოჯ-მხრის ინდექსი (ABI) 1,08-ია; გოჯის არ"
+        },
+        {
+          "n": 23,
+          "stem": "75 წლის მამაკაცს ტერფის იშემიური წყლულის გამო ბარძაყის ზედაპირული არტერიის გრძელი ქრონიკული ტოტალური ოკლუზიის ენდოვასკულური მკურნალობა უტარდება. ანტეგრადული გამტარი სუბინტიმურ სივრცეში გავიდა, მაგრამ "
         }
       ],
       "topic_rotation": "ABI/TBI და პერფუზია; Fontaine/Rutherford/WIfI/GLASS; ხანგამოშვებითი კოჭლობა და CLTI; დუპლექსი/CTA/MRA/DSA; ანტიაგრეგანტები/სტატინები/ვარჯიში; აორტა-თეძოს, ბარძაყ-მუხლქვეშა და წვივის სეგმენტები; ენდოვასკულური მკურნალობა/ავტოვენური შუნტირება; ჭრილობა/ინფექცია/ამპუტაცია/მეთვალყურეობა.",
@@ -1031,8 +1039,8 @@
       "guideline_check": "2024 ACC/AHA PAD guideline, 2024 ESVS asymptomatic PAD/intermittent claudication guideline და Global Vascular Guidelines CLTI; კლინიკური გადაწყვეტილება გადაამოწმე პირველწყაროებში.",
       "last_validation": {
         "range": [
-          20,
-          21
+          22,
+          23
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1042,37 +1050,38 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "დ": 1,
-          "ა": 1
+          "ბ": 1,
+          "ე": 1
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: dry gangrene elective minor amputation after revascularization; low limb threat inflow-first staged approach per GVG 6.20–6.23",
+        "clinical_self_review": "passed: exercise ABI Class I diagnostic test with normal resting ABI; SAFARI is recognized retrograde rescue after failed antegrade true-lumen reentry",
         "georgian_language_self_review": "passed",
-        "terminology_self_review": "passed",
-        "semantic_duplication_review": "All existing PAD_CLTI questions screened; latest 19 reviewed, two new scenarios distinct from wet gangrene emergency drainage and hybrid common femoral/iliac reconstruction.",
+        "terminology_self_review": "passed (GLOSSARY.md general and PAD_CLTI sections)",
+        "semantic_duplication_review": "Reviewed all existing 21 PAD_CLTI questions and recent_stems; exercise-provoked ABI differs from incompressible resting ABI, and technical SAFARI bailout differs from existing endovascular treatment questions.",
         "previous_text_unchanged": true,
         "index_precheck": "matched",
         "source_checks": [
           {
             "questions": [
-              20
+              22
             ],
-            "source": "2024 ACC/AHA Multisociety PAD Guideline, section 10.3.4: Amputation for CLTI",
-            "url": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001251"
+            "source": "2024 ACC/AHA Multisociety Guideline for Lower Extremity PAD",
+            "section": "3.1 recommendation 6 (Class I, B-NR)",
+            "url": "https://www.jacc.org/doi/10.1016/j.jacc.2024.02.013"
           },
           {
             "questions": [
-              20
+              23
             ],
-            "source": "2016 AHA/ACC PAD Guideline, wound healing and minor amputation after revascularization",
-            "url": "https://www.jacc.org/doi/10.1016/j.jacc.2016.11.007"
+            "source": "Subintimal arterial flossing with antegrade-retrograde intervention (SAFARI) for subintimal recanalization to treat chronic critical limb ischemia",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15640408/"
           },
           {
             "questions": [
-              21
+              23
             ],
-            "source": "Global Vascular Guidelines on the Management of CLTI, Recommendations 6.20–6.23",
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8369495/"
+            "source": "Crossing Algorithm for Infrainguinal Chronic Total Occlusions: An Interdisciplinary Expert Opinion Statement",
+            "url": "https://www.jacc.org/doi/10.1016/j.jcin.2022.11.036"
           }
         ]
       }
