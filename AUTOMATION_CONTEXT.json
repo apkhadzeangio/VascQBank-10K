@@ -252,19 +252,11 @@
       "target": 1200,
       "question_file": "AAA_EVAR_questions.txt",
       "explanation_file": "AAA_EVAR_explanations.txt",
-      "last_number": 118,
-      "question_blob_sha": "6fa7386fa9b70a5ca258afe4352b6d3c72760cf8",
-      "explanation_blob_sha": "679998822f71226269d6a87a0f5a5009c0d53003",
+      "last_number": 120,
+      "question_blob_sha": "1559d8d9da88255d9af74b254939c509bbd995a0",
+      "explanation_blob_sha": "69979f6418a3abdcc25a1fc2122659f7e922aa12",
       "last_full_audit_at": 100,
       "recent_stems": [
-        {
-          "n": 89,
-          "stem": "61 წლის მამაკაცს მუცლის აორტის 46 მმ დიამეტრის ანთებითი ანევრიზმა აქვს; წელის ტკივილს უჩივის და წონაში იკლებს. CTA-ზე გამოხატულია პერიაორტული ანთებითი ქსოვილი; გასკდომა და საშარდე გზების ობსტრუქცია არ"
-        },
-        {
-          "n": 90,
-          "stem": "მუცლის აორტის გამსკდარი ანევრიზმის გამო პაციენტს გადაუდებელი EVAR უტარდება. დაგეგმვისთვის გამოყენებული CTA შესრულდა სისტოლური წნევის 80 mmHg-ის პირობებში, შეზღუდული ინფუზიის ფონზე. ESVS 2024-ის მიხედვ"
-        },
         {
           "n": 91,
           "stem": "მუცლის აორტის გამსკდარი ანევრიზმის EVAR-ის დასაწყისში მიმდინარე სისხლდენის გამო სისტემური ჰეპარინი არ შეუყვანიათ. ენდოპროთეზის გაშლის შემდეგ ანევრიზმა სრულად გამოითიშა და სისხლდენა კონტროლდება; შემყვა"
@@ -376,18 +368,26 @@
         {
           "n": 118,
           "stem": "პარარენალური ანევრიზმის ფენესტრირებული ენდოპროთეზით მკურნალობიდან 30 დღეში CTA-ზე ენდოლიკი არ ჩანს, ანევრიზმული ტომარა სტაბილურია და სამიზნე არტერიების დამაკავშირებელი სტენტები გამავალია. ESVS 2024-ის"
+        },
+        {
+          "n": 119,
+          "stem": "89 წლის მამაკაცს CTA-ით დაუდასტურდა მუცლის აორტის ანევრიზმის გასკდომა რეტროპერიტონეულ სივრცეში. პაციენტი გონზეა, თანახმაა მკურნალობაზე და მანამდე დამოუკიდებლად ცხოვრობდა; სისტოლური წნევა 88 mmHg-ია, ა"
+        },
+        {
+          "n": 120,
+          "stem": "68 წლის მამაკაცს მუცლის აორტის ანევრიზმის გამო გეგმიური EVAR ჩაუტარდა; მას აგრეთვე აქვს რეზექციისთვის შესაფერისი მსხვილი ნაწლავის კიბო. ოპერაციის შემდეგ მდგომარეობა სტაბილურია, სისხლდენა და თრომბოზი ა"
         }
       ],
-      "topic_rotation": "ენდოპროთეზის იზოლირებული მიგრაცია შენარჩუნებული ჰერმეტიზაციით; ნალისებრი თირკმლის ისთმუსის შენარჩუნება მუცლის აორტის ღია პროთეზირებისას; მომდევნო ციკლში შეირჩეს განსხვავებული ქვეთემები.",
+      "topic_rotation": "ანევრიზმის გასკდომისას პალიატიური ტაქტიკის ინდივიდუალური არჩევა; თანმხლები კიბოსას ვენური თრომბოემბოლიის გახანგრძლივებული პროფილაქტიკა; შემდეგ ციკლში განსხვავებული ქვეთემები.",
       "linguistic_note": "„რუპტურირებული“, „გადარჩენადობა“, „სიკვდილისგან თავისუფალი“ — არ გამოიყენო; surgical repair აღწერე როგორც რეკონსტრუქცია/პროთეზირება/მკურნალობა და არა „აღდგენა“.",
-      "guideline_check": "ESVS 2024 AAA, §7.2.7, p.258: სტენტგრაფტის მიგრაციისას შენარჩუნებული ხანგრძლივი ჰერმეტიზაციის კონსერვატიული მართვის შესაძლებლობა (https://cprv.fr/aneurism-esvs-2024.pdf). ღია პროთეზირება ნალისებრი თირკმლის ფონზე: Aortic reconstruction in patients with horseshoe or ectopic kidneys (https://pubmed.ncbi.nlm.nih.gov/8893423/); Open surgical repair of AAA and horseshoe kidney (https://pmc.ncbi.nlm.nih.gov/articles/PMC8976142/).",
+      "guideline_check": "ESVS 2024 AAA recommendations 79 and 153: https://cprv.fr/aneurism-esvs-2024.pdf (printed pages 243 and 282).",
       "last_validation": {
         "range": [
-          114,
-          118
+          119,
+          120
         ],
-        "new_questions": 5,
-        "new_explanations": 5,
+        "new_questions": 2,
+        "new_explanations": 2,
         "clinical_self_review": "passed",
         "georgian_language_self_review": "passed",
         "numbering_continuous": true,
@@ -395,24 +395,21 @@
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
-        "semantic_duplication_review": "Reviewed all 113 existing question texts, the last 20 full question/explanation pairs, and the last 30 recent stems; no repeated clinical decision found.",
+        "semantic_duplication_review": "Reviewed complete 118-question bank, last 26 full questions, recent stems. Both clinical decisions distinct.",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              114
+              119
             ],
-            "source": "Mehard et al., Radiology 1994, High-attenuating crescent in abdominal aortic aneurysm wall at CT; contextualised by Stoecker et al., Annals of Vascular Surgery 2022",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/8029397/"
+            "source": "ESVS 2024 AAA Recommendation 79 (p.243)",
+            "url": "https://cprv.fr/aneurism-esvs-2024.pdf"
           },
           {
             "questions": [
-              115,
-              116,
-              117,
-              118
+              120
             ],
-            "source": "ESVS 2024 Clinical Practice Guidelines on the Management of Abdominal Aorto-Iliac Artery Aneurysms, Recommendations 62, 37, 49, and 130",
+            "source": "ESVS 2024 AAA Recommendation 153 (p.282)",
             "url": "https://cprv.fr/aneurism-esvs-2024.pdf"
           }
         ]
