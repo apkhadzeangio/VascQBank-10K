@@ -1906,19 +1906,11 @@
       "target": 500,
       "question_file": "VGEI_questions.txt",
       "explanation_file": "VGEI_explanations.txt",
-      "last_number": 49,
-      "question_blob_sha": "285755f1dcf6b2103090d34cd263bb2206f99f8a",
-      "explanation_blob_sha": "68095da014ed80bb98f43458291db449b028667a",
-      "last_full_audit_at": 4,
+      "last_number": 51,
+      "question_blob_sha": "2cf4ddb30e8ae268fdc788b24694a48fa3787036",
+      "explanation_blob_sha": "a58c6f285fc7619bc1977efa5783583786ba4e6a",
+      "last_full_audit_at": 50,
       "recent_stems": [
-        {
-          "n": 20,
-          "stem": "68 წლის მამაკაცს შვიდი თვის წინ მუცლის აორტის ენდოპროთეზი ჩაუდგეს. ახალი ცხელებისა და წელის ტკივილის გამო ჩატარებულ CTA-ზე პერიპროთეზული აბსცესი გამოვლინდა, სისხლის ბაქტერიოლოგიურ გამოკვლევაში კი ოქროსფერი სტაფილოკოკი გაიზარდა. გუნდი განიხილავს, უნდა ჩაითვალოს თუ არა ინფექცია „გვიანად“ მხოლოდ ენდოპროთეზის ჩადგმიდან გასული დროის გამო. ESVS-ის 2026 წლის გაიდლაინით, რომელი მიდგომაა დასაბუთებული?"
-        },
-        {
-          "n": 21,
-          "stem": "68 წლის მამაკაცს სინთეზური პროთეზით ბარძაყ-მუხლქვეშა შუნტირება ჩაუტარდა. საზარდულის ჭრილობა პირველადი ნაკერებით დაიხურა; ინფექციის ნიშნები არ აღენიშნება და პერიოპერაციული ანტიბიოტიკოპროფილაქტიკა ჩატარებულია. განიხილება ნაკერებზე ადგილობრივი ანტიმიკრობული საშუალების დამატება მხოლოდ ინფექციის პრევენციის მიზნით. NICE-ის რეკომენდაციის თანახმად, რომელია საუკეთესო ტაქტიკა?"
-        },
         {
           "n": 22,
           "stem": "66 წლის მამაკაცს გამოხატული კოჭლობის გამო აორტა-ორბარძაყის გეგმიური სინთეზური პროთეზირება სჭირდება. ყოველდღიურად ეწევა თამბაქოს; კიდურისთვის საფრთხის შემცველი იშემია არ აქვს და ოპერაციამდე ექვსი კვირა რჩება. რომელი ღონისძიებაა ყველაზე დასაბუთებული თამბაქოსთან დაკავშირებული ოპერაციული მიდამოს ინფექციის რისკის შესამცირებლად?"
@@ -2030,15 +2022,23 @@
         {
           "n": 49,
           "stem": "73 წლის ქალს აორტის სინთეზური პროთეზის დუნედ მიმდინარე ინფექციის გამო პროთეზის სრული ექსპლანტაცია ჩაუტარდა; ოპერაციისას პერიპროთეზული ჩირქოვანი კერა დადასტურდა. სისხლისა და ღრმა პერიპროთეზული ქსოვილების ბაქტერიოლოგიურ გამოკვლევებში მეხუთე დღისთვის მიკროორგანიზმების ზრდა არ გამოვლენილა; პაციენტი მკურნალობის ფონზე სტაბილურია. რომელი დამატებითი ლაბორატორიული ნაბიჯია ყველაზე დასაბუთებული ნელა მზარდი გამომწვევის გამოსავლენად?"
+        },
+        {
+          "n": 50,
+          "stem": "67 წლის მამაკაცს ხუთი წლის წინ აორტა-ორბარძაყის სინთეზური პროთეზირება ჩაუტარდა. ბოლო თვეებია სუბფებრილური ცხელება და წელის ტკივილი აწუხებს; CTA-ზე პერიპროთეზული ანთებითი ცვლილებები ჩანს, თუმცა ჰემოკულტურები და პერიპროთეზული მასალის ჩვეულებრივი ბაქტერიოლოგიური გამოკვლევები უარყოფითია. პაციენტი ცხვრის ფერმაში მუშაობს და ხშირად ესწრება ბატკნების დაბადებას; გუნდი ეჭვობს Coxiella burnetii-ით გამოწვეულ ქრონიკულ ინფექციას. რომელი სეროლოგიური კვლევაა ყველაზე მიზანშეწონილი ამ ეჭვის შესამოწმებლად?"
+        },
+        {
+          "n": 51,
+          "stem": "73 წლის ქალს ბარძაყ-მუხლქვეშა სინთეზური შუნტის გვიანი ინფექციის გამო პროთეზის სრული ექსპლანტაცია ჩაუტარდა. სხვადასხვა უბნიდან ცალკე აღებული სამი ღრმა ქსოვილის ნიმუშიდან ორში ანტიბიოტიკებისადმი ერთნაირი მგრძნობელობის მქონე Staphylococcus epidermidis გაიზარდა, მესამეში კი ზრდა არ გამოვლენილა; ჭრილობის ზედაპირული ნაცხიდან Staphylococcus aureus გამოიყო, ჰემოკულტურები უარყოფითია. რომელი შედეგია ყველაზე სარწმუნო ინფექციის გამომწვევის დასადგენად?"
         }
       ],
       "topic_rotation": "I №1–40 საფუძვლები და პრევენცია; II №41–80 მიკრობიოლოგია; III №81–130 დიაგნოზი; IV №131–190 გამოსახულებითი დიაგნოსტიკა; V №191–230 ანტიმიკრობული მკურნალობა; VI №231–300 ქირურგიული ტაქტიკა; VII №301–360 მასალები და ჭრილობა; VIII №361–410 ლოკალიზაციები; IX №411–460 გართულებები; X №461–500 შედეგები და მეთვალყურეობა.",
       "linguistic_note": "GLOSSARY.md-ის VGEI ტერმინოლოგია და ბუნებრივი აკადემიური ქართული.",
-      "guideline_check": "NICE NG125 1.4.5: no topical antimicrobials to prevent SSI in primary-closure wounds; WHO/ACC: intensive smoking cessation begun >=4 weeks preoperatively reduces postoperative complications.",
+      "guideline_check": "ESVS 2026 VGEI guideline, doi:10.1016/j.ejvs.2026.05.035. For Coxiella chronic Q fever phase I IgG use CDC Q Fever Clinical and Laboratory Diagnosis; for interpreting repeated coagulase-negative staphylococci in deep tissue samples use VASGRA prospective study (2018).",
       "last_validation": {
         "range": [
-          48,
-          49
+          50,
+          51
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -2048,26 +2048,41 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: ESVS 2026 recommendations 8 (three aerobic/anaerobic blood culture pairs before antimicrobials) and 10 (consider 10-14 days culture incubation)",
-        "terminology_self_review": "passed: AGENTS.md and GLOSSARY.md general/VGEI sections",
-        "georgian_language_self_review": "passed: refined academic Georgian",
-        "semantic_duplication_review": "reviewed 47 stored full stems; lexical maximum Jaccard: 0.190, 0.235; distinct clinical decisions",
+        "clinical_self_review": "passed — CDC chronic Q fever phase I IgG and persistent vascular infection; independent deep tissue cultures in VASGRA cohort",
+        "terminology_self_review": "passed — GLOSSARY.md GENERAL and VGEI with infectious disease and microbiological terminology",
+        "georgian_language_self_review": "passed — separate editorial revision, no calques, parallel distractors",
+        "semantic_duplication_review": "reviewed all 49 prior full questions; no overlap in tested decisions",
         "previous_text_unchanged": true,
-        "index_precheck": "matched TXT sequential counts and SHAs",
+        "index_precheck": "matched exact TXT enumeration and stored blob SHAs",
         "source_checks": [
           {
             "questions": [
-              48
+              50
             ],
-            "source": "ESVS 2026 VGEI guideline Recommendation 8; JCS 2026 section 7.2",
+            "source": "CDC Clinical and Laboratory Diagnosis for Q Fever (chronic disease, phase I IgG and cultures)",
+            "url": "https://www.cdc.gov/q-fever/hcp/diagnosis-testing/index.html"
+          },
+          {
+            "questions": [
+              51
+            ],
+            "source": "Increased Pathogen Identification in Vascular Graft Infections by the Combined Use of Tissue Cultures and 16S rRNA Gene PCR (VASGRA, 2018)",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5994401/"
+          },
+          {
+            "questions": [
+              50,
+              51
+            ],
+            "source": "ESVS 2026 VGEI Clinical Practice Guidelines, scope and terminology",
             "url": "https://doi.org/10.1016/j.ejvs.2026.05.035"
           },
           {
             "questions": [
-              49
+              51
             ],
-            "source": "ESVS 2026 VGEI guideline Recommendation 10, extended incubation of deep tissue and blood cultures",
-            "url": "https://doi.org/10.1016/j.ejvs.2026.05.035"
+            "source": "Practical Guidance for Clinical Microbiology Laboratories: Microbiologic Diagnosis of Implant-Associated Infections",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11237642/"
           }
         ]
       }
