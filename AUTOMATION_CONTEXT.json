@@ -1681,19 +1681,11 @@
       "target": 600,
       "question_file": "PERIOPERATIVE_questions.txt",
       "explanation_file": "PERIOPERATIVE_explanations.txt",
-      "last_number": 31,
-      "question_blob_sha": "d6d0a8cbbfeab17ff7a16f7e6cb09d3408bea89d",
-      "explanation_blob_sha": "1f742abf83124e061187fe315f04a24d1bd6ef43",
+      "last_number": 33,
+      "question_blob_sha": "f514dbee953176af58e489a6eb12598b21d8a329",
+      "explanation_blob_sha": "b2b6dd59933aa13c408e0395a0be3c605375d46e",
       "last_full_audit_at": 6,
       "recent_stems": [
-        {
-          "n": 2,
-          "stem": "67 წლის ქალს შაქრიანი დიაბეტის გამო დანიშნული აქვს ემპაგლიფლოზინი. ხუთ დღეში მას ჩაუტარდება ბარძაყ-მუხლქვეშა შუნტირება; გლიკემია კონტროლდება, კეტოაციდოზის ნიშნები არ არის. როგორ უნდა შეიცვალოს ემპაგლიფლოზინის მიღება ოპერაციის წინ?"
-        },
-        {
-          "n": 3,
-          "stem": "65 წლის მამაკაცს ექვს კვირაში მუცლის აორტის ანევრიზმის გეგმიური ღია პროთეზირება უნდა ჩაუტარდეს. დღეში ერთ კოლოფ სიგარეტს ეწევა და მოწევის შეწყვეტა სურს. მედიკამენტური დახმარების უკუჩვენება არ აქვს. რომელია ოპერაციისწინა პერიოდში საუკეთესო მიდგომა?"
-        },
         {
           "n": 4,
           "stem": "70 წლის ქალს დაგეგმილი აქვს საძილე არტერიის ენდარტერექტომია. წინასაოპერაციო პერიოდში შემთხვევით ჩატარებულმა შარდის ბაქტერიოლოგიურმა გამოკვლევამ ბაქტერიების მნიშვნელოვანი ზრდა გამოავლინა; პაციენტს არ აქვს ცხელება, შარდვის დარღვევა ან სხვა საშარდე სიმპტომი და უროლოგიური ჩ"
@@ -1805,6 +1797,14 @@
         {
           "n": 31,
           "stem": "67 წლის ქალს ოპტიმალური კონსერვატიული მკურნალობის მიუხედავად ყოველდღიური საქმიანობის შემზღუდველი ხანგამოშვებითი კოჭლობა აქვს და სამი კვირის შემდეგ გეგმიური ბარძაყ-მუხლქვეშა შუნტირება უნდა ჩაუტარდეს. II ტიპის შაქრიანი დიაბეტის ფონზე გლიკირებული ჰემოგლობინის (HbA1c) მაჩვენებელი 8,7%-ია; ბოლო კვირი"
+        },
+        {
+          "n": 32,
+          "stem": "68 წლის მამაკაცს ათ დღეში მუცლის აორტის უსიმპტომო ანევრიზმის გეგმიური ღია პროთეზირება უნდა ჩაუტარდეს. აქვს კონტროლირებადი არტერიული ჰიპერტენზია და სტაბილური კორონარული დაავადება; კლონიდინს არ იღებს, პულსია 66/წთ, არტერიული წნევა — 128/76 mmHg. გუნდი განიხილავს კლონიდინის მცირე დოზით პირველად დანიშვნ"
+        },
+        {
+          "n": 33,
+          "stem": "74 წლის ქალს ოთხ კვირაში აორტა-ორბარძაყის გეგმიური შუნტირება უნდა ჩაუტარდეს. წარსულში მიოკარდიუმის ინფარქტი გადაიტანა, თუმცა ამჟამად სტენოკარდია, ქოშინი ან გულის უკმარისობის ნიშნები არ აღენიშნება. ოპერაციის კარდიული რისკი მომატებულია, ფიზიკურ დატვირთვას ფეხის ტკივილი უზღუდავს და კლინიკური შეფასების "
         }
       ],
       "topic_rotation": "№1–60 წინასაოპერაციო შეფასება/ოპტიმიზაცია; №61–120 პერიოპერაციული კარდიოვასკულური რისკი; №121–180 ანტიაგრეგანტული და ანტიკოაგულაციური მკურნალობა; №181–250 ჰემოსტაზი, სისხლდენა და ტრანსფუზია; №251–320 თრომბოემბოლია და პროფილაქტიკა; №321–380 ჰემოდინამიკა, ინფუზია და თირკმლის ფუნქცია; №381–440 ფილტვის/მეტაბოლური გართულებები; №441–500 სისხლძარღვოვანი ოპერაციების ადრეული გართულებები; №501–550 ნევროლოგიური/ორგანოსპეციფიკური გართულებები; №551–600 პოსტოპერაციული მეთვალყურეობა. ზუსტად ორი კითხვა თითო ციკლში.",
@@ -1812,8 +1812,8 @@
       "guideline_check": "2024 multi-society GLP-1RA perioperative guidance (published 2024; Surgical Endoscopy 2025): individual aspiration-risk assessment and continuation in lower-risk patients; SA Health vascular surgery antibiotic prophylaxis and ASHP/IDSA/SHEA/SIS: IV cefazolin within 60 min before incision with repeat intraoperative dosing for prolonged surgery and normal kidney function.",
       "last_validation": {
         "range": [
-          30,
-          31
+          32,
+          33
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1823,29 +1823,29 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ა": 1,
-          "გ": 1
+          "დ": 1,
+          "ბ": 1
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed; 2026 AHA/ACC guideline routine coronary revascularization class III no benefit for non-left-main CAD; ADA Standards 2026 section 16 elective surgery HbA1c optimization without mandatory delay based on HbA1c alone",
-        "terminology_self_review": "passed (GLOSSARY.md GENERAL and PERIOPERATIVE)",
-        "georgian_language_self_review": "passed; academic Georgian",
-        "semantic_duplication_review": "All 29 stored questions examined; no prior decision on prophylactic non-left-main PCI or isolated elevated HbA1c elective-surgery timing",
+        "clinical_self_review": "passed: verified against unchanged 2026 ACC/AHA perioperative guideline recommendations (§7.4, §3.4)",
+        "terminology_self_review": "passed: GENERAL and PERIOPERATIVE GLOSSARY.md sections reviewed",
+        "georgian_language_self_review": "passed: academic Georgian, distinct clinical decisions",
+        "semantic_duplication_review": "Reviewed all 31 existing stems and answers; new topics prophylactic initiation of clonidine and NT-proBNP for supplementary preoperative risk assessment, not previously covered",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              30
+              32
             ],
-            "source": "2026 AHA/ACC Multisociety Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery; coronary revascularization class 3 no benefit",
+            "source": "2026 AHA/ACC Multisociety Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery, §7.4 Alpha-2 Receptor Agonists, Class III (No Benefit), B-R",
             "url": "https://www.jacc.org/doi/10.1016/j.jacc.2026.06.017"
           },
           {
             "questions": [
-              31
+              33
             ],
-            "source": "ADA Standards of Care in Diabetes 2026, section 16, Perioperative Care recommendations 16.14–16.15",
-            "url": "https://doi.org/10.2337/dc26-s016"
+            "source": "2026 AHA/ACC Multisociety Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery, §3.4 Preoperative Biomarkers, Class IIa, B-NR",
+            "url": "https://www.jacc.org/doi/10.1016/j.jacc.2026.06.017"
           }
         ]
       }
