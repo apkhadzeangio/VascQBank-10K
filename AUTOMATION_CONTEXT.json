@@ -1204,19 +1204,11 @@
       "target": 600,
       "question_file": "MESENTERIC_RENAL_questions.txt",
       "explanation_file": "MESENTERIC_RENAL_explanations.txt",
-      "last_number": 35,
-      "question_blob_sha": "2b38c824a41ae6f2a96ac4b44bc2a05d9925b920",
-      "explanation_blob_sha": "26a4e3132c4ac01ba1f6c177b01420472920f201",
+      "last_number": 37,
+      "question_blob_sha": "b65dfc3fb6be8fa05cfaded5905aaff87ea3cc27",
+      "explanation_blob_sha": "5b0a495730af895d0af43a3947d71ea8fdfca624",
       "last_full_audit_at": 2,
       "recent_stems": [
-        {
-          "n": 6,
-          "stem": "70 წლის ქალს ბოლო ექვს კვირაში ორჯერ განუვითარდა ფილტვების ელვისებური შეშუპება თირკმლის ფუნქციის მწვავე გაუარესებისა და სითხის შეკავების ფონზე. CTA-ით ორივე თირკმლის არტერიის სათავეში დაახლოებით 80%-იანი ათეროსკლეროზული "
-        },
-        {
-          "n": 7,
-          "stem": "72 წლის მამაკაცს გულის ოპერაციის შემდეგ სეპტიკური შოკის გამო ვაზოპრესორებით მკურნალობა უტარდება. აღენიშნება მუცლის შებერვა და მეტაბოლური აციდოზი; CTA-ზე ჯორჯლის ზემო არტერია გამავალია, მნიშვნელოვანი სტენოზი ან ემბოლია არ"
-        },
         {
           "n": 8,
           "stem": "64 წლის მამაკაცს სხვა მიზეზით ჩატარებულ CTA-ზე მარჯვენა თირკმლის არტერიის მთავარ ღეროში 24 მმ დიამეტრის ჭეშმარიტი ანევრიზმა აღმოაჩნდა. ტკივილი, ჰემატურია და ემბოლიური გართულებები არ აღენიშნება; არტერიული წნევა კონტროლდებ"
@@ -1328,6 +1320,14 @@
         {
           "n": 35,
           "stem": "63 წლის ქალს CTA-ზე ფაშვის ღეროს სათავის ქრონიკული სრული ოკლუზია გამოუვლინდა, თუმცა პაციენტს კვებასთან დაკავშირებული მუცლის ტკივილი და ღვიძლის იშემია არ აღენიშნება, რადგან ღვიძლისა და ელენთის არტერიები უხვად ივსება გაფარ"
+        },
+        {
+          "n": 36,
+          "stem": "56 წლის მამაკაცს ექვსი თვის წინ ჯორჯლის ზემო ვენის მწვავე თრომბოზი დაუდგინდა და სათანადო ანტიკოაგულაციური მკურნალობა დაეწყო. შემდგომმა გამოკვლევამ JAK2 V617F მუტაციასთან დაკავშირებული ესენციური თრომბოციტემია გამოავლინა, "
+        },
+        {
+          "n": 37,
+          "stem": "47 წლის მამაკაცს უეცრად განვითარებული მარჯვენა ფერდის ტკივილის გამო CTA ჩაუტარდა, რომელზეც თირკმლის არტერიის შუა სეგმენტის იზოლირებული სპონტანური დისექცია გამოვლინდა. არტერიის ჭეშმარიტი სანათური გამავალია, თირკმლის პარენ"
         }
       ],
       "topic_rotation": "მეზენტერიული და თირკმლის პათოლოგიების მონაცვლეობა; მწვავე მეზენტერიული იშემიის ემბოლია/თრომბოზი/NOMI/MVT; ქრონიკული მეზენტერიული იშემია; CTA/DSA/დუპლექსსკანირება; ენდოვასკულური და ღია რევასკულარიზაცია; ნაწლავის სიცოცხლისუნარიანობა და განმეორებითი ლაპაროტომია; თირკმლის არტერიის ათეროსკლეროზული სტენოზი/FMD; რენოვასკულური ჰიპერტენზია; რევასკულარიზაციის ჩვენებები და უარყოფა; ანევრიზმა/დისექცია; მკურნალობისშემდგომი მეთვალყურეობა.",
@@ -1335,30 +1335,46 @@
       "guideline_check": "ESVS 2025 Mesenteric and Renal Arteries and Veins (რეკომენდაციები 33 და 63), ESC 2024 PAAD. მწვავე მეზენტერიული იშემიის ეჭვისას გადაუდებელი CTA თირკმლის ფუნქციის დაქვეითების მიუხედავად; კონტროლირებადი ჰიპერტენზიისა და სტაბილური თირკმლის ფუნქციისას თირკმლის ათეროსკლეროზული სტენოზის რუტინული სტენტირება არ არის გამართლებული.",
       "last_validation": {
         "range": [
-          26,
-          35
+          36,
+          37
         ],
-        "new_questions": 10,
-        "new_explanations": 10,
+        "new_questions": 2,
+        "new_explanations": 2,
         "numbering_continuous": true,
         "five_options_each": true,
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ა": 2,
+          "ა": 1,
           "ბ": 2,
-          "გ": 2,
-          "დ": 2,
-          "ე": 2
+          "გ": 1,
+          "დ": 3,
+          "ე": 3
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed",
+        "clinical_self_review": "passed: ESVS 2025 Recommendations 56 and 100",
         "georgian_language_self_review": "passed",
-        "terminology_self_review": "passed (GLOSSARY.md)",
-        "semantic_duplication_review": "checked all 25 stored MESENTERIC_RENAL questions and cross-topic stems",
+        "terminology_self_review": "passed (general and mesenteric/renal GLOSSARY)",
+        "semantic_duplication_review": "Compared 35 existing stems; Jaccard max 0.135 / 0.211, distinct clinical decisions",
         "previous_text_unchanged": true,
-        "index_precheck": "matched"
+        "index_precheck": "matched",
+        "source_checks": [
+          {
+            "questions": [
+              36
+            ],
+            "source": "ESVS 2025 Recommendation 56",
+            "url": "https://doi.org/10.1016/j.ejvs.2025.06.010"
+          },
+          {
+            "questions": [
+              37
+            ],
+            "source": "ESVS 2025 Recommendation 100",
+            "url": "https://doi.org/10.1016/j.ejvs.2025.06.010"
+          }
+        ]
       }
     },
     "VASCULAR_TRAUMA": {
