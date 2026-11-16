@@ -1556,19 +1556,11 @@
       "target": 900,
       "question_file": "ANATOMY_IMAGING_questions.txt",
       "explanation_file": "ANATOMY_IMAGING_explanations.txt",
-      "last_number": 51,
-      "question_blob_sha": "9993162e61e6e19df7030f2950aab7252ab3e70b",
-      "explanation_blob_sha": "3ea5ca4c0b882ebc0d766b39358decaaaa0fdac4",
+      "last_number": 53,
+      "question_blob_sha": "5c72fa48a76d492e56afc3699b9fe6c89071b041",
+      "explanation_blob_sha": "cb3b8f464ff1afcdbc336c8473e90050aaa47521",
       "last_full_audit_at": 50,
       "recent_stems": [
-        {
-          "n": 22,
-          "stem": "მცირე საჩინო ვენის ზედაპირული თრომბოზისას დუპლექსსკანირებით დადასტურდა, რომ თრომბი მისი ტიპური შესართავიდან ღრმა ვენურ სისტემაში ვრცელდება. რომელ ღრმა ვენაში ხვდება თრომბი პირველად?"
-        },
-        {
-          "n": 23,
-          "stem": "კაროტიდული ენდარტერექტომიის დაგეგმვისას CTA-ზე ფოლაქის დისტალური საზღვარი საძილე არტერიის ბიფურკაციაზე მაღლა ჩანს და საჭიროა შიგნითა საძილე არტერიის მაღალი მონაკვეთის გამოყოფა. რომელი ნერვი კვეთს ჩვეულებრივ შიგნითა და გარეთა საძილე არტერიებს წინიდან და ამ მიდგომისას განსაკუთრებულ დაცვას საჭიროებს?"
-        },
         {
           "n": 24,
           "stem": "მხრის ძვლის შუა მესამედის მოტეხილობის შემდეგ ჩატარებულ CTA-ზე სხივის ნერვის ღარის მიდამოში არტერიის დაზიანებაა ნავარაუდევი. რომელი არტერია გადის ჩვეულებრივ ამ ღარში სხივის ნერვთან ერთად?"
@@ -1680,6 +1672,14 @@
         {
           "n": 51,
           "stem": "ბარძაყის ზედაპირული არტერიის გრძელი ოკლუზიის მქონე პაციენტის CTA-ზე მუხლქვეშა არტერია ბარძაყის უკანა კუნთებში გამავალი გამხვრეტი არტერიების საშუალებით ივსება. ბარძაყის საერთო არტერიის ენდარტერექტომიისას რომელი არტერიის სათავის გამავლობის შე"
+        },
+        {
+          "n": 52,
+          "stem": "პანკრეასის თავის სიმსივნის გამო ოპერაციის დაგეგმვისას CTA-ზე ღვიძლის არტერიების ტიპური აგებულება დადასტურდა. ქირურგმა უნდა ამოიცნოს ღვიძლ-თორმეტგოჯას იოგში, კარის ვენის წინ და ნაღვლის საერთო სადინრის მარცხნივ მდებარე არტერია. რომელი არტერიაა ეს?"
+        },
+        {
+          "n": 53,
+          "stem": "წვივის პროქსიმალურ ნაწილში ძვლოვანი რეკონსტრუქციის დაგეგმვისას CTA-ზე ჩანს მუხლქვეშა არტერიიდან გამომავალი ტოტი, რომელიც ძვალთაშუა აპკის ზედა ხვრელით წვივის წინა კუნთოვან-ფასციურ ბუდეში გადადის. რომელი არტერიაა ამ მონაკვეთში იატროგენული დაზიანების უშუალო რისკის ქვეშ?"
         }
       ],
       "topic_rotation": "№1–100 ძირითადი სისხლძარღვოვანი ანატომია; №101–180 ვარიაციები; №181–260 ჰემოდინამიკა; №261–360 დოპლერის საფუძვლები; №361–460 არტერიული დუპლექსსკანირება; №461–540 ვენური დუპლექსსკანირება; №541–630 CTA; №631–720 MRA, DSA, IVUS; №721–820 ოპერაციული დაგეგმვა; №821–900 ინტეგრირებული კლინიკური ვიზუალიზაცია. ზუსტად ორი კითხვა ყოველ ციკლში.",
@@ -1687,8 +1687,8 @@
       "guideline_check": "სტანდარტული ანატომია, ESVS/SVS/AIUM/IAC შესაბამისი წყაროები. არ გამოიგონო მეთოდოლოგიაზე დამოკიდებული PSV/EDV/PSVR ზღვრები.",
       "last_validation": {
         "range": [
-          50,
-          51
+          52,
+          53
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1698,34 +1698,33 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "დ": 10,
+          "ა": 10,
           "ბ": 10,
           "გ": 11,
-          "ე": 10,
-          "ა": 10
+          "დ": 11,
+          "ე": 11
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: superior rectal artery collateral connection from inferior mesenteric; profunda femoris perforator collateral supply to popliteal territory",
-        "terminology_self_review": "passed: AGENTS.md v2.3 and GLOSSARY.md general/ANATOMY_IMAGING",
-        "georgian_language_self_review": "passed: academic Georgian, homogeneous options",
-        "exam_technical_self_review": "passed: exactly two questions, five choices, one star and two explanation sentences each",
-        "semantic_duplication_review": "At milestone 50, audited stems and choices for all 49 prior questions; no exact stem duplication or overlap with new mesenteric-pelvic collateral and deep femoral perforator decisions",
+        "clinical_self_review": "passed: hepatic artery proper relationship within hepatoduodenal ligament and proximal anterior tibial artery crossing interosseous membrane",
+        "terminology_self_review": "passed: glossary GENERAL/ANATOMY_IMAGING and Georgian anatomy reference",
+        "georgian_language_self_review": "passed: natural academic Georgian, homogenous response options",
+        "exam_technical_self_review": "passed: exactly two five-choice questions, one ASCII star each, two-sentence explanations",
+        "semantic_duplication_review": "all 51 stored stems and corresponding answer keys reviewed; no repeated decision",
         "previous_text_unchanged": true,
-        "index_precheck": "matched",
         "source_checks": [
           {
             "questions": [
-              50
+              52
             ],
-            "source": "RSNA Radiographics: Imaging of the Inferior Mesenteric Vasculature",
-            "url": "https://pubs.rsna.org/doi/10.1148/rg.240047"
+            "source": "Surgical Anatomy of the Liver (2023)",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10378601/"
           },
           {
             "questions": [
-              51
+              53
             ],
-            "source": "Journal of Surgical Research 2017: Collateral artery pathways of the femoral and popliteal artery",
-            "url": "https://doi.org/10.1016/j.jss.2016.11.068"
+            "source": "Anterior tibial artery, Kenhub (reviewed 2023)",
+            "url": "https://www.kenhub.com/en/library/anatomy/anterior-tibial-artery"
           }
         ]
       }
