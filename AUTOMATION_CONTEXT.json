@@ -1754,9 +1754,9 @@
       "target": 500,
       "question_file": "VGEI_questions.txt",
       "explanation_file": "VGEI_explanations.txt",
-      "last_number": 27,
-      "question_blob_sha": "06de67930bb8d127fadaf712d921a81d235c0cc8",
-      "explanation_blob_sha": "24c20db465e4173c06ff3c703e0d059e86af9f37",
+      "last_number": 29,
+      "question_blob_sha": "baefac548294ab6c756d4c47b8ed7378ec7c77b9",
+      "explanation_blob_sha": "422f9bbec2dd6f7deae8c127ebf8dad5fe93f821",
       "last_full_audit_at": 4,
       "recent_stems": [
         {
@@ -1866,6 +1866,14 @@
         {
           "n": 27,
           "stem": "65 წლის ქალს სინთეზური პროთეზით ბარძაყ-მუხლქვეშა გეგმიური შუნტირება უნდა ჩაუტარდეს. ანამნეზში დადასტურებული აქვს ცეფალოსპორინებსა და პენიცილინებზე მძიმე ანაფილაქსიური რეაქცია, რის გამოც პერიოპერაციული ანტიბიოტიკოპროფილაქ"
+        },
+        {
+          "n": 28,
+          "stem": "68 წლის მამაკაცს ბარძაყ-მუხლქვეშა სინთეზური შუნტირება უტარდება საზარდულის ღია მიდგომით. კანი ანტისეპტიკით დამუშავებულია; ქირურგიულმა გუნდმა ჭრილის გასწვრივ წებოვანი საოპერაციო ფირის გამოყენება გადაწყვიტა, იოდის მიმართ ალერგია არ აღენიშნება. NICE-ის რეკომენდაციით, რომელ ფირს უნდა მიენიჭოს უპირატესობა ოპერაციული მიდამოს ინფექციის რისკის შესამცირებლად?"
+        },
+        {
+          "n": 29,
+          "stem": "73 წლის ქალს აორტა-ორბარძაყის გეგმიური სინთეზური პროთეზირება უტარდება. ჭრილობა სუფთაა, პერიოპერაციული ანტიბიოტიკოპროფილაქტიკა ჩატარებულია და კანქვეშა ქსოვილების დასახურად ქირურგს ერთნაირი კალიბრისა და შთანთქმის თვისებების მქონე ნაკერის ძაფები აქვს, რომლებიც მხოლოდ ანტიმიკრობული საფარით განსხვავდება. WHO-ისა და NICE-ის რეკომენდაციების მიხედვით, რომელი საფარის მქონე ძაფის გამოყენების განხილვაა დასაბუთებული ოპერაციული მიდამოს ინფექციის რისკის შესამცირებლად?"
         }
       ],
       "topic_rotation": "I №1–40 საფუძვლები და პრევენცია; II №41–80 მიკრობიოლოგია; III №81–130 დიაგნოზი; IV №131–190 გამოსახულებითი დიაგნოსტიკა; V №191–230 ანტიმიკრობული მკურნალობა; VI №231–300 ქირურგიული ტაქტიკა; VII №301–360 მასალები და ჭრილობა; VIII №361–410 ლოკალიზაციები; IX №411–460 გართულებები; X №461–500 შედეგები და მეთვალყურეობა.",
@@ -1873,30 +1881,53 @@
       "guideline_check": "NICE NG125 1.4.5: no topical antimicrobials to prevent SSI in primary-closure wounds; WHO/ACC: intensive smoking cessation begun >=4 weeks preoperatively reduces postoperative complications.",
       "last_validation": {
         "range": [
-          23,
-          27
+          28,
+          29
         ],
-        "new_questions": 5,
-        "new_explanations": 5,
+        "new_questions": 2,
+        "new_explanations": 2,
         "numbering_continuous": true,
         "five_options_each": true,
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
-        "answer_distribution": {
-          "ა": 1,
-          "ბ": 1,
-          "გ": 1,
-          "დ": 1,
-          "ე": 1
-        },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed",
-        "georgian_language_self_review": "passed",
-        "terminology_self_review": "passed (GLOSSARY.md)",
-        "semantic_duplication_review": "checked all 22 stored VGEI questions and cross-topic stems",
+        "clinical_self_review": "passed: NICE NG125 1.3.4 for iodophor-impregnated incise drape; WHO section 4.22 and NICE NG125 1.3.20 for optional triclosan-coated sutures",
+        "terminology_self_review": "passed: AGENTS.md and GLOSSARY.md GENERAL/VGEI checked",
+        "georgian_language_self_review": "passed: academic Georgian, homogenous choices, no calcified phrasing",
+        "semantic_duplication_review": "All 27 prior VGEI cases reviewed; nearest lexical overlaps 11:0.255, 13:0.237; distinct decisions on incise drape and antimicrobial-coated suture",
         "previous_text_unchanged": true,
-        "index_precheck": "matched"
+        "source_checks": [
+          {
+            "questions": [
+              28
+            ],
+            "source": "NICE NG125 Recommendations 1.3.3 and 1.3.4: surgical incise drapes",
+            "url": "https://www.nice.org.uk/guidance/ng125/chapter/Recommendations"
+          },
+          {
+            "questions": [
+              29
+            ],
+            "source": "WHO Global Guidelines for the Prevention of Surgical Site Infection, section 4.22: triclosan-coated sutures, conditional recommendation with moderate-quality evidence",
+            "url": "https://www.ncbi.nlm.nih.gov/books/NBK536431/"
+          },
+          {
+            "questions": [
+              29
+            ],
+            "source": "NICE NG125 Recommendation 1.3.20: consider triclosan-coated sutures",
+            "url": "https://www.nice.org.uk/guidance/ng125/chapter/Recommendations"
+          },
+          {
+            "questions": [
+              28,
+              29
+            ],
+            "source": "ESVS 2026 VGEI guideline (clinical context and scope only; no attribution of the specific WHO/NICE recommendations)",
+            "url": "https://doi.org/10.1016/j.ejvs.2026.05.035"
+          }
+        ]
       }
     }
   }
