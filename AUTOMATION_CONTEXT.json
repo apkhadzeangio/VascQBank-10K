@@ -1291,9 +1291,9 @@
       "target": 650,
       "question_file": "VASCULAR_TRAUMA_questions.txt",
       "explanation_file": "VASCULAR_TRAUMA_explanations.txt",
-      "last_number": 20,
-      "question_blob_sha": "06180e524e329fe10d47d9a1ca2b34df8ab42c3e",
-      "explanation_blob_sha": "55d5221b441507d6c0ca4373ea43333fe3980135",
+      "last_number": 22,
+      "question_blob_sha": "44e79fa8a188b0d37b460f2ab07d9e1a72ee538b",
+      "explanation_blob_sha": "176c38668b2eae10780d8c5d85f486a2a60a3d44",
       "last_full_audit_at": 2,
       "recent_stems": [
         {
@@ -1375,6 +1375,14 @@
         {
           "n": 20,
           "stem": "31 წლის მამაკაცს გულმკერდის აორტის ბლაგვი დაზიანების გამო ოთხი წლის წინ სტენტგრაფტით ენდოვასკულური მკურნალობა ჩაუტარდა. ბოლო საკონტროლო CTA-ზე სტენტგრაფტის მიგრაცია და ენდოლიკი არ "
+        },
+        {
+          "n": 21,
+          "stem": "8 წლის ბავშვს დაცემის შედეგად მხრის ძვლის გადაადგილებული როკზედა მოტეხილობა აქვს. მოტეხილობის დახურული ჩასწორებისა და ფიქსაციის შემდეგ სხივის არტერიაზე პულსი არ ისინჯება, თუმცა მტე"
+        },
+        {
+          "n": 22,
+          "stem": "35 წლის მამაკაცს მაღალი ენერგიის ავტოსაგზაო ტრავმის შემდეგ კისრის მეოთხე მალის განივი მორჩის მოტეხილობა დაუდგინდა, რომელიც განივ ხვრელსაც მოიცავს. პაციენტი ჰემოდინამიკურად სტაბილურ"
         }
       ],
       "topic_rotation": "ბლაგვი და შემავალი ტრავმა; სისხლძარღვის დაზიანების სარწმუნო და სავარაუდო ნიშნები; ჰემოდინამიკური სტაბილურობა; CTA და გადაუდებელი ოპერაცია; კისრის, გულმკერდის, მუცლის, მენჯისა და კიდურების სისხლძარღვები; სისხლდენის კონტროლი და დაზიანების კონტროლის ქირურგია; დროებითი ინტრავასკულური შუნტი; არტერიული/ვენური რეკონსტრუქცია; ენდოვასკულური ჩარევა; კომპარტმენტ-სინდრომი და ფასციოტომია; რეპერფუზია; იატროგენული ტრავმა; მეთვალყურეობა.",
@@ -1382,8 +1390,8 @@
       "guideline_check": "ESVS 2025 Clinical Practice Guidelines on the Management of Vascular Trauma (Wahlgren et al., EJVES 69:179–237), DOI 10.1016/j.ejvs.2024.12.018; ყურადღება მიაქციე რეკომენდაციებს 9, 19, 20, 82–86.",
       "last_validation": {
         "range": [
-          19,
-          20
+          21,
+          22
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1396,31 +1404,31 @@
           "ა": 0,
           "ბ": 0,
           "გ": 1,
-          "დ": 1,
-          "ე": 0
+          "დ": 0,
+          "ე": 1
         },
         "numeric_options_ascending": true,
         "clinical_self_review": "passed",
         "georgian_language_self_review": "passed",
-        "semantic_duplication_review": "№1–18 სრულად შემოწმებულია; №19 ჰემორაგიული შოკისას ქვემო ღრუ ვენის ლიგირებას, №20 კი გულმკერდის აორტის სტენტგრაფტის ხანგრძლივ გამოსახულებით მეთვალყურეობას ეხება.",
+        "semantic_duplication_review": "№1–20-ის კლინიკური სცენარებისა და გადაწყვეტილებების შემოწმება: ახალი №21 ეხება პედიატრიული როკზედა მოტეხილობის ჩასწორების შემდეგ ვარდისფერ, უპულსო მტევანს; №22 — კისრის მალის განივი ხვრელის მოტეხილობის ფონზე ბლაგვი სისხლძარღვოვანი დაზიანების სკრინინგს.",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              19
+              21
             ],
-            "source": "ESVS 2025 Clinical Practice Guidelines on the Management of Vascular Trauma, Recommendation 79 (Class I, Level C)",
+            "source": "ESVS 2025 Clinical Practice Guidelines on the Management of Vascular Trauma, Recommendation 104 (Class IIa, Level C)",
             "url": "https://doi.org/10.1016/j.ejvs.2024.12.018"
           },
           {
             "questions": [
-              20
+              22
             ],
-            "source": "ESVS 2025 Clinical Practice Guidelines on the Management of Vascular Trauma, Recommendation 58 (Class I, Level C)",
+            "source": "ESVS 2025 Clinical Practice Guidelines on the Management of Vascular Trauma, Recommendation 29 (Class I, Level B) and modified Denver screening criteria (Table 7)",
             "url": "https://doi.org/10.1016/j.ejvs.2024.12.018"
           }
         ],
-        "academic_refinement": "სცენარები მკაფიოდ მიჯნავს ჰემოდინამიკური არასტაბილურობისას სიცოცხლის გადარჩენის გადაწყვეტილებასა და სტაბილური ახალგაზრდა პაციენტის ხანგრძლივი მეთვალყურეობის მეთოდის არჩევას; ტერმინოლოგია და დისტრაქტორები რედაქტირებულია."
+        "academic_refinement": "პედიატრიული შემთხვევა მკაფიოდ განსაზღვრავს შენარჩუნებულ მტევნის პერფუზიას; კისრის ტრავმის შემთხვევაში განივი ხვრელის დაზიანება ქმნის CTA-ს სპეციფიკურ ჩვენებას ნევროლოგიური დეფიციტის არარსებობის მიუხედავად."
       }
     },
     "ANATOMY_IMAGING": {
