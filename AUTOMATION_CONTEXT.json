@@ -252,19 +252,11 @@
       "target": 1200,
       "question_file": "AAA_EVAR_questions.txt",
       "explanation_file": "AAA_EVAR_explanations.txt",
-      "last_number": 109,
-      "question_blob_sha": "23e9d80f792c8f1cc6ebff7c9d3f64492f45972d",
-      "explanation_blob_sha": "d1e74acaefde42974e818059029f416030e860d4",
+      "last_number": 111,
+      "question_blob_sha": "11a40bc64d5b2cdc86d726a0cbeeb3b7738db189",
+      "explanation_blob_sha": "f33706dc4cfddedc116d23602de967d0b3cee031",
       "last_full_audit_at": 100,
       "recent_stems": [
-        {
-          "n": 80,
-          "stem": "EVAR-იდან სამი წლის შემდეგ პაციენტს განმეორებითი ცხელება და ანთებითი მაჩვენებლების მატება აღენიშნება; სხვა ინფექციური კერა ვერ მოიძებნა. CTA-ზე ენდოპროთეზის გარშემო მცირე ინფილტრაციაა, თუმცა ინფექციის"
-        },
-        {
-          "n": 81,
-          "stem": "მუცლის აორტის რთული ანევრიზმის ფენესტრირებული ენდოპროთეზით მკურნალობის დაგეგმვისას თირკმლის არტერიებიც ფასდება. რომელი ანატომიური თავისებურება შეიძლება ზღუდავდეს ფენესტრაციასა და სამიზნე არტერიას შორი"
-        },
         {
           "n": 82,
           "stem": "71 წლის მამაკაცს მუცლის აორტის 72 მმ დიამეტრის ანევრიზმა და რეზექციისთვის შესაფერისი მსხვილი ნაწლავის კიბო აქვს. სიმსივნე გაუვალობასა და სისხლდენას არ იწვევს; შორეული მეტასტაზები არ გამოვლენილა. ანევრ"
@@ -376,40 +368,49 @@
         {
           "n": 109,
           "stem": "68 წლის მამაკაცს განმეორებითი ძლიერი წელის ტკივილი აქვს. CTA-ზე მუცლის აორტის ინფრარენალურ მონაკვეთში მაპენეტრირებელი წყლული გამოვლინდა, რომელსაც პერიაორტული ფსევდოანევრიზმა ახლავს. ინფექციური და ტრავ"
+        },
+        {
+          "n": 110,
+          "stem": "69 წლის მამაკაცს შემთხვევით გამოუვლინდა მარჯვენა თეძოს საერთო არტერიის 23 მმ დიამეტრის იზოლირებული ანევრიზმა. ჩივილები არ აქვს, მუცლის აორტის დიამეტრი 26 მმ-ია, წინა კვლევასთან შედარებით ანევრიზმის ზო"
+        },
+        {
+          "n": 111,
+          "stem": "სტანდარტული EVAR-იდან ორი წლის შემდეგ 74 წლის მამაკაცს მარცხენა ფეხის უეცარი ტკივილი და თითების მოძრაობის სისუსტე განუვითარდა. არტერიული დოპლერული სიგნალი ტერფზე არ ისმის, ვენური სიგნალი შენარჩუნებული"
         }
       ],
-      "topic_rotation": "EVAR-ის შემდგომი ანევრიზმული ტომრის ზრდა ხილული ენდოლიკის გარეშე (V ტიპის ენდოლიკი); გართულებული ინფრარენალური აორტის მაპენეტრირებელი წყლულის ენდოვასკულური მკურნალობა; მომდევნო ციკლებში ყურადღება მიექცეს განსხვავებულ ოპერაციულ ანატომიასა და ტექნიკურ გართულებებს.",
+      "topic_rotation": "თეძოს საერთო არტერიის მცირე იზოლირებული ანევრიზმის მეთვალყურეობის ინტერვალი; EVAR-ის შემდეგ ტოტის მწვავე ოკლუზია მექანიკური გადაღუნვის ფონზე; მომდევნო ციკლში შეირჩეს სხვა დიაგნოსტიკური ან ოპერაციული საკითხი.",
       "linguistic_note": "„რუპტურირებული“, „გადარჩენადობა“, „სიკვდილისგან თავისუფალი“ — არ გამოიყენო; surgical repair აღწერე როგორც რეკონსტრუქცია/პროთეზირება/მკურნალობა და არა „აღდგენა“.",
-      "guideline_check": "ESVS 2024 AAA §7.2.6.5 და რეკომენდაციები 110–111 (ენდოტენზია); §10.3 და რეკომენდაცია 149 (გართულებული მაპენეტრირებელი წყლული). პირველწყარო: https://cprv.fr/aneurism-esvs-2024.pdf",
+      "guideline_check": "ESVS 2024 AAA §9.1, რეკომენდაცია 134 (თეძოს არტერიის ანევრიზმის გამოსახულებითი მეთვალყურეობა); §7.2.1, რეკომენდაცია 87 და ტოტის ოკლუზიის მართვის განხილვა (EVAR-ის შემდგომი იშემია). პირველწყარო: https://cprv.fr/aneurism-esvs-2024.pdf",
       "last_validation": {
         "range": [
-          108,
-          109
+          110,
+          111
         ],
         "new_questions": 2,
         "new_explanations": 2,
-        "clinical_self_review": "passed; primary ESVS 2024 recommendations 110,111,149 checked",
-        "georgian_language_self_review": "passed; general, AAA and adjacent thoracic glossary headings checked",
+        "clinical_self_review": "passed; ESVS 2024 sections 9.1, 7.2.1 and recommendations 134, 87 checked",
+        "georgian_language_self_review": "passed; current AGENTS v2.3 and relevant GLOSSARY sections checked",
         "numbering_continuous": true,
         "options_each": 5,
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
-        "semantic_duplication_review": "Historical stems and most recent 30 full questions examined. Differentiates multi-imaging endotension diagnosis from earlier occult-leak workup, and complicated penetrating ulcer treatment from prior saccular AAA.",
+        "numeric_options_ascending": true,
+        "semantic_duplication_review": "Reviewed last 30 full questions and historical existing question topics. Iliac size-specific surveillance interval and acute graft limb thrombosis with motor deficit are different decisions from existing questions.",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              108
+              110
             ],
-            "source": "ESVS 2024 AAA, section 7.2.6.5; recommendations 110–111",
+            "source": "ESVS 2024 AAA, Recommendation 134, p.274",
             "url": "https://cprv.fr/aneurism-esvs-2024.pdf"
           },
           {
             "questions": [
-              109
+              111
             ],
-            "source": "ESVS 2024 AAA, recommendation 149, p.281",
+            "source": "ESVS 2024 AAA, section 7.2.1 and Recommendation 87, pp.249–251",
             "url": "https://cprv.fr/aneurism-esvs-2024.pdf"
           }
         ]
