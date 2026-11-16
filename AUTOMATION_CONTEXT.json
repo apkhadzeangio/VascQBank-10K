@@ -223,19 +223,11 @@
       "target": 1200,
       "question_file": "AAA_EVAR_questions.txt",
       "explanation_file": "AAA_EVAR_explanations.txt",
-      "last_number": 138,
-      "question_blob_sha": "c6f67a31bd5ef7f96a9d0f33d09abb0858fa8b54",
-      "explanation_blob_sha": "8376e3c6969ca7acaa47e2c59de10a6bee31ab1c",
+      "last_number": 140,
+      "question_blob_sha": "3c59999e2786f123b2464125ad3c0bdd7759601b",
+      "explanation_blob_sha": "08a0205499930ae332137049a1e00f43124e007a",
       "last_full_audit_at": 100,
       "recent_stems": [
-        {
-          "n": 109,
-          "stem": "68 წლის მამაკაცს განმეორებითი ძლიერი წელის ტკივილი აქვს. CTA-ზე მუცლის აორტის ინფრარენალურ მონაკვეთში მაპენეტრირებელი წყლული გამოვლინდა, რომელსაც პერიაორტული ფსევდოანევრიზმა ახლავს. ინფექციური და ტრავ"
-        },
-        {
-          "n": 110,
-          "stem": "69 წლის მამაკაცს შემთხვევით გამოუვლინდა მარჯვენა თეძოს საერთო არტერიის 23 მმ დიამეტრის იზოლირებული ანევრიზმა. ჩივილები არ აქვს, მუცლის აორტის დიამეტრი 26 მმ-ია, წინა კვლევასთან შედარებით ანევრიზმის ზო"
-        },
         {
           "n": 111,
           "stem": "სტანდარტული EVAR-იდან ორი წლის შემდეგ 74 წლის მამაკაცს მარცხენა ფეხის უეცარი ტკივილი და თითების მოძრაობის სისუსტე განუვითარდა. არტერიული დოპლერული სიგნალი ტერფზე არ ისმის, ვენური სიგნალი შენარჩუნებული"
@@ -347,15 +339,23 @@
         {
           "n": 138,
           "stem": "მუცლის აორტის ანევრიზმის გამო ჩატარებული EVAR-იდან ათი დღის შემდეგ 73 წლის მამაკაცს ორივე ტერფის რამდენიმე თითი მტკივნეულად გაუულურჯდა, ხოლო წვივებზე ბადისებრი კანის ცვლილებები განუვითარდა. ტერფის არტ"
+        },
+        {
+          "n": 139,
+          "stem": "72 წლის მამაკაცს მუცლის აორტის 61 მმ დიამეტრის ანთებითი ანევრიზმა აქვს. CTA-ზე მკვრივი პერიაორტული ფიბროზი თორმეტგოჯა ნაწლავს, მარცხენა თირკმლის ვენასა და შარდსაწვეთს მოიცავს. ენდოპროთეზისთვის საიმედო"
+        },
+        {
+          "n": 140,
+          "stem": "73 წლის მამაკაცს მუცლის აორტის 62 მმ დიამეტრის ინფრარენალური ანევრიზმის გამო სტანდარტული EVAR უტარდება; თირკმლის ქრონიკული დაავადების ფონზე გორგლოვანი ფილტრაციის სავარაუდო სიჩქარე 28 მლ/წთ/1,73 მ²-ია."
         }
       ],
-      "topic_rotation": "გასკდომისას ბიფურკაციული და აორტო-უნიილიაკური ენდოპროთეზების შერჩევა; EVAR-ის შემდეგ ქოლესტერინის კრისტალებით სისტემური ათეროემბოლიზაციის ამოცნობა; შემდგომ ციკლში განსხვავებული ქვეთემები.",
+      "topic_rotation": "ანთებითი ანევრიზმის ღია პროთეზირებისას შეზღუდული დისექცია; თირკმლის ფუნქციის დაქვეითებისას CO₂-ანგიოგრაფიისა და მინიმალური იოდშემცველი კონტრასტის მიზნობრივი გამოყენება; შემდეგ სხვა ქვეთემები.",
       "linguistic_note": "„რუპტურირებული“, „გადარჩენადობა“, „სიკვდილისგან თავისუფალი“ — არ გამოიყენო; surgical repair აღწერე როგორც რეკონსტრუქცია/პროთეზირება/მკურნალობა და არა „აღდგენა“.",
-      "guideline_check": "ESVS 2024 AAA Guidelines, Recommendation 75, p. 241 (bifurcated EVAR may be preferred when anatomy suitable): https://cprv.fr/aneurism-esvs-2024.pdf ; Lee & Kang, J Clin Med 2025, cholesterol embolization syndrome after thoracic endovascular repair: https://pmc.ncbi.nlm.nih.gov/articles/PMC12470907/",
+      "guideline_check": "№139 ESVS 2024 AAA guideline §10.2.2, p.280: https://cprv.fr/aneurism-esvs-2024.pdf ; №140 prospective multicentre Zero Iodine EVAR study, PMID 39557380: https://pubmed.ncbi.nlm.nih.gov/39557380/",
       "last_validation": {
         "range": [
-          137,
-          138
+          139,
+          140
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -365,26 +365,25 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed; ESVS 2024 Recommendation 75 and clinical cholesterol microembolization literature",
-        "georgian_language_self_review": "passed",
-        "terminology_self_review": "passed (GLOSSARY.md)",
-        "semantic_duplication_review": "Compared 2 new scenarios with all 136 stored AAA_EVAR questions and recent stems",
+        "clinical_self_review": "passed: ESVS 2024 §10.2.2 p280, multicentre prospective CO2-EVAR study PMID 39557380",
+        "georgian_language_self_review": "passed: GLOSSARY.md GENERAL and AAA_EVAR",
+        "semantic_duplication_review": "Compared against all 138 stored question stems and last 30 blocks. Highest candidate similarities: 3:0.167, 46:0.262",
         "previous_text_unchanged": true,
-        "index_precheck": "matched or reconciled to authoritative TXT",
+        "index_precheck": "matched",
         "source_checks": [
           {
             "questions": [
-              137
+              139
             ],
-            "source": "ESVS 2024 AAA Recommendation 75",
+            "source": "ESVS 2024 AAA §10.2.2 p.280",
             "url": "https://cprv.fr/aneurism-esvs-2024.pdf"
           },
           {
             "questions": [
-              138
+              140
             ],
-            "source": "Lee & Kang, J Clin Med 2025: Cholesterol embolization syndrome following endovascular aortic repair",
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12470907/"
+            "source": "Prospective multicentre Zero Iodine EVAR study, PMID 39557380",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39557380/"
           }
         ]
       }
