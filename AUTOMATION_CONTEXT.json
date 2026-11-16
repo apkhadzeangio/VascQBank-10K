@@ -424,19 +424,11 @@
       "target": 900,
       "question_file": "CAROTID_VERTEBRAL_questions.txt",
       "explanation_file": "CAROTID_VERTEBRAL_explanations.txt",
-      "last_number": 125,
-      "question_blob_sha": "beccab7cde47e515eb723c6cf0cf3c134b22ecf8",
-      "explanation_blob_sha": "d203cab287fedebba250a7bb1154a388d0f5cd8b",
+      "last_number": 127,
+      "question_blob_sha": "fc02c3ba5f9f9121629412209bf0215e0c088805",
+      "explanation_blob_sha": "0bf70b0911c9f2023cc87279850195b5c8249c31",
       "last_full_audit_at": 100,
       "recent_stems": [
-        {
-          "n": 96,
-          "stem": "63 წლის მამაკაცს მარცხენა მკლავში დატვირთვისას დაღლა და მარჯვენასთან შედარებით 25 mmHg-ით დაბალი სისტოლური წნევა აქვს. დუპლექსსკანირებით მარცხენა ლავიწქვეშა არტერიაში, ხერხემლის არტერიის გამოსვლამდე, მნიშვნელოვანი სტენოზ"
-        },
-        {
-          "n": 97,
-          "stem": "54 წლის ქალს საძილე გორგლის სიმსივნის ამოკვეთა უგეგმავენ. კისრის CTA-ზე ბიფურკაციის მიდამოში მკვეთრად სისხლმომარაგებული წარმონაქმნია; არტერიული წნევა ნორმალურია, გულისცემის შეტევითი აჩქარება და ოფლიანობა არ აღენიშნება. ს"
-        },
         {
           "n": 98,
           "stem": "72 წლის მამაკაცს ექვსი თვის წინ კისრის CTA-ზე მარჯვენა შიგნითა საძილე არტერიის თითქმის სრული ოკლუზია დისტალური სანათურის გამოხატული კოლაფსით დაუდასტურდა. მას შემდეგ იღებს ანტიაგრეგანტულ პრეპარატსა და მაღალი ინტენსივობის "
@@ -548,6 +540,14 @@
         {
           "n": 125,
           "stem": "70 წლის მამაკაცს მარჯვენა შიგნითა საძილე არტერიის 60%-იანი უსიმპტომო სტენოზი აქვს. ასპირინზე დადასტურებული ანაფილაქსიური რეაქცია განუვითარდა; კლოპიდოგრელის აუტანლობა, აქტიური სისხლდენა ან ანტიკოაგულაციის დამოუკიდებელი ჩვ"
+        },
+        {
+          "n": 126,
+          "stem": "47 წლის ქალს ყბის კუთხის ზემოთ კისრის ღრმა მიდამოში ნელა მზარდი წარმონაქმნი აქვს, რომელსაც ხმის ჩახლეჩა ახლავს. CTA-ზე წარმონაქმნი ინტენსიურად კონტრასტირდება და მდებარეობს საძილე არტერიების ბიფურკაციის ზემოთ; შიგნითა და გარეთა საძილე არტერი"
+        },
+        {
+          "n": 127,
+          "stem": "39 წლის ქალს სამი კვირის წინ მარჯვენა შიგნითა საძილე არტერიის ექსტრაკრანიალური დისექცია დაუდგინდა. ოპტიმალური ანტითრომბოზული მკურნალობის რეგულარული მიღების მიუხედავად, ბოლო კვირაში შესაბამის ჰემისფეროში განმეორებითი იშემიური ეპიზოდები განუვ"
         }
       ],
       "topic_rotation": "TIA/ინსულტი; NASCET; CTA/MRA/დუპლექსი; CEA/CAS/TCAR დრო და არჩევანი; ფოლაქის მორფოლოგია; ანტითრომბოციტული მკურნალობა; პერიოპერაციული გართულებები; რესტენოზი; ხერხემლის არტერიის სტენოზი/დისექცია და უკანა ცირკულაცია; ESVS 2023 და უფრო ახალი წყაროები.",
@@ -555,11 +555,11 @@
       "guideline_check": "კლინიკურად სადავო გადაწყვეტილებაზე ერთმნიშვნელოვანი პასუხი არ ააგო; პირველწყარო ESVS/SVS და შესაბამისი გაიდლაინები გადაამოწმე, როცა საჭიროა.",
       "last_validation": {
         "range": [
-          121,
-          125
+          126,
+          127
         ],
-        "new_questions": 5,
-        "new_explanations": 5,
+        "new_questions": 2,
+        "new_explanations": 2,
         "numbering_continuous": true,
         "five_options_each": true,
         "one_ascii_star_each": true,
@@ -568,7 +568,7 @@
         "numeric_options_ascending": true,
         "clinical_self_review": "passed",
         "georgian_language_self_review": "passed",
-        "semantic_duplication_review": "Reviewed questions 96-120 in full and the recent-stem index; questions 121-125 cover distinct decisions on cerebral protection contraindications, transradial CAS access, asymptomatic carotid stenosis before noncardiac surgery, echolucent plaque risk, and antiplatelet therapy in aspirin allergy.",
+        "semantic_duplication_review": "Reviewed all 1-125 question stems and last 30 full questions; new topics: vagal paraganglioma imaging differentiation and endovascular consideration for recurrent cerebral ischaemia despite appropriate therapy in extracranial carotid dissection. Reviewed published imaging evidence and ESO dissection guidance.",
         "previous_text_unchanged": true
       }
     },
