@@ -261,19 +261,11 @@
       "target": 1200,
       "question_file": "AAA_EVAR_questions.txt",
       "explanation_file": "AAA_EVAR_explanations.txt",
-      "last_number": 103,
-      "question_blob_sha": "fdaa7e65a64e258aec81d21b09d5051f42cf1499",
-      "explanation_blob_sha": "fe0afad96cd9be6bea138f5571e79c8b8bd425c0",
+      "last_number": 105,
+      "question_blob_sha": "828d2aca2cd929724d6fc11dbb5567a5efb72fc6",
+      "explanation_blob_sha": "88eac8f8907baf1ea81bd574411a65dfe6f7ce57",
       "last_full_audit_at": 100,
       "recent_stems": [
-        {
-          "n": 74,
-          "stem": "მუცლის აორტის ანევრიზმის მკურნალობიდან ოთხი თვის შემდეგ პაციენტი ახლად განვითარებულ ერექტიულ დისფუნქციას უჩივის და ამის გამო გამოხატული დისკომფორტი აქვს. პროთეზი გამავალია, მწვავე იშემიური გართულება ა"
-        },
-        {
-          "n": 75,
-          "stem": "მუცლის აორტის უსიმპტომო ანევრიზმის გეგმიური მკურნალობა ექვს კვირაშია დაგეგმილი. პაციენტი სტატინს არ იღებს; ღვიძლის აქტიური დაავადება, წინა აუტანლობა და სხვა უკუჩვენება არ აქვს. ESVS 2024-ის მიხედვით, "
-        },
         {
           "n": 76,
           "stem": "EVAR-ის დაგეგმვისას CTA-ზე მუცლის აორტის ანევრიზმული გაფართოება თირკმლის ორივე არტერიის სათავეს მოიცავს. ჯორჯლის ზემო არტერიის სათავე და მის დონეზე აორტა ანევრიზმულად შეცვლილი არ არის. ESVS 2024-ის ან"
@@ -385,6 +377,14 @@
         {
           "n": 103,
           "stem": "აორტა-თეძოს ანევრიზმის EVAR-ისთვის ორივე თეძოს შიგნითა არტერიის დახშობა აუცილებელია. განშტოებიანი ენდოპროთეზისა და სხვა შემნახველი რეკონსტრუქციის გამოყენება შეუძლებელია. SVS-ის მიხედვით, როგორ უნდა და"
+        },
+        {
+          "n": 104,
+          "stem": "EVAR-იდან სამი წლის შემდეგ 73 წლის მამაკაცს II ტიპის ენდოლიკის ფონზე ანევრიზმული ტომრის დიამეტრი, ერთნაირი CTA მეთოდით გაზომვით, 54 მმ-დან 67 მმ-მდე გაეზარდა. მრავალფაზიანი CTA-ით I და III ტიპის ენდოლ"
+        },
+        {
+          "n": 105,
+          "stem": "მუცლის აორტის იუქსტარენალური ანევრიზმის ღია პროთეზირების წინ CTA-ზე ჩანს, რომ მარცხენა თირკმლის ვენა აორტის უკან გადის და ქვედა ღრუ ვენას უერთდება. იგეგმება პროქსიმალური აორტის წრიული გამოყოფა და დამჭ"
         }
       ],
       "topic_rotation": "უსიმპტომო და სიმპტომური AAA; ESVS 2024; ზომითი ზღვრები; EVAR ანატომია, ღია ოპერაცია vs EVAR; რუპტურის გადაუდებელი მართვა; ენდოლიკის ტიპები; გამოსახულებითი მეთვალყურეობა; გართულებები და რევიზია.",
@@ -392,11 +392,11 @@
       "guideline_check": "კლინიკურად სადავო გადაწყვეტილებაზე ერთმნიშვნელოვანი პასუხი არ ააგო; პირველწყარო ESVS/SVS და შესაბამისი გაიდლაინები გადაამოწმე, როცა საჭიროა.",
       "last_validation": {
         "range": [
-          99,
-          103
+          104,
+          105
         ],
-        "new_questions": 5,
-        "new_explanations": 5,
+        "new_questions": 2,
+        "new_explanations": 2,
         "clinical_self_review": "passed",
         "georgian_language_self_review": "passed",
         "numbering_continuous": true,
@@ -404,25 +404,22 @@
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
-        "semantic_duplication_review": "Full question and explanation files audited through No. 103; no exact duplicate stem or repeated clinical decision found.",
+        "semantic_duplication_review": "Reviewed all 103 prior question stems and contents for overlapping decisions; new decisions: direct translumbar sac embolization with inaccessible arterial routes; retroaortic left renal vein protection",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              99,
-              100,
-              102
+              104
             ],
-            "source": "ESVS 2024 Clinical Practice Guidelines on the Management of Abdominal Aorto-Iliac Artery Aneurysms, Sections 8.2.3 and 10; Recommendations 119, 132, and 150",
+            "source": "ESVS 2024 guideline, recommendation 107 and treatment discussion p257",
             "url": "https://cprv.fr/aneurism-esvs-2024.pdf"
           },
           {
             "questions": [
-              101,
-              103
+              105
             ],
-            "source": "The Society for Vascular Surgery practice guidelines on the care of patients with an abdominal aortic aneurysm (2018), peri-operative inferior mesenteric artery management and staged bilateral internal iliac artery occlusion recommendations",
-            "url": "https://www.vascularsociety.gr/wp-content/uploads/2017/12/2018-SVS-guidelines.pdf"
+            "source": "Lazaris et al., Open Retroperitoneal Repair for Standard and Complex Abdominal Aortic Aneurysms, HJVES 2024",
+            "url": "https://www.heljves.com/open-retroperitoneal-repair/"
           }
         ]
       }
