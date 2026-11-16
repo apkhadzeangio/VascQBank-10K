@@ -261,19 +261,11 @@
       "target": 1200,
       "question_file": "AAA_EVAR_questions.txt",
       "explanation_file": "AAA_EVAR_explanations.txt",
-      "last_number": 96,
-      "question_blob_sha": "5e5cae98e822b9de2e08825cb7dba5aa9d04ac70",
-      "explanation_blob_sha": "40fe6e5e5a3012e6e764e20e63268eaf05460115",
+      "last_number": 98,
+      "question_blob_sha": "a959806bd305b17b06a75793bb925c20efc8c578",
+      "explanation_blob_sha": "b2cfd1e6630eec69f3afed265e3278602f3142f2",
       "last_full_audit_at": 50,
       "recent_stems": [
-        {
-          "n": 67,
-          "stem": "მუცლის აორტის გამსკდარი ანევრიზმის ღია პროთეზირებისას ძლიერი სისხლდენა გრძელდება და მასიური ტრანსფუზიის პროტოკოლი გააქტიურდა. ჰემოგლობინი 80 გ/ლ-ია. SVS-ის მიხედვით, ერითროციტული მასის, ახლადგაყინული "
-        },
-        {
-          "n": 68,
-          "stem": "მუცლის აორტის ინფრარენალური ანევრიზმის ღია პროთეზირებისას თირკმლის არტერიებსა და ანევრიზმას შორის რამდენიმე სანტიმეტრის სიგრძის ჯანსაღი ყელია. თირკმლის არტერიების ქვემოთ აორტის უსაფრთხო გადაკეტვა და ა"
-        },
         {
           "n": 69,
           "stem": "მუცლის აორტის ანევრიზმის გახანგრძლივებული EVAR-ისას პაციენტს არაფრაქცირებული ჰეპარინი უკვე შეუყვანეს. დამატებითი დოზის საჭიროების დასადგენად გუნდს მისი ეფექტის სწრაფი ინტრაოპერაციული შეფასება სურს. ES"
@@ -385,6 +377,14 @@
         {
           "n": 96,
           "stem": "მუცლის აორტის გამსკდარი ანევრიზმის EVAR-იდან 18 საათში 73 წლის მამაკაცს სისხლიანი დიარეა, ლაქტატის მატება და მეტაბოლური აციდოზი განუვითარდა. მუცელი დიფუზურად მტკივნეულია, აღინიშნება კუნთების დაცვითი დ"
+        },
+        {
+          "n": 97,
+          "stem": "EVAR-იდან ოთხი წლის შემდეგ 72 წლის მამაკაცს მასიური ჰემატემეზისი და ჰემორაგიული შოკი განუვითარდა. CTA-ზე დადასტურდა ენდოპროთეზთან დაკავშირებული აორტო-დუოდენალური ფისტულა და აქტიური სისხლდენა. მიმდინარ"
+        },
+        {
+          "n": 98,
+          "stem": "71 წლის მამაკაცს მუცლის აორტის 61 მმ დიამეტრის უსიმპტომო ინფრარენალური ანევრიზმა აქვს. CTA-ზე ანატომია გეგმიური EVAR-ისთვის შესაფერისია, თუმცა წინასაოპერაციო შეფასებისას გულის უკმარისობის მწვავე დეკომ"
         }
       ],
       "topic_rotation": "უსიმპტომო და სიმპტომური AAA; ESVS 2024; ზომითი ზღვრები; EVAR ანატომია, ღია ოპერაცია vs EVAR; რუპტურის გადაუდებელი მართვა; ენდოლიკის ტიპები; გამოსახულებითი მეთვალყურეობა; გართულებები და რევიზია.",
@@ -392,8 +392,8 @@
       "guideline_check": "კლინიკურად სადავო გადაწყვეტილებაზე ერთმნიშვნელოვანი პასუხი არ ააგო; პირველწყარო ESVS/SVS და შესაბამისი გაიდლაინები გადაამოწმე, როცა საჭიროა.",
       "last_validation": {
         "range": [
-          95,
-          96
+          97,
+          98
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -404,21 +404,21 @@
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
-        "semantic_duplication_review": "Compared all pre-existing question stems and clinical decisions",
+        "semantic_duplication_review": "Reviewed existing full question texts and last 30 recent stems; new decisions not previously tested.",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              95
+              97
             ],
-            "source": "JCS/JSCVS/JATS/JSVS 2020 Guideline on Diagnosis and Treatment of Aortic Aneurysm and Aortic Dissection; draped aorta sign (published 2023)",
-            "url": "https://www.jstage.jst.go.jp/article/circj/advpub/0/advpub_CJ-22-0794/_html/-char/en"
+            "source": "ESVS 2020 Clinical Practice Guidelines on Vascular Graft and Endograft Infections, Recommendation 45",
+            "url": "https://angiolsurgery.org/society/organisations/esvs/guidelines/ESVS-Guidelines-VGEI-2020.pdf"
           },
           {
             "questions": [
-              96
+              98
             ],
-            "source": "ESVS 2024 Abdominal Aorto-Iliac Artery Aneurysm Guidelines, section 6.4.2 and Figure 4, high suspicion of colonic ischaemia",
+            "source": "ESVS 2024 Clinical Practice Guidelines on Abdominal Aorto-Iliac Artery Aneurysms, Recommendation 25 and Section 5.1.2.1",
             "url": "https://cprv.fr/aneurism-esvs-2024.pdf"
           }
         ]
