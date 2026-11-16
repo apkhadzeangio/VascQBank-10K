@@ -1644,9 +1644,9 @@
       "target": 600,
       "question_file": "PERIOPERATIVE_questions.txt",
       "explanation_file": "PERIOPERATIVE_explanations.txt",
-      "last_number": 22,
-      "question_blob_sha": "e0d02ebc27e0481bff0a39e73ded5b71030af1ba",
-      "explanation_blob_sha": "3f418440b134ea89a2f60b49d29e5db7f8f920f8",
+      "last_number": 27,
+      "question_blob_sha": "5fa59e1333d3200994687b5d097e7de8d9183862",
+      "explanation_blob_sha": "7ddc025665758f85e0eb34353ba2e29c81064c94",
       "last_full_audit_at": 6,
       "recent_stems": [
         {
@@ -1736,6 +1736,26 @@
         {
           "n": 22,
           "stem": "58 წლის ქალს I ტიპის შაქრიანი დიაბეტი აქვს და ინსულინის უწყვეტი კანქვეშა ინფუზიის ტუმბოს იყენებს. მას აორტა-ორბარძაყის გეგმიური ღია შუნტირება უნდა ჩაუტარდეს; ოპერაციის ხანგრძლივობისა და საოპერაციო პირობების გამო ტუმბოს გამოყენება შეუძლებელია. გლიკემია სტაბილურია. რომელი წინასაოპერაციო გადაწყვეტილებაა ყველაზე უსაფრთხო?"
+        },
+        {
+          "n": 23,
+          "stem": "66 წლის მამაკაცმა ხანგამოშვებითი კოჭლობის გამო ბარძაყ-მუხლქვეშა არტერიული შუნტირების დასაგეგმად სისხლძარღვთა ქირურგს მიმართა; მოსვენების იშემიური ტკივილი და ქსოვილის დანაკარგი არ აღენიშნება. ორი თვის წინ მიოკარდიუმის მწვ"
+        },
+        {
+          "n": 24,
+          "stem": "71 წლის ქალი მუცლის აორტის უსიმპტომო ანევრიზმის ღია პროთეზირებისთვის ემზადება, რაც სისხლდენის მაღალი რისკის ჩარევას მიეკუთვნება. არასარქვლოვანი წინაგულთა ფიბრილაციის გამო იღებს აპიქსაბანს 5 მგ დღეში ორჯერ; ინსულტი ბოლო წ"
+        },
+        {
+          "n": 25,
+          "stem": "75 წლის მამაკაცი მუცლის აორტის 5,8 სმ დიამეტრის უსიმპტომო ანევრიზმის ღია პროთეზირებისთვის ემზადება, რადგან ანატომია EVAR-ისთვის შეუფერებელია. წინასაოპერაციო გამოკითხვისას გაირკვა, რომ ბოლო ორი თვეა მცირე ფიზიკურ დატვირთვ"
+        },
+        {
+          "n": 26,
+          "stem": "74 წლის მამაკაცს გუშინ აორტა-ორბარძაყის ღია შუნტირება ჩაუტარდა. ოპერაციამდე მაღალმგრძნობიარე კარდიული ტროპონინი T ნორმის ზედა ზღვარს არ აღემატებოდა, ოპერაციიდან 24 საათის შემდეგ გეგმიურ კონტროლზე ნორმის 99-ე პერცენტილზე "
+        },
+        {
+          "n": 27,
+          "stem": "72 წლის მამაკაცი თეძოსა და ბარძაყის არტერიების მრავალდონიანი დაზიანების გამო რთული ენდოვასკულური რევასკულარიზაციისთვის ემზადება იოდშემცველი საკონტრასტო საშუალების გამოყენებით. პაციენტს თირკმლის ქრონიკული დაავადება აქვს დ"
         }
       ],
       "topic_rotation": "№1–60 წინასაოპერაციო შეფასება/ოპტიმიზაცია; №61–120 პერიოპერაციული კარდიოვასკულური რისკი; №121–180 ანტიაგრეგანტული და ანტიკოაგულაციური მკურნალობა; №181–250 ჰემოსტაზი, სისხლდენა და ტრანსფუზია; №251–320 თრომბოემბოლია და პროფილაქტიკა; №321–380 ჰემოდინამიკა, ინფუზია და თირკმლის ფუნქცია; №381–440 ფილტვის/მეტაბოლური გართულებები; №441–500 სისხლძარღვოვანი ოპერაციების ადრეული გართულებები; №501–550 ნევროლოგიური/ორგანოსპეციფიკური გართულებები; №551–600 პოსტოპერაციული მეთვალყურეობა. ზუსტად ორი კითხვა თითო ციკლში.",
@@ -1743,42 +1763,30 @@
       "guideline_check": "2024 multi-society GLP-1RA perioperative guidance (published 2024; Surgical Endoscopy 2025): individual aspiration-risk assessment and continuation in lower-risk patients; SA Health vascular surgery antibiotic prophylaxis and ASHP/IDSA/SHEA/SIS: IV cefazolin within 60 min before incision with repeat intraoperative dosing for prolonged surgery and normal kidney function.",
       "last_validation": {
         "range": [
-          21,
-          22
+          23,
+          27
         ],
-        "new_questions": 2,
-        "new_explanations": 2,
+        "new_questions": 5,
+        "new_explanations": 5,
         "numbering_continuous": true,
         "five_options_each": true,
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
+          "ა": 1,
+          "ბ": 1,
           "გ": 1,
-          "დ": 1
+          "დ": 1,
+          "ე": 1
         },
         "numeric_options_ascending": true,
         "clinical_self_review": "passed",
-        "terminology_self_review": "passed",
         "georgian_language_self_review": "passed",
-        "semantic_duplication_review": "Reviewed previous 20 questions; CIED and type 1 insulin pump decisions distinct",
+        "terminology_self_review": "passed (GLOSSARY.md)",
+        "semantic_duplication_review": "checked all 22 stored PERIOPERATIVE questions and cross-topic stems",
         "previous_text_unchanged": true,
-        "source_checks": [
-          {
-            "questions": [
-              21
-            ],
-            "source": "2026 AHA/ACC Multisociety Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery, CIED, Class I B-NR",
-            "url": "https://www.jacc.org/doi/10.1016/j.jacc.2026.06.017"
-          },
-          {
-            "questions": [
-              22
-            ],
-            "source": "ADA Standards of Care in Diabetes 2026, Section 16, perioperative insulin pump alternatives",
-            "url": "https://doi.org/10.2337/dc26-s016"
-          }
-        ]
+        "index_precheck": "matched"
       }
     },
     "VGEI": {
