@@ -1221,19 +1221,11 @@
       "target": 600,
       "question_file": "MESENTERIC_RENAL_questions.txt",
       "explanation_file": "MESENTERIC_RENAL_explanations.txt",
-      "last_number": 39,
-      "question_blob_sha": "427cdbbf35efbc50504ba29ca9f0bdb7e14c6bb8",
-      "explanation_blob_sha": "1563d49ece72987eded2a4bcce9c21e92d4a2866",
+      "last_number": 41,
+      "question_blob_sha": "ec454ea3accf3c4d625cea7e1bc910df206886c9",
+      "explanation_blob_sha": "b443fbbaad2d9fd0634c69d2ba7d038ac0215ae0",
       "last_full_audit_at": 2,
       "recent_stems": [
-        {
-          "n": 10,
-          "stem": "67 წლის მამაკაცს 16 თვის წინ ფილტვების განმეორებითი ელვისებური შეშუპების გამო მარჯვენა თირკმლის არტერიის სათავის სტენტირება ჩაუტარდა. ჩარევის შემდეგ არტერიული წნევა კონტროლდებოდა, მაგრამ ბოლო ორ თვეში ჰიპერტენზია კვლავ გ"
-        },
-        {
-          "n": 11,
-          "stem": "66 წლის ქალს ქრონიკული მეზენტერიული იშემიისთვის დამახასიათებელი ჭამისშემდგომი ტკივილი და წონის კლება აღენიშნება. CTA-ით ჯორჯლის ზემო არტერიის სათავეში 18 მმ სიგრძის ათეროსკლეროზული სტენოზი გამოვლინდა; რევასკულარიზაციის ჩ"
-        },
         {
           "n": 12,
           "stem": "42 წლის ქალს თირკმლის არტერიის ფიბრომუსკულური დისპლაზიისა და რეზისტენტული ჰიპერტენზიის გამო მარჯვენა თირკმლის არტერიის ბალონური ანგიოპლასტიკა უტარდება. გაფართოების შემდეგ DSA-ზე გამოვლინდა ინტიმის დისექცია, რომელიც სანათ"
@@ -1345,6 +1337,14 @@
         {
           "n": 39,
           "stem": "66 წლის მამაკაცს მარჯვენა თირკმლის არტერიის სათავის 82%-იანი ათეროსკლეროზული სტენოზი აქვს, რომელსაც DSA-ზე 18 mmHg ტრანსსტენოზური წნევითი სხვაობა ახლავს. სამი სათანადო დოზით დანიშნული ანტიჰიპერტენზიული პრეპარატის, მათ შო"
+        },
+        {
+          "n": 40,
+          "stem": "55 წლის მამაკაცს მუცლის ძლიერი ტკივილის გამო ჩატარებულ CTA-ზე ჯორჯლის ზემო არტერიის იზოლირებული სპონტანური დისექცია დაუდგინდა; ჭეშმარიტი სანათური მკვეთრად შევიწროებულია, მაგრამ დისტალური ტოტები გამავალია. არტერიული წნევი"
+        },
+        {
+          "n": 41,
+          "stem": "39 წლის ქალს რენოვასკულური ჰიპერტენზიისა და თირკმლის არტერიის ფიბრომუსკულური დისპლაზიის გამო მარჯვენა თირკმლის არტერიის ბალონური ანგიოპლასტიკა ჩაუტარდა. საკონტროლო DSA-ზე სტენოზი აღმოფხვრილია, დისექცია არ გამოვლენილა და "
         }
       ],
       "topic_rotation": "მეზენტერიული და თირკმლის პათოლოგიების მონაცვლეობა; მწვავე მეზენტერიული იშემიის ემბოლია/თრომბოზი/NOMI/MVT; ქრონიკული მეზენტერიული იშემია; CTA/DSA/დუპლექსსკანირება; ენდოვასკულური და ღია რევასკულარიზაცია; ნაწლავის სიცოცხლისუნარიანობა და განმეორებითი ლაპაროტომია; თირკმლის არტერიის ათეროსკლეროზული სტენოზი/FMD; რენოვასკულური ჰიპერტენზია; რევასკულარიზაციის ჩვენებები და უარყოფა; ანევრიზმა/დისექცია; მკურნალობისშემდგომი მეთვალყურეობა.",
@@ -1352,8 +1352,8 @@
       "guideline_check": "ESVS 2025 Mesenteric and Renal Arteries and Veins (რეკომენდაციები 33 და 63), ESC 2024 PAAD. მწვავე მეზენტერიული იშემიის ეჭვისას გადაუდებელი CTA თირკმლის ფუნქციის დაქვეითების მიუხედავად; კონტროლირებადი ჰიპერტენზიისა და სტაბილური თირკმლის ფუნქციისას თირკმლის ათეროსკლეროზული სტენოზის რუტინული სტენტირება არ არის გამართლებული.",
       "last_validation": {
         "range": [
-          38,
-          39
+          40,
+          41
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1363,32 +1363,32 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ა": 7,
-          "ბ": 8,
-          "გ": 8,
-          "დ": 8,
-          "ე": 8
+          "ა": 1,
+          "ბ": 0,
+          "გ": 0,
+          "დ": 1,
+          "ე": 0
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed — ESVS 2025 recommendations 24 and 66",
-        "georgian_language_self_review": "passed — academic Georgian",
-        "terminology_self_review": "passed — AGENTS.md and GLOSSARY.md general/mesenteric-renal",
-        "semantic_duplication_review": "Compared all 37 stored MESENTERIC_RENAL scenarios; closest lexical overlap [{\"score\":0.218,\"n\":3},{\"score\":0.259,\"n\":34}]; distinct clinical decisions",
+        "clinical_self_review": "passed — ESVS 2025 recommendations 98 and section 8.6.1 for post-PTRA antiplatelet therapy",
+        "georgian_language_self_review": "passed",
+        "terminology_self_review": "passed (general and MESENTERIC_RENAL glossary)",
+        "semantic_duplication_review": "All 39 previous cases reviewed; new decision points: failed conservative management of isolated SMA dissection and antiplatelet therapy after FMD PTRA",
         "previous_text_unchanged": true,
         "index_precheck": "matched",
         "source_checks": [
           {
             "questions": [
-              38
+              40
             ],
-            "source": "ESVS 2025 Mesenteric and Renal Arteries and Veins, Recommendation 24 (symptomatic restenosis: endovascular first)",
+            "source": "ESVS 2025 Mesenteric and Renal Arteries and Veins, Recommendation 98",
             "url": "https://doi.org/10.1016/j.ejvs.2025.06.010"
           },
           {
             "questions": [
-              39
+              41
             ],
-            "source": "ESVS 2025 Mesenteric and Renal Arteries and Veins, Recommendation 66 (selected resistant hypertension: consider PTRAS)",
+            "source": "ESVS 2025 Mesenteric and Renal Arteries and Veins, Section 8.6.1, post-PTRA antiplatelet therapy",
             "url": "https://doi.org/10.1016/j.ejvs.2025.06.010"
           }
         ]
