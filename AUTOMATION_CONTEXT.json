@@ -1834,19 +1834,11 @@
       "target": 500,
       "question_file": "VGEI_questions.txt",
       "explanation_file": "VGEI_explanations.txt",
-      "last_number": 31,
-      "question_blob_sha": "da8f79242a8dff74afe95d485bc3f3ae7eca0893",
-      "explanation_blob_sha": "4c4d0512290480142fe1aad39b6b30c3b14e6dce",
+      "last_number": 33,
+      "question_blob_sha": "8672712a7f74d40d99ec9297c412e0e1a1ac0f2d",
+      "explanation_blob_sha": "c48ef0829627166c7471f0568cf077ba77c4c03d",
       "last_full_audit_at": 4,
       "recent_stems": [
-        {
-          "n": 2,
-          "stem": "72 წლის მამაკაცს სინთეზური პროთეზით ბარძაყ-ბარძაყის ჯვარედინი შუნტირება უნდა ჩაუტარდეს. აქტიური ინფექცია არ აღენიშნება, ბეტა-ლაქტამურ ანტიბიოტიკებზე ალერგია არ აქვს და მეთიცილინისადმი რეზისტენტული სტაფილოკოკით კოლონიზაცია ცნობილი არ არის. რომელია პერიოპერაციული ანტიბიოტიკოპროფილაქტიკის ყველაზე შესაფერისი საწყისი ტაქტიკა?"
-        },
-        {
-          "n": 3,
-          "stem": "66 წლის ქალს სინთეზური პროთეზით ბარძაყ-მუხლქვეშა შუნტირების შემდეგ მე-12 დღეს საზარდულის არეში ლიმფოცელე განუვითარდა. ცხელება და ჭრილობის ჩირქოვანი გამონადენი არ აღენიშნება, ანთებითი მაჩვენებლები ნორმის ფარგლებშია, შუნტი გამავალია. რომელი შეფასებაა ყველაზე ზუსტი პროთეზის ინფექციის თვალსაზრისით?"
-        },
         {
           "n": 4,
           "stem": "69 წლის მამაკაცს ორი წლის წინ მუცლის აორტის ანევრიზმის გამო EVAR ჩაუტარდა. ამჟამად ენდოპროთეზის ინფექციის ნიშნები არ აქვს; იგეგმება პაროდონტოლოგიური ჩარევა ღრძილის მანიპულაციით, რომელიც ბაქტერიემიის მაღალ რისკს უკავშირდება. ESVS-ის 2026 წლის რეკომენდაციების მიხედვით, რომელი პროფილაქტიკური მიდგომაა ყველაზე შესაფერისი?"
@@ -1958,6 +1950,14 @@
         {
           "n": 31,
           "stem": "71 წლის ქალს თეძოს საერთო არტერიის სინთეზური პროთეზირებიდან 18 საათში საზარდულის ჭრილობის სტერილური სახვევი სისხლნარევი სითხით დაესველა. პაციენტი ჰემოდინამიკურად სტაბილურია, ჭრილობიდან მიმდინარე სისხლდენა, ჰემატომა, ნაკერების დაშორება და ინფექციის ნიშნები არ აქვს. რომელი მოქმედებაა ყველაზე შესაფერისი ჭრილობის უსაფრთხო მოვლისთვის?"
+        },
+        {
+          "n": 32,
+          "stem": "70 წლის მამაკაცს ბარძაყ-მუხლქვეშა სინთეზური შუნტირებიდან ექვსი კვირის შემდეგ ბარძაყის შუა მესამედში ოპერაციული ჭრილობა დაუჩირქდა. ქირურგიული რევიზიისას ჩირქოვანი კერა უშუალოდ მოიცავს შუნტის შუა მონაკვეთს, მაგრამ ორივე ანასტომოზი ინფექციურ პროცესში ჩართული არ არის; სისხლდენა და ბაქტერიემია არ აღინიშნება. სემსონის კლასიფიკაციის რომელ ჯგუფს შეესაბამება ინფექცია?"
+        },
+        {
+          "n": 33,
+          "stem": "68 წლის მამაკაცს საზარდულის მიდგომით თეძო-ბარძაყის სინთეზური შუნტირება ჩაუტარდა. ოპერაციიდან მე-12 დღესაც ჭრილობიდან ყოველდღიურად 180 მლ გამჭვირვალე ლიმფური სითხე გამოიყოფა; შვიდდღიანმა კომპრესიამ და სათანადო დრენირებამ გამონადენი არ შეამცირა. შუნტი გამავალია, ინფექცია და სისხლდენა არ დასტურდება, პაციენტი კი განმეორებითი ოპერაციისთვის შესაფერისია. რომელია შემდგომი ყველაზე დასაბუთებული ტაქტიკა?"
         }
       ],
       "topic_rotation": "I №1–40 საფუძვლები და პრევენცია; II №41–80 მიკრობიოლოგია; III №81–130 დიაგნოზი; IV №131–190 გამოსახულებითი დიაგნოსტიკა; V №191–230 ანტიმიკრობული მკურნალობა; VI №231–300 ქირურგიული ტაქტიკა; VII №301–360 მასალები და ჭრილობა; VIII №361–410 ლოკალიზაციები; IX №411–460 გართულებები; X №461–500 შედეგები და მეთვალყურეობა.",
@@ -1965,8 +1965,8 @@
       "guideline_check": "NICE NG125 1.4.5: no topical antimicrobials to prevent SSI in primary-closure wounds; WHO/ACC: intensive smoking cessation begun >=4 weeks preoperatively reduces postoperative complications.",
       "last_validation": {
         "range": [
-          30,
-          31
+          32,
+          33
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1976,25 +1976,41 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: NWCSP 2024 incisional NPWT high-risk; NICE NG125 1.4.1 aseptic non-touch dressing changes",
-        "terminology_self_review": "passed GLOSSARY.md general and VGEI",
-        "georgian_language_self_review": "passed",
-        "semantic_duplication_review": "29 previous questions checked; distinct high-risk closed-incision prophylaxis and early dressing change",
+        "clinical_self_review": "passed - Samson III classification confirmed by EANM (2022); refractory lymphatic leak reintervention supported by systematic reviews (2021, 2022)",
+        "terminology_self_review": "passed - current GLOSSARY.md general and VGEI sections",
+        "georgian_language_self_review": "passed - academic Georgian and homogeneous options",
+        "semantic_duplication_review": "31 stored questions and explanations reviewed; new distinction Samson III graft body vs anastomosis; new operative treatment of persistent postoperative lymphatic fistula",
         "previous_text_unchanged": true,
+        "index_precheck": "matched; confirmed 31 paired questions",
         "source_checks": [
           {
             "questions": [
-              30
+              32
             ],
-            "source": "NWCSP Surgical Wound Complications 2024 and international consensus",
-            "url": "https://hwetraininghub.org.uk/storage/nwcsp-surgical-wound-complications-recommendations-02.05.24.pdf"
+            "source": "EANM guideline on imaging infection in vascular grafts, Table 1 Samson classification (2022)",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9308572/"
           },
           {
             "questions": [
-              31
+              33
             ],
-            "source": "NICE NG125 recommendation 1.4.1",
-            "url": "https://www.nice.org.uk/guidance/ng125/chapter/Recommendations"
+            "source": "Nicksic et al., Algorithmic approach to the lymphatic leak after vascular reconstruction: a systematic review (2021)",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34352953/"
+          },
+          {
+            "questions": [
+              33
+            ],
+            "source": "Song et al., Systematic review and meta-analysis of lymphatic leak management after groin surgery (2022)",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35703193/"
+          },
+          {
+            "questions": [
+              32,
+              33
+            ],
+            "source": "ESVS 2026 VGEI guideline, scope and terminology",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42448560/"
           }
         ]
       }
