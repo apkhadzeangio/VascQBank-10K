@@ -934,9 +934,9 @@
       "target": 1500,
       "question_file": "PAD_CLTI_questions.txt",
       "explanation_file": "PAD_CLTI_explanations.txt",
-      "last_number": 23,
-      "question_blob_sha": "1d747c641941afb15053c54312cdb16e611c2aaf",
-      "explanation_blob_sha": "0b0c0fec02b82f2371cbaee8da2430bc16a68442",
+      "last_number": 25,
+      "question_blob_sha": "cfbb6b084e05b986b13ec170d9e4890ae9ffdde0",
+      "explanation_blob_sha": "d620cb1a7850cd2dc95e6789435f20d66cde20eb",
       "last_full_audit_at": 0,
       "recent_stems": [
         {
@@ -1030,6 +1030,14 @@
         {
           "n": 23,
           "stem": "75 წლის მამაკაცს ტერფის იშემიური წყლულის გამო ბარძაყის ზედაპირული არტერიის გრძელი ქრონიკული ტოტალური ოკლუზიის ენდოვასკულური მკურნალობა უტარდება. ანტეგრადული გამტარი სუბინტიმურ სივრცეში გავიდა, მაგრამ "
+        },
+        {
+          "n": 24,
+          "stem": "61 წლის მამაკაცს დაახლოებით 120 მ-ის გავლის შემდეგ ორივე დუნდულოს კუნთებში ტკივილი ეწყება, რომელიც შეჩერებიდან რამდენიმე წუთში ქრება. ბოლო თვეებში ერექტიული დისფუნქციაც განუვითარდა. ბარძაყისა და ტერფი"
+        },
+        {
+          "n": 25,
+          "stem": "70 წლის ქალს კიდურისთვის საფრთხის შემცველი ქრონიკული იშემიის გამო ბარძაყის ზედაპირული არტერიის ბალონური ანგიოპლასტიკა უტარდება. საკონტროლო DSA-ზე არტერიის შუა სეგმენტიდან კონტრასტული ნივთიერების აქტიუ"
         }
       ],
       "topic_rotation": "ABI/TBI და პერფუზია; Fontaine/Rutherford/WIfI/GLASS; ხანგამოშვებითი კოჭლობა და CLTI; დუპლექსი/CTA/MRA/DSA; ანტიაგრეგანტები/სტატინები/ვარჯიში; აორტა-თეძოს, ბარძაყ-მუხლქვეშა და წვივის სეგმენტები; ენდოვასკულური მკურნალობა/ავტოვენური შუნტირება; ჭრილობა/ინფექცია/ამპუტაცია/მეთვალყურეობა.",
@@ -1037,8 +1045,8 @@
       "guideline_check": "2024 ACC/AHA PAD guideline, 2024 ESVS asymptomatic PAD/intermittent claudication guideline და Global Vascular Guidelines CLTI; კლინიკური გადაწყვეტილება გადაამოწმე პირველწყაროებში.",
       "last_validation": {
         "range": [
-          22,
-          23
+          24,
+          25
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1048,38 +1056,37 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ბ": 1,
-          "ე": 1
+          "გ": 1,
+          "დ": 1
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: exercise ABI Class I diagnostic test with normal resting ABI; SAFARI is recognized retrograde rescue after failed antegrade true-lumen reentry",
+        "clinical_self_review": "passed: isolated bilateral internal iliac stenosis explains buttock claudication with preserved ABI; balloon-resistant superficial femoral artery perforation with safe sealing zones supports self-expanding covered stent",
         "georgian_language_self_review": "passed",
-        "terminology_self_review": "passed (GLOSSARY.md general and PAD_CLTI sections)",
-        "semantic_duplication_review": "Reviewed all existing 21 PAD_CLTI questions and recent_stems; exercise-provoked ABI differs from incompressible resting ABI, and technical SAFARI bailout differs from existing endovascular treatment questions.",
+        "terminology_self_review": "passed (GLOSSARY.md)",
+        "semantic_duplication_review": "All 23 saved PAD_CLTI items reviewed: pelvic claudication and persistent angioplasty-related arterial perforation have different clinical decisions than existing stems.",
         "previous_text_unchanged": true,
         "index_precheck": "matched",
         "source_checks": [
           {
             "questions": [
-              22
+              24
             ],
-            "source": "2024 ACC/AHA Multisociety Guideline for Lower Extremity PAD",
-            "section": "3.1 recommendation 6 (Class I, B-NR)",
-            "url": "https://www.jacc.org/doi/10.1016/j.jacc.2024.02.013"
+            "source": "American College of Cardiology: Buttock Claudication and Normal ABI (2019)",
+            "url": "https://www.acc.org/education-and-meetings/patient-case-quizzes/2019/11/08/08/09/buttock-claudication-and-normal-abi"
           },
           {
             "questions": [
-              23
+              24
             ],
-            "source": "Subintimal arterial flossing with antegrade-retrograde intervention (SAFARI) for subintimal recanalization to treat chronic critical limb ischemia",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/15640408/"
+            "source": "2024 ACC/AHA Multisociety Guideline for Management of Lower Extremity PAD",
+            "url": "https://doi.org/10.1161/CIR.0000000000001251"
           },
           {
             "questions": [
-              23
+              25
             ],
-            "source": "Crossing Algorithm for Infrainguinal Chronic Total Occlusions: An Interdisciplinary Expert Opinion Statement",
-            "url": "https://www.jacc.org/doi/10.1016/j.jcin.2022.11.036"
+            "source": "Iatrogenic Arterial Perforation During Endovascular Interventions (2020), SFA management",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7515740/"
           }
         ]
       }
