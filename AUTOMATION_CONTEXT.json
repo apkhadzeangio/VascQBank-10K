@@ -252,31 +252,11 @@
       "target": 1200,
       "question_file": "AAA_EVAR_questions.txt",
       "explanation_file": "AAA_EVAR_explanations.txt",
-      "last_number": 113,
-      "question_blob_sha": "133423d1589850b3e581798ab79bef9fe4e8ff5d",
-      "explanation_blob_sha": "b1129161e93bb5b8cfd30b71320d2677bac82a14",
+      "last_number": 118,
+      "question_blob_sha": "6fa7386fa9b70a5ca258afe4352b6d3c72760cf8",
+      "explanation_blob_sha": "679998822f71226269d6a87a0f5a5009c0d53003",
       "last_full_audit_at": 100,
       "recent_stems": [
-        {
-          "n": 84,
-          "stem": "EVAR-ის შემდგომ მეთვალყურეობაზე CTA აჩვენებს ყელის პროგრესულ გაფართოებასა და პროქსიმალური ჰერმეტიზაციის ზონის შემცირებას 6 მმ-მდე. ენდოლიკი არ ჩანს, ანევრიზმული ტომრის დიამეტრი ჯერ უცვლელია. ESVS 2024"
-        },
-        {
-          "n": 85,
-          "stem": "პაციენტს მუცლის აორტის ანევრიზმის გეგმიური ღია პროთეზირება გართულების გარეშე ჩაუტარდა. ექსტუბირებულია და ჰემოდინამიკა სტაბილურია. ESVS 2024-ის მიხედვით, სად არის რეკომენდებული ადრეული პოსტოპერაციული მ"
-        },
-        {
-          "n": 86,
-          "stem": "72 წლის მამაკაცს EVAR-იდან ოთხი წლის შემდეგ CTA-ზე ანევრიზმული ტომრის დიამეტრი 54 მმ-დან 65 მმ-მდე გაეზარდა. მრავალფაზიანი კვლევით კონტრასტი არტერიულ ფაზაში პირდაპირ ენდოპროთეზის ძირითადი კორპუსის ქსო"
-        },
-        {
-          "n": 87,
-          "stem": "74 წლის მამაკაცს EVAR-იდან ორი წლის შემდეგ მარცხენა ფეხში დატვირთვისას ტკივილი დაეწყო, ბოლო დღეებში კი მოსვენების ტკივილიც დაემატა. CTA-ზე მარცხენა ენდოპროთეზის ტოტის მკვეთრი გადაღუნვა და სანათურის და"
-        },
-        {
-          "n": 88,
-          "stem": "68 წლის მამაკაცს მარჯვენა თეძოს საერთო არტერიის 36 მმ დიამეტრის იზოლირებული ანევრიზმა აქვს. უსიმპტომოა, მეზობელი ორგანოების კომპრესია და სწრაფი ზრდა არ აღინიშნება; ოპერაციული რისკი დაბალია. ESVS 2024-"
-        },
         {
           "n": 89,
           "stem": "61 წლის მამაკაცს მუცლის აორტის 46 მმ დიამეტრის ანთებითი ანევრიზმა აქვს; წელის ტკივილს უჩივის და წონაში იკლებს. CTA-ზე გამოხატულია პერიაორტული ანთებითი ქსოვილი; გასკდომა და საშარდე გზების ობსტრუქცია არ"
@@ -376,6 +356,26 @@
         {
           "n": 113,
           "stem": "71 წლის მამაკაცისთვის მუცლის აორტის 61 მმ დიამეტრის ინფრარენალური ანევრიზმის გეგმიური ღია პროთეზირება დაიგეგმა. CTA-ზე გამოვლენილია ნალისებრი თირკმელი: მისი პარენქიმული ისთმუსი ანევრიზმის წინა ზედაპირ"
+        },
+        {
+          "n": 114,
+          "stem": "74 წლის მამაკაცს 72 მმ დიამეტრის მუცლის აორტის ანევრიზმა და ახლად განვითარებული ძლიერი წელის ტკივილი აქვს. უკონტრასტო CT-ზე კედლისმიერ თრომბსა და აორტის კედელში ნახევარმთვარისებრი მომატებული სიმკვრივი"
+        },
+        {
+          "n": 115,
+          "stem": "სტანდარტული EVAR-ის დაგეგმვისას CTA-ზე ანევრიზმის ყელის მიდამოდან გამომავალი 4,5 მმ დიამეტრის დამატებითი თირკმლის არტერია ჩანს, რომელიც თირკმლის პარენქიმის დაახლოებით 35%-ს ამარაგებს. მისი შენარჩუნება"
+        },
+        {
+          "n": 116,
+          "stem": "72 წლის მამაკაცს მუცლის აორტის 60 მმ დიამეტრის უსიმპტომო ანევრიზმის გეგმიური მკურნალობა ესაჭიროება. ორი თვის წინ მან მარჯვენა ნახევარსფეროს გარდამავალი იშემიური შეტევა გადაიტანა; მარჯვენა შიგნითა საძი"
+        },
+        {
+          "n": 117,
+          "stem": "მუცლის აორტის ანევრიზმის გეგმიური ღია პროთეზირება სუფთა საოპერაციო ველში ტარდება. ინფიცირებული ანევრიზმის, ბაქტერიემიისა და ნაწლავის დაზიანების ნიშნები არ არის; სტანდარტული პერიოპერაციული ანტიბიოტიკოპ"
+        },
+        {
+          "n": 118,
+          "stem": "პარარენალური ანევრიზმის ფენესტრირებული ენდოპროთეზით მკურნალობიდან 30 დღეში CTA-ზე ენდოლიკი არ ჩანს, ანევრიზმული ტომარა სტაბილურია და სამიზნე არტერიების დამაკავშირებელი სტენტები გამავალია. ESVS 2024-ის"
         }
       ],
       "topic_rotation": "ენდოპროთეზის იზოლირებული მიგრაცია შენარჩუნებული ჰერმეტიზაციით; ნალისებრი თირკმლის ისთმუსის შენარჩუნება მუცლის აორტის ღია პროთეზირებისას; მომდევნო ციკლში შეირჩეს განსხვავებული ქვეთემები.",
@@ -383,35 +383,37 @@
       "guideline_check": "ESVS 2024 AAA, §7.2.7, p.258: სტენტგრაფტის მიგრაციისას შენარჩუნებული ხანგრძლივი ჰერმეტიზაციის კონსერვატიული მართვის შესაძლებლობა (https://cprv.fr/aneurism-esvs-2024.pdf). ღია პროთეზირება ნალისებრი თირკმლის ფონზე: Aortic reconstruction in patients with horseshoe or ectopic kidneys (https://pubmed.ncbi.nlm.nih.gov/8893423/); Open surgical repair of AAA and horseshoe kidney (https://pmc.ncbi.nlm.nih.gov/articles/PMC8976142/).",
       "last_validation": {
         "range": [
-          112,
-          113
+          114,
+          118
         ],
-        "new_questions": 2,
-        "new_explanations": 2,
-        "clinical_self_review": "passed; reviewed primary ESVS 2024 §7.2.7 and horseshoe-kidney operative literature",
-        "georgian_language_self_review": "passed; AGENTS and general/AAA GLOSSARY checked",
+        "new_questions": 5,
+        "new_explanations": 5,
+        "clinical_self_review": "passed",
+        "georgian_language_self_review": "passed",
         "numbering_continuous": true,
         "options_each": 5,
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
-        "numeric_options_ascending": true,
-        "semantic_duplication_review": "Compared all 111 historical stems and reviewed last 25 full cases; migration with preserved seal and horseshoe-kidney isthmus decision are distinct",
+        "semantic_duplication_review": "Reviewed all 113 existing question texts, the last 20 full question/explanation pairs, and the last 30 recent stems; no repeated clinical decision found.",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              112
+              114
             ],
-            "source": "ESVS 2024 AAA guidelines §7.2.7, stent graft migration, p.258",
-            "url": "https://cprv.fr/aneurism-esvs-2024.pdf"
+            "source": "Mehard et al., Radiology 1994, High-attenuating crescent in abdominal aortic aneurysm wall at CT; contextualised by Stoecker et al., Annals of Vascular Surgery 2022",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8029397/"
           },
           {
             "questions": [
-              113
+              115,
+              116,
+              117,
+              118
             ],
-            "source": "Aortic reconstruction in patients with horseshoe or ectopic kidneys; Open surgical repair of AAA and horseshoe kidney",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/8893423/"
+            "source": "ESVS 2024 Clinical Practice Guidelines on the Management of Abdominal Aorto-Iliac Artery Aneurysms, Recommendations 62, 37, 49, and 130",
+            "url": "https://cprv.fr/aneurism-esvs-2024.pdf"
           }
         ]
       }
