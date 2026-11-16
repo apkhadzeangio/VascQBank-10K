@@ -261,31 +261,11 @@
       "target": 1200,
       "question_file": "AAA_EVAR_questions.txt",
       "explanation_file": "AAA_EVAR_explanations.txt",
-      "last_number": 98,
-      "question_blob_sha": "a959806bd305b17b06a75793bb925c20efc8c578",
-      "explanation_blob_sha": "b2cfd1e6630eec69f3afed265e3278602f3142f2",
-      "last_full_audit_at": 50,
+      "last_number": 103,
+      "question_blob_sha": "fdaa7e65a64e258aec81d21b09d5051f42cf1499",
+      "explanation_blob_sha": "fe0afad96cd9be6bea138f5571e79c8b8bd425c0",
+      "last_full_audit_at": 100,
       "recent_stems": [
-        {
-          "n": 69,
-          "stem": "მუცლის აორტის ანევრიზმის გახანგრძლივებული EVAR-ისას პაციენტს არაფრაქცირებული ჰეპარინი უკვე შეუყვანეს. დამატებითი დოზის საჭიროების დასადგენად გუნდს მისი ეფექტის სწრაფი ინტრაოპერაციული შეფასება სურს. ES"
-        },
-        {
-          "n": 70,
-          "stem": "სტანდარტული EVAR-ის შემდეგ პაციენტს გეგმიური მეთვალყურეობა უტარდება. წინა CTA-ზე ჰერმეტიზაციის ზონები და კომპონენტების გადაფარვა დამაკმაყოფილებელი იყო; ამჟამად საჭიროა ტომრის ზომისა და ენდოლიკის შეფას"
-        },
-        {
-          "n": 71,
-          "stem": "68 წლის მამაკაცი მუცლის აორტის ანევრიზმის გეგმიური მკურნალობისთვის ემზადება. CTA-ით მთელი აორტა და თეძოს არტერიები შეფასებულია, ქვედა კიდურების არტერიები კი სრულად არ გამოკვლეულა. კიდურებზე ჩივილები ა"
-        },
-        {
-          "n": 72,
-          "stem": "მუცლის აორტის გამსკდარი ანევრიზმის მქონე პაციენტი ჰიბრიდულ საოპერაციოშია. კომპონენტური ტრანსფუზიის მიუხედავად სისტოლური წნევა 60 mmHg-ია; გუნდი გადაუდებელ EVAR-ს ამზადებს, პროქსიმალური კონტროლი ჯერ მი"
-        },
-        {
-          "n": 73,
-          "stem": "მუცლის აორტის იუქსტარენალური ანევრიზმის ღია პროთეზირებისას ინფრარენალური გადაკეტვა შეუძლებელია. ჯორჯლის ზემო არტერიის ქვემოთ, თირკმლის ორივე არტერიის ზემოთ, დამჭერისთვის შესაფერისი ჯანსაღი აორტის მონა"
-        },
         {
           "n": 74,
           "stem": "მუცლის აორტის ანევრიზმის მკურნალობიდან ოთხი თვის შემდეგ პაციენტი ახლად განვითარებულ ერექტიულ დისფუნქციას უჩივის და ამის გამო გამოხატული დისკომფორტი აქვს. პროთეზი გამავალია, მწვავე იშემიური გართულება ა"
@@ -385,6 +365,26 @@
         {
           "n": 98,
           "stem": "71 წლის მამაკაცს მუცლის აორტის 61 მმ დიამეტრის უსიმპტომო ინფრარენალური ანევრიზმა აქვს. CTA-ზე ანატომია გეგმიური EVAR-ისთვის შესაფერისია, თუმცა წინასაოპერაციო შეფასებისას გულის უკმარისობის მწვავე დეკომ"
+        },
+        {
+          "n": 99,
+          "stem": "67 წლის მამაკაცს CTA-ზე მუცლის აორტის 44 მმ დიამეტრის უსიმპტომო ტომრისებრი ანევრიზმა გამოუვლინდა. ინფექციური, ტრავმული და იატროგენული მიზეზები გამორიცხულია; სიცოცხლის მოსალოდნელი ხანგრძლივობა დიდია და"
+        },
+        {
+          "n": 100,
+          "stem": "იუქსტარენალური ანევრიზმის ფენესტრირებული ენდოპროთეზით მკურნალობა დასრულდა. საკონტროლო DSA-ზე სამიზნე არტერიები გამავალია და აშკარა ენდოლიკი არ ჩანს, თუმცა გუნდს სურს დამაკავშირებელი სტენტების შეკუმშვი"
+        },
+        {
+          "n": 101,
+          "stem": "მუცლის აორტის ანევრიზმის ღია პროთეზირებისას ორივე თეძოს შიგნითა არტერია ქრონიკულად ოკლუზირებულია. რეკონსტრუქციის შემდეგ ჯორჯლის ქვემო არტერია გამავალია, მაგრამ მისგან უკუდინება სუსტია და მსხვილი ნაწლა"
+        },
+        {
+          "n": 102,
+          "stem": "პარარენალური ანევრიზმის ფენესტრირებული ენდოპროთეზით მკურნალობა ტექნიკურად წარმატებით დასრულდა. თირკმლის არტერიის დამაკავშირებელი სტენტი გამავალია, თუმცა მცირე დიამეტრისა და რთული გეომეტრიის გამო მისი "
+        },
+        {
+          "n": 103,
+          "stem": "აორტა-თეძოს ანევრიზმის EVAR-ისთვის ორივე თეძოს შიგნითა არტერიის დახშობა აუცილებელია. განშტოებიანი ენდოპროთეზისა და სხვა შემნახველი რეკონსტრუქციის გამოყენება შეუძლებელია. SVS-ის მიხედვით, როგორ უნდა და"
         }
       ],
       "topic_rotation": "უსიმპტომო და სიმპტომური AAA; ESVS 2024; ზომითი ზღვრები; EVAR ანატომია, ღია ოპერაცია vs EVAR; რუპტურის გადაუდებელი მართვა; ენდოლიკის ტიპები; გამოსახულებითი მეთვალყურეობა; გართულებები და რევიზია.",
@@ -392,11 +392,11 @@
       "guideline_check": "კლინიკურად სადავო გადაწყვეტილებაზე ერთმნიშვნელოვანი პასუხი არ ააგო; პირველწყარო ESVS/SVS და შესაბამისი გაიდლაინები გადაამოწმე, როცა საჭიროა.",
       "last_validation": {
         "range": [
-          97,
-          98
+          99,
+          103
         ],
-        "new_questions": 2,
-        "new_explanations": 2,
+        "new_questions": 5,
+        "new_explanations": 5,
         "clinical_self_review": "passed",
         "georgian_language_self_review": "passed",
         "numbering_continuous": true,
@@ -404,22 +404,25 @@
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
-        "semantic_duplication_review": "Reviewed existing full question texts and last 30 recent stems; new decisions not previously tested.",
+        "semantic_duplication_review": "Full question and explanation files audited through No. 103; no exact duplicate stem or repeated clinical decision found.",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              97
+              99,
+              100,
+              102
             ],
-            "source": "ESVS 2020 Clinical Practice Guidelines on Vascular Graft and Endograft Infections, Recommendation 45",
-            "url": "https://angiolsurgery.org/society/organisations/esvs/guidelines/ESVS-Guidelines-VGEI-2020.pdf"
+            "source": "ESVS 2024 Clinical Practice Guidelines on the Management of Abdominal Aorto-Iliac Artery Aneurysms, Sections 8.2.3 and 10; Recommendations 119, 132, and 150",
+            "url": "https://cprv.fr/aneurism-esvs-2024.pdf"
           },
           {
             "questions": [
-              98
+              101,
+              103
             ],
-            "source": "ESVS 2024 Clinical Practice Guidelines on Abdominal Aorto-Iliac Artery Aneurysms, Recommendation 25 and Section 5.1.2.1",
-            "url": "https://cprv.fr/aneurism-esvs-2024.pdf"
+            "source": "The Society for Vascular Surgery practice guidelines on the care of patients with an abdominal aortic aneurysm (2018), peri-operative inferior mesenteric artery management and staged bilateral internal iliac artery occlusion recommendations",
+            "url": "https://www.vascularsociety.gr/wp-content/uploads/2017/12/2018-SVS-guidelines.pdf"
           }
         ]
       }
