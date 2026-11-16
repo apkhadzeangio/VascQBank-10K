@@ -1024,19 +1024,11 @@
       "target": 650,
       "question_file": "DIALYSIS_ACCESS_questions.txt",
       "explanation_file": "DIALYSIS_ACCESS_explanations.txt",
-      "last_number": 32,
-      "question_blob_sha": "e0e80df0c53e8bd4ac25b54965efc76fa2710b22",
-      "explanation_blob_sha": "1729d5e57df30140d78a7e5bc4ba2e91edf77743",
+      "last_number": 34,
+      "question_blob_sha": "f7a7eadb423ab4348cdd78859fb52c82baf2d42c",
+      "explanation_blob_sha": "48377b627c8e08f6f9025ac3fdfb6f87e31ce7ad",
       "last_full_audit_at": 5,
       "recent_stems": [
-        {
-          "n": 3,
-          "stem": "61 წლის პაციენტი ჰემოდიალიზს მომწიფებული ბრაქიოცეფალური ფისტულით იტარებს. ბოლო კვირებში დიალიზის ნემსების ამოღების შემდეგ სისხლდენა გახანგრძლივდა და პროცედურის დროს ვენური წნევა მოიმატა. ფისტულოგრაფიაზე ცეფალური ვენის შუ"
-        },
-        {
-          "n": 4,
-          "stem": "შაქრიანი დიაბეტის მქონე 68 წლის პაციენტს ბრაქიოცეფალური ფისტულის შექმნიდან რამდენიმე საათში ხელის ძლიერი ტკივილი, თითების მოძრაობის მკვეთრი სისუსტე და მგრძნობელობის დაქვეითება განუვითარდა შუათანა, იდაყვისა და სხივის ნერვ"
-        },
         {
           "n": 5,
           "stem": "59 წლის პაციენტი ჰემოდიალიზს მარცხენა ბრაქიოცეფალური ფისტულით იტარებს. ბოლო თვეებში მარცხენა ზედა კიდურის შეშუპება თანდათან გაძლიერდა და გულმკერდის იმავე მხარეს კანქვეშა ვენები გაუფართოვდა. წარსულში მარცხენა ლავიწქვეშა ვ"
@@ -1148,6 +1140,14 @@
         {
           "n": 32,
           "stem": "66 წლის პაციენტს ჰემოდიალიზი მარცხენა ბრაქიოცეფალური არტერიოვენური ფისტულით უტარდება. ბოლო თვეში დიალიზისას სისხლის ტუმბოს დანიშნული სიჩქარის მიღწევა გაძნელდა და ფისტულის თრთოლვა შესუსტდა. მარცხენა მკლავზე არტერიული წნევ"
+        },
+        {
+          "n": 33,
+          "stem": "58 წლის პაციენტს ჰემოდიალიზი მარცხენა ბრაქიოცეფალური არტერიოვენური ფისტულით უტარდება. დიალიზისას ვენური წნევის მატებისა და ნემსების ამოღების შემდეგ გახანგრძლივებული სისხლდენის გამო დადასტურდა ცეფალური ვენის შუა მონაკვეთი"
+        },
+        {
+          "n": 34,
+          "stem": "69 წლის პაციენტს ჰემოდიალიზი ტუნელირებული, მანჟეტიანი სადიალიზო კათეტერით უტარდება; სხვა სისხლძარღვოვანი წვდომის შექმნის შესაძლებლობა მკვეთრად შეზღუდულია. სისხლის კულტურებით დადასტურდა კათეტერთან ასოცირებული სისხლის ნაკა"
         }
       ],
       "topic_rotation": "AVF და AVG-ის შერჩევა; წინასაოპერაციო დუპლექსსკანირება; რადიოცეფალური, ბრაქიოცეფალური და ბრაქიობაზილიკური ფისტულები; ბაზილარული ვენის ტრანსპოზიცია; მომწიფება და არასაკმარისი მომწიფება; Qa, ვენური სტენოზი და თრომბოზი; ენდოვასკულური და ღია რეკონსტრუქცია; ანევრიზმა, ფსევდოანევრიზმა, სისხლდენა და ინფექცია; HAIDI და იშემიური მონომელური ნეიროპათია; მაღალი ნაკადი და გულის უკმარისობა; ცენტრალური ვენები; ტუნელირებული კათეტერები, ალტერნატიული წვდომა და მეთვალყურეობა.",
@@ -1155,8 +1155,8 @@
       "guideline_check": "KDOQI 2019 (გამოქვეყნებულია 2020 წელს), ESVS Vascular Access 2018, UK Kidney Association Vascular Access 2025; არ ააგო კითხვა სადავო რიცხვით ზღვრებზე და გაითვალისწინე ESKD Life-Plan.",
       "last_validation": {
         "range": [
-          31,
-          32
+          33,
+          34
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1165,33 +1165,29 @@
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
-        "numeric_options_ascending": true,
-        "clinical_self_review": "passed: persistent electrophysiologically confirmed median nerve entrapment requiring tunnel release; culprit proximal subclavian arterial inflow stenosis requiring revascularization",
-        "terminology_self_review": "passed: AGENTS.md and GLOSSARY.md general and DIALYSIS_ACCESS",
-        "georgian_language_self_review": "passed: independent clinical, terminology and idiomatic editorial review",
-        "semantic_duplication_review": "Compared with all saved items 1-30: median nerve carpal tunnel decompression distinct from ischemic monomelic neuropathy/HAIDI; proximal subclavian arterial lesion distinct from juxta-anastomotic inflow stenosis",
+        "answer_distribution": {
+          "ბ": 1,
+          "ე": 1
+        },
+        "clinical_self_review": "passed: persistent angioplasty-induced venous rupture after failed tamponade; uncomplicated coagulase-negative staphylococcal catheter bacteraemia with catheter retention",
+        "georgian_language_self_review": "passed: independently refined academic Georgian",
+        "terminology_self_review": "passed: AGENTS.md v2.3; GLOSSARY.md GENERAL and DIALYSIS_ACCESS",
+        "semantic_duplication_review": "Compared all 32 prior dialysis questions and 30 recent stems; new mechanisms and decisions are distinct.",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              31
+              33
             ],
-            "source": "Arteriovenous Access: Infection, Neuropathy, and Other Complications (2016), neuropathy/carpal tunnel section",
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5332082/"
+            "source": "KDOQI Vascular Access 2019 update, Table 2 stent graft indications for venous rupture; 2021 ruptured access observational study",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8856770/"
           },
           {
             "questions": [
-              32
+              34
             ],
-            "source": "ESVS 2018 Vascular Access guideline section 7.3.1, inflow stenosis; UKKA 2025 AV access problems guideline 4.2-4.3",
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12351868/"
-          },
-          {
-            "questions": [
-              32
-            ],
-            "source": "Inflow stenoses in dysfunctional hemodialysis access fistulae and grafts (2006)",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/16797391/"
+            "source": "UK Kidney Association 2025 Vascular Access guideline 6.5; KDOQI 2019 CVC infection algorithm catheter salvage",
+            "url": "https://link.springer.com/article/10.1186/s12882-025-04374-y"
           }
         ]
       }
