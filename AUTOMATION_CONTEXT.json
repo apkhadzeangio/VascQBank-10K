@@ -1854,19 +1854,11 @@
       "target": 500,
       "question_file": "VGEI_questions.txt",
       "explanation_file": "VGEI_explanations.txt",
-      "last_number": 33,
-      "question_blob_sha": "8672712a7f74d40d99ec9297c412e0e1a1ac0f2d",
-      "explanation_blob_sha": "c48ef0829627166c7471f0568cf077ba77c4c03d",
+      "last_number": 35,
+      "question_blob_sha": "e32cfb13e406897e893cdfce3ac54cf2929aa0d6",
+      "explanation_blob_sha": "4d618a8f26274914b395631e7bd4748dae866035",
       "last_full_audit_at": 4,
       "recent_stems": [
-        {
-          "n": 4,
-          "stem": "69 წლის მამაკაცს ორი წლის წინ მუცლის აორტის ანევრიზმის გამო EVAR ჩაუტარდა. ამჟამად ენდოპროთეზის ინფექციის ნიშნები არ აქვს; იგეგმება პაროდონტოლოგიური ჩარევა ღრძილის მანიპულაციით, რომელიც ბაქტერიემიის მაღალ რისკს უკავშირდება. ESVS-ის 2026 წლის რეკომენდაციების მიხედვით, რომელი პროფილაქტიკური მიდგომაა ყველაზე შესაფერისი?"
-        },
-        {
-          "n": 5,
-          "stem": "74 წლის ქალს აორტა-ორბარძაყის სინთეზური პროთეზი ექვსი წლის წინ ჩაუდგეს. ერთი თვის წინ ინფიცირებულ ცენტრალურ ვენურ კათეტერთან დაკავშირებული ოქროსფერი სტაფილოკოკით ბაქტერიემია დაუდასტურდა. ამჟამად CTA-ზე პერიპროთეზული აბსცესი ჩანს; ოპერაციული ჭრილობები შეხორცებულია და მეზობელ ორგანოებთან ფისტულა არ დასტურდება. რომელია პროთეზის ინფიცირების ყველაზე სავარაუდო გზა?"
-        },
         {
           "n": 6,
           "stem": "70 წლის მამაკაცს აორტა-ორბარძაყის გეგმიური სინთეზური პროთეზირება უნდა ჩაუტარდეს. წინასაოპერაციო გამოკვლევით ცხვირის ლორწოვანზე ოქროსფერი სტაფილოკოკის უსიმპტომო კოლონიზაცია გამოვლინდა; აქტიური ინფექცია არ აღენიშნება. სტანდარტულ პერიოპერაციულ ანტიბიოტიკოპროფილაქტიკასთან ერთად რომელი დამატებითი ღონისძიების განხილვაა მიზანშეწონილი ოპერაციული მიდამოს ინფექციის რისკის შესამცირებლად?"
@@ -1978,6 +1970,14 @@
         {
           "n": 33,
           "stem": "68 წლის მამაკაცს საზარდულის მიდგომით თეძო-ბარძაყის სინთეზური შუნტირება ჩაუტარდა. ოპერაციიდან მე-12 დღესაც ჭრილობიდან ყოველდღიურად 180 მლ გამჭვირვალე ლიმფური სითხე გამოიყოფა; შვიდდღიანმა კომპრესიამ და სათანადო დრენირებამ გამონადენი არ შეამცირა. შუნტი გამავალია, ინფექცია და სისხლდენა არ დასტურდება, პაციენტი კი განმეორებითი ოპერაციისთვის შესაფერისია. რომელია შემდგომი ყველაზე დასაბუთებული ტაქტიკა?"
+        },
+        {
+          "n": 34,
+          "stem": "67 წლის მამაკაცს სტაბილური ხანგამოშვებითი კოჭლობის გამო აორტა-ორბარძაყის გეგმიური სინთეზური პროთეზირება ესაჭიროება; კიდურისთვის საფრთხის შემცველი იშემია არ აღენიშნება. ბოლო ოთხ თვეში სხეულის მასის 13% უნებლიეთ დაკარგა, სხეულის მასის ინდექსია 17,6 კგ/მ² და საკვებს არასაკმარისად იღებს; პერორალური კვება შესაძლებელია, ხოლო ოპერაციის გადავადება უსაფრთხოა. რომელი წინასაოპერაციო გადაწყვეტილებაა ყველაზე დასაბუთებული ინფექციური გართულებების რისკის შესამცირებლად?"
+        },
+        {
+          "n": 35,
+          "stem": "69 წლის ქალს ბარძაყ-მუხლქვეშა სინთეზური შუნტირებიდან მეცხრე დღეს ბარძაყის ჭრილობიდან ჩირქოვანი გამონადენი განუვითარდა. ქირურგიული რევიზიისას ინფექცია კანქვეშა ცხიმოვან ქსოვილში ვრცელდება, თუმცა ღრმა ფასცია დაუზიანებელია, პროთეზთან ჩირქოვანი კერის კავშირი არ არის და სისხლის ბაქტერიოლოგიური გამოკვლევა უარყოფითია. რომელია ინფექციის ანატომიური გავრცელების ყველაზე ზუსტი შეფასება?"
         }
       ],
       "topic_rotation": "I №1–40 საფუძვლები და პრევენცია; II №41–80 მიკრობიოლოგია; III №81–130 დიაგნოზი; IV №131–190 გამოსახულებითი დიაგნოსტიკა; V №191–230 ანტიმიკრობული მკურნალობა; VI №231–300 ქირურგიული ტაქტიკა; VII №301–360 მასალები და ჭრილობა; VIII №361–410 ლოკალიზაციები; IX №411–460 გართულებები; X №461–500 შედეგები და მეთვალყურეობა.",
@@ -1985,8 +1985,8 @@
       "guideline_check": "NICE NG125 1.4.5: no topical antimicrobials to prevent SSI in primary-closure wounds; WHO/ACC: intensive smoking cessation begun >=4 weeks preoperatively reduces postoperative complications.",
       "last_validation": {
         "range": [
-          32,
-          33
+          34,
+          35
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1996,41 +1996,33 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed - Samson III classification confirmed by EANM (2022); refractory lymphatic leak reintervention supported by systematic reviews (2021, 2022)",
-        "terminology_self_review": "passed - current GLOSSARY.md general and VGEI sections",
-        "georgian_language_self_review": "passed - academic Georgian and homogeneous options",
-        "semantic_duplication_review": "31 stored questions and explanations reviewed; new distinction Samson III graft body vs anastomosis; new operative treatment of persistent postoperative lymphatic fistula",
+        "clinical_self_review": "passed: 2025 ESPEN clinical nutrition in surgery recommendation 20; EANM 2022 Szilagyi classification",
+        "terminology_self_review": "passed: GLOSSARY.md GENERAL and VGEI",
+        "georgian_language_self_review": "passed: academic Georgian clinical editing",
+        "semantic_duplication_review": "all 33 previous VGEI questions reviewed; different concepts and decisions",
         "previous_text_unchanged": true,
-        "index_precheck": "matched; confirmed 31 paired questions",
         "source_checks": [
           {
             "questions": [
-              32
+              34
             ],
-            "source": "EANM guideline on imaging infection in vascular grafts, Table 1 Samson classification (2022)",
+            "source": "ESPEN guideline clinical nutrition in surgery Update 2025 Recommendation 20",
+            "url": "https://www.espen.org/files/ESPEN-guideline-on-clinical-nutrition-in-surgery-Update-2025.pdf"
+          },
+          {
+            "questions": [
+              35
+            ],
+            "source": "EANM evidence-based guideline on imaging infection in vascular grafts Table 1 Szilagyi",
             "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9308572/"
           },
           {
             "questions": [
-              33
+              34,
+              35
             ],
-            "source": "Nicksic et al., Algorithmic approach to the lymphatic leak after vascular reconstruction: a systematic review (2021)",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/34352953/"
-          },
-          {
-            "questions": [
-              33
-            ],
-            "source": "Song et al., Systematic review and meta-analysis of lymphatic leak management after groin surgery (2022)",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/35703193/"
-          },
-          {
-            "questions": [
-              32,
-              33
-            ],
-            "source": "ESVS 2026 VGEI guideline, scope and terminology",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42448560/"
+            "source": "ESVS 2026 Clinical Practice Guidelines on VGEI (overall framework)",
+            "url": "https://doi.org/10.1016/j.ejvs.2026.05.035"
           }
         ]
       }
