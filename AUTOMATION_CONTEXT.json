@@ -1209,19 +1209,11 @@
       "target": 600,
       "question_file": "MESENTERIC_RENAL_questions.txt",
       "explanation_file": "MESENTERIC_RENAL_explanations.txt",
-      "last_number": 41,
-      "question_blob_sha": "ec454ea3accf3c4d625cea7e1bc910df206886c9",
-      "explanation_blob_sha": "b443fbbaad2d9fd0634c69d2ba7d038ac0215ae0",
+      "last_number": 43,
+      "question_blob_sha": "abc4d95777203308ecab5b18881119d7861d6fed",
+      "explanation_blob_sha": "2c44cc4eea20b595ebe60bd870b558a2d46fcb85",
       "last_full_audit_at": 2,
       "recent_stems": [
-        {
-          "n": 12,
-          "stem": "42 წლის ქალს თირკმლის არტერიის ფიბრომუსკულური დისპლაზიისა და რეზისტენტული ჰიპერტენზიის გამო მარჯვენა თირკმლის არტერიის ბალონური ანგიოპლასტიკა უტარდება. გაფართოების შემდეგ DSA-ზე გამოვლინდა ინტიმის დისექცია, რომელიც სანათ"
-        },
-        {
-          "n": 13,
-          "stem": "79 წლის მამაკაცს წინაგულების ფიბრილაციის ფონზე ხუთი საათის წინ უეცრად დაეწყო ძლიერი მუცლის ტკივილი. CTA-ზე ჯორჯლის ზემო არტერიის შუა სეგმენტში ემბოლიური ოკლუზია ჩანს, არტერიის სათავე გამავალია, ხოლო ნაწლავის კედლის კონტრ"
-        },
         {
           "n": 14,
           "stem": "29 წლის ქალს ორსულობის მე-19 კვირაში მარცხენა თირკმლის არტერიის მთავარ ღეროში 18 მმ დიამეტრის ჭეშმარიტი ანევრიზმა დაუდგინდა. პაციენტი უსიმპტომოა, არტერიული წნევა და თირკმლის ფუნქცია ნორმალურია; გამოსახულებითი კვლევით გახ"
@@ -1333,6 +1325,14 @@
         {
           "n": 41,
           "stem": "39 წლის ქალს რენოვასკულური ჰიპერტენზიისა და თირკმლის არტერიის ფიბრომუსკულური დისპლაზიის გამო მარჯვენა თირკმლის არტერიის ბალონური ანგიოპლასტიკა ჩაუტარდა. საკონტროლო DSA-ზე სტენოზი აღმოფხვრილია, დისექცია არ გამოვლენილა და "
+        },
+        {
+          "n": 42,
+          "stem": "67 წლის ქალს ბოლო ექვს თვეში ჭამისშემდგომი მუცლის ტკივილის ფონზე 14 კგ დაუკლდა; ბოლო კვირებში ტკივილი მუდმივი გახდა და დიარეაც დაემატა. CTA-ზე ჯორჯლის ზემო არტერიის სათავის 90%-იანი და ფაშვის ღეროს 85%-იანი ათეროსკლეროზუ"
+        },
+        {
+          "n": 43,
+          "stem": "35 წლის ქალს დადასტურებული ტაკაიასუს არტერიიტი აქვს. ახალი ჰიპერტენზიის გამო ჩატარებულ CTA-ზე მარჯვენა თირკმლის არტერიის შუა სეგმენტში 80%-იანი სტენოზი და არტერიის კედლის ცირკულარული გასქელება გამოვლინდა; C-რეაქტიული ცილ"
         }
       ],
       "topic_rotation": "მეზენტერიული და თირკმლის პათოლოგიების მონაცვლეობა; მწვავე მეზენტერიული იშემიის ემბოლია/თრომბოზი/NOMI/MVT; ქრონიკული მეზენტერიული იშემია; CTA/DSA/დუპლექსსკანირება; ენდოვასკულური და ღია რევასკულარიზაცია; ნაწლავის სიცოცხლისუნარიანობა და განმეორებითი ლაპაროტომია; თირკმლის არტერიის ათეროსკლეროზული სტენოზი/FMD; რენოვასკულური ჰიპერტენზია; რევასკულარიზაციის ჩვენებები და უარყოფა; ანევრიზმა/დისექცია; მკურნალობისშემდგომი მეთვალყურეობა.",
@@ -1340,8 +1340,8 @@
       "guideline_check": "ESVS 2025 Mesenteric and Renal Arteries and Veins (რეკომენდაციები 33 და 63), ESC 2024 PAAD. მწვავე მეზენტერიული იშემიის ეჭვისას გადაუდებელი CTA თირკმლის ფუნქციის დაქვეითების მიუხედავად; კონტროლირებადი ჰიპერტენზიისა და სტაბილური თირკმლის ფუნქციისას თირკმლის ათეროსკლეროზული სტენოზის რუტინული სტენტირება არ არის გამართლებული.",
       "last_validation": {
         "range": [
-          40,
-          41
+          42,
+          43
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1351,33 +1351,33 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ა": 1,
-          "ბ": 0,
-          "გ": 0,
-          "დ": 1,
+          "ა": 0,
+          "ბ": 1,
+          "გ": 1,
+          "დ": 0,
           "ე": 0
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed — ESVS 2025 recommendations 98 and section 8.6.1 for post-PTRA antiplatelet therapy",
+        "clinical_self_review": "passed — ESVS 2025 Rec 13 and ACR/VF 2021 Takayasu renal artery stenosis recommendations",
         "georgian_language_self_review": "passed",
-        "terminology_self_review": "passed (general and MESENTERIC_RENAL glossary)",
-        "semantic_duplication_review": "All 39 previous cases reviewed; new decision points: failed conservative management of isolated SMA dissection and antiplatelet therapy after FMD PTRA",
+        "terminology_self_review": "passed: GENERAL and MESENTERIC_RENAL glossary",
+        "semantic_duplication_review": "Compared all 41 previous cases; new decisions concern deferral for nutritional correction and immunosuppression in active Takayasu renovascular disease",
         "previous_text_unchanged": true,
         "index_precheck": "matched",
         "source_checks": [
           {
             "questions": [
-              40
+              42
             ],
-            "source": "ESVS 2025 Mesenteric and Renal Arteries and Veins, Recommendation 98",
+            "source": "ESVS 2025 Mesenteric and Renal Arteries and Veins Recommendation 13",
             "url": "https://doi.org/10.1016/j.ejvs.2025.06.010"
           },
           {
             "questions": [
-              41
+              43
             ],
-            "source": "ESVS 2025 Mesenteric and Renal Arteries and Veins, Section 8.6.1, post-PTRA antiplatelet therapy",
-            "url": "https://doi.org/10.1016/j.ejvs.2025.06.010"
+            "source": "ACR/Vasculitis Foundation 2021 Takayasu guidelines, recommendations on renal artery stenosis and timing of surgery",
+            "url": "https://doi.org/10.1002/art.41774"
           }
         ]
       }
