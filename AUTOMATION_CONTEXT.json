@@ -1733,19 +1733,11 @@
       "target": 600,
       "question_file": "PERIOPERATIVE_questions.txt",
       "explanation_file": "PERIOPERATIVE_explanations.txt",
-      "last_number": 47,
-      "question_blob_sha": "266f4263c618eacf0ba4e4531987fd520264bd2e",
-      "explanation_blob_sha": "e806f9cddef9cc8a32bb53b981f1405c51ab65d4",
+      "last_number": 49,
+      "question_blob_sha": "9ab08bb446f53bae7b7f5c8117a15c2e4338ee61",
+      "explanation_blob_sha": "601c7b45abbff3cc32b2c54b2779c7d0ef217b23",
       "last_full_audit_at": 6,
       "recent_stems": [
-        {
-          "n": 18,
-          "stem": "69 წლის მამაკაცს სინთეზური პროთეზით აორტა-ორბარძაყის გეგმიური შუნტირება უნდა ჩაუტარდეს. ოპერაცია სავარაუდოდ ექვს საათს გასტანს; თირკმლის ფუნქცია შენარჩუნებულია, ბეტა-ლაქტამურ ანტიბიოტიკებზე ალერგია და MRSA-ით კოლონიზაციის რისკფაქტორები არ აქვს. რომელია ოპერაციისთვის ანტ"
-        },
-        {
-          "n": 19,
-          "stem": "62 წლის მამაკაცს სტაბილური კოჭლობის გამო ექვს კვირაში თეძო-ბარძაყის გეგმიური შუნტირება უნდა ჩაუტარდეს. ყოველდღიურად დიდი რაოდენობით ალკოჰოლს მოიხმარს; წარსულში მისი უეცარი შეწყვეტისას გენერალიზებული კრუნჩხვა განუვითარდა. ამჟამად ალკოჰოლის მოხსნის ნიშნები არ აღენიშნება დ"
-        },
         {
           "n": 20,
           "stem": "59 წლის მამაკაცს აორტა-ორბარძაყის გეგმიური ღია პროთეზირება უნდა ჩაუტარდეს ზოგადი ანესთეზიით. მის ძმას ოპერაციისას დადასტურებული ავთვისებიანი ჰიპერთერმია განუვითარდა; თავად პაციენტს ამ მდგომარეობაზე კვლევა არ ჩატარებია, თუმცა წარსულში ზოგადი ანესთეზია გართულების გარეშე გ"
@@ -1857,6 +1849,14 @@
         {
           "n": 47,
           "stem": "66 წლის მამაკაცს ორ კვირაში ბარძაყ-მუხლქვეშა გეგმიური შუნტირება უნდა ჩაუტარდეს. ძლიერ ხვრინავს, ოჯახის წევრები ძილში სუნთქვის შეჩერების ეპიზოდებს აღწერენ, ხოლო STOP-Bang სკალით 6 ქულა აქვს; პოლისომნოგრაფია არ ჩატარებია. სიფხიზლეში ჟანგბადით გაჯერება 97%-ია, ჰიპოვენტილაციის ნიშნები, მძიმე ფილტვის ჰიპ"
+        },
+        {
+          "n": 48,
+          "stem": "78 წლის ქალი მუცლის აორტის ანევრიზმის გეგმიური ღია პროთეზირებისთვის ემზადება. ოჯახის ცნობით, ბოლო ერთი წელია მეხსიერება დაუქვეითდა; ორი წლის წინ სხვა ოპერაციის შემდეგ რამდენიმე დღის განმავლობაში დელირიუმი ჰქონდა. ამჟამად ცნობიერება ნათელია, ინფექციისა და მწვავე მეტაბოლური დარღვევის ნიშნები არ აღ"
+        },
+        {
+          "n": 49,
+          "stem": "57 წლის მამაკაცი ოპიოიდების მოხმარებასთან დაკავშირებული აშლილობის გამო სამი წელია სტაბილურად იღებს ბუპრენორფინს. მისი მდგომარეობა კონტროლდება; ორ კვირაში ბარძაყ-მუხლქვეშა ღია შუნტირება უნდა ჩაუტარდეს და მოსალოდნელია მნიშვნელოვანი პოსტოპერაციული ტკივილი. რომელია ბუპრენორფინით მკურნალობის ყველაზე "
         }
       ],
       "topic_rotation": "№1–60 წინასაოპერაციო შეფასება/ოპტიმიზაცია; №61–120 პერიოპერაციული კარდიოვასკულური რისკი; №121–180 ანტიაგრეგანტული და ანტიკოაგულაციური მკურნალობა; №181–250 ჰემოსტაზი, სისხლდენა და ტრანსფუზია; №251–320 თრომბოემბოლია და პროფილაქტიკა; №321–380 ჰემოდინამიკა, ინფუზია და თირკმლის ფუნქცია; №381–440 ფილტვის/მეტაბოლური გართულებები; №441–500 სისხლძარღვოვანი ოპერაციების ადრეული გართულებები; №501–550 ნევროლოგიური/ორგანოსპეციფიკური გართულებები; №551–600 პოსტოპერაციული მეთვალყურეობა. ზუსტად ორი კითხვა თითო ციკლში.",
@@ -1864,8 +1864,8 @@
       "guideline_check": "2024 multi-society GLP-1RA perioperative guidance (published 2024; Surgical Endoscopy 2025): individual aspiration-risk assessment and continuation in lower-risk patients; SA Health vascular surgery antibiotic prophylaxis and ASHP/IDSA/SHEA/SIS: IV cefazolin within 60 min before incision with repeat intraoperative dosing for prolonged surgery and normal kidney function.",
       "last_validation": {
         "range": [
-          46,
-          47
+          48,
+          49
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1875,29 +1875,29 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ბ": 1,
-          "დ": 1
+          "ა": 1,
+          "ე": 1
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed; ACS before elective NCS and suspected OSA without uncontrolled associated disease verified in primary guidelines",
+        "clinical_self_review": "passed: ESAIC 2024 delirium recommendation 2.1 and multicomponent preventive strategy; ASRA/ASA multisociety 2021 buprenorphine continuation",
         "terminology_self_review": "passed; general and PERIOPERATIVE glossary",
-        "georgian_language_self_review": "passed; professionally edited Georgian",
-        "semantic_duplication_review": "Compared 45 stored questions and 30 recent stems; new decisions differ from prior stable CAD and treated OSA scenarios",
+        "georgian_language_self_review": "passed",
+        "semantic_duplication_review": "All prior 47 questions screened: no preoperative delirium cognitive assessment or buprenorphine maintenance issue",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              46
+              48
             ],
-            "source": "2026 AHA/ACC Multisociety Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery; Section 6.1, Coronary Revascularization, Class I C-LD for ACS before elective NCS",
-            "url": "https://www.jacc.org/doi/full/10.1016/j.jacc.2026.06.017"
+            "source": "ESAIC 2024 updated postoperative delirium guideline, recommendation 2.1",
+            "url": "https://doi.org/10.1097/EJA.0000000000001876"
           },
           {
             "questions": [
-              47
+              49
             ],
-            "source": "SASM 2016 Preoperative Screening and Assessment of Adult Patients With Obstructive Sleep Apnea; recommendations 2.3.1 and 3.3.3",
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4956681/"
+            "source": "ASRA/ASA/ASHP/AAPM/ASAM 2021 multisociety buprenorphine management recommendations",
+            "url": "https://doi.org/10.1136/rapm-2021-103007"
           }
         ]
       }
