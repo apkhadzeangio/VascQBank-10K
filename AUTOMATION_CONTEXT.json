@@ -933,9 +933,9 @@
       "target": 1500,
       "question_file": "PAD_CLTI_questions.txt",
       "explanation_file": "PAD_CLTI_explanations.txt",
-      "last_number": 11,
-      "question_blob_sha": "b877624d316273429bf18507cb57530512306ea1",
-      "explanation_blob_sha": "96983f93da59cc1e16bb2cc3d4d59b49a708aa33",
+      "last_number": 13,
+      "question_blob_sha": "68a22e9efd3b8724ce7dddb87d3cfb064803f806",
+      "explanation_blob_sha": "a2eef1bac7fd416ab89258dbc949789ffa3bf45b",
       "last_full_audit_at": 0,
       "recent_stems": [
         {
@@ -981,6 +981,14 @@
         {
           "n": 11,
           "stem": "74 წლის მამაკაცს თეძოს საერთო არტერიის სტენტირებიდან 12 დღის შემდეგ ფეხის რამდენიმე თითი მტკივნეულად გაულურჯდა და წვივის კანზე ბადისებრი შეფერილობა გაუჩნდა. ტერფის ზურგისა და დიდი წვივის უკანა არტერიე"
+        },
+        {
+          "n": 12,
+          "stem": "69 წლის მამაკაცს დადასტურებული პერიფერიული არტერიული დაავადების ფონზე 120 მ-ის გავლის შემდეგ ხანგამოშვებითი კოჭლობა ეწყება. გოჯ-მხრის ინდექსი (ABI) 0,67-ია, მოსვენების ტკივილი და ქსოვილის დანაკარგი არ"
+        },
+        {
+          "n": 13,
+          "stem": "27 წლის მორბენალს დატვირთვისას წვივის ტკივილი აწუხებს, რომელიც გაჩერების შემდეგ ქრება. მოსვენებით გაზომილი გოჯ-მხრის ინდექსი (ABI) 1,05-ია, დუპლექსსკანირებით კი ტერფის აქტიური პლანტარული მოხრისას მუხლ"
         }
       ],
       "topic_rotation": "ABI/TBI და პერფუზია; Fontaine/Rutherford/WIfI/GLASS; ხანგამოშვებითი კოჭლობა და CLTI; დუპლექსი/CTA/MRA/DSA; ანტიაგრეგანტები/სტატინები/ვარჯიში; აორტა-თეძოს, ბარძაყ-მუხლქვეშა და წვივის სეგმენტები; ენდოვასკულური მკურნალობა/ავტოვენური შუნტირება; ჭრილობა/ინფექცია/ამპუტაცია/მეთვალყურეობა.",
@@ -988,8 +996,8 @@
       "guideline_check": "2024 ACC/AHA PAD guideline, 2024 ESVS asymptomatic PAD/intermittent claudication guideline და Global Vascular Guidelines CLTI; კლინიკური გადაწყვეტილება გადაამოწმე პირველწყაროებში.",
       "last_validation": {
         "range": [
-          10,
-          11
+          12,
+          13
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1000,42 +1008,28 @@
         "two_sentences_each": true,
         "answer_distribution": {
           "ა": 1,
-          "ე": 1
+          "გ": 1
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed",
+        "clinical_self_review": "passed; checked 2024 ACC/AHA and 2024 PAES long-term surgical evidence",
         "georgian_language_self_review": "passed",
-        "terminology_self_review": "passed; current GLOSSARY.md",
-        "semantic_duplication_review": "№10–11 compared to the existing full 9 questions; distinct decisions: neuropathic ulcer offloading after restored perfusion and cholesterol atheroembolism after iliac intervention.",
+        "terminology_self_review": "passed; matched current GENERAL and PAD_CLTI glossary",
+        "semantic_duplication_review": "Compared full questions №1–11: new subjects are cilostazol contraindication in heart failure despite preserved EF, and anatomic popliteal artery entrapment with no structural arterial injury.",
         "previous_text_unchanged": true,
         "source_checks": [
           {
+            "source": "2024 ACC/AHA Multisociety Guideline for Management of Lower Extremity Peripheral Artery Disease, section 5.7, supervised exercise recommendations",
+            "url": "https://www.jacc.org/doi/10.1016/j.jacc.2024.02.013",
             "questions": [
-              10
-            ],
-            "source": "IWGDF 2023 Offloading Guideline recommendation 1a",
-            "url": "https://onlinelibrary.wiley.com/doi/10.1002/dmrr.3647"
+              12
+            ]
           },
           {
+            "source": "Long-Term Results of Surgical Treatment for Popliteal Artery Entrapment Syndrome (2024), surgical decompression without arterial damage",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11202412/",
             "questions": [
-              10
-            ],
-            "source": "2024 ACC/AHA Multisociety PAD Guideline",
-            "url": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001251"
-          },
-          {
-            "questions": [
-              11
-            ],
-            "source": "Cholesterol crystal embolization: a possible complication of peripheral endovascular interventions (2008)",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/18840042/"
-          },
-          {
-            "questions": [
-              11
-            ],
-            "source": "Prospective JACC study on cholesterol embolization after catheterization (2003)",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/12875753/"
+              13
+            ]
           }
         ]
       }
