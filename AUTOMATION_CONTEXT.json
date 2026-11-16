@@ -384,19 +384,11 @@
       "target": 900,
       "question_file": "CAROTID_VERTEBRAL_questions.txt",
       "explanation_file": "CAROTID_VERTEBRAL_explanations.txt",
-      "last_number": 155,
-      "question_blob_sha": "d8a4855714eaf769dd99b522d4e954a0bc97b201",
-      "explanation_blob_sha": "96fd0a28e03cfaaeeff48d06543086a03bbca8fa",
+      "last_number": 157,
+      "question_blob_sha": "26e3ac2e8154852bc207b6e41e2215cbc9d6262f",
+      "explanation_blob_sha": "2dfdb10a6d1d2f23a288f10cddf92ce0b5d43e16",
       "last_full_audit_at": 150,
       "recent_stems": [
-        {
-          "n": 126,
-          "stem": "47 წლის ქალს ყბის კუთხის ზემოთ კისრის ღრმა მიდამოში ნელა მზარდი წარმონაქმნი აქვს, რომელსაც ხმის ჩახლეჩა ახლავს. CTA-ზე წარმონაქმნი ინტენსიურად კონტრასტირდება და მდებარეობს საძილე არტერიების ბიფურკაციის ზემოთ; შიგნითა და "
-        },
-        {
-          "n": 127,
-          "stem": "39 წლის ქალს სამი კვირის წინ მარჯვენა შიგნითა საძილე არტერიის ექსტრაკრანიალური დისექცია დაუდგინდა. ოპტიმალური ანტითრომბოზული მკურნალობის რეგულარული მიღების მიუხედავად, ბოლო კვირაში შესაბამის ჰემისფეროში განმეორებითი იშემ"
-        },
         {
           "n": 128,
           "stem": "66 წლის მამაკაცს ექვსი დღის წინ მარცხენა თვალში მხედველობა 15 წუთით დაეკარგა. CTA-ზე მარცხენა შიგნითა საძილე არტერიის 55%-იანი სტენოზია NASCET-ის მიხედვით; დისტალური კოლაფსი, დისექცია და კარდიოემბოლიური წყარო არ გამოვლენ"
@@ -508,6 +500,14 @@
         {
           "n": 155,
           "stem": "საძილე არტერიის ენდარტერექტომიის დროს საერთო საძილე არტერიის პროქსიმალურ სეგმენტზე დამჭერის ღრმად დადებისას მომჭერში შემთხვევით მოჰყვა მსხვილი ნერვული ღერო, რომელიც უშუალოდ საძილე ბუდის შიგნით, საერთო საძილე არტერიასა და"
+        },
+        {
+          "n": 156,
+          "stem": "71 წლის მამაკაცს ტრანსკაროტიდული რევასკულარიზაცია (TCAR) ადგილობრივი ანესთეზიით უტარდება. საერთო საძილე არტერიის გადაჭერისა და სისხლის ნაკადის მაღალი ინტენსივობით შებრუნებისთანავე პაციენტი დაბნეული გახდა, თუმცა კეროვანი "
+        },
+        {
+          "n": 157,
+          "stem": "74 წლის მამაკაცს მარჯვენა შიგნითა საძილე არტერიის 85%-იანი უსიმპტომო სტენოზი აქვს. MRI-ზე ფოლაქში სისხლჩაქცევა გამოვლინდა, თუმცა გარდამავალი იშემიური შეტევა, მხედველობის გარდამავალი დაკარგვა ან ინსულტი არ ჰქონია. პაციენტ"
         }
       ],
       "topic_rotation": "TIA/ინსულტი; NASCET; CTA/MRA/დუპლექსი; CEA/CAS/TCAR დრო და არჩევანი; ფოლაქის მორფოლოგია; ანტითრომბოციტული მკურნალობა; პერიოპერაციული გართულებები; რესტენოზი; ხერხემლის არტერიის სტენოზი/დისექცია და უკანა ცირკულაცია; ESVS 2023 და უფრო ახალი წყაროები.",
@@ -515,28 +515,25 @@
       "guideline_check": "კლინიკურად სადავო გადაწყვეტილებაზე ერთმნიშვნელოვანი პასუხი არ ააგო; პირველწყარო ESVS/SVS და შესაბამისი გაიდლაინები გადაამოწმე, როცა საჭიროა.",
       "last_validation": {
         "range": [
-          146,
-          155
+          156,
+          157
         ],
-        "new_questions": 10,
-        "new_explanations": 10,
+        "new_questions": 2,
+        "new_explanations": 2,
         "numbering_continuous": true,
         "five_options_each": true,
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ა": 2,
-          "ბ": 2,
-          "გ": 2,
-          "დ": 2,
-          "ე": 2
+          "ა": 1,
+          "ე": 1
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed",
+        "clinical_self_review": "passed; ESVS 2023 and JVS 2017 technique checked",
         "georgian_language_self_review": "passed",
         "terminology_self_review": "passed (GLOSSARY.md)",
-        "semantic_duplication_review": "checked all 145 stored CAROTID_VERTEBRAL questions and cross-topic stems",
+        "semantic_duplication_review": "reviewed all 155 existing question stems and recent 30 full questions",
         "previous_text_unchanged": true,
         "index_precheck": "matched"
       }
