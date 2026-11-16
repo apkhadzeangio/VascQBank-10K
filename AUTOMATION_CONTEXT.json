@@ -873,19 +873,11 @@
       "target": 1500,
       "question_file": "PAD_CLTI_questions.txt",
       "explanation_file": "PAD_CLTI_explanations.txt",
-      "last_number": 32,
-      "question_blob_sha": "c9be6ddd923511c0f7be9cc235d7d377ecabaca1",
-      "explanation_blob_sha": "924e20dd3c89a2ed0eb6ec6ba8a09b481a215a36",
+      "last_number": 34,
+      "question_blob_sha": "e9a2fc261db2564978036c7568cfe7500f3abf0d",
+      "explanation_blob_sha": "0d972f1ac7edb2eab1ce8e92ba9641dfdbb2ac57",
       "last_full_audit_at": 25,
       "recent_stems": [
-        {
-          "n": 3,
-          "stem": "65 წლის ქალს დაახლოებით 80 მ-ის გავლის შემდეგ წვივის კუნთების ტკივილი ეწყება, რაც ყოველდღიურ გადაადგილებას მნიშვნელოვნად უზღუდავს. გოჯ-მხრის ინდექსი (ABI) 0,62-ია; დუპლექსსკანირებით ბარძაყ-მუხლქვეშა ს"
-        },
-        {
-          "n": 4,
-          "stem": "68 წლის მამაკაცს ტერფის შეუხორცებელი იშემიური წყლულისა და წვივის არტერიების ვრცელი ოკლუზიური დაზიანების გამო დისტალური შუნტირება ესაჭიროება. წინასაოპერაციო დუპლექსსკანირებით დიდი საჩინო ვენის დიამეტრი"
-        },
         {
           "n": 5,
           "stem": "72 წლის ქალს, რომელსაც შაქრიანი დიაბეტი და კიდურისთვის საფრთხის შემცველი ქრონიკული იშემია (CLTI) აქვს, ტერფის იშემიურ წყლულთან ერთად სველი განგრენა განუვითარდა. ტემპერატურა 38,5 °C-ია, ტერფის ღრმა სივ"
@@ -997,6 +989,14 @@
         {
           "n": 32,
           "stem": "25 წლის ქალს ბოლო ორი თვეა მარცხენა ზედა კიდურით მუშაობისას კუნთების სწრაფი დაღლა და ტკივილი აწუხებს, რასაც სუბფებრილური ცხელება და ღამის ოფლიანობა ერთვის. მარცხენა სხივის არტერიაზე პულსაცია მკვეთრად შესუსტებულია, ზედა კ"
+        },
+        {
+          "n": 33,
+          "stem": "70 წლის ქალს შაქრიანი დიაბეტი და ტერფის ძირის წყლული აქვს, რომელიც სათანადო ადგილობრივი მკურნალობის მიუხედავად ორი თვეა არ ხორცდება. გოჯ-მხრის ინდექსი (ABI) 1,32-ია, თუმცა ტერფის პირველი თითის სისტოლუ"
+        },
+        {
+          "n": 34,
+          "stem": "65 წლის მამაკაცს ბარძაყის ზედაპირული არტერიის გრძელი ქრონიკული ოკლუზიის გამო ენდოვასკულური რევასკულარიზაცია ჩაუტარდა. ექვსი თვის შემდეგ სიარულის მანძილი კვლავ შემცირდა, გოჯ-მხრის ინდექსი 0,91-დან 0,58"
         }
       ],
       "topic_rotation": "ABI/TBI და პერფუზია; Fontaine/Rutherford/WIfI/GLASS; ხანგამოშვებითი კოჭლობა და CLTI; დუპლექსი/CTA/MRA/DSA; ანტიაგრეგანტები/სტატინები/ვარჯიში; აორტა-თეძოს, ბარძაყ-მუხლქვეშა და წვივის სეგმენტები; ენდოვასკულური მკურნალობა/ავტოვენური შუნტირება; ჭრილობა/ინფექცია/ამპუტაცია/მეთვალყურეობა.",
@@ -1004,28 +1004,19 @@
       "guideline_check": "2024 ACC/AHA PAD guideline, 2024 ESVS asymptomatic PAD/intermittent claudication guideline და Global Vascular Guidelines CLTI; კლინიკური გადაწყვეტილება გადაამოწმე პირველწყაროებში.",
       "last_validation": {
         "range": [
-          28,
-          32
+          33,
+          34
         ],
-        "new_questions": 5,
-        "new_explanations": 5,
+        "new_questions": 2,
+        "new_explanations": 2,
         "numbering_continuous": true,
         "five_options_each": true,
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
-        "answer_distribution": {
-          "ა": 1,
-          "ბ": 1,
-          "გ": 1,
-          "დ": 1,
-          "ე": 1
-        },
-        "numeric_options_ascending": true,
         "clinical_self_review": "passed",
         "georgian_language_self_review": "passed",
-        "terminology_self_review": "passed (GLOSSARY.md)",
-        "semantic_duplication_review": "checked all 27 stored PAD_CLTI questions and cross-topic stems",
+        "semantic_duplication_review": "reviewed existing PAD_CLTI question stems",
         "previous_text_unchanged": true,
         "index_precheck": "matched"
       }
