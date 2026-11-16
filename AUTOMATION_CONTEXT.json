@@ -419,19 +419,11 @@
       "target": 900,
       "question_file": "CAROTID_VERTEBRAL_questions.txt",
       "explanation_file": "CAROTID_VERTEBRAL_explanations.txt",
-      "last_number": 114,
-      "question_blob_sha": "5bba62a5191c31a7e8a5791030126aa7b14e992f",
-      "explanation_blob_sha": "e683a0928584bc353e6edfe8b4b81005f825b2b4",
+      "last_number": 116,
+      "question_blob_sha": "33878265aac39eba2f106a70f126b03875894775",
+      "explanation_blob_sha": "cd85a1b7a978988562f9fac0995f82afe2a4f932",
       "last_full_audit_at": 100,
       "recent_stems": [
-        {
-          "n": 85,
-          "stem": "71 წლის პაციენტს ოფთალმოლოგმა მარჯვენა თვალის იშემიური სინდრომი დაუდასტურა; აღინიშნება ბადურის ჰიპოპერფუზია და საწყისი ნეოვასკულარიზაცია. CTA-ზე მარჯვენა შიგნითა საძილე არტერიის 85%-იანი სტენოზია, დისტალური კოლაფსის გარე"
-        },
-        {
-          "n": 86,
-          "stem": "64 წლის მამაკაცს ორი დღის წინ დიპლოპიისა და დიზართრიის ეპიზოდი ჰქონდა; MRI-ზე მარცხენა ნათხემში მცირე მწვავე ინფარქტი გამოვლინდა. CTA-ით დადასტურდა მარცხენა ხერხემლის არტერიის ქალასშიდა (V4) მონაკვეთის 80%-იანი ათეროსკლე"
-        },
         {
           "n": 87,
           "stem": "66 წლის ქალს ოთხი დღის წინ მეტყველების დარღვევისა და მარჯვენა ხელის სისუსტის 20-წუთიანი ეპიზოდი ჰქონდა. CTA-ზე მარცხენა შიგნითა საძილე არტერიის 80%-იანი სტენოზია NASCET-ის მიხედვით, დისტალური კოლაფსის გარეშე; MRI-ზე დიდი"
@@ -543,6 +535,14 @@
         {
           "n": 114,
           "stem": "67 წლის მამაკაცს ერთი თვის განმავლობაში დიპლოპიისა და ატაქსიის რამდენიმე გარდამავალი ეპიზოდი ჰქონდა. სისხლის ნაკადზე დამოკიდებული უკონტრასტო მაგნიტურ-რეზონანსული ანგიოგრაფიით (TOF-MRA) მარცხენა ხერხემლის არტერიის საწყის მონაკვეთში სიგნალის "
+        },
+        {
+          "n": 115,
+          "stem": "42 წლის ქალს CTA-ზე მარჯვენა საძილე გორგლის 2,8 სმ ზომის პარაგანგლიომა დაუდასტურდა. პლაზმაში თავისუფალი მეტანეფრინები ნორმის ფარგლებშია, სიმსივნე ცალმხრივია და ოჯახში მსგავსი დაავადება არავის ჰქონია. პაციენტის მემკვიდრეობითი რისკის შესაფასე"
+        },
+        {
+          "n": 116,
+          "stem": "63 წლის მამაკაცს ბოლო ათ დღეში მარცხენა ხელის სისუსტის ორი გარდამავალი ეპიზოდი ჰქონდა. CTA-ზე მარჯვენა შიგნითა საძილე არტერიის ექსტრაკრანიალურ მონაკვეთში 2,6 სმ ზომის ნამდვილი ანევრიზმა ჩანს, რომლის სანათურშიც კედელზე მიმაგრებული თრომბია. ს"
         }
       ],
       "topic_rotation": "TIA/ინსულტი; NASCET; CTA/MRA/დუპლექსი; CEA/CAS/TCAR დრო და არჩევანი; ფოლაქის მორფოლოგია; ანტითრომბოციტული მკურნალობა; პერიოპერაციული გართულებები; რესტენოზი; ხერხემლის არტერიის სტენოზი/დისექცია და უკანა ცირკულაცია; ESVS 2023 და უფრო ახალი წყაროები.",
@@ -550,8 +550,8 @@
       "guideline_check": "კლინიკურად სადავო გადაწყვეტილებაზე ერთმნიშვნელოვანი პასუხი არ ააგო; პირველწყარო ESVS/SVS და შესაბამისი გაიდლაინები გადაამოწმე, როცა საჭიროა.",
       "last_validation": {
         "range": [
-          113,
-          114
+          115,
+          116
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -561,9 +561,9 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed (carotid stump microembolism evidence; vertebral TOF-MRA flow signal artifact and confirmatory CTA)",
+        "clinical_self_review": "passed (head and neck paraganglioma germline testing consensus; symptomatic extracranial carotid aneurysm definitive exclusion preserving arterial patency)",
         "georgian_language_self_review": "passed",
-        "semantic_duplication_review": "Compared all 112 previous stems and recent 30 full questions. New decisions: residual internal carotid stump as ipsilateral recurrent embolic source; CTA confirmation of TOF-MRA vertebral stenosis artifact.",
+        "semantic_duplication_review": "Checked 114 existing stems and the recent 30 clinical questions. New decisions: germline testing despite apparently sporadic paraganglioma; symptomatic true extracranial carotid aneurysm embolic source requiring exclusion with patent ICA.",
         "previous_text_unchanged": true
       }
     },
