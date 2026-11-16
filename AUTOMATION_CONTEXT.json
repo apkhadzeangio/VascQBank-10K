@@ -1559,19 +1559,11 @@
       "target": 900,
       "question_file": "ANATOMY_IMAGING_questions.txt",
       "explanation_file": "ANATOMY_IMAGING_explanations.txt",
-      "last_number": 53,
-      "question_blob_sha": "5c72fa48a76d492e56afc3699b9fe6c89071b041",
-      "explanation_blob_sha": "cb3b8f464ff1afcdbc336c8473e90050aaa47521",
+      "last_number": 55,
+      "question_blob_sha": "dcdfa52fe8dfd9aa51f97f6b99a6118cd89e46f3",
+      "explanation_blob_sha": "034e6ce1d81bbd6db4c0b243905a6f120edc6837",
       "last_full_audit_at": 50,
       "recent_stems": [
-        {
-          "n": 24,
-          "stem": "მხრის ძვლის შუა მესამედის მოტეხილობის შემდეგ ჩატარებულ CTA-ზე სხივის ნერვის ღარის მიდამოში არტერიის დაზიანებაა ნავარაუდევი. რომელი არტერია გადის ჩვეულებრივ ამ ღარში სხივის ნერვთან ერთად?"
-        },
-        {
-          "n": 25,
-          "stem": "გულმკერდის CTA-ზე აორტის რკალის ქვედა ზედაპირთან, არტერიული სადინრის იოგის მიდამოში, ანევრიზმა ჩანს. პაციენტს ახლად განვითარებული ხმის ჩახლეჩვა აღენიშნება, ხოლო ლარინგოსკოპიით მარცხენა სახმო იოგის პარეზი დადასტურდა. რომელი ნერვის კომპრესია ხსნის ამ სიმპტომებს?"
-        },
         {
           "n": 26,
           "stem": "ზემო კიდურის იშემიის გამო ჩატარებულ CTA-ზე იღლიის არტერიის მეორე მონაკვეთის ქრონიკული ოკლუზია და ბეჭის უკანა ზედაპირზე გაფართოებული კოლატერალური ქსელი ჩანს. რომელი არტერია გადის ბეჭის უკანა ზედაპირზე, უერთდება ბეჭზედა არტერიას და ამ გზით იღლიის არტერიის დისტალური მონაკვეთის სისხლმომარაგებაში მონაწილეობს?"
@@ -1683,6 +1675,14 @@
         {
           "n": 53,
           "stem": "წვივის პროქსიმალურ ნაწილში ძვლოვანი რეკონსტრუქციის დაგეგმვისას CTA-ზე ჩანს მუხლქვეშა არტერიიდან გამომავალი ტოტი, რომელიც ძვალთაშუა აპკის ზედა ხვრელით წვივის წინა კუნთოვან-ფასციურ ბუდეში გადადის. რომელი არტერიაა ამ მონაკვეთში იატროგენული დაზიანების უშუალო რისკის ქვეშ?"
+        },
+        {
+          "n": 54,
+          "stem": "მენჯში სისხლდენის წყაროს დასადგენად ჩატარებულ CTA-ზე თეძოს შიგნითა არტერიის ტოტი დიდი საჯდომი ხვრელით, მსხლისებრი კუნთის ქვემოთ გადის, საჯდომი ძვლის წვეტს შემოუვლის და მცირე საჯდომი ხვრელით შორისის არეში შედის. რომელი არტერიაა სელექტიური ემბოლიზაციის სავარაუდო სამიზნე?"
+        },
+        {
+          "n": 55,
+          "stem": "კისრის MRI-ზე საძილე ბუდეში გამოვლინდა მკაფიოდ შემოსაზღვრული, ნელა მზარდი წარმონაქმნი, რომელიც შიგნითა საძილე არტერიას მედიალურად, შიგნითა საუღლე ვენას კი ლატერალურად გადააადგილებს და მათ შორის მანძილს ზრდის. რომელი ნერვული სტრუქტურიდან წარმოშობილი შვანომაა ყველაზე სავარაუდო?"
         }
       ],
       "topic_rotation": "№1–100 ძირითადი სისხლძარღვოვანი ანატომია; №101–180 ვარიაციები; №181–260 ჰემოდინამიკა; №261–360 დოპლერის საფუძვლები; №361–460 არტერიული დუპლექსსკანირება; №461–540 ვენური დუპლექსსკანირება; №541–630 CTA; №631–720 MRA, DSA, IVUS; №721–820 ოპერაციული დაგეგმვა; №821–900 ინტეგრირებული კლინიკური ვიზუალიზაცია. ზუსტად ორი კითხვა ყოველ ციკლში.",
@@ -1690,8 +1690,8 @@
       "guideline_check": "სტანდარტული ანატომია, ESVS/SVS/AIUM/IAC შესაბამისი წყაროები. არ გამოიგონო მეთოდოლოგიაზე დამოკიდებული PSV/EDV/PSVR ზღვრები.",
       "last_validation": {
         "range": [
-          52,
-          53
+          54,
+          55
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1701,33 +1701,33 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ა": 10,
-          "ბ": 10,
+          "ა": 11,
+          "ბ": 11,
           "გ": 11,
           "დ": 11,
           "ე": 11
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: hepatic artery proper relationship within hepatoduodenal ligament and proximal anterior tibial artery crossing interosseous membrane",
-        "terminology_self_review": "passed: glossary GENERAL/ANATOMY_IMAGING and Georgian anatomy reference",
-        "georgian_language_self_review": "passed: natural academic Georgian, homogenous response options",
-        "exam_technical_self_review": "passed: exactly two five-choice questions, one ASCII star each, two-sentence explanations",
-        "semantic_duplication_review": "all 51 stored stems and corresponding answer keys reviewed; no repeated decision",
+        "clinical_self_review": "passed: internal pudendal artery looping around ischial spine into lesser sciatic foramen; vagal schwannoma separating internal carotid artery and internal jugular vein",
+        "terminology_self_review": "passed: AGENTS.md v2.3, general and ANATOMY_IMAGING glossary; pudendal nomenclature matched related trauma glossary",
+        "georgian_language_self_review": "passed: concise academic Georgian and matched distractor types",
+        "exam_technical_self_review": "passed: exactly 2 items, each 5 labelled options, one ASCII asterisk, 2 sentences per explanation",
+        "semantic_duplication_review": "Compared all previously stored 53 stems and keys; no same anatomical target or diagnostic decision found",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              52
+              54
             ],
-            "source": "Surgical Anatomy of the Liver (2023)",
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10378601/"
+            "source": "Pelvic neurovascular anatomy and avascular spaces: a pictorial essay of key surgical landmarks (2026)",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13231030/"
           },
           {
             "questions": [
-              53
+              55
             ],
-            "source": "Anterior tibial artery, Kenhub (reviewed 2023)",
-            "url": "https://www.kenhub.com/en/library/anatomy/anterior-tibial-artery"
+            "source": "Differentiation between schwannoma of the vagus nerve and schwannoma of the cervical sympathetic chain by imaging diagnosis",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8948621/"
           }
         ]
       }
