@@ -252,19 +252,11 @@
       "target": 1200,
       "question_file": "AAA_EVAR_questions.txt",
       "explanation_file": "AAA_EVAR_explanations.txt",
-      "last_number": 107,
-      "question_blob_sha": "217bcf369d906acc2196100dca50303307b5111e",
-      "explanation_blob_sha": "5a6342537514cadc822cf8b0dea73bccbd78dccb",
+      "last_number": 109,
+      "question_blob_sha": "23e9d80f792c8f1cc6ebff7c9d3f64492f45972d",
+      "explanation_blob_sha": "d1e74acaefde42974e818059029f416030e860d4",
       "last_full_audit_at": 100,
       "recent_stems": [
-        {
-          "n": 78,
-          "stem": "მუცლის აორტის ანევრიზმის გეგმიური მკურნალობის წინ პაციენტს ნევროლოგიური ჩივილები არ აქვს; ინსულტი, გარდამავალი იშემიური შეტევა და გარდამავალი მონოკულური სიბრმავე არ გადაუტანია. საძილე არტერიების კვლევ"
-        },
-        {
-          "n": 79,
-          "stem": "მუცლის აორტის ანევრიზმის გეგმიური ღია პროთეზირებისას პაციენტს ნაზოგასტრალური ზონდი ჩაუდგეს. ოპერაციის შემდეგ პაციენტი ექსტუბირებულია, გონზეა და ჰემოდინამიკურად სტაბილურია; გულისრევა, ღებინება და მუცლი"
-        },
         {
           "n": 80,
           "stem": "EVAR-იდან სამი წლის შემდეგ პაციენტს განმეორებითი ცხელება და ანთებითი მაჩვენებლების მატება აღენიშნება; სხვა ინფექციური კერა ვერ მოიძებნა. CTA-ზე ენდოპროთეზის გარშემო მცირე ინფილტრაციაა, თუმცა ინფექციის"
@@ -376,41 +368,49 @@
         {
           "n": 107,
           "stem": "70 წლის მამაკაცს მუცლის აორტის პარარენალური ანევრიზმის ფენესტრირებული და განშტოებიანი ენდოპროთეზით მკურნალობა ესაჭიროება. წარსულში გულმკერდის დასწვრივი აორტის ნაწილი ენდოპროთეზით აქვს დაფარული. CTA-ის"
+        },
+        {
+          "n": 108,
+          "stem": "EVAR-იდან ხუთი წლის შემდეგ 73 წლის მამაკაცს ანევრიზმული ტომრის დიამეტრი, ერთნაირი მეთოდით გაზომვით, 49 მმ-დან 63 მმ-მდე გაეზარდა. მრავალფაზიან CTA-ზე, მიკრობუშტუკოვანი კონტრასტით გაძლიერებულ ულტრაბგერ"
+        },
+        {
+          "n": 109,
+          "stem": "68 წლის მამაკაცს განმეორებითი ძლიერი წელის ტკივილი აქვს. CTA-ზე მუცლის აორტის ინფრარენალურ მონაკვეთში მაპენეტრირებელი წყლული გამოვლინდა, რომელსაც პერიაორტული ფსევდოანევრიზმა ახლავს. ინფექციური და ტრავ"
         }
       ],
-      "topic_rotation": "მუცლის აორტის ანევრიზმა, FEVAR/BEVAR სამიზნე არტერიების შეერთების ენდოლიკები, პროქსიმალური/დისტალური ჰერმეტიზაცია, ზურგის ტვინის პერფუზიის დაცვა, EVAR-ის მეთვალყურეობა და ღია პროთეზირება.",
+      "topic_rotation": "EVAR-ის შემდგომი ანევრიზმული ტომრის ზრდა ხილული ენდოლიკის გარეშე (V ტიპის ენდოლიკი); გართულებული ინფრარენალური აორტის მაპენეტრირებელი წყლულის ენდოვასკულური მკურნალობა; მომდევნო ციკლებში ყურადღება მიექცეს განსხვავებულ ოპერაციულ ანატომიასა და ტექნიკურ გართულებებს.",
       "linguistic_note": "„რუპტურირებული“, „გადარჩენადობა“, „სიკვდილისგან თავისუფალი“ — არ გამოიყენო; surgical repair აღწერე როგორც რეკონსტრუქცია/პროთეზირება/მკურნალობა და არა „აღდგენა“.",
-      "guideline_check": "ESVS 2024 AAA Guideline: §8.2.2, Fig. 10 (IIIc ტიპის ენდოლიკი), Recommendation 117 (აორტის გადაფარვის შეზღუდვა); CIRSE Standards 2024 §Type III Endoleak Management.",
+      "guideline_check": "ESVS 2024 AAA §7.2.6.5 და რეკომენდაციები 110–111 (ენდოტენზია); §10.3 და რეკომენდაცია 149 (გართულებული მაპენეტრირებელი წყლული). პირველწყარო: https://cprv.fr/aneurism-esvs-2024.pdf",
       "last_validation": {
         "range": [
-          106,
-          107
+          108,
+          109
         ],
         "new_questions": 2,
         "new_explanations": 2,
-        "clinical_self_review": "passed",
-        "georgian_language_self_review": "passed",
+        "clinical_self_review": "passed; primary ESVS 2024 recommendations 110,111,149 checked",
+        "georgian_language_self_review": "passed; general, AAA and adjacent thoracic glossary headings checked",
         "numbering_continuous": true,
         "options_each": 5,
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
-        "semantic_duplication_review": "Historical question stems and most recent 30 full cases checked: distinct IIIc bridging-stent junction repair and prevention of spinal cord ischemia by limiting aortic coverage",
+        "semantic_duplication_review": "Historical stems and most recent 30 full questions examined. Differentiates multi-imaging endotension diagnosis from earlier occult-leak workup, and complicated penetrating ulcer treatment from prior saccular AAA.",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              106
+              108
             ],
-            "source": "ESVS 2024 AAA guidelines p266, Fig. 10; CIRSE Standards of Practice on Management of Endoleaks 2024",
-            "url": "https://orbi.uliege.be/bitstream/2268/317270/1/A.Wanhainen_Eur%20J%20Endovasc%20Surg%20%282024%29%2067%2C%20192-331.pdf"
+            "source": "ESVS 2024 AAA, section 7.2.6.5; recommendations 110–111",
+            "url": "https://cprv.fr/aneurism-esvs-2024.pdf"
           },
           {
             "questions": [
-              107
+              109
             ],
-            "source": "ESVS 2024 AAA guideline recommendation 117, p266",
-            "url": "https://orbi.uliege.be/bitstream/2268/317270/1/A.Wanhainen_Eur%20J%20Endovasc%20Surg%20%282024%29%2067%2C%20192-331.pdf"
+            "source": "ESVS 2024 AAA, recommendation 149, p.281",
+            "url": "https://cprv.fr/aneurism-esvs-2024.pdf"
           }
         ]
       }
