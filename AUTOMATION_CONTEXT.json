@@ -392,19 +392,11 @@
       "target": 900,
       "question_file": "CAROTID_VERTEBRAL_questions.txt",
       "explanation_file": "CAROTID_VERTEBRAL_explanations.txt",
-      "last_number": 157,
-      "question_blob_sha": "26e3ac2e8154852bc207b6e41e2215cbc9d6262f",
-      "explanation_blob_sha": "2dfdb10a6d1d2f23a288f10cddf92ce0b5d43e16",
+      "last_number": 159,
+      "question_blob_sha": "2cd2606684fb21d18cb59052d6a52188ae2939f4",
+      "explanation_blob_sha": "3249989209b2883f79a3c1a6c8d54be55da07024",
       "last_full_audit_at": 150,
       "recent_stems": [
-        {
-          "n": 128,
-          "stem": "66 წლის მამაკაცს ექვსი დღის წინ მარცხენა თვალში მხედველობა 15 წუთით დაეკარგა. CTA-ზე მარცხენა შიგნითა საძილე არტერიის 55%-იანი სტენოზია NASCET-ის მიხედვით; დისტალური კოლაფსი, დისექცია და კარდიოემბოლიური წყარო არ გამოვლენ"
-        },
-        {
-          "n": 129,
-          "stem": "62 წლის პაციენტმა დილით გაღვიძებისას აღმოაჩინა მარჯვენამხრივი სისუსტე და აფაზია; ბოლოს სიმპტომების გარეშე რვა საათის წინ ნახეს, სიმპტომის აღმოჩენიდან კი 90 წუთია გასული. CT-ზე სისხლჩაქცევა არ ჩანს, CTA-ზე მსხვილი არტერიი"
-        },
         {
           "n": 130,
           "stem": "57 წლის პაციენტს სამი საათის წინ მწვავე მაინვალიდებელი აფაზია და მარჯვენა ხელის სისუსტე განუვითარდა. CT-ზე სისხლჩაქცევა არ ჩანს, გლუკოზა ნორმაშია და ინტრავენური თრომბოლიზის უკუჩვენება არ აღენიშნება. AHA/ASA-ის 2026 წლის "
@@ -516,6 +508,14 @@
         {
           "n": 157,
           "stem": "74 წლის მამაკაცს მარჯვენა შიგნითა საძილე არტერიის 85%-იანი უსიმპტომო სტენოზი აქვს. MRI-ზე ფოლაქში სისხლჩაქცევა გამოვლინდა, თუმცა გარდამავალი იშემიური შეტევა, მხედველობის გარდამავალი დაკარგვა ან ინსულტი არ ჰქონია. პაციენტ"
+        },
+        {
+          "n": 158,
+          "stem": "71 წლის მამაკაცს მარცხენა საძილე არტერიის ენდარტერექტომიის დასრულებისას საკონტროლო დუპლექსსკანირება ჩაუტარდა. შიგნითა საძილე არტერიის დისტალურ, მკვეთრად მოხრილ მონაკვეთში პიკური სისტოლური სიჩქარე 270 სმ/წმ-ია, თუმცა B-რეჟიმში სანა"
+        },
+        {
+          "n": 159,
+          "stem": "74 წლის მამაკაცს ოთხი დღის წინ მარჯვენა ხელის სისუსტისა და აფაზიის 20-წუთიანი ეპიზოდი ჰქონდა, რომელიც სრულად ალაგდა. CTA-ზე მარცხენა შიგნითა საძილე არტერიის 75%-იანი, ხოლო მარჯვენა შიგნითა საძილე არტერიის 90%-იანი ათეროსკლეროზული "
         }
       ],
       "topic_rotation": "TIA/ინსულტი; NASCET; CTA/MRA/დუპლექსი; CEA/CAS/TCAR დრო და არჩევანი; ფოლაქის მორფოლოგია; ანტითრომბოციტული მკურნალობა; პერიოპერაციული გართულებები; რესტენოზი; ხერხემლის არტერიის სტენოზი/დისექცია და უკანა ცირკულაცია; ESVS 2023 და უფრო ახალი წყაროები.",
@@ -523,8 +523,8 @@
       "guideline_check": "კლინიკურად სადავო გადაწყვეტილებაზე ერთმნიშვნელოვანი პასუხი არ ააგო; პირველწყარო ESVS/SVS და შესაბამისი გაიდლაინები გადაამოწმე, როცა საჭიროა.",
       "last_validation": {
         "range": [
-          156,
-          157
+          158,
+          159
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -534,14 +534,14 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ა": 1,
-          "ე": 1
+          "ბ": 1,
+          "გ": 1
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed; ESVS 2023 and JVS 2017 technique checked",
+        "clinical_self_review": "passed; ESVS 2023 / ESO 2021 and intraoperative duplex outcome literature reviewed",
         "georgian_language_self_review": "passed",
         "terminology_self_review": "passed (GLOSSARY.md)",
-        "semantic_duplication_review": "reviewed all 155 existing question stems and recent 30 full questions",
+        "semantic_duplication_review": "compared with 157 existing questions, last 30 complete blocks and recent stems",
         "previous_text_unchanged": true,
         "index_precheck": "matched"
       }
