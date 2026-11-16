@@ -1259,9 +1259,9 @@
       "target": 650,
       "question_file": "VASCULAR_TRAUMA_questions.txt",
       "explanation_file": "VASCULAR_TRAUMA_explanations.txt",
-      "last_number": 16,
-      "question_blob_sha": "544d13b7d732ebbdf22f9078a23b6d12994ddcdc",
-      "explanation_blob_sha": "8d53201499fc5b1d6d3df648d90278ba9ce68a6e",
+      "last_number": 18,
+      "question_blob_sha": "80e62aaa6c12943ad886a483fe1b61341d972be1",
+      "explanation_blob_sha": "f12295dee90e68a9e2283060abe67605454437b4",
       "last_full_audit_at": 2,
       "recent_stems": [
         {
@@ -1327,6 +1327,14 @@
         {
           "n": 16,
           "stem": "35 წლის მამაკაცს რამდენიმე წლის წინ მარჯვენა თირკმელი ამოკვეთეს. ავტოსაგზაო შემთხვევიდან 90 წუთში ჩატარებულ CTA-ზე მარცხენა თირკმლის არტერიის პროქსიმალური მონაკვეთის ტრავმული ოკლუზ"
+        },
+        {
+          "n": 17,
+          "stem": "36 წლის მამაკაცს კისრის მარცხენა მხარეს მიყენებული ნაჩხვლეტ-ნაკვეთი ჭრილობის შემდეგ კისრის ტკივილი აღენიშნება. CTA-ზე ხერხემლის მარცხენა არტერიის V2 მონაკვეთის ფსევდოანევრიზმა გამო"
+        },
+        {
+          "n": 18,
+          "stem": "44 წლის მამაკაცს მუცლის შემავალი ტრავმის გამო გადაუდებელი ლაპაროტომია უტარდება. გამოვლენილია თირკმლის არტერიების ქვემოთ აორტის სეგმენტური დაზიანება და წვრილი ნაწლავის პერფორაცია მუ"
         }
       ],
       "topic_rotation": "ბლაგვი და შემავალი ტრავმა; სისხლძარღვის დაზიანების სარწმუნო და სავარაუდო ნიშნები; ჰემოდინამიკური სტაბილურობა; CTA და გადაუდებელი ოპერაცია; კისრის, გულმკერდის, მუცლის, მენჯისა და კიდურების სისხლძარღვები; სისხლდენის კონტროლი და დაზიანების კონტროლის ქირურგია; დროებითი ინტრავასკულური შუნტი; არტერიული/ვენური რეკონსტრუქცია; ენდოვასკულური ჩარევა; კომპარტმენტ-სინდრომი და ფასციოტომია; რეპერფუზია; იატროგენული ტრავმა; მეთვალყურეობა.",
@@ -1334,8 +1342,8 @@
       "guideline_check": "ESVS 2025 Clinical Practice Guidelines on the Management of Vascular Trauma (Wahlgren et al., EJVES 69:179–237), DOI 10.1016/j.ejvs.2024.12.018; ყურადღება მიაქციე რეკომენდაციებს 9, 19, 20, 82–86.",
       "last_validation": {
         "range": [
-          15,
-          16
+          17,
+          18
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1345,35 +1353,34 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ა": 4,
-          "ბ": 3,
-          "გ": 3,
-          "დ": 3,
-          "ე": 3
+          "ა": 0,
+          "ბ": 1,
+          "გ": 0,
+          "დ": 0,
+          "ე": 1
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: ESVS 2025 recommendations 80 and 78 with scenario-specific physiology and anatomy",
+        "clinical_self_review": "passed",
         "georgian_language_self_review": "passed",
-        "terminology_self_review": "passed: GLOSSARY.md GENERAL and VASCULAR_TRAUMA",
-        "semantic_duplication_review": "passed: #15 stable contained infrarenal IVC injury non-operative care; #16 solitary salvageable kidney with traumatic renal artery occlusion revascularisation, not previously covered",
+        "semantic_duplication_review": "№1–16 თემატურად შემოწმებულია; №17 ხერხემლის არტერიის მზარდი ფსევდოანევრიზმის ენდოვასკულურ მკურნალობას ეხება, №18 კი აორტის რეკონსტრუქციის მასალის არჩევას თანმხლები ნაწლავის დაზიანებისას.",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              15
+              17
             ],
-            "source": "ESVS 2025 Vascular Trauma Guidelines, Recommendation 80 (Class IIa, Level C)",
+            "source": "ESVS 2025 Clinical Practice Guidelines on the Management of Vascular Trauma, Recommendation 24 (Class IIa, Level C)",
             "url": "https://doi.org/10.1016/j.ejvs.2024.12.018"
           },
           {
             "questions": [
-              16
+              18
             ],
-            "source": "ESVS 2025 Vascular Trauma Guidelines, Recommendation 78 (Class I, Level C)",
+            "source": "ESVS 2025 Clinical Practice Guidelines on the Management of Vascular Trauma, Recommendation 66 (Class I, Level C)",
             "url": "https://doi.org/10.1016/j.ejvs.2024.12.018"
           }
         ],
-        "academic_refinement": "15 — გათვალისწინებულია სტაბილური ჰემოდინამიკა, აქტიური ექსტრავაზაციის არარსებობა და ოპერაციის სხვა ჩვენების არქონა; 16 — ერთადერთი ფუნქციური თირკმელი, შენარჩუნებული ნაწილობრივი პერფუზია და ენდოვასკულურად შესაფერისი არტერია."
+        "academic_refinement": "ორივე კითხვა პროფესიულ კლინიკურ გადაწყვეტილებას ამოწმებს; სარწმუნო ალტერნატივები, გლოსარიუმის შესაბამისი ქართული და ორწინადადებიანი განმარტებები შემოწმებულია."
       }
     },
     "ANATOMY_IMAGING": {
