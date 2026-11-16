@@ -1470,19 +1470,11 @@
       "target": 900,
       "question_file": "ANATOMY_IMAGING_questions.txt",
       "explanation_file": "ANATOMY_IMAGING_explanations.txt",
-      "last_number": 31,
-      "question_blob_sha": "8ee11212d3207fbc2fa3f26199a96ada95630ede",
-      "explanation_blob_sha": "39640e42fb92eb3d647949cbeb1094f42c9bf64e",
+      "last_number": 33,
+      "question_blob_sha": "483184a7701a0cfc7f9248c01b189304401002fd",
+      "explanation_blob_sha": "8fbf523a19f183e120454f4a9ec861ba4604231c",
       "last_full_audit_at": 2,
       "recent_stems": [
-        {
-          "n": 2,
-          "stem": "მუცლის ღრუს CTA-ზე მარცხენა თირკმლის ვენა აორტის წინა ზედაპირს კვეთს და ქვედა ღრუ ვენაში ჩაედინება. რომელი არტერიის უკან გადის ვენა ამ მონაკვეთში ჩვეულებრივი ანატომიისას?"
-        },
-        {
-          "n": 3,
-          "stem": "კაროტიდულ DSA-ზე საერთო საძილე არტერიის ბიფურკაციის ზემოთ მდებარე ერთ-ერთი არტერიიდან ენისა და სახის არტერიები გამოიყოფა. რომელი სისხლძარღვია ამ ტოტების წყარო ჩვეულებრივი ანატომიისას?"
-        },
         {
           "n": 4,
           "stem": "მუხლქვეშა არტერიის DSA-ზე დიდი წვივის წინა არტერიის სათავე ჩანს, მის ქვემოთ კი ტიბიოპერონეული ღერო ორ ტოტად იყოფა. რომელი არტერიაა ამ ღეროს მეორე საბოლოო ტოტი დიდი წვივის უკანა არტერიასთან ერთად?"
@@ -1594,6 +1586,14 @@
         {
           "n": 31,
           "stem": "ქვედა კიდურის CTA-სა და DSA-ზე ბარძაყის ზედაპირული არტერიის ათეროსკლეროზული სტენოზი და ოკლუზია ყველაზე ხშირად მომზიდველი კუნთების არხის (ჰანტერის არხის) დისტალურ გასავალთან ვლინდება, სადაც არტერია მუხლქვეშა ფოსოში გადადი"
+        },
+        {
+          "n": 32,
+          "stem": "ბარძაყის საერთო არტერიის პერკუტანული პუნქციის წინ ულტრაბგერით დადგინდა, რომ არტერიის მონიშნული პუნქციის ადგილი საზარდულის იოგის ზემოთ, თეძოს გარეთა არტერიის მონაკვეთშია. თუ პუნქცია ამ დონეზე შესრულდება, რომელ სივრცეში სისხლდენის განვითარების რისკია განსაკუთრებით მნიშვნელოვანი, რადგან არტერიის გარედან ძვალზე გადაჭერა შეუძლებელია?"
+        },
+        {
+          "n": 33,
+          "stem": "აორტისა და ქვედა ღრუ ვენის მიმდებარე სისხლძარღვების ოპერაციული გამოყოფის წინ CTA-ზე მარჯვენა თირკმლისკენ მიმავალი არტერიის ჩვეულებრივი მდებარეობა განისაზღვრა. რომელი არტერია გადის აორტიდან ქვედა ღრუ ვენის უკან, მარჯვენა თირკმლის კარისკენ?"
         }
       ],
       "topic_rotation": "№1–100 ძირითადი სისხლძარღვოვანი ანატომია; №101–180 ვარიაციები; №181–260 ჰემოდინამიკა; №261–360 დოპლერის საფუძვლები; №361–460 არტერიული დუპლექსსკანირება; №461–540 ვენური დუპლექსსკანირება; №541–630 CTA; №631–720 MRA, DSA, IVUS; №721–820 ოპერაციული დაგეგმვა; №821–900 ინტეგრირებული კლინიკური ვიზუალიზაცია. ზუსტად ორი კითხვა ყოველ ციკლში.",
@@ -1601,30 +1601,46 @@
       "guideline_check": "სტანდარტული ანატომია, ESVS/SVS/AIUM/IAC შესაბამისი წყაროები. არ გამოიგონო მეთოდოლოგიაზე დამოკიდებული PSV/EDV/PSVR ზღვრები.",
       "last_validation": {
         "range": [
-          27,
-          31
+          32,
+          33
         ],
-        "new_questions": 5,
-        "new_explanations": 5,
+        "new_questions": 2,
+        "new_explanations": 2,
         "numbering_continuous": true,
         "five_options_each": true,
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ა": 1,
-          "ბ": 1,
-          "გ": 1,
-          "დ": 1,
-          "ე": 1
+          "ა": 6,
+          "ბ": 7,
+          "გ": 7,
+          "დ": 6,
+          "ე": 7
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed",
+        "clinical_self_review": "passed: high external iliac puncture and retroperitoneal hemorrhage; right renal artery passes posterior to IVC",
+        "terminology_self_review": "passed: current AGENTS.md and GLOSSARY.md GENERAL/ANATOMY_IMAGING",
         "georgian_language_self_review": "passed",
-        "terminology_self_review": "passed (GLOSSARY.md)",
-        "semantic_duplication_review": "checked all 26 stored ANATOMY_IMAGING questions and cross-topic stems",
+        "exam_technical_self_review": "passed",
+        "semantic_duplication_review": "compared all 31 existing stems and full recent cases; different questions than femoral vein relation #8 or renal hilum ordering #20",
         "previous_text_unchanged": true,
-        "index_precheck": "matched"
+        "source_checks": [
+          {
+            "questions": [
+              32
+            ],
+            "source": "Understanding Cardiac Anatomy and Imaging to Improve Safety of Procedures: The Femoral Artery and Vein: Part 2",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11646903/"
+          },
+          {
+            "questions": [
+              33
+            ],
+            "source": "Anatomy, Abdomen and Pelvis, Renal Artery",
+            "url": "https://www.ncbi.nlm.nih.gov/books/NBK459158/"
+          }
+        ]
       }
     },
     "PERIOPERATIVE": {
