@@ -392,19 +392,11 @@
       "target": 900,
       "question_file": "CAROTID_VERTEBRAL_questions.txt",
       "explanation_file": "CAROTID_VERTEBRAL_explanations.txt",
-      "last_number": 159,
-      "question_blob_sha": "2cd2606684fb21d18cb59052d6a52188ae2939f4",
-      "explanation_blob_sha": "3249989209b2883f79a3c1a6c8d54be55da07024",
+      "last_number": 161,
+      "question_blob_sha": "01be61ab4fee4a81baa9e0af25181d3a565505c6",
+      "explanation_blob_sha": "25ef973d25068f7d16c7551f66ff32883b5ad178",
       "last_full_audit_at": 150,
       "recent_stems": [
-        {
-          "n": 130,
-          "stem": "57 წლის პაციენტს სამი საათის წინ მწვავე მაინვალიდებელი აფაზია და მარჯვენა ხელის სისუსტე განუვითარდა. CT-ზე სისხლჩაქცევა არ ჩანს, გლუკოზა ნორმაშია და ინტრავენური თრომბოლიზის უკუჩვენება არ აღენიშნება. AHA/ASA-ის 2026 წლის "
-        },
-        {
-          "n": 131,
-          "stem": "73 წლის მამაკაცს მარცხენა პარკუჭის განდევნის ფრაქცია 20% აქვს. დუპლექსსკანირებით მარჯვენა შიგნითა საძილე არტერიის პიკური სისტოლური სიჩქარე 110 სმ/წმ-ია, თუმცა B-რეჟიმში ფოლაქი სანათურს მკვეთრად ავიწროებს; ხარისხიან CTA-ზ"
-        },
         {
           "n": 132,
           "stem": "69 წლის მამაკაცს სამი დღის წინ გარდამავალი აფაზია ჰქონდა და CTA-ზე შესაბამისი შიგნითა საძილე არტერიის 80%-იანი სტენოზი დაუდასტურდა. კაროტიდული ენდარტერექტომია უახლოეს დღეებში უნდა ჩატარდეს; CT-ზე ინტრაკრანიალური სისხლჩაქ"
@@ -516,6 +508,14 @@
         {
           "n": 159,
           "stem": "74 წლის მამაკაცს ოთხი დღის წინ მარჯვენა ხელის სისუსტისა და აფაზიის 20-წუთიანი ეპიზოდი ჰქონდა, რომელიც სრულად ალაგდა. CTA-ზე მარცხენა შიგნითა საძილე არტერიის 75%-იანი, ხოლო მარჯვენა შიგნითა საძილე არტერიის 90%-იანი ათეროსკლეროზული "
+        },
+        {
+          "n": 160,
+          "stem": "72 წლის მამაკაცს სამი დღის წინ მარჯვენა ხელის სისუსტისა და აფაზიის 15-წუთიანი ეპიზოდი ჰქონდა. CTA-ზე მარცხენა საერთო საძილე არტერიის აორტიდან გამოსვლის ადგილზე 85%-იანი, ხოლო იმავე მხარის შიგნითა საძილე არტერიის საწყის მ"
+        },
+        {
+          "n": 161,
+          "stem": "68 წლის მამაკაცს მძიმე სამძარღვოვანი კორონარული დაავადების გამო გეგმიური აორტოკორონარული შუნტირება ესაჭიროება. კარდიოქირურგიული გუნდი მარცხენა შიგნითა გულმკერდის არტერიის გამოყენებას გეგმავს წინა დაღმავალ კორონარულ არტერ"
         }
       ],
       "topic_rotation": "TIA/ინსულტი; NASCET; CTA/MRA/დუპლექსი; CEA/CAS/TCAR დრო და არჩევანი; ფოლაქის მორფოლოგია; ანტითრომბოციტული მკურნალობა; პერიოპერაციული გართულებები; რესტენოზი; ხერხემლის არტერიის სტენოზი/დისექცია და უკანა ცირკულაცია; ESVS 2023 და უფრო ახალი წყაროები.",
@@ -523,8 +523,8 @@
       "guideline_check": "კლინიკურად სადავო გადაწყვეტილებაზე ერთმნიშვნელოვანი პასუხი არ ააგო; პირველწყარო ESVS/SVS და შესაბამისი გაიდლაინები გადაამოწმე, როცა საჭიროა.",
       "last_validation": {
         "range": [
-          158,
-          159
+          160,
+          161
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -534,14 +534,14 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ბ": 1,
-          "გ": 1
+          "ა": 1,
+          "ე": 1
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed; ESVS 2023 / ESO 2021 and intraoperative duplex outcome literature reviewed",
+        "clinical_self_review": "passed (ESVS 2023 Section 10.6; ESC 2024 Section 8.3.1.2)",
         "georgian_language_self_review": "passed",
         "terminology_self_review": "passed (GLOSSARY.md)",
-        "semantic_duplication_review": "compared with 157 existing questions, last 30 complete blocks and recent stems",
+        "semantic_duplication_review": "compared full stored questions, recent 30 questions and recent_stems; #105 differs as post-CABG coronary steal, not pre-CABG prophylaxis",
         "previous_text_unchanged": true,
         "index_precheck": "matched"
       }
