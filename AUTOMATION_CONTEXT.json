@@ -392,19 +392,11 @@
       "target": 900,
       "question_file": "CAROTID_VERTEBRAL_questions.txt",
       "explanation_file": "CAROTID_VERTEBRAL_explanations.txt",
-      "last_number": 143,
-      "question_blob_sha": "ad651fba349cf1afb9ad6f18758fd4db3c9c909c",
-      "explanation_blob_sha": "d5e4e44fd9c1f8a49c16677aa94d48863bf5e654",
+      "last_number": 145,
+      "question_blob_sha": "e3028b22b5c37fc845db0671130acaf1eab3a041",
+      "explanation_blob_sha": "29b68371817ced974c37ffa9748190e29f620f1a",
       "last_full_audit_at": 100,
       "recent_stems": [
-        {
-          "n": 114,
-          "stem": "67 წლის მამაკაცს ერთი თვის განმავლობაში დიპლოპიისა და ატაქსიის რამდენიმე გარდამავალი ეპიზოდი ჰქონდა. სისხლის ნაკადზე დამოკიდებული უკონტრასტო მაგნიტურ-რეზონანსული ანგიოგრაფიით (TOF-MRA) მარცხენა ხერხემლის არტერიის საწყის "
-        },
-        {
-          "n": 115,
-          "stem": "42 წლის ქალს CTA-ზე მარჯვენა საძილე გორგლის 2,8 სმ ზომის პარაგანგლიომა დაუდასტურდა. პლაზმაში თავისუფალი მეტანეფრინები ნორმის ფარგლებშია, სიმსივნე ცალმხრივია და ოჯახში მსგავსი დაავადება არავის ჰქონია. პაციენტის მემკვიდრეო"
-        },
         {
           "n": 116,
           "stem": "63 წლის მამაკაცს ბოლო ათ დღეში მარცხენა ხელის სისუსტის ორი გარდამავალი ეპიზოდი ჰქონდა. CTA-ზე მარჯვენა შიგნითა საძილე არტერიის ექსტრაკრანიალურ მონაკვეთში 2,6 სმ ზომის ნამდვილი ანევრიზმა ჩანს, რომლის სანათურშიც კედელზე მი"
@@ -516,6 +508,14 @@
         {
           "n": 143,
           "stem": "72 წლის მამაკაცს მარცხენა კაროტიდული ენდარტერექტომიიდან ექვსი საათის შემდეგ არტერიული წნევა 75/45 mmHg-მდე დაუქვეითდა და მარჯვენა ხელის სისუსტე განუვითარდა. გადაუდებელ CT-ზე სისხლჩაქცევა არ ჩანს; CTA-ზე ოპერირებული "
+        },
+        {
+          "n": 144,
+          "stem": "69 წლის ქალს უეცრად აფაზია და მარჯვენამხრივი ჰემიპარეზი განუვითარდა. ერთფაზიან CTA-ზე მარცხენა შიგნითა საძილე არტერია კისრის მონაკვეთში ბიფურკაციის ზემოთ კონტრასტით არ ივსება, ამავე არტერიის ინტრაკრანიალური ბოლო კი ოკლუზ"
+        },
+        {
+          "n": 145,
+          "stem": "კლასიკური კაროტიდული ენდარტერექტომიის შემდეგ არტერიოტომია ნაფლეთით დაიხურა, დროებითი შუნტი ამოღებულია და რეკონსტრუირებული სანათურიდან უკუქცევითი სისხლით გამორეცხვითა და ჰეპარინიზებული ხსნარით შესაძლო ნაწილაკები და ჰაერი "
         }
       ],
       "topic_rotation": "TIA/ინსულტი; NASCET; CTA/MRA/დუპლექსი; CEA/CAS/TCAR დრო და არჩევანი; ფოლაქის მორფოლოგია; ანტითრომბოციტული მკურნალობა; პერიოპერაციული გართულებები; რესტენოზი; ხერხემლის არტერიის სტენოზი/დისექცია და უკანა ცირკულაცია; ESVS 2023 და უფრო ახალი წყაროები.",
@@ -523,8 +523,8 @@
       "guideline_check": "კლინიკურად სადავო გადაწყვეტილებაზე ერთმნიშვნელოვანი პასუხი არ ააგო; პირველწყარო ESVS/SVS და შესაბამისი გაიდლაინები გადაამოწმე, როცა საჭიროა.",
       "last_validation": {
         "range": [
-          142,
-          143
+          144,
+          145
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -534,14 +534,14 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "გ": 1,
-          "ა": 1
+          "ბ": 1,
+          "დ": 1
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed (Biffl III pseudoaneurysm; post-CEA hypotensive watershed hypoperfusion; verified EAST/WTA and ESVS)",
+        "clinical_self_review": "passed (multiphasic CTA pseudo-occlusion: Stroke 2020 PMID 32586224; sequential CEA declamping: SBACV 2024)",
         "georgian_language_self_review": "passed",
         "terminology_self_review": "passed (GLOSSARY.md)",
-        "semantic_duplication_review": "compared 141 prior topic question stems and last 30 complete questions",
+        "semantic_duplication_review": "compared all 143 prior topic question stems, last 30 questions/explanations and recent_stems",
         "previous_text_unchanged": true,
         "index_precheck": "matched"
       }
