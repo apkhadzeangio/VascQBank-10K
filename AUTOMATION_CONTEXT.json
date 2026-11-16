@@ -1046,19 +1046,11 @@
       "target": 650,
       "question_file": "DIALYSIS_ACCESS_questions.txt",
       "explanation_file": "DIALYSIS_ACCESS_explanations.txt",
-      "last_number": 52,
-      "question_blob_sha": "c833e44b88c611762314f4a81619262e1fdf5f97",
-      "explanation_blob_sha": "dedfbad80b83f8276a82ee561f53c55689c92ed2",
+      "last_number": 54,
+      "question_blob_sha": "2d4e9f75f7013a4b3fa21dc9c7e9ead4b9bfa525",
+      "explanation_blob_sha": "49b76ab2fabd34d9b42a506240d510e8d19b0ab0",
       "last_full_audit_at": 50,
       "recent_stems": [
-        {
-          "n": 23,
-          "stem": "58 წლის პაციენტს წინამხრის დისტალურ მესამედში, მაჯის დონეზე, რადიოცეფალური არტერიოვენური ფისტულა შეუქმნეს. ოპერაციის მეორე დღეს პაციენტი აღნიშნავს დაბუჟებასა და წვის შეგრძნებას მტევნის ზურგის სხივისმხრივ ზედაპირსა და ცერ"
-        },
-        {
-          "n": 24,
-          "stem": "63 წლის პაციენტს თირკმლის ტერმინალური უკმარისობის პროგრესირების გამო ჰემოდიალიზის დაწყება 48–72 საათში ესაჭიროება. დუპლექსსკანირებით ორივე ზედა კიდურის კანქვეშა ვენები აუტოლოგიური ფისტულის შესაქმნელად გამოუსადეგარია, ხოლ"
-        },
         {
           "n": 25,
           "stem": "60 წლის პაციენტი ორი წელია ჰემოდიალიზს მარცხენა რადიოცეფალური არტერიოვენური ფისტულით იტარებს. ბოლო სეანსებზე შეუძლებელი გახდა სისხლის ტუმბოს სამიზნე სიჩქარის შენარჩუნება ტუმბომდე არტერიული წნევის მკვეთრი გაუარყოფითების გ"
@@ -1170,6 +1162,14 @@
         {
           "n": 52,
           "stem": "64 წლის პაციენტს ჰემოდიალიზი ტუნელირებული, მანჟეტიანი სადიალიზო კათეტერით უტარდება, რადგან მუდმივი სისხლძარღვოვანი წვდომა ჯერ მზად არ არის. კათეტერის გამოსასვლელის გარშემო კანი გაწითლდა, მტკივნეულია და მცირე ჩირქოვანი გამონადენი ა"
+        },
+        {
+          "n": 53,
+          "stem": "69 წლის პაციენტს ჰემოდიალიზი წინამხრის მარყუჟისებრი არტერიოვენური პროთეზით უტარდება. ბოლო რამდენიმე თვეში პროთეზის ვენური ანასტომოზის სტენოზის გამო არაერთი ჩარევა დასჭირდა; ყოველი წარმატებული ანგიოპლასტიკის შემდეგ ვენური"
+        },
+        {
+          "n": 54,
+          "stem": "60 წლის პაციენტს სამი წელია ბრაქიოცეფალური არტერიოვენური ფისტულით უტარდება ჰემოდიალიზი. ბოლო სეანსებზე კანულაცია გართულდა; დღევანდელი სეანსის წინ ორი უშედეგო პუნქციის შემდეგ ვენის გასწვრივ მცირე ჰემატომა გაჩნდა. ფისტულაზ"
         }
       ],
       "topic_rotation": "AVF და AVG-ის შერჩევა; წინასაოპერაციო დუპლექსსკანირება; რადიოცეფალური, ბრაქიოცეფალური და ბრაქიობაზილიკური ფისტულები; ბაზილარული ვენის ტრანსპოზიცია; მომწიფება და არასაკმარისი მომწიფება; Qa, ვენური სტენოზი და თრომბოზი; ენდოვასკულური და ღია რეკონსტრუქცია; ანევრიზმა, ფსევდოანევრიზმა, სისხლდენა და ინფექცია; HAIDI და იშემიური მონომელური ნეიროპათია; მაღალი ნაკადი და გულის უკმარისობა; ცენტრალური ვენები; ტუნელირებული კათეტერები, ალტერნატიული წვდომა და მეთვალყურეობა.",
@@ -1177,8 +1177,8 @@
       "guideline_check": "KDOQI 2019 (გამოქვეყნებულია 2020 წელს), ESVS Vascular Access 2018, UK Kidney Association Vascular Access 2025; არ ააგო კითხვა სადავო რიცხვით ზღვრებზე და გაითვალისწინე ESKD Life-Plan.",
       "last_validation": {
         "range": [
-          51,
-          52
+          53,
+          54
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1187,31 +1187,25 @@
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
-        "clinical_self_review": "passed: venous fistula pseudoaneurysm duplex neck flow; isolated catheter exit-site infection without bacteraemia",
-        "terminology_self_review": "passed: GLOSSARY.md general and dialysis vascular access terminology",
-        "georgian_language_self_review": "passed: two separate idiomatic Georgian specialist edits",
-        "semantic_duplication_review": "All existing stems compared; pseudoaneurysm imaging diagnosis differs from previous aneurysm treatment and sterile seroma; exit-site infection management differs from tunnel abscess and bloodstream infection.",
+        "numeric_options_ascending": true,
+        "clinical_self_review": "passed: recurrent intervention burden triggers individual ESKD Life-Plan reassessment; failed cannulation with hematoma warrants cessation and expert ultrasound assessment",
+        "terminology_self_review": "passed: general and dialysis GLOSSARY.md",
+        "georgian_language_self_review": "passed: stem, five homogeneous options and two-sentence explanation independently refined per question",
+        "semantic_duplication_review": "All existing question stems compared; recurrent access viability reassessment and escalation after failed cannulation are distinct from prior cases",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              51
+              53
             ],
-            "source": "ESVS 2018 Vascular Access Guidelines, access aneurysms and pseudoaneurysms, Section 7.1",
-            "url": "https://sianitalia.it/wp-content/uploads/2021/01/Vascular-Access-2018.pdf"
+            "source": "KDOQI 2019 Vascular Access Guidelines, ESKD Life-Plan and intervention burden",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8856770/"
           },
           {
             "questions": [
-              51
+              54
             ],
-            "source": "Sonographer’s Role in the Screening, Diagnosis, and Treatment of Dialysis Fistula Pseudoaneurysms, 2020",
-            "url": "https://doi.org/10.1177/8756479320913846"
-          },
-          {
-            "questions": [
-              52
-            ],
-            "source": "UK Kidney Association Vascular Access Guideline 2025, Recommendation 6.3, exit-site infection without bacteraemia",
+            "source": "KDOQI 2019 Guidelines 12, cannulation complications; UK Kidney Association 2025, cannulation care",
             "url": "https://doi.org/10.1186/s12882-025-04374-y"
           }
         ]
