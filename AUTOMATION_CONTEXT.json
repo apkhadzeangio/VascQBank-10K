@@ -392,19 +392,11 @@
       "target": 900,
       "question_file": "CAROTID_VERTEBRAL_questions.txt",
       "explanation_file": "CAROTID_VERTEBRAL_explanations.txt",
-      "last_number": 141,
-      "question_blob_sha": "cda2983324e0ff9547a21ea179ac9dc67e570712",
-      "explanation_blob_sha": "ab2a6f7c0a12e4bd81ed9bd30db53c9b51e22e28",
+      "last_number": 143,
+      "question_blob_sha": "ad651fba349cf1afb9ad6f18758fd4db3c9c909c",
+      "explanation_blob_sha": "d5e4e44fd9c1f8a49c16677aa94d48863bf5e654",
       "last_full_audit_at": 100,
       "recent_stems": [
-        {
-          "n": 112,
-          "stem": "51 წლის ქალს ყბის კუთხესთან უმტკივნეულო, ნელა მზარდი წარმონაქმნი აქვს. დუპლექსსკანირებასა და CTA-ზე საძილე არტერიის ბიფურკაციაში 3,5 სმ ზომის, მკვეთრად სისხლმომარაგებული წარმონაქმნია, რომელიც შიგნითა და გარეთა საძილე არტ"
-        },
-        {
-          "n": 113,
-          "stem": "69 წლის ქალს ბოლო ორი კვირის განმავლობაში მარჯვენა თვალში მხედველობა სამჯერ გარდამავლად დაეკარგა. MRI-ზე მარჯვენა ჰემისფეროში მცირე ახალი ემბოლიური ინფარქტები ჩანს. CTA-ითა და DSA-ით დადასტურებულია მარჯვენა შიგნითა საძილ"
-        },
         {
           "n": 114,
           "stem": "67 წლის მამაკაცს ერთი თვის განმავლობაში დიპლოპიისა და ატაქსიის რამდენიმე გარდამავალი ეპიზოდი ჰქონდა. სისხლის ნაკადზე დამოკიდებული უკონტრასტო მაგნიტურ-რეზონანსული ანგიოგრაფიით (TOF-MRA) მარცხენა ხერხემლის არტერიის საწყის "
@@ -516,6 +508,14 @@
         {
           "n": 141,
           "stem": "67 წლის მამაკაცს კისრის სიმსივნის გამო ორმხრივი სხივური თერაპიიდან რვა წლის შემდეგ არტერიული წნევის მკვეთრი მერყეობა დაეწყო. ემოციური სტრესისას წნევა 225/115 mmHg-მდე იზრდება, რასაც ტაქიკარდია და სახის წამოწითლება ახლავს"
+        },
+        {
+          "n": 142,
+          "stem": "32 წლის მამაკაცს ავტოსაგზაო შემთხვევის შემდეგ ჩატარებულ CTA-ზე მარცხენა შიგნითა საძილე არტერიის კისრის მონაკვეთში 6 მმ ზომის ტომრისებრი, კონტრასტით შევსებული წარმონაქმნი გამოუვლინდა. წარმონაქმნი არტერიის გარეთა კონტ"
+        },
+        {
+          "n": 143,
+          "stem": "72 წლის მამაკაცს მარცხენა კაროტიდული ენდარტერექტომიიდან ექვსი საათის შემდეგ არტერიული წნევა 75/45 mmHg-მდე დაუქვეითდა და მარჯვენა ხელის სისუსტე განუვითარდა. გადაუდებელ CT-ზე სისხლჩაქცევა არ ჩანს; CTA-ზე ოპერირებული "
         }
       ],
       "topic_rotation": "TIA/ინსულტი; NASCET; CTA/MRA/დუპლექსი; CEA/CAS/TCAR დრო და არჩევანი; ფოლაქის მორფოლოგია; ანტითრომბოციტული მკურნალობა; პერიოპერაციული გართულებები; რესტენოზი; ხერხემლის არტერიის სტენოზი/დისექცია და უკანა ცირკულაცია; ESVS 2023 და უფრო ახალი წყაროები.",
@@ -523,8 +523,8 @@
       "guideline_check": "კლინიკურად სადავო გადაწყვეტილებაზე ერთმნიშვნელოვანი პასუხი არ ააგო; პირველწყარო ESVS/SVS და შესაბამისი გაიდლაინები გადაამოწმე, როცა საჭიროა.",
       "last_validation": {
         "range": [
-          140,
-          141
+          142,
+          143
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -534,14 +534,14 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ე": 1,
-          "გ": 1
+          "გ": 1,
+          "ა": 1
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed, CN IX and afferent baroreflex failure clinical literature checked",
+        "clinical_self_review": "passed (Biffl III pseudoaneurysm; post-CEA hypotensive watershed hypoperfusion; verified EAST/WTA and ESVS)",
         "georgian_language_self_review": "passed",
         "terminology_self_review": "passed (GLOSSARY.md)",
-        "semantic_duplication_review": "reviewed 139 existing question stems and last 30 full questions",
+        "semantic_duplication_review": "compared 141 prior topic question stems and last 30 complete questions",
         "previous_text_unchanged": true,
         "index_precheck": "matched"
       }
