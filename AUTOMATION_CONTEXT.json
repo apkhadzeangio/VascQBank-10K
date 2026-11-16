@@ -1140,9 +1140,9 @@
       "target": 600,
       "question_file": "MESENTERIC_RENAL_questions.txt",
       "explanation_file": "MESENTERIC_RENAL_explanations.txt",
-      "last_number": 18,
-      "question_blob_sha": "04752ca582b73c087db10c7e23761a061f26d4cb",
-      "explanation_blob_sha": "5f483fa8615a4c2259d3811086f220f19270562b",
+      "last_number": 20,
+      "question_blob_sha": "02a821a90ef59fab898c8798f86a6c4b4c883fde",
+      "explanation_blob_sha": "d18235137f672da086121a955c2fe9a00944d2bc",
       "last_full_audit_at": 2,
       "recent_stems": [
         {
@@ -1216,6 +1216,14 @@
         {
           "n": 18,
           "stem": "42 წლის ქალს რენოვასკულური ჰიპერტენზიის გამოკვლევისას მარჯვენა თირკმლის არტერიის ფიბრომუსკულური დისპლაზია დაუდასტურდა. თირკმლის ფუნქცია შენარჩუნებულია, კონტრასტული კვლევის უკუჩვენება არ აქვს, ხოლო სხვა სისხლძარღვოვანი აუ"
+        },
+        {
+          "n": 19,
+          "stem": "64 წლის მამაკაცს ექვსი თვეა ჭამის შემდეგ მუცლის ტკივილი აწუხებს და ამ პერიოდში 11 კგ დაიკლო. CTA-ზე ჯორჯლის ზემო არტერიის სათავიდან 5 სმ სიგრძის კალციფიცირებული ოკლუზია ჩანს, ხოლო არტერიის დისტალური სეგმენტი გამავალია. ე"
+        },
+        {
+          "n": 20,
+          "stem": "58 წლის ქალს სამი ანტიჰიპერტენზიული პრეპარატის, მათ შორის შარდმდენის, მიღების მიუხედავად არტერიული წნევა 175/100 mmHg აქვს. თირკმლის არტერიების დუპლექსსკანირებით ნაწლავური აირების გამო სათავეების საიმედო შეფასება ვერ მოხ"
         }
       ],
       "topic_rotation": "მეზენტერიული და თირკმლის პათოლოგიების მონაცვლეობა; მწვავე მეზენტერიული იშემიის ემბოლია/თრომბოზი/NOMI/MVT; ქრონიკული მეზენტერიული იშემია; CTA/DSA/დუპლექსსკანირება; ენდოვასკულური და ღია რევასკულარიზაცია; ნაწლავის სიცოცხლისუნარიანობა და განმეორებითი ლაპაროტომია; თირკმლის არტერიის ათეროსკლეროზული სტენოზი/FMD; რენოვასკულური ჰიპერტენზია; რევასკულარიზაციის ჩვენებები და უარყოფა; ანევრიზმა/დისექცია; მკურნალობისშემდგომი მეთვალყურეობა.",
@@ -1223,8 +1231,8 @@
       "guideline_check": "ESVS 2025 Mesenteric and Renal Arteries and Veins (რეკომენდაციები 33 და 63), ESC 2024 PAAD. მწვავე მეზენტერიული იშემიის ეჭვისას გადაუდებელი CTA თირკმლის ფუნქციის დაქვეითების მიუხედავად; კონტროლირებადი ჰიპერტენზიისა და სტაბილური თირკმლის ფუნქციისას თირკმლის ათეროსკლეროზული სტენოზის რუტინული სტენტირება არ არის გამართლებული.",
       "last_validation": {
         "range": [
-          17,
-          18
+          19,
+          20
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1235,33 +1243,33 @@
         "two_sentences_each": true,
         "answer_distribution": {
           "ა": 4,
-          "ბ": 3,
+          "ბ": 4,
           "გ": 4,
-          "დ": 3,
+          "დ": 4,
           "ე": 4
         },
         "numeric_options_ascending": true,
         "clinical_self_review": "passed",
         "georgian_language_self_review": "passed",
-        "semantic_duplication_review": "№17: დიაფრაგმის შუა რკალისებრი იოგის ზეწოლის ეჭვისას ფაშვის ღეროს დუპლექსსკანირება სუნთქვის ორივე ფაზაში; №18: დადასტურებული თირკმლის არტერიის ფიბრომუსკულური დისპლაზიისას თავის ტვინიდან მენჯამდე არტერიების ერთჯერადი გამოკვლევა. №1–16-ში შესაბამისი კლინიკური გადაწყვეტილებები არ მეორდება.",
+        "semantic_duplication_review": "№19 — ენდოვასკულური მცდელობის წარუმატებლობის შემდეგ ჯორჯლის ზემო არტერიის ღია შუნტირება; №20 — არადამაჯერებელი თირკმლის არტერიების დუპლექსსკანირების შემდეგ CTA. №1–18-ში ამავე კლინიკური გადაწყვეტილებების დუბლირება არ გამოვლენილა.",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              17
+              19
             ],
-            "source": "ESVS 2025 Clinical Practice Guidelines on Diseases of the Mesenteric and Renal Arteries and Veins, Recommendation 27 (I, C)",
+            "source": "ESVS 2025 Clinical Practice Guidelines on Diseases of Mesenteric and Renal Arteries and Veins, Recommendation 19 (IIa, C)",
             "url": "https://doi.org/10.1016/j.ejvs.2025.06.010"
           },
           {
             "questions": [
-              18
+              20
             ],
-            "source": "First International Consensus on the Diagnosis and Management of Fibromuscular Dysplasia (2019), consensus points on one-time brain-to-pelvis CTA or MRA",
-            "url": "https://doi.org/10.1177/1358863X18821816"
+            "source": "ESVS 2025 Clinical Practice Guidelines on Diseases of Mesenteric and Renal Arteries and Veins, Recommendation 59 (I, B) and Figure 7",
+            "url": "https://doi.org/10.1016/j.ejvs.2025.06.010"
           }
         ],
-        "academic_refinement": "ორივე განსხვავებული დიაგნოსტიკური გადაწყვეტილებაა; ერთი სპეციალიზებული დინამიკური დუპლექსსკანირების ჩვენებას ეხება, მეორე ფიბრომუსკულური დისპლაზიის მრავალაუზიან სკრინინგს. დადასტურებული დიაგნოზის ფორმულირება არ გადადის ჰიპოთეზური დიაგნოზის კატეგორიულ მტკიცებად."
+        "academic_refinement": "გართულებული მეზენტერიული ოკლუზიის შემდეგ ღია შუნტირების არჩევა და არაინვაზიური CTA ინვაზიურ DSA-მდე; არჩევანისთვის საჭირო კლინიკური წინაპირობები მკაფიოდაა მითითებული."
       }
     },
     "VASCULAR_TRAUMA": {
