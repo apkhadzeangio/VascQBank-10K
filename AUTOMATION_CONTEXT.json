@@ -223,31 +223,11 @@
       "target": 1200,
       "question_file": "AAA_EVAR_questions.txt",
       "explanation_file": "AAA_EVAR_explanations.txt",
-      "last_number": 129,
-      "question_blob_sha": "3d148421493b48dca17779b060649a09c2c3d324",
-      "explanation_blob_sha": "325d7a2d42a61ad2d794268f6418ee75b6c0d83d",
+      "last_number": 134,
+      "question_blob_sha": "e74bc18a35a937f861097bc0e3f3755e6d0345c9",
+      "explanation_blob_sha": "8586525216d5f7de4c9e8c60b562b69087ac49d9",
       "last_full_audit_at": 100,
       "recent_stems": [
-        {
-          "n": 100,
-          "stem": "იუქსტარენალური ანევრიზმის ფენესტრირებული ენდოპროთეზით მკურნალობა დასრულდა. საკონტროლო DSA-ზე სამიზნე არტერიები გამავალია და აშკარა ენდოლიკი არ ჩანს, თუმცა გუნდს სურს დამაკავშირებელი სტენტების შეკუმშვი"
-        },
-        {
-          "n": 101,
-          "stem": "მუცლის აორტის ანევრიზმის ღია პროთეზირებისას ორივე თეძოს შიგნითა არტერია ქრონიკულად ოკლუზირებულია. რეკონსტრუქციის შემდეგ ჯორჯლის ქვემო არტერია გამავალია, მაგრამ მისგან უკუდინება სუსტია და მსხვილი ნაწლა"
-        },
-        {
-          "n": 102,
-          "stem": "პარარენალური ანევრიზმის ფენესტრირებული ენდოპროთეზით მკურნალობა ტექნიკურად წარმატებით დასრულდა. თირკმლის არტერიის დამაკავშირებელი სტენტი გამავალია, თუმცა მცირე დიამეტრისა და რთული გეომეტრიის გამო მისი "
-        },
-        {
-          "n": 103,
-          "stem": "აორტა-თეძოს ანევრიზმის EVAR-ისთვის ორივე თეძოს შიგნითა არტერიის დახშობა აუცილებელია. განშტოებიანი ენდოპროთეზისა და სხვა შემნახველი რეკონსტრუქციის გამოყენება შეუძლებელია. SVS-ის მიხედვით, როგორ უნდა და"
-        },
-        {
-          "n": 104,
-          "stem": "EVAR-იდან სამი წლის შემდეგ 73 წლის მამაკაცს II ტიპის ენდოლიკის ფონზე ანევრიზმული ტომრის დიამეტრი, ერთნაირი CTA მეთოდით გაზომვით, 54 მმ-დან 67 მმ-მდე გაეზარდა. მრავალფაზიანი CTA-ით I და III ტიპის ენდოლ"
-        },
         {
           "n": 105,
           "stem": "მუცლის აორტის იუქსტარენალური ანევრიზმის ღია პროთეზირების წინ CTA-ზე ჩანს, რომ მარცხენა თირკმლის ვენა აორტის უკან გადის და ქვედა ღრუ ვენას უერთდება. იგეგმება პროქსიმალური აორტის წრიული გამოყოფა და დამჭ"
@@ -347,6 +327,26 @@
         {
           "n": 129,
           "stem": "77 წლის მამაკაცს მუცლის აორტის ინფრარენალური ანევრიზმის გამო სტანდარტული EVAR ჩაუტარდა. ენდოპროთეზის ჰერმეტიზაცია დამაკმაყოფილებელია; მარჯვენა ბარძაყის არტერიიდან დიდი შემყვანი სისტემის ამოღების შემდე"
+        },
+        {
+          "n": 130,
+          "stem": "68 წლის მამაკაცს მუცლის აორტის 49 მმ დიამეტრის უსიმპტომო ინფრარენალური ანევრიზმის გამო ულტრაბგერითი მეთვალყურეობა უტარდება. მწვავე გაურთულებელი ცისტიტის გამო ამბულატორიულად დაენიშნა ციპროფლოქსაცინი, თუმცა შარდის ბაქტერიო"
+        },
+        {
+          "n": 131,
+          "stem": "65 წლის მამაკაცს მუცლის აორტის ანევრიზმის პოპულაციური სკრინინგის ფარგლებში პირველადი ულტრაბგერითი კვლევა ჩაუტარდა. აორტის ინფრარენალური სეგმენტი მთელ სიგრძეზე მკაფიოდ ვიზუალიზდება და მისი მაქსიმალური დიამეტრი 19 მმ-ია; პ"
+        },
+        {
+          "n": 132,
+          "stem": "მუცლის აორტის ინფრარენალური ანევრიზმის გამო პაციენტს სტანდარტული ბიფურკაციული ენდოპროთეზით EVAR უტარდება. ძირითადი კორპუსის გაშლის შემდეგ კონტრალატერალური ბარძაყის მიდგომიდან გამტარი მოკლე კონტრალატერალური ტოტის საპროექც"
+        },
+        {
+          "n": 133,
+          "stem": "მაღალი ოპერაციული რისკის მქონე 75 წლის პაციენტს მუცლის აორტის სიმპტომური იუქსტარენალური ანევრიზმის გამო ჩაუტარდა chimney ტექნიკით ანევრიზმის ენდოვასკულური მკურნალობა (ChEVAR) მარცხენა თირკმლის არტერიაში პარალელური დაფარუ"
+        },
+        {
+          "n": 134,
+          "stem": "მუცლის აორტის ინფრარენალური ანევრიზმისა და თეძოს საერთო არტერიების ექტაზიის გამო პაციენტს ღია ქირურგიული პროთეზირება უტარდება ბიფურკაციული პროთეზით, რომლის ტოტებიც თეძოს საერთო არტერიების ბიფურკაციების დონეზე ეკერება; ორ"
         }
       ],
       "topic_rotation": "პერიოპერაციული ანტიკოაგულანტის მართვა (DOAC); EVAR-ის არტერიული მიდგომის იატროგენული დაზიანება და გადაუდებელი ენდოვასკულური ჰერმეტიზაცია; შემდეგ განსხვავებული ქვეთემები.",
@@ -354,37 +354,30 @@
       "guideline_check": "ESVS 2024 AAA Recommendation 41 and section 5.2.1 (p. 224): https://cprv.fr/aneurism-esvs-2024.pdf ; Kotelis et al. J Vasc Surg 2009, iliac artery rupture during EVAR: https://pubmed.ncbi.nlm.nih.gov/19703755/",
       "last_validation": {
         "range": [
-          128,
-          129
+          130,
+          134
         ],
-        "new_questions": 2,
-        "new_explanations": 2,
-        "clinical_self_review": "passed against ESVS 2024 Recommendation 41 and J Vasc Surg 2009 iliac-rupture series",
-        "georgian_language_self_review": "passed",
+        "new_questions": 5,
+        "new_explanations": 5,
         "numbering_continuous": true,
         "five_options_each": true,
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
+        "answer_distribution": {
+          "ა": 1,
+          "ბ": 1,
+          "გ": 1,
+          "დ": 1,
+          "ე": 1
+        },
         "numeric_options_ascending": true,
-        "semantic_duplication_review": "Compared against 127 historical question stems; highest new-stem Jaccard scores 56:0.218, 94:0.174",
+        "clinical_self_review": "passed",
+        "georgian_language_self_review": "passed",
+        "terminology_self_review": "passed (GLOSSARY.md)",
+        "semantic_duplication_review": "checked all 129 stored AAA_EVAR questions and cross-topic stems",
         "previous_text_unchanged": true,
-        "source_checks": [
-          {
-            "questions": [
-              128
-            ],
-            "source": "ESVS 2024 AAA Recommendations 41; perioperative oral anticoagulants, p. 224",
-            "url": "https://cprv.fr/aneurism-esvs-2024.pdf"
-          },
-          {
-            "questions": [
-              129
-            ],
-            "source": "Kotelis et al. Endovascular management of iliac rupture during endovascular aneurysm repair. J Vasc Surg 2009",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/19703755/"
-          }
-        ]
+        "index_precheck": "matched"
       }
     },
     "CAROTID_VERTEBRAL": {
