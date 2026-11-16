@@ -252,19 +252,11 @@
       "target": 1200,
       "question_file": "AAA_EVAR_questions.txt",
       "explanation_file": "AAA_EVAR_explanations.txt",
-      "last_number": 111,
-      "question_blob_sha": "11a40bc64d5b2cdc86d726a0cbeeb3b7738db189",
-      "explanation_blob_sha": "f33706dc4cfddedc116d23602de967d0b3cee031",
+      "last_number": 113,
+      "question_blob_sha": "133423d1589850b3e581798ab79bef9fe4e8ff5d",
+      "explanation_blob_sha": "b1129161e93bb5b8cfd30b71320d2677bac82a14",
       "last_full_audit_at": 100,
       "recent_stems": [
-        {
-          "n": 82,
-          "stem": "71 წლის მამაკაცს მუცლის აორტის 72 მმ დიამეტრის ანევრიზმა და რეზექციისთვის შესაფერისი მსხვილი ნაწლავის კიბო აქვს. სიმსივნე გაუვალობასა და სისხლდენას არ იწვევს; შორეული მეტასტაზები არ გამოვლენილა. ანევრ"
-        },
-        {
-          "n": 83,
-          "stem": "მუცლის აორტის ანევრიზმის გეგმიური მკურნალობის შემდეგ პაციენტი ჰემოდინამიკურად სტაბილურია. მიმდინარე სისხლდენა, მიოკარდიუმის იშემია და ანემიით გამოწვეული სიმპტომები არ აღენიშნება. SVS-ის მიხედვით, ერით"
-        },
         {
           "n": 84,
           "stem": "EVAR-ის შემდგომ მეთვალყურეობაზე CTA აჩვენებს ყელის პროგრესულ გაფართოებასა და პროქსიმალური ჰერმეტიზაციის ზონის შემცირებას 6 მმ-მდე. ენდოლიკი არ ჩანს, ანევრიზმული ტომრის დიამეტრი ჯერ უცვლელია. ESVS 2024"
@@ -376,42 +368,50 @@
         {
           "n": 111,
           "stem": "სტანდარტული EVAR-იდან ორი წლის შემდეგ 74 წლის მამაკაცს მარცხენა ფეხის უეცარი ტკივილი და თითების მოძრაობის სისუსტე განუვითარდა. არტერიული დოპლერული სიგნალი ტერფზე არ ისმის, ვენური სიგნალი შენარჩუნებული"
+        },
+        {
+          "n": 112,
+          "stem": "სტანდარტული EVAR-იდან ოთხი წლის შემდეგ 71 წლის მამაკაცს CTA-ზე ენდოპროთეზის ძირითადი კორპუსის 12 მმ-ით დისტალური მიგრაცია დაუდგინდა. ამჟამად პროქსიმალური ჰერმეტიზაციის უწყვეტი ჯანსაღი მონაკვეთის სიგრძ"
+        },
+        {
+          "n": 113,
+          "stem": "71 წლის მამაკაცისთვის მუცლის აორტის 61 მმ დიამეტრის ინფრარენალური ანევრიზმის გეგმიური ღია პროთეზირება დაიგეგმა. CTA-ზე გამოვლენილია ნალისებრი თირკმელი: მისი პარენქიმული ისთმუსი ანევრიზმის წინა ზედაპირ"
         }
       ],
-      "topic_rotation": "თეძოს საერთო არტერიის მცირე იზოლირებული ანევრიზმის მეთვალყურეობის ინტერვალი; EVAR-ის შემდეგ ტოტის მწვავე ოკლუზია მექანიკური გადაღუნვის ფონზე; მომდევნო ციკლში შეირჩეს სხვა დიაგნოსტიკური ან ოპერაციული საკითხი.",
+      "topic_rotation": "ენდოპროთეზის იზოლირებული მიგრაცია შენარჩუნებული ჰერმეტიზაციით; ნალისებრი თირკმლის ისთმუსის შენარჩუნება მუცლის აორტის ღია პროთეზირებისას; მომდევნო ციკლში შეირჩეს განსხვავებული ქვეთემები.",
       "linguistic_note": "„რუპტურირებული“, „გადარჩენადობა“, „სიკვდილისგან თავისუფალი“ — არ გამოიყენო; surgical repair აღწერე როგორც რეკონსტრუქცია/პროთეზირება/მკურნალობა და არა „აღდგენა“.",
-      "guideline_check": "ESVS 2024 AAA §9.1, რეკომენდაცია 134 (თეძოს არტერიის ანევრიზმის გამოსახულებითი მეთვალყურეობა); §7.2.1, რეკომენდაცია 87 და ტოტის ოკლუზიის მართვის განხილვა (EVAR-ის შემდგომი იშემია). პირველწყარო: https://cprv.fr/aneurism-esvs-2024.pdf",
+      "guideline_check": "ESVS 2024 AAA, §7.2.7, p.258: სტენტგრაფტის მიგრაციისას შენარჩუნებული ხანგრძლივი ჰერმეტიზაციის კონსერვატიული მართვის შესაძლებლობა (https://cprv.fr/aneurism-esvs-2024.pdf). ღია პროთეზირება ნალისებრი თირკმლის ფონზე: Aortic reconstruction in patients with horseshoe or ectopic kidneys (https://pubmed.ncbi.nlm.nih.gov/8893423/); Open surgical repair of AAA and horseshoe kidney (https://pmc.ncbi.nlm.nih.gov/articles/PMC8976142/).",
       "last_validation": {
         "range": [
-          110,
-          111
+          112,
+          113
         ],
         "new_questions": 2,
         "new_explanations": 2,
-        "clinical_self_review": "passed; ESVS 2024 sections 9.1, 7.2.1 and recommendations 134, 87 checked",
-        "georgian_language_self_review": "passed; current AGENTS v2.3 and relevant GLOSSARY sections checked",
+        "clinical_self_review": "passed; reviewed primary ESVS 2024 §7.2.7 and horseshoe-kidney operative literature",
+        "georgian_language_self_review": "passed; AGENTS and general/AAA GLOSSARY checked",
         "numbering_continuous": true,
         "options_each": 5,
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
         "numeric_options_ascending": true,
-        "semantic_duplication_review": "Reviewed last 30 full questions and historical existing question topics. Iliac size-specific surveillance interval and acute graft limb thrombosis with motor deficit are different decisions from existing questions.",
+        "semantic_duplication_review": "Compared all 111 historical stems and reviewed last 25 full cases; migration with preserved seal and horseshoe-kidney isthmus decision are distinct",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              110
+              112
             ],
-            "source": "ESVS 2024 AAA, Recommendation 134, p.274",
+            "source": "ESVS 2024 AAA guidelines §7.2.7, stent graft migration, p.258",
             "url": "https://cprv.fr/aneurism-esvs-2024.pdf"
           },
           {
             "questions": [
-              111
+              113
             ],
-            "source": "ESVS 2024 AAA, section 7.2.1 and Recommendation 87, pp.249–251",
-            "url": "https://cprv.fr/aneurism-esvs-2024.pdf"
+            "source": "Aortic reconstruction in patients with horseshoe or ectopic kidneys; Open surgical repair of AAA and horseshoe kidney",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8893423/"
           }
         ]
       }
