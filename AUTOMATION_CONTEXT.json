@@ -905,19 +905,11 @@
       "target": 1500,
       "question_file": "PAD_CLTI_questions.txt",
       "explanation_file": "PAD_CLTI_explanations.txt",
-      "last_number": 27,
-      "question_blob_sha": "7f748ee0e98a28a3bef200d24aa5360cc171113c",
-      "explanation_blob_sha": "a825a8ae5d482151301c5d5220a0834a3c2d84d5",
+      "last_number": 32,
+      "question_blob_sha": "c9be6ddd923511c0f7be9cc235d7d377ecabaca1",
+      "explanation_blob_sha": "924e20dd3c89a2ed0eb6ec6ba8a09b481a215a36",
       "last_full_audit_at": 25,
       "recent_stems": [
-        {
-          "n": 1,
-          "stem": "71 წლის მამაკაცს, რომელსაც შაქრიანი დიაბეტი და თირკმლის ქრონიკული დაავადება აქვს, სიარულისას წვივის კუნთებში ტკივილი ეწყება, რომელიც შეჩერებისას ქრება. ტერფის არტერიებზე პულსაცია შესუსტებულია, თუმცა მ"
-        },
-        {
-          "n": 2,
-          "stem": "74 წლის პაციენტს სამი კვირაა ტერფის წინა ნაწილში მოსვენების ტკივილი აღენიშნება, რომელიც კიდურის ჩამოშვებისას უმსუბუქდება. პერიფერიული არტერიული დაავადება დადასტურებულია, ტერფის პირველი თითის სისტოლური"
-        },
         {
           "n": 3,
           "stem": "65 წლის ქალს დაახლოებით 80 მ-ის გავლის შემდეგ წვივის კუნთების ტკივილი ეწყება, რაც ყოველდღიურ გადაადგილებას მნიშვნელოვნად უზღუდავს. გოჯ-მხრის ინდექსი (ABI) 0,62-ია; დუპლექსსკანირებით ბარძაყ-მუხლქვეშა ს"
@@ -1017,6 +1009,26 @@
         {
           "n": 27,
           "stem": "66 წლის ქალს შაქრიანი დიაბეტი და პერიფერიული არტერიული დაავადება აქვს. წვივის არტერიის წარმატებული რევასკულარიზაციიდან ექვსი კვირის შემდეგ ტერფის მეორე თითის ფუძესთან მდებარე ღრმა წყლული კვლავ შეუხორც"
+        },
+        {
+          "n": 28,
+          "stem": "69 წლის მამაკაცს შაქრიანი დიაბეტის ფონზე ტერფის წინა ნაწილის შეუხორცებელი წყლული და მოსვენების ძლიერი იშემიური ტკივილი აქვს; ტერფის პირველი თითის სისტოლური წნევა 16 mmHg-ია. წარსულში წვივის არტერიებზე ჩატარებული ენდოვასკ"
+        },
+        {
+          "n": 29,
+          "stem": "72 წლის მამაკაცს ორივე ტერფის მოსვენების იშემიური ტკივილი და მარცხენა პირველი თითის მშრალი ნეკროზი აღენიშნება. CTA-ზე აორტის ინფრარენალური სეგმენტისა და ორივე თეძოს საერთო არტერიის სრული ქრონიკული ოკლუზია ვლინდება, ბარძა"
+        },
+        {
+          "n": 30,
+          "stem": "67 წლის მამაკაცს მარცხენა თეძოს არტერიების ქრონიკული ოკლუზიის გამო სამი თვის წინ მარჯვენა-მარცხენა ბარძაყ-ბარძაყის ჯვარედინი შუნტირება ჩაუტარდა. მარცხენა კიდურზე მოსვენების ტკივილი გაქრა, თუმცა ოპერაციის შემდეგ პაციენტს "
+        },
+        {
+          "n": 31,
+          "stem": "70 წლის მამაკაცს კიდურისთვის საფრთხის შემცველი ქრონიკული იშემიის გამო დიდი საჩინო ვენით in situ ბარძაყ-დიდი წვივის უკანა არტერიის შუნტირება ჩაუტარდა. სამი კვირის შემდეგ წვივის მედიალურ ზედაპირზე ლოკალური შეშუპება და უწყვ"
+        },
+        {
+          "n": 32,
+          "stem": "25 წლის ქალს ბოლო ორი თვეა მარცხენა ზედა კიდურით მუშაობისას კუნთების სწრაფი დაღლა და ტკივილი აწუხებს, რასაც სუბფებრილური ცხელება და ღამის ოფლიანობა ერთვის. მარცხენა სხივის არტერიაზე პულსაცია მკვეთრად შესუსტებულია, ზედა კ"
         }
       ],
       "topic_rotation": "ABI/TBI და პერფუზია; Fontaine/Rutherford/WIfI/GLASS; ხანგამოშვებითი კოჭლობა და CLTI; დუპლექსი/CTA/MRA/DSA; ანტიაგრეგანტები/სტატინები/ვარჯიში; აორტა-თეძოს, ბარძაყ-მუხლქვეშა და წვივის სეგმენტები; ენდოვასკულური მკურნალობა/ავტოვენური შუნტირება; ჭრილობა/ინფექცია/ამპუტაცია/მეთვალყურეობა.",
@@ -1024,11 +1036,11 @@
       "guideline_check": "2024 ACC/AHA PAD guideline, 2024 ESVS asymptomatic PAD/intermittent claudication guideline და Global Vascular Guidelines CLTI; კლინიკური გადაწყვეტილება გადაამოწმე პირველწყაროებში.",
       "last_validation": {
         "range": [
-          26,
-          27
+          28,
+          32
         ],
-        "new_questions": 2,
-        "new_explanations": 2,
+        "new_questions": 5,
+        "new_explanations": 5,
         "numbering_continuous": true,
         "five_options_each": true,
         "one_ascii_star_each": true,
@@ -1036,31 +1048,18 @@
         "two_sentences_each": true,
         "answer_distribution": {
           "ა": 1,
+          "ბ": 1,
+          "გ": 1,
+          "დ": 1,
           "ე": 1
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: femorofemoral crossover bypass in high-risk unilateral iliac occlusion with patent donor inflow; MRI after equivocal clinical, radiographic and laboratory findings for diabetic foot osteomyelitis",
+        "clinical_self_review": "passed",
         "georgian_language_self_review": "passed",
         "terminology_self_review": "passed (GLOSSARY.md)",
-        "semantic_duplication_review": "The 25 stored PAD_CLTI questions and recent_stems were checked; №26 treats extra-anatomic crossover bypass for unilateral iliac occlusion, №27 evaluates uncertain diabetic foot osteomyelitis with MRI; distinct from №1–25.",
+        "semantic_duplication_review": "checked all 27 stored PAD_CLTI questions and cross-topic stems",
         "previous_text_unchanged": true,
-        "index_precheck": "matched",
-        "source_checks": [
-          {
-            "questions": [
-              26
-            ],
-            "source": "Long-term multicenter randomized comparison of direct versus crossover bypass for unilateral iliac occlusion, J Vasc Surg (2008)",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/17997269/"
-          },
-          {
-            "questions": [
-              27
-            ],
-            "source": "IWGDF/IDSA 2023 Guidelines on Diagnosis and Treatment of Diabetes-Related Foot Infections, Recommendation 8",
-            "url": "https://www.idsociety.org/practice-guideline/diabetic-foot-infections/"
-          }
-        ]
+        "index_precheck": "matched"
       }
     },
     "DIALYSIS_ACCESS": {
