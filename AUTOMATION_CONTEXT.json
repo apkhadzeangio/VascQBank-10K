@@ -1474,15 +1474,11 @@
       "target": 900,
       "question_file": "ANATOMY_IMAGING_questions.txt",
       "explanation_file": "ANATOMY_IMAGING_explanations.txt",
-      "last_number": 26,
-      "question_blob_sha": "c23147e74fbb64fcf9438ea4af85dde937ea6370",
-      "explanation_blob_sha": "3ace05624d34f828808b984da32b48bc31d69099",
+      "last_number": 31,
+      "question_blob_sha": "8ee11212d3207fbc2fa3f26199a96ada95630ede",
+      "explanation_blob_sha": "39640e42fb92eb3d647949cbeb1094f42c9bf64e",
       "last_full_audit_at": 2,
       "recent_stems": [
-        {
-          "n": 1,
-          "stem": "გულმკერდის აორტის CTA-ზე აორტის რკალის ჩვეულებრივი სამტოტიანი აგებულება გამოვლინდა. რომელი თანმიმდევრობით გამოეყოფა ტოტები აორტის რკალს აღმავალი აორტიდან დაღმავალი აორტისკენ?"
-        },
         {
           "n": 2,
           "stem": "მუცლის ღრუს CTA-ზე მარცხენა თირკმლის ვენა აორტის წინა ზედაპირს კვეთს და ქვედა ღრუ ვენაში ჩაედინება. რომელი არტერიის უკან გადის ვენა ამ მონაკვეთში ჩვეულებრივი ანატომიისას?"
@@ -1582,6 +1578,26 @@
         {
           "n": 26,
           "stem": "ზემო კიდურის იშემიის გამო ჩატარებულ CTA-ზე იღლიის არტერიის მეორე მონაკვეთის ქრონიკული ოკლუზია და ბეჭის უკანა ზედაპირზე გაფართოებული კოლატერალური ქსელი ჩანს. რომელი არტერია გადის ბეჭის უკანა ზედაპირზე, უერთდება ბეჭზედა არტერიას და ამ გზით იღლიის არტერიის დისტალური მონაკვეთის სისხლმომარაგებაში მონაწილეობს?"
+        },
+        {
+          "n": 27,
+          "stem": "მენჯის რეტროპერიტონეული ქირურგიული მიდგომის დაგეგმვისას წინასაოპერაციო CTA-ზე ბოქვენის ძვლის ზემო ტოტის უკანა ზედაპირზე, კუპერის იოგის გასწვრივ, გამოვლინდა 4 მმ დიამეტრის ანასტომოზური არტერია (corona mortis), რომლის დაზი"
+        },
+        {
+          "n": 28,
+          "stem": "იუსტარენალური აორტის ანევრიზმის ღია რეკონსტრუქციისა და ფენესტრირებული ენდოპროთეზირების დაგეგმვისას CTA-ზე გამოვლინდა ღვიძლის მარჯვენა არტერიის ყველაზე ხშირი ანატომიური ვარიაცია — შენაცვლებული ღვიძლის მარჯვენა არტერია, რო"
+        },
+        {
+          "n": 29,
+          "stem": "იდაყვის ფოსოში მხრის არტერიის ემბოლექტომიის ან ბრაქიოცეფალური არტერიოვენური ფისტულის ფორმირებისას ქირურგი კვეთს მხრის ორთავა კუნთის აპონევროზს. რომელი ნერვი მდებარეობს ჩვეულებრივი ანატომიისას უშუალოდ მხრის არტერიის მედია"
+        },
+        {
+          "n": 30,
+          "stem": "აორტა-ორბარძაყის შუნტირებისა და თეძოს არტერიის ანევრიზმის ღია რეკონსტრუქციისას ქირურგი ითვალისწინებს შარდსაწვეთის მდებარეობას მენჯის შესავალში მისი იატროგენული დაზიანების თავიდან ასაცილებლად. სად კვეთს შარდსაწვეთი თეძოს "
+        },
+        {
+          "n": 31,
+          "stem": "ქვედა კიდურის CTA-სა და DSA-ზე ბარძაყის ზედაპირული არტერიის ათეროსკლეროზული სტენოზი და ოკლუზია ყველაზე ხშირად მომზიდველი კუნთების არხის (ჰანტერის არხის) დისტალურ გასავალთან ვლინდება, სადაც არტერია მუხლქვეშა ფოსოში გადადი"
         }
       ],
       "topic_rotation": "№1–100 ძირითადი სისხლძარღვოვანი ანატომია; №101–180 ვარიაციები; №181–260 ჰემოდინამიკა; №261–360 დოპლერის საფუძვლები; №361–460 არტერიული დუპლექსსკანირება; №461–540 ვენური დუპლექსსკანირება; №541–630 CTA; №631–720 MRA, DSA, IVUS; №721–820 ოპერაციული დაგეგმვა; №821–900 ინტეგრირებული კლინიკური ვიზუალიზაცია. ზუსტად ორი კითხვა ყოველ ციკლში.",
@@ -1589,60 +1605,30 @@
       "guideline_check": "სტანდარტული ანატომია, ESVS/SVS/AIUM/IAC შესაბამისი წყაროები. არ გამოიგონო მეთოდოლოგიაზე დამოკიდებული PSV/EDV/PSVR ზღვრები.",
       "last_validation": {
         "range": [
-          25,
-          26
+          27,
+          31
         ],
-        "new_questions": 2,
-        "new_explanations": 2,
+        "new_questions": 5,
+        "new_explanations": 5,
         "numbering_continuous": true,
         "five_options_each": true,
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "დ": 5,
-          "ბ": 5,
-          "გ": 5,
-          "ე": 6,
-          "ა": 5
+          "ა": 1,
+          "ბ": 1,
+          "გ": 1,
+          "დ": 1,
+          "ე": 1
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: left recurrent laryngeal nerve relation to aortic arch/ligamentum arteriosum and aneurysm-associated vocal fold paresis; circumflex scapular artery forms posterior scapular collateral connection to distal axillary artery",
-        "terminology_self_review": "passed: AGENTS.md v2.3 and GLOSSARY.md general/ANATOMY_IMAGING; Georgian clinical/anatomic nomenclature cross-checked",
-        "georgian_language_self_review": "passed: concise professional Georgian and homogeneous choice sets",
-        "exam_technical_self_review": "passed: exactly two questions, 5 options each, 1 ASCII star each, matching correct-letter labels and exactly 2 explanation sentences per question",
-        "semantic_duplication_review": "stored questions 1-24 reviewed by stems/options for unique decisions: aneurysm-associated left vocal fold paresis and scapular collateral arterial route",
+        "clinical_self_review": "passed",
+        "georgian_language_self_review": "passed",
+        "terminology_self_review": "passed (GLOSSARY.md)",
+        "semantic_duplication_review": "checked all 26 stored ANATOMY_IMAGING questions and cross-topic stems",
         "previous_text_unchanged": true,
-        "source_checks": [
-          {
-            "questions": [
-              25
-            ],
-            "source": "Hoarseness Due to Aortic Arch Aneurysms (2020)",
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7731862/"
-          },
-          {
-            "questions": [
-              25
-            ],
-            "source": "Ortner's syndrome secondary to thoracic aortic aneurysm case series (2022)",
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9583463/"
-          },
-          {
-            "questions": [
-              26
-            ],
-            "source": "Kenhub: Arterial anastomoses of the upper extremity",
-            "url": "https://www.kenhub.com/en/library/anatomy/arterial-anastomoses-of-the-upper-extremity"
-          },
-          {
-            "questions": [
-              26
-            ],
-            "source": "Georgian anatomy: იღლიის არტერია, branch nomenclature",
-            "url": "https://edu.medgeo.net/%E1%83%98%E1%83%A6%E1%83%9A%E1%83%98%E1%83%98%E1%83%A1-%E1%83%90%E1%83%A0%E1%83%A2%E1%83%94%E1%83%A0%E1%83%98%E1%83%90/"
-          }
-        ]
+        "index_precheck": "matched"
       }
     },
     "PERIOPERATIVE": {
