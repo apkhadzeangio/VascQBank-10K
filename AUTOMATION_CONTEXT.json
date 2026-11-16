@@ -1742,9 +1742,9 @@
       "target": 500,
       "question_file": "VGEI_questions.txt",
       "explanation_file": "VGEI_explanations.txt",
-      "last_number": 14,
-      "question_blob_sha": "24c4bd16b502b86c59e86ea174026843dccc7262",
-      "explanation_blob_sha": "244f703f6afc5a349b52510d718b09cfb6f58481",
+      "last_number": 16,
+      "question_blob_sha": "0d75d4e74a6b02f044ee6b42122eed2e34bf2819",
+      "explanation_blob_sha": "679cd9a3c55177f0273b8dac480f6ed7b310b9b4",
       "last_full_audit_at": 4,
       "recent_stems": [
         {
@@ -1802,15 +1802,23 @@
         {
           "n": 14,
           "stem": "67 წლის მამაკაცს ბარძაყ-მუხლქვეშა სინთეზური შუნტირება ჩაუტარდა. ჭრილობა პირველადი ნაკერებით დახურულია, საზარდულში დახურული ასპირაციული დრენაჟია; ინფექციის კლინიკური ნიშნები არ აღენიშნება და სტანდარტული პერიოპერაციული ანტიბიოტიკოპროფილაქტიკა ჩაუტარდა. გეგმავენ დრენაჟის დატოვებას კიდევ რამდენიმე დღით. რომელი მიდგომაა ყველაზე დასაბუთებული ანტიბიოტიკოპროფილაქტიკის ხანგრძლივობის განსაზღვრისას?"
+        },
+        {
+          "n": 15,
+          "stem": "70 წლის მამაკაცს მუცლის აორტის ანევრიზმის გამო გეგმიური სინთეზური პროთეზირება უნდა ჩაუტარდეს. წინასაოპერაციო გამოკვლევით დადასტურდა მეთიცილინისადმი რეზისტენტული ოქროსფერი სტაფილოკოკით (MRSA) ცხვირის ლორწოვანის კოლონიზაცია; აქტიური ინფექცია და ბეტა-ლაქტამებზე ალერგია არ აღენიშნება. სტანდარტულ ცეფაზოლინურ პროფილაქტიკასთან ერთად რომელი დამატებითი ანტიბიოტიკის გამოყენების განხილვაა ყველაზე მიზანშეწონილი?"
+        },
+        {
+          "n": 16,
+          "stem": "73 წლის ქალს თეძოს არტერიის ანევრიზმის გამო გეგმიური სინთეზური პროთეზირება აქვს დაგეგმილი. სხვა მიზეზით ჩატარებულ შარდის ბაქტერიოლოგიურ გამოკვლევაში გამოვლინდა Escherichia coli, თუმცა პაციენტს შარდვის ჩივილები, ცხელება და სისტემური ინფექციის ნიშნები არ აქვს; უროლოგიური ჩარევა არ იგეგმება. სტანდარტული პერიოპერაციული ანტიბიოტიკოპროფილაქტიკის ფონზე რომელი ტაქტიკაა ყველაზე დასაბუთებული?"
         }
       ],
       "topic_rotation": "I №1–40 საფუძვლები და პრევენცია; II №41–80 მიკრობიოლოგია; III №81–130 დიაგნოზი; IV №131–190 გამოსახულებითი დიაგნოსტიკა; V №191–230 ანტიმიკრობული მკურნალობა; VI №231–300 ქირურგიული ტაქტიკა; VII №301–360 მასალები და ჭრილობა; VIII №361–410 ლოკალიზაციები; IX №411–460 გართულებები; X №461–500 შედეგები და მეთვალყურეობა.",
       "linguistic_note": "GLOSSARY.md-ის VGEI ტერმინოლოგია და ბუნებრივი აკადემიური ქართული.",
-      "guideline_check": "ESVS 2026 VGEI guidelines (DOI 10.1016/j.ejvs.2026.05.035); WHO 2018 Global SSI Prevention Guidelines; SHEA/IDSA/APIC Strategies to Prevent SSIs: 2022 Update (published 2023), perioperative normothermia and antibiotic prophylaxis with drains.",
+      "guideline_check": "ESVS 2026 VGEI guidelines (doi:10.1016/j.ejvs.2026.05.035); SHEA/IDSA/APIC SSI prevention update 2022 (published 2023), MRSA-directed prophylaxis; IDSA 2019 asymptomatic bacteriuria, elective nonurologic surgery.",
       "last_validation": {
         "range": [
-          13,
-          14
+          15,
+          16
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1820,39 +1828,39 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: SHEA/IDSA/APIC 2022 update recommends active maintenance of perioperative normothermia; WHO and SHEA/IDSA/APIC advise against prophylaxis prolongation solely for retained wound drains",
-        "terminology_self_review": "passed: AGENTS.md and GLOSSARY.md, general and VGEI sections",
-        "georgian_language_self_review": "passed: manually refined Georgian, no prohibited calques",
-        "semantic_duplication_review": "passed: existing 1–12 reviewed; new cases concern intraoperative inadvertent hypothermia and postoperative prophylaxis in the presence of a clean closed wound drain, distinct clinical decisions",
+        "clinical_self_review": "passed: vancomycin should be considered for known MRSA colonization with prosthesis; asymptomatic bacteriuria should not be treated before elective nonurologic surgery",
+        "terminology_self_review": "passed: current AGENTS.md and GLOSSARY.md general/VGEI sections",
+        "georgian_language_self_review": "passed: reviewed and refined Georgian, glossary terminology preserved",
+        "semantic_duplication_review": "passed: compared to VGEI 1-14; new clinical decisions differ from prior S. aureus decolonization and treatment of active dental focus",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              13
+              15
             ],
-            "source": "SHEA/IDSA/APIC Strategies to Prevent Surgical Site Infections in Acute-Care Hospitals: 2022 Update, published 2023, essential practice 7 on perioperative normothermia",
+            "source": "SHEA/IDSA/APIC Strategies to Prevent Surgical Site Infections in Acute-Care Hospitals: 2022 Update (May 2023); reserve vancomycin for confirmed MRSA colonization, particularly prosthetic surgery",
             "url": "https://www.cambridge.org/core/journals/infection-control-and-hospital-epidemiology/article/strategies-to-prevent-surgical-site-infections-in-acutecare-hospitals-2022-update/2F824B9ADD6066B29F89C8A2A127A9DC"
           },
           {
             "questions": [
-              14
+              15
             ],
-            "source": "WHO Global Guidelines for the Prevention of Surgical Site Infection, second edition, 2018, drain-related antimicrobial prophylaxis recommendation",
-            "url": "https://www.who.int/publications-detail-redirect/9789241550475"
+            "source": "ASHP/IDSA/SIS/SHEA Clinical Practice Guidelines for Antimicrobial Prophylaxis in Surgery; some institutions combine vancomycin with cefazolin for MRSA/MSSA",
+            "url": "https://www.ashp.org/-/media/assets/policy-guidelines/docs/therapeutic-guidelines/therapeutic-guidelines-antimicrobial-prophylaxis-surgery.pdf"
           },
           {
             "questions": [
-              14
+              16
             ],
-            "source": "SHEA/IDSA/APIC 2022 SSI Prevention Update, 2023, recommendation against antimicrobial prophylaxis after incision closure, including drains",
-            "url": "https://www.cambridge.org/core/journals/infection-control-and-hospital-epidemiology/article/strategies-to-prevent-surgical-site-infections-in-acutecare-hospitals-2022-update/2F824B9ADD6066B29F89C8A2A127A9DC"
+            "source": "IDSA 2019 Clinical Practice Guideline for the Management of Asymptomatic Bacteriuria, Section XII",
+            "url": "https://www.idsociety.org/practice-guideline/asymptomatic-bacteriuria/"
           },
           {
             "questions": [
-              13,
-              14
+              15,
+              16
             ],
-            "source": "ESVS 2026 Clinical Practice Guidelines on Management of Vascular Graft and Endograft Infections, DOI: 10.1016/j.ejvs.2026.05.035",
+            "source": "ESVS 2026 Clinical Practice Guidelines on Management of VGEI, doi:10.1016/j.ejvs.2026.05.035",
             "url": "https://pubmed.ncbi.nlm.nih.gov/42448560/"
           }
         ]
