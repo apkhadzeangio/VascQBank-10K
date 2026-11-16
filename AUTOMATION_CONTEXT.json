@@ -252,19 +252,11 @@
       "target": 1200,
       "question_file": "AAA_EVAR_questions.txt",
       "explanation_file": "AAA_EVAR_explanations.txt",
-      "last_number": 105,
-      "question_blob_sha": "828d2aca2cd929724d6fc11dbb5567a5efb72fc6",
-      "explanation_blob_sha": "88eac8f8907baf1ea81bd574411a65dfe6f7ce57",
+      "last_number": 107,
+      "question_blob_sha": "217bcf369d906acc2196100dca50303307b5111e",
+      "explanation_blob_sha": "5a6342537514cadc822cf8b0dea73bccbd78dccb",
       "last_full_audit_at": 100,
       "recent_stems": [
-        {
-          "n": 76,
-          "stem": "EVAR-ის დაგეგმვისას CTA-ზე მუცლის აორტის ანევრიზმული გაფართოება თირკმლის ორივე არტერიის სათავეს მოიცავს. ჯორჯლის ზემო არტერიის სათავე და მის დონეზე აორტა ანევრიზმულად შეცვლილი არ არის. ESVS 2024-ის ან"
-        },
-        {
-          "n": 77,
-          "stem": "მუცლის აორტის გამსკდარი ანევრიზმის წარმატებული ღია პროთეზირების შემდეგ პაციენტი ინტენსიური თერაპიის განყოფილებაში რჩება და ჯერ ვერ დგება. სისხლდენა შეჩერებულია, ჰემოგლობინი სტაბილურია და კლინიკურად მნ"
-        },
         {
           "n": 78,
           "stem": "მუცლის აორტის ანევრიზმის გეგმიური მკურნალობის წინ პაციენტს ნევროლოგიური ჩივილები არ აქვს; ინსულტი, გარდამავალი იშემიური შეტევა და გარდამავალი მონოკულური სიბრმავე არ გადაუტანია. საძილე არტერიების კვლევ"
@@ -376,15 +368,23 @@
         {
           "n": 105,
           "stem": "მუცლის აორტის იუქსტარენალური ანევრიზმის ღია პროთეზირების წინ CTA-ზე ჩანს, რომ მარცხენა თირკმლის ვენა აორტის უკან გადის და ქვედა ღრუ ვენას უერთდება. იგეგმება პროქსიმალური აორტის წრიული გამოყოფა და დამჭ"
+        },
+        {
+          "n": 106,
+          "stem": "იუქსტარენალური ანევრიზმის FEVAR-იდან ორი წლის შემდეგ CTA-ზე ჩანს, რომ მარცხენა თირკმლის არტერიის დამაკავშირებელი დაფარული სტენტი ენდოპროთეზის ფენესტრაციას ნაწილობრივ დასცილდა. კონტრასტი შეერთების ადგი"
+        },
+        {
+          "n": 107,
+          "stem": "70 წლის მამაკაცს მუცლის აორტის პარარენალური ანევრიზმის ფენესტრირებული და განშტოებიანი ენდოპროთეზით მკურნალობა ესაჭიროება. წარსულში გულმკერდის დასწვრივი აორტის ნაწილი ენდოპროთეზით აქვს დაფარული. CTA-ის"
         }
       ],
-      "topic_rotation": "უსიმპტომო და სიმპტომური AAA; ESVS 2024; ზომითი ზღვრები; EVAR ანატომია, ღია ოპერაცია vs EVAR; რუპტურის გადაუდებელი მართვა; ენდოლიკის ტიპები; გამოსახულებითი მეთვალყურეობა; გართულებები და რევიზია.",
+      "topic_rotation": "მუცლის აორტის ანევრიზმა, FEVAR/BEVAR სამიზნე არტერიების შეერთების ენდოლიკები, პროქსიმალური/დისტალური ჰერმეტიზაცია, ზურგის ტვინის პერფუზიის დაცვა, EVAR-ის მეთვალყურეობა და ღია პროთეზირება.",
       "linguistic_note": "„რუპტურირებული“, „გადარჩენადობა“, „სიკვდილისგან თავისუფალი“ — არ გამოიყენო; surgical repair აღწერე როგორც რეკონსტრუქცია/პროთეზირება/მკურნალობა და არა „აღდგენა“.",
-      "guideline_check": "კლინიკურად სადავო გადაწყვეტილებაზე ერთმნიშვნელოვანი პასუხი არ ააგო; პირველწყარო ESVS/SVS და შესაბამისი გაიდლაინები გადაამოწმე, როცა საჭიროა.",
+      "guideline_check": "ESVS 2024 AAA Guideline: §8.2.2, Fig. 10 (IIIc ტიპის ენდოლიკი), Recommendation 117 (აორტის გადაფარვის შეზღუდვა); CIRSE Standards 2024 §Type III Endoleak Management.",
       "last_validation": {
         "range": [
-          104,
-          105
+          106,
+          107
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -395,22 +395,22 @@
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
-        "semantic_duplication_review": "Reviewed all 103 prior question stems and contents for overlapping decisions; new decisions: direct translumbar sac embolization with inaccessible arterial routes; retroaortic left renal vein protection",
+        "semantic_duplication_review": "Historical question stems and most recent 30 full cases checked: distinct IIIc bridging-stent junction repair and prevention of spinal cord ischemia by limiting aortic coverage",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              104
+              106
             ],
-            "source": "ESVS 2024 guideline, recommendation 107 and treatment discussion p257",
-            "url": "https://cprv.fr/aneurism-esvs-2024.pdf"
+            "source": "ESVS 2024 AAA guidelines p266, Fig. 10; CIRSE Standards of Practice on Management of Endoleaks 2024",
+            "url": "https://orbi.uliege.be/bitstream/2268/317270/1/A.Wanhainen_Eur%20J%20Endovasc%20Surg%20%282024%29%2067%2C%20192-331.pdf"
           },
           {
             "questions": [
-              105
+              107
             ],
-            "source": "Lazaris et al., Open Retroperitoneal Repair for Standard and Complex Abdominal Aortic Aneurysms, HJVES 2024",
-            "url": "https://www.heljves.com/open-retroperitoneal-repair/"
+            "source": "ESVS 2024 AAA guideline recommendation 117, p266",
+            "url": "https://orbi.uliege.be/bitstream/2268/317270/1/A.Wanhainen_Eur%20J%20Endovasc%20Surg%20%282024%29%2067%2C%20192-331.pdf"
           }
         ]
       }
