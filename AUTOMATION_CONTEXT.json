@@ -1606,9 +1606,9 @@
       "target": 500,
       "question_file": "VGEI_questions.txt",
       "explanation_file": "VGEI_explanations.txt",
-      "last_number": 6,
-      "question_blob_sha": "47879b0a327d5191b6cc34d276b9c9fe6ec31584",
-      "explanation_blob_sha": "2fc66393ab9442486c3f2a746e6f022733a47f85",
+      "last_number": 8,
+      "question_blob_sha": "b0f38db133aebd5c7343e088b992a79366219f4d",
+      "explanation_blob_sha": "eb2149ccda15819ff43f5eeb829038e5faf69de5",
       "last_full_audit_at": 4,
       "recent_stems": [
         {
@@ -1634,15 +1634,23 @@
         {
           "n": 6,
           "stem": "70 წლის მამაკაცს აორტა-ორბარძაყის გეგმიური სინთეზური პროთეზირება უნდა ჩაუტარდეს. წინასაოპერაციო გამოკვლევით ცხვირის ლორწოვანზე ოქროსფერი სტაფილოკოკის უსიმპტომო კოლონიზაცია გამოვლინდა; აქტიური ინფექცია არ აღენიშნება. სტანდარტულ პერიოპერაციულ ანტიბიოტიკოპროფილაქტიკასთან ერთად რომელი დამატებითი ღონისძიების განხილვაა მიზანშეწონილი ოპერაციული მიდამოს ინფექციის რისკის შესამცირებლად?"
+        },
+        {
+          "n": 7,
+          "stem": "63 წლის მამაკაცს სინთეზური პროთეზით ბარძაყ-მუხლქვეშა შუნტირების შემდეგ საზარდულის ჭრილობიდან ჩირქოვანი გამონადენი აქვს. ქირურგიული რევიზიისას რომელი აღმოჩენა შეესაბამება სილადის (Szilagyi) კლასიფიკაციის III ხარისხს?"
+        },
+        {
+          "n": 8,
+          "stem": "68 წლის მამაკაცს გამოხატული კოჭლობის გამო აორტა-ორბარძაყის გეგმიური სინთეზური პროთეზირება აქვს დაგეგმილი. წინასაოპერაციო შეფასებისას გამოვლინდა კბილის ფესვის აქტიური აბსცესი; კიდურისთვის საფრთხის შემცველი იშემია არ აღენიშნება. რომელია პროთეზის ინფექციის პრევენციის ყველაზე შესაფერისი ტაქტიკა?"
         }
       ],
       "topic_rotation": "I №1–40 საფუძვლები და პრევენცია; II №41–80 მიკრობიოლოგია; III №81–130 დიაგნოზი; IV №131–190 გამოსახულებითი დიაგნოსტიკა; V №191–230 ანტიმიკრობული მკურნალობა; VI №231–300 ქირურგიული ტაქტიკა; VII №301–360 მასალები და ჭრილობა; VIII №361–410 ლოკალიზაციები; IX №411–460 გართულებები; X №461–500 შედეგები და მეთვალყურეობა.",
       "linguistic_note": "GLOSSARY.md-ის VGEI ტერმინოლოგია და ბუნებრივი აკადემიური ქართული.",
-      "guideline_check": "ESVS 2026 VGEI guidelines DOI 10.1016/j.ejvs.2026.05.035; IDSA/ESCMID 2026 S. aureus bacteremia consensus (endovascular prosthesis as risk factor); WHO Global Guidelines for Prevention of Surgical Site Infection, section 4.2, conditional recommendation for targeted S. aureus nasal decolonisation in other surgeries.",
+      "guideline_check": "ESVS 2026 VGEI guidelines DOI 10.1016/j.ejvs.2026.05.035; Szilagyi classification in EANM 2022 VGEI imaging guideline; preoperative dental sepsis source control in ESVS 2020 recommendation 12 and NHS SSI 2026.",
       "last_validation": {
         "range": [
-          5,
-          6
+          7,
+          8
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1652,25 +1660,32 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed; hematogenous seeding and WHO conditional decolonization recommendation",
-        "terminology_self_review": "passed; GLOSSARY.md general and VGEI sections",
-        "georgian_language_self_review": "passed; refined academic Georgian",
-        "semantic_duplication_review": "passed; Q1-4 cover Samson group, surgical antibiotic prophylaxis, lymphocele, and later dental prophylaxis; Q5 hematogenous seeding and Q6 nasal decolonization are distinct",
+        "clinical_self_review": "passed: Szilagyi grade III graft infection and source control before elective implantation",
+        "terminology_self_review": "passed: GLOSSARY.md general/VGEI; canonical სილადის (Szilagyi)",
+        "georgian_language_self_review": "passed: refined academic Georgian",
+        "semantic_duplication_review": "passed: Q7 Szilagyi graft involvement vs Q1 Samson anastomosis; Q8 pre-implant dental abscess vs Q4 post-implant dental prophylaxis",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              5
+              7
             ],
-            "source": "IDSA/ESCMID 2026 Staphylococcus aureus bacteremia consensus, risk of metastatic foci with endovascular graft",
-            "url": "https://www.idsociety.org/practice-guideline/staphylococcus-aureus-bacteremia/"
+            "source": "EANM 2022 imaging guideline VGEI Table 1 Szilagyi classification",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9308572/"
           },
           {
             "questions": [
-              6
+              8
             ],
-            "source": "WHO Global Guidelines for the Prevention of Surgical Site Infection, section 4.2; conditional recommendation for other surgeries including vascular surgery",
-            "url": "https://www.ncbi.nlm.nih.gov/books/NBK536431/"
+            "source": "ESVS 2020 VGEI guideline Recommendation 12",
+            "url": "https://angiolsurgery.org/society/organisations/esvs/guidelines/ESVS-Guidelines-VGEI-2020.pdf"
+          },
+          {
+            "questions": [
+              8
+            ],
+            "source": "Frimley Health NHS 2026 SSI prevention guideline section 2.1",
+            "url": "https://guidelines.fhft.nhs.uk/IPC-Prevention_of_Surgical_Site_Infection"
           }
         ]
       }
