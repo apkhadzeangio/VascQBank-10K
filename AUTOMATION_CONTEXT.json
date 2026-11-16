@@ -1036,19 +1036,11 @@
       "target": 650,
       "question_file": "DIALYSIS_ACCESS_questions.txt",
       "explanation_file": "DIALYSIS_ACCESS_explanations.txt",
-      "last_number": 50,
-      "question_blob_sha": "b3781db65f90398c63b6044cf3ac2dc99111f272",
-      "explanation_blob_sha": "d4297e2b881a4d3296819d8c600cf92fffc95440",
+      "last_number": 52,
+      "question_blob_sha": "c833e44b88c611762314f4a81619262e1fdf5f97",
+      "explanation_blob_sha": "dedfbad80b83f8276a82ee561f53c55689c92ed2",
       "last_full_audit_at": 50,
       "recent_stems": [
-        {
-          "n": 21,
-          "stem": "62 წლის პაციენტს ბრაქიოცეფალური ფისტულის ფონზე ხელის მოსვენების ტკივილი და თითის იშემიური დაზიანება განუვითარდა. დადასტურდა ჰემოდიალიზის წვდომასთან ასოცირებული ხელის იშემია (HAIDI); ფისტულაში სისხლის მოცულობითი ნაკადი მო"
-        },
-        {
-          "n": 22,
-          "stem": "55 წლის პაციენტს თირკმლის ტერმინალური უკმარისობის გამო უახლოეს დღეებში ჰემოდიალიზის დაწყება ესაჭიროება ტუნელირებული, მანჟეტიანი სადიალიზო კათეტერით, სანამ ორი კვირის წინ შექმნილი მარცხენა რადიოცეფალური არტერიოვენური ფისტ"
-        },
         {
           "n": 23,
           "stem": "58 წლის პაციენტს წინამხრის დისტალურ მესამედში, მაჯის დონეზე, რადიოცეფალური არტერიოვენური ფისტულა შეუქმნეს. ოპერაციის მეორე დღეს პაციენტი აღნიშნავს დაბუჟებასა და წვის შეგრძნებას მტევნის ზურგის სხივისმხრივ ზედაპირსა და ცერ"
@@ -1160,6 +1152,14 @@
         {
           "n": 50,
           "stem": "60 წლის პაციენტს მარცხენა შიგნითა საუღლე ვენის გავლით ტუნელირებული, მანჟეტიანი სადიალიზო კათეტერი ჩაუდგეს. პირველ ჰემოდიალიზამდე ჩატარებულ რენტგენოგრამაზე კათეტერის წვერი უჩვეულოდ გადახრილი ჩანდა; კონტრასტული კვლევით დად"
+        },
+        {
+          "n": 51,
+          "stem": "58 წლის პაციენტი რამდენიმე წელია ჰემოდიალიზს მარცხენა რადიოცეფალური არტერიოვენური ფისტულით იტარებს. ბოლო კანულაციიდან რამდენიმე დღეში ცეფალური ვენის პუნქციის უბანში მტკივნეული, პულსირებადი გამობერილობა გაჩნდა; კანი დაუზიანებელია, "
+        },
+        {
+          "n": 52,
+          "stem": "64 წლის პაციენტს ჰემოდიალიზი ტუნელირებული, მანჟეტიანი სადიალიზო კათეტერით უტარდება, რადგან მუდმივი სისხლძარღვოვანი წვდომა ჯერ მზად არ არის. კათეტერის გამოსასვლელის გარშემო კანი გაწითლდა, მტკივნეულია და მცირე ჩირქოვანი გამონადენი ა"
         }
       ],
       "topic_rotation": "AVF და AVG-ის შერჩევა; წინასაოპერაციო დუპლექსსკანირება; რადიოცეფალური, ბრაქიოცეფალური და ბრაქიობაზილიკური ფისტულები; ბაზილარული ვენის ტრანსპოზიცია; მომწიფება და არასაკმარისი მომწიფება; Qa, ვენური სტენოზი და თრომბოზი; ენდოვასკულური და ღია რეკონსტრუქცია; ანევრიზმა, ფსევდოანევრიზმა, სისხლდენა და ინფექცია; HAIDI და იშემიური მონომელური ნეიროპათია; მაღალი ნაკადი და გულის უკმარისობა; ცენტრალური ვენები; ტუნელირებული კათეტერები, ალტერნატიული წვდომა და მეთვალყურეობა.",
@@ -1167,8 +1167,8 @@
       "guideline_check": "KDOQI 2019 (გამოქვეყნებულია 2020 წელს), ESVS Vascular Access 2018, UK Kidney Association Vascular Access 2025; არ ააგო კითხვა სადავო რიცხვით ზღვრებზე და გაითვალისწინე ESKD Life-Plan.",
       "last_validation": {
         "range": [
-          49,
-          50
+          51,
+          52
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1177,39 +1177,32 @@
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
-        "clinical_self_review": "passed",
-        "terminology_self_review": "passed",
-        "georgian_language_self_review": "passed",
-        "semantic_duplication_review": "Existing 48 questions plus new two reviewed for repeated clinical decisions; complete 1-50 exact-stem and numbering audit passed.",
+        "clinical_self_review": "passed: venous fistula pseudoaneurysm duplex neck flow; isolated catheter exit-site infection without bacteraemia",
+        "terminology_self_review": "passed: GLOSSARY.md general and dialysis vascular access terminology",
+        "georgian_language_self_review": "passed: two separate idiomatic Georgian specialist edits",
+        "semantic_duplication_review": "All existing stems compared; pseudoaneurysm imaging diagnosis differs from previous aneurysm treatment and sterile seroma; exit-site infection management differs from tunnel abscess and bloodstream infection.",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              49
+              51
             ],
-            "source": "ESVS 2018 Vascular Access Guideline, recommendations 31-32",
+            "source": "ESVS 2018 Vascular Access Guidelines, access aneurysms and pseudoaneurysms, Section 7.1",
             "url": "https://sianitalia.it/wp-content/uploads/2021/01/Vascular-Access-2018.pdf"
           },
           {
             "questions": [
-              49
+              51
             ],
-            "source": "ERBP 2019 Peri- and postoperative care of arteriovenous access; early thrombosis salvage",
-            "url": "https://doi.org/10.1093/ndt/gfz072"
+            "source": "Sonographer’s Role in the Screening, Diagnosis, and Treatment of Dialysis Fistula Pseudoaneurysms, 2020",
+            "url": "https://doi.org/10.1177/8756479320913846"
           },
           {
             "questions": [
-              50
+              52
             ],
-            "source": "UK Kidney Association 2025 Clinical Practice Guideline on Vascular Access, catheter tip position",
-            "url": "https://link.springer.com/article/10.1186/s12882-025-04374-y"
-          },
-          {
-            "questions": [
-              50
-            ],
-            "source": "Malposition of tunneled dialysis catheter into azygos vein, 2017 case and review",
-            "url": "https://karger.com/bpu/article/44/2/108/48518/Malpositioning-of-a-Tunneled-Hemodialysis-Catheter"
+            "source": "UK Kidney Association Vascular Access Guideline 2025, Recommendation 6.3, exit-site infection without bacteraemia",
+            "url": "https://doi.org/10.1186/s12882-025-04374-y"
           }
         ]
       }
