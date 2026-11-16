@@ -1661,15 +1661,11 @@
       "target": 600,
       "question_file": "PERIOPERATIVE_questions.txt",
       "explanation_file": "PERIOPERATIVE_explanations.txt",
-      "last_number": 29,
-      "question_blob_sha": "9766bfa7ad374c850769bcfa87989af5ce906f28",
-      "explanation_blob_sha": "4d80dd43de0dbd3150eee07887ab4fe4cb7259fa",
+      "last_number": 31,
+      "question_blob_sha": "d6d0a8cbbfeab17ff7a16f7e6cb09d3408bea89d",
+      "explanation_blob_sha": "1f742abf83124e061187fe315f04a24d1bd6ef43",
       "last_full_audit_at": 6,
       "recent_stems": [
-        {
-          "n": 1,
-          "stem": "72 წლის მამაკაცი მუცლის აორტის ანევრიზმის გეგმიური ღია პროთეზირებისთვის ემზადება; ოპერაციამდე ექვსი კვირაა. ჰემოგლობინია 96 გ/ლ, ფერიტინი — 12 მკგ/ლ; პაციენტი ჰემოდინამიკურად სტაბილურია და აქტიური სისხლდენა არ აღენიშნება. რომელია წინასაოპერაციო მართვის საუკეთესო ტაქტიკა"
-        },
         {
           "n": 2,
           "stem": "67 წლის ქალს შაქრიანი დიაბეტის გამო დანიშნული აქვს ემპაგლიფლოზინი. ხუთ დღეში მას ჩაუტარდება ბარძაყ-მუხლქვეშა შუნტირება; გლიკემია კონტროლდება, კეტოაციდოზის ნიშნები არ არის. როგორ უნდა შეიცვალოს ემპაგლიფლოზინის მიღება ოპერაციის წინ?"
@@ -1781,6 +1777,14 @@
         {
           "n": 29,
           "stem": "63 წლის ქალს ფილტვის არტერიული ჰიპერტენზია აქვს; მარჯვენა გულის კათეტერიზაციით ფილტვის არტერიის საშუალო წნევა 48 mmHg, ხოლო ფილტვის სისხლძარღვოვანი წინააღმდეგობა 7 ვუდის ერთეულია. ექოკარდიოგრაფიით მარჯვენა პარკუჭის ზომიერი დისფუნქცია დასტურდება. ორ კვირაში მას მუცლის აორტის ანევრიზმის გეგმიური ღია პ"
+        },
+        {
+          "n": 30,
+          "stem": "73 წლის მამაკაცს მუცლის აორტის 6,2 სმ დიამეტრის უსიმპტომო ანევრიზმის გეგმიური ღია პროთეზირება უნდა ჩაუტარდეს. სამი თვის წინ ჩატარებული კორონაროგრაფიით მარჯვენა კორონარული არტერიის შუა მონაკვეთის 75%-იანი სტენოზი გამოვლინდა; სხვა კორონარული არტერიების მნიშვნელოვანი დაზიანება, მათ შორის მარცხენა მ"
+        },
+        {
+          "n": 31,
+          "stem": "67 წლის ქალს ოპტიმალური კონსერვატიული მკურნალობის მიუხედავად ყოველდღიური საქმიანობის შემზღუდველი ხანგამოშვებითი კოჭლობა აქვს და სამი კვირის შემდეგ გეგმიური ბარძაყ-მუხლქვეშა შუნტირება უნდა ჩაუტარდეს. II ტიპის შაქრიანი დიაბეტის ფონზე გლიკირებული ჰემოგლობინის (HbA1c) მაჩვენებელი 8,7%-ია; ბოლო კვირი"
         }
       ],
       "topic_rotation": "№1–60 წინასაოპერაციო შეფასება/ოპტიმიზაცია; №61–120 პერიოპერაციული კარდიოვასკულური რისკი; №121–180 ანტიაგრეგანტული და ანტიკოაგულაციური მკურნალობა; №181–250 ჰემოსტაზი, სისხლდენა და ტრანსფუზია; №251–320 თრომბოემბოლია და პროფილაქტიკა; №321–380 ჰემოდინამიკა, ინფუზია და თირკმლის ფუნქცია; №381–440 ფილტვის/მეტაბოლური გართულებები; №441–500 სისხლძარღვოვანი ოპერაციების ადრეული გართულებები; №501–550 ნევროლოგიური/ორგანოსპეციფიკური გართულებები; №551–600 პოსტოპერაციული მეთვალყურეობა. ზუსტად ორი კითხვა თითო ციკლში.",
@@ -1788,8 +1792,8 @@
       "guideline_check": "2024 multi-society GLP-1RA perioperative guidance (published 2024; Surgical Endoscopy 2025): individual aspiration-risk assessment and continuation in lower-risk patients; SA Health vascular surgery antibiotic prophylaxis and ASHP/IDSA/SHEA/SIS: IV cefazolin within 60 min before incision with repeat intraoperative dosing for prolonged surgery and normal kidney function.",
       "last_validation": {
         "range": [
-          28,
-          29
+          30,
+          31
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1799,30 +1803,29 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ბ": 1,
-          "ე": 1
+          "ა": 1,
+          "გ": 1
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: 2024 AHA/ACC Perioperative Cardiovascular Management, Class I B-NR for LV function evaluation; Class IIa C-LD for severe pulmonary hypertension specialist consultation",
-        "terminology_self_review": "passed: GLOSSARY.md general and PERIOPERATIVE sections",
-        "georgian_language_self_review": "passed: natural academic Georgian, no literal calques",
-        "semantic_duplication_review": "Reviewed all 27 existing questions and recent_stems; new question 28 concerns newly suspected ventricular dysfunction, question 29 severe pulmonary hypertension care coordination",
+        "clinical_self_review": "passed; 2026 AHA/ACC guideline routine coronary revascularization class III no benefit for non-left-main CAD; ADA Standards 2026 section 16 elective surgery HbA1c optimization without mandatory delay based on HbA1c alone",
+        "terminology_self_review": "passed (GLOSSARY.md GENERAL and PERIOPERATIVE)",
+        "georgian_language_self_review": "passed; academic Georgian",
+        "semantic_duplication_review": "All 29 stored questions examined; no prior decision on prophylactic non-left-main PCI or isolated elevated HbA1c elective-surgery timing",
         "previous_text_unchanged": true,
-        "index_precheck": "matched TXT and blob SHA",
         "source_checks": [
           {
             "questions": [
-              28
+              30
             ],
-            "source": "2024 AHA/ACC Multisociety Perioperative Cardiovascular Guideline, 4.2.1 LV Function, Class I B-NR",
-            "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001285"
+            "source": "2026 AHA/ACC Multisociety Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery; coronary revascularization class 3 no benefit",
+            "url": "https://www.jacc.org/doi/10.1016/j.jacc.2026.06.017"
           },
           {
             "questions": [
-              29
+              31
             ],
-            "source": "2024 AHA/ACC Multisociety Perioperative Cardiovascular Guideline, 6.3.2 Pulmonary Hypertension, Class IIa C-LD",
-            "url": "https://www.jacc.org/doi/10.1016/j.jacc.2024.06.013"
+            "source": "ADA Standards of Care in Diabetes 2026, section 16, Perioperative Care recommendations 16.14–16.15",
+            "url": "https://doi.org/10.2337/dc26-s016"
           }
         ]
       }
