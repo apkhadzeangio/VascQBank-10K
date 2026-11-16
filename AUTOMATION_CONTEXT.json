@@ -392,19 +392,11 @@
       "target": 900,
       "question_file": "CAROTID_VERTEBRAL_questions.txt",
       "explanation_file": "CAROTID_VERTEBRAL_explanations.txt",
-      "last_number": 161,
-      "question_blob_sha": "01be61ab4fee4a81baa9e0af25181d3a565505c6",
-      "explanation_blob_sha": "25ef973d25068f7d16c7551f66ff32883b5ad178",
+      "last_number": 163,
+      "question_blob_sha": "147b8387a338d91d0328ad0128bea357bef7d331",
+      "explanation_blob_sha": "b6202fbb71b903364e3669cfb2f1609e4e81fbc8",
       "last_full_audit_at": 150,
       "recent_stems": [
-        {
-          "n": 132,
-          "stem": "69 წლის მამაკაცს სამი დღის წინ გარდამავალი აფაზია ჰქონდა და CTA-ზე შესაბამისი შიგნითა საძილე არტერიის 80%-იანი სტენოზი დაუდასტურდა. კაროტიდული ენდარტერექტომია უახლოეს დღეებში უნდა ჩატარდეს; CT-ზე ინტრაკრანიალური სისხლჩაქ"
-        },
-        {
-          "n": 133,
-          "stem": "67 წლის მამაკაცს მარჯვენა საძილე არტერიის ენდარტერექტომია ჩაუტარდა მკერდ-ლავიწ-დვრილისებრი კუნთის წინა კიდის გასწვრივ შესრულებული სიგრძივი განაკვეთით, რომელიც დვრილისებრი მორჩის მიმართულებით გაგრძელდა. ოპერაციის შემდეგ პ"
-        },
         {
           "n": 134,
           "stem": "69 წლის მამაკაცს სიმპტომური კაროტიდული სტენოზის გამო ზოგადი ანესთეზიით საძილე არტერიის ენდარტერექტომია უტარდება და დროებითი შუნტის ჩადგმის საჭიროება საძილე არტერიის რეტროგრადული წნევის გაზომვით ფასდება. ვილიზიის წრიდან შ"
@@ -516,6 +508,14 @@
         {
           "n": 161,
           "stem": "68 წლის მამაკაცს მძიმე სამძარღვოვანი კორონარული დაავადების გამო გეგმიური აორტოკორონარული შუნტირება ესაჭიროება. კარდიოქირურგიული გუნდი მარცხენა შიგნითა გულმკერდის არტერიის გამოყენებას გეგმავს წინა დაღმავალ კორონარულ არტერ"
+        },
+        {
+          "n": 162,
+          "stem": "64 წლის მამაკაცს ოთხი დღის წინ მარცხენა ხელის სისუსტის გარდამავალი ეპიზოდი ჰქონდა. CTA-ზე მარჯვენა შიგნითა საძილე არტერიის 80%-იანი სტენოზია, დისტალური სანათურის კოლაფსისა და დიდი ინფარქტის გარეშე. ადრე ჩატარებული მარცხე"
+        },
+        {
+          "n": 163,
+          "stem": "69 წლის მამაკაცს ბოლო კვირაში მარჯვენა ხელის სისუსტის გარდამავალი ეპიზოდი ჰქონდა; CTA-ზე მარცხენა შიგნითა საძილე არტერიის 75%-იანი სტენოზია და მომდევნო დღეებში ენდარტერექტომია იგეგმება. წინაგულთა ფიბრილაციის გამო რეგულარ"
         }
       ],
       "topic_rotation": "TIA/ინსულტი; NASCET; CTA/MRA/დუპლექსი; CEA/CAS/TCAR დრო და არჩევანი; ფოლაქის მორფოლოგია; ანტითრომბოციტული მკურნალობა; პერიოპერაციული გართულებები; რესტენოზი; ხერხემლის არტერიის სტენოზი/დისექცია და უკანა ცირკულაცია; ESVS 2023 და უფრო ახალი წყაროები.",
@@ -523,8 +523,8 @@
       "guideline_check": "კლინიკურად სადავო გადაწყვეტილებაზე ერთმნიშვნელოვანი პასუხი არ ააგო; პირველწყარო ESVS/SVS და შესაბამისი გაიდლაინები გადაამოწმე, როცა საჭიროა.",
       "last_validation": {
         "range": [
-          160,
-          161
+          162,
+          163
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -534,14 +534,14 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ა": 1,
-          "ე": 1
+          "გ": 1,
+          "ბ": 1
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed (ESVS 2023 Section 10.6; ESC 2024 Section 8.3.1.2)",
+        "clinical_self_review": "passed (ESVS 2023 section 5.1.1 and section 4.2.6.3.1)",
         "georgian_language_self_review": "passed",
         "terminology_self_review": "passed (GLOSSARY.md)",
-        "semantic_duplication_review": "compared full stored questions, recent 30 questions and recent_stems; #105 differs as post-CABG coronary steal, not pre-CABG prophylaxis",
+        "semantic_duplication_review": "Compared with all 161 stored question stems; nearest overlaps 0.247, 0.203; differing clinical decisions verified",
         "previous_text_unchanged": true,
         "index_precheck": "matched"
       }
