@@ -872,19 +872,11 @@
       "target": 1500,
       "question_file": "PAD_CLTI_questions.txt",
       "explanation_file": "PAD_CLTI_explanations.txt",
-      "last_number": 36,
-      "question_blob_sha": "b235186db234b27ca4dd043bc152527113797420",
-      "explanation_blob_sha": "10c3f7c99710bc0927e142487fb47dac38aebd9f",
+      "last_number": 38,
+      "question_blob_sha": "98e22203a5c5622ad4311ff07eae93fa0fe6343b",
+      "explanation_blob_sha": "6b9d7be9453136a6a93ef73c482badc12c5f6a45",
       "last_full_audit_at": 25,
       "recent_stems": [
-        {
-          "n": 7,
-          "stem": "71 წლის ქალს კიდურისთვის საფრთხის შემცველი ქრონიკული იშემიის გამო ექვსი თვის წინ ბარძაყ-წვივის აუტოვენური შუნტირება ჩაუტარდა. ტერფის წყლული შეხორცებულია და შუნტი გამავალია, თუმცა გეგმური დუპლექსსკანირ"
-        },
-        {
-          "n": 8,
-          "stem": "70 წლის პაციენტს ტერფის წინა ნაწილში ორი თვის განმავლობაში შეუხორცებელი იშემიური წყლული აქვს. ტერფის პირველი თითის სისტოლური წნევა 21 mmHg-ია; CTA-ზე ბარძაყისა და მუხლქვეშა არტერიების ანატომია გარკვევ"
-        },
         {
           "n": 9,
           "stem": "66 წლის მამაკაცს სიმპტომური პერიფერიული არტერიული დაავადების გამო ბარძაყ-მუხლქვეშა სეგმენტის სტენოზის ბალონური ანგიოპლასტიკა ჩაუტარდა, სტენტის ჩადგმის გარეშე. პროცედურამ გართულების გარეშე ჩაიარა, თირკ"
@@ -996,6 +988,14 @@
         {
           "n": 36,
           "stem": "69 წლის მამაკაცს ბოლო ორი კვირის განმავლობაში ტერფის ორ თითზე მტკივნეული ციანოზი და მცირე ნეკროზული უბნები განუვითარდა. დუპლექსსკანირებით მუხლქვეშა არტერიის 29 მმ დიამეტრის ანევრიზმა გამოვლინდა კედლის"
+        },
+        {
+          "n": 37,
+          "stem": "69 წლის მამაკაცს სიმპტომური პერიფერიული არტერიული დაავადების გამო ყოველდღიური გადაადგილება ხანგამოშვებითი კოჭლობით ეზღუდება. ბოლო ექვსი თვეა რეგულარულად იღებს ატორვასტატინს 80 მგ დღეში და კარგად იტანს"
+        },
+        {
+          "n": 38,
+          "stem": "44 წლის მამაკაცს, რომელსაც ათეროსკლეროზის რისკფაქტორები არ აქვს, 200 მ-ის გავლის შემდეგ მარჯვენა წვივის კუნთების ტკივილი ეწყება. მოსვენებით გოჯ-მხრის ინდექსი (ABI) 1,03-ია, დატვირთვის შემდეგ კი 0,59-მ"
         }
       ],
       "topic_rotation": "ABI/TBI და პერფუზია; Fontaine/Rutherford/WIfI/GLASS; ხანგამოშვებითი კოჭლობა და CLTI; დუპლექსი/CTA/MRA/DSA; ანტიაგრეგანტები/სტატინები/ვარჯიში; აორტა-თეძოს, ბარძაყ-მუხლქვეშა და წვივის სეგმენტები; ენდოვასკულური მკურნალობა/ავტოვენური შუნტირება; ჭრილობა/ინფექცია/ამპუტაცია/მეთვალყურეობა.",
@@ -1003,8 +1003,8 @@
       "guideline_check": "2024 ACC/AHA PAD guideline, 2024 ESVS asymptomatic PAD/intermittent claudication guideline და Global Vascular Guidelines CLTI; კლინიკური გადაწყვეტილება გადაამოწმე პირველწყაროებში.",
       "last_validation": {
         "range": [
-          35,
-          36
+          37,
+          38
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1014,26 +1014,26 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed — ACC catheter-related femoral pseudoaneurysm management and SVS popliteal artery aneurysm guidelines",
-        "terminology_self_review": "passed (GLOSSARY.md GENERAL/PAD_CLTI)",
-        "georgian_language_self_review": "passed",
-        "semantic_duplication_review": "compared all 34 stored PAD_CLTI questions; closest lexical matches [[{\"n\":34,\"sim\":0.0967741935483871},{\"n\":29,\"sim\":0.09401709401709402},{\"n\":15,\"sim\":0.09375}],[{\"n\":16,\"sim\":0.2},{\"n\":20,\"sim\":0.15454545454545454},{\"n\":21,\"sim\":0.14035087719298245}]]",
+        "clinical_self_review": "passed — ACC/AHA 2024 PAD lipid guidance; JVS 2014 cystic adventitial disease review",
+        "georgian_language_self_review": "passed — polished wording and comparable choice types",
+        "terminology_self_review": "passed — current GLOSSARY.md GENERAL/PAD_CLTI",
+        "semantic_duplication_review": "Compared 36 full question stems, last 30 full questions and indexed recent stems; unique lipid intensification and popliteal adventitial cyst cases",
         "previous_text_unchanged": true,
         "index_precheck": "matched",
         "source_checks": [
           {
             "questions": [
-              35
+              37
             ],
-            "source": "ACC, Postcatheterization Femoral Pseudoaneurysms",
-            "url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2019/06/04/10/26/postcatheterization-femoral-pseudoaneurysms"
+            "source": "2024 ACC/AHA PAD Guideline Section 5.2",
+            "url": "https://www.jacc.org/doi/10.1016/j.jacc.2024.02.013"
           },
           {
             "questions": [
-              36
+              38
             ],
-            "source": "SVS Clinical Practice Guidelines on Popliteal Artery Aneurysms (2022)",
-            "url": "https://doi.org/10.1016/j.jvs.2021.04.040"
+            "source": "J Vasc Surg 2014 systematic review of cystic adventitial disease",
+            "url": "https://doi.org/10.1016/j.jvs.2014.04.014"
           }
         ]
       }
