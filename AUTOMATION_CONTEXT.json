@@ -420,19 +420,11 @@
       "target": 900,
       "question_file": "CAROTID_VERTEBRAL_questions.txt",
       "explanation_file": "CAROTID_VERTEBRAL_explanations.txt",
-      "last_number": 118,
-      "question_blob_sha": "358bf63547ff36970e9c05c284031d6469f97fa1",
-      "explanation_blob_sha": "c03a31f767a38987e0a8a456ff432015cb928605",
+      "last_number": 120,
+      "question_blob_sha": "5f06c0b2a62c77e3de6b05431259ffe8704e5b08",
+      "explanation_blob_sha": "3cd3fd91f2fcbd0871d933bd0da19f3960487bea",
       "last_full_audit_at": 100,
       "recent_stems": [
-        {
-          "n": 89,
-          "stem": "70 წლის მამაკაცს მარცხენა კაროტიდული ენდარტერექტომია რეგიონული ანესთეზიით უტარდება. არტერიის გადაჭერის განმავლობაში მეტყველება და მარჯვენა ხელის მოძრაობა შენარჩუნებულია, მაგრამ დამჭერების მოხსნისა და სისხლის ნაკადის გაშვებისთანავე აფაზია და"
-        },
-        {
-          "n": 90,
-          "stem": "კაროტიდული სტენტირებისთვის მომზადებული პაციენტი ასპირინსა და კლოპიდოგრელს რეგულარულად იღებს. გუნდს სურს ყველა ასეთი პაციენტისთვის დანერგოს თრომბოციტების ფუნქციის ლაბორატორიული ტესტირება და მიღებული მაჩვენებლით ანტიაგრეგანტების დოზების შეცვლ"
-        },
         {
           "n": 91,
           "stem": "63 წლის მამაკაცს მარჯვენა ხელის სისუსტის ეპიზოდის შემდეგ მარცხენა შიგნითა საძილე არტერიაში თავისუფლად მოძრავი თრომბი დაუდასტურდა. დაეწყო არაფრაქცირებული ჰეპარინი; ანტიკოაგულაციის მაჩვენებლები ადგილობრივ თერაპიულ დიაპაზონში სტაბილურად რჩება."
@@ -544,6 +536,14 @@
         {
           "n": 118,
           "stem": "72 წლის ქალს მარცხენა კაროტიდული ენდარტერექტომიიდან ორი საათის შემდეგ უეცრად განუვითარდა აფაზია და მარჯვენამხრივი ჰემიპარეზი (NIHSS 15). ინსულტამდე დამოუკიდებელი იყო (mRS 0); გადაუდებელ CT-ზე სისხლჩაქცევა არ ჩანს, ASPECTS 9; CTA-ზე რეკონსტრ"
+        },
+        {
+          "n": 119,
+          "stem": "53 წლის ქალს საძილე გორგლის 3,2 სმ ზომის პარაგანგლიომის გეგმიური ამოკვეთა ელის. მას პერიოდულად აღენიშნება არტერიული წნევის მკვეთრი მომატება, გულისცემის აჩქარება და ოფლიანობა; პლაზმაში თავისუფალი ნორმეტანეფრინის მომატებით სიმსივნის ჰორმონული"
+        },
+        {
+          "n": 120,
+          "stem": "46 წლის ქალს მარცხენა შიგნითა საძილე არტერიის შუა და დისტალურ მონაკვეთებში ფიბრომუსკულური დისპლაზია და სანათურის გამოხატული შევიწროება დაუდასტურდა. ანტიაგრეგანტული მკურნალობისა და სისხლძარღვოვანი რისკფაქტორების ოპტიმალური კონტროლის მიუხედავ"
         }
       ],
       "topic_rotation": "TIA/ინსულტი; NASCET; CTA/MRA/დუპლექსი; CEA/CAS/TCAR დრო და არჩევანი; ფოლაქის მორფოლოგია; ანტითრომბოციტული მკურნალობა; პერიოპერაციული გართულებები; რესტენოზი; ხერხემლის არტერიის სტენოზი/დისექცია და უკანა ცირკულაცია; ESVS 2023 და უფრო ახალი წყაროები.",
@@ -551,8 +551,8 @@
       "guideline_check": "კლინიკურად სადავო გადაწყვეტილებაზე ერთმნიშვნელოვანი პასუხი არ ააგო; პირველწყარო ESVS/SVS და შესაბამისი გაიდლაინები გადაამოწმე, როცა საჭიროა.",
       "last_validation": {
         "range": [
-          117,
-          118
+          119,
+          120
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -562,9 +562,9 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed (2024 ESC symptomatic subclavian steal revascularisation; 2026 AHA/ASA early M1 large-vessel occlusion endovascular thrombectomy)",
+        "clinical_self_review": "passed (Endocrine Society 2014 PPGL guidance; AHA/ASA 2021 stroke prevention guideline section 5.16, FMD)",
         "georgian_language_self_review": "passed",
-        "semantic_duplication_review": "Reviewed all existing stems and 30 most recent full cases; new decisions address refractory symptomatic subclavian steal intervention and post-CEA patent carotid with intracranial M1 occlusion requiring thrombectomy.",
+        "semantic_duplication_review": "Reviewed all stored question stems and the most recent 30 full questions; new distinct decisions address first-line alpha blockade for biochemically active carotid paraganglioma and consideration of carotid angioplasty for recurrent ischemic stroke caused by FMD despite optimal therapy.",
         "previous_text_unchanged": true
       }
     },
