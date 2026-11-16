@@ -1736,19 +1736,11 @@
       "target": 600,
       "question_file": "PERIOPERATIVE_questions.txt",
       "explanation_file": "PERIOPERATIVE_explanations.txt",
-      "last_number": 49,
-      "question_blob_sha": "9ab08bb446f53bae7b7f5c8117a15c2e4338ee61",
-      "explanation_blob_sha": "601c7b45abbff3cc32b2c54b2779c7d0ef217b23",
-      "last_full_audit_at": 6,
+      "last_number": 51,
+      "question_blob_sha": "bc1d6d4f1c708d4f8cc42bf9285169838d793262",
+      "explanation_blob_sha": "af554a0937d4e353493e329fbdd2192d107a9ab2",
+      "last_full_audit_at": 50,
       "recent_stems": [
-        {
-          "n": 20,
-          "stem": "59 წლის მამაკაცს აორტა-ორბარძაყის გეგმიური ღია პროთეზირება უნდა ჩაუტარდეს ზოგადი ანესთეზიით. მის ძმას ოპერაციისას დადასტურებული ავთვისებიანი ჰიპერთერმია განუვითარდა; თავად პაციენტს ამ მდგომარეობაზე კვლევა არ ჩატარებია, თუმცა წარსულში ზოგადი ანესთეზია გართულების გარეშე გ"
-        },
-        {
-          "n": 21,
-          "stem": "73 წლის მამაკაცს საძილე არტერიის გეგმიური ენდარტერექტომია უნდა ჩაუტარდეს. მას ჩადგმული აქვს ტრანსვენური იმპლანტირებადი კარდიოვერტერ-დეფიბრილატორი (ICD); გულის რიტმი მთლიანად დამოკიდებულია მოწყობილობის სტიმულაციაზე. კისრის მიდამოში დაგეგმილია მონოპოლარული ელექტროკოაგულაციის გამოყენება. რომელია მოწყობილობის უსაფრთხო წინასაოპერაციო მართვა?"
-        },
         {
           "n": 22,
           "stem": "58 წლის ქალს I ტიპის შაქრიანი დიაბეტი აქვს და ინსულინის უწყვეტი კანქვეშა ინფუზიის ტუმბოს იყენებს. მას აორტა-ორბარძაყის გეგმიური ღია შუნტირება უნდა ჩაუტარდეს; ოპერაციის ხანგრძლივობისა და საოპერაციო პირობების გამო ტუმბოს გამოყენება შეუძლებელია. გლიკემია სტაბილურია. რომელი წინასაოპერაციო გადაწყვეტილებაა ყველაზე უსაფრთხო?"
@@ -1860,6 +1852,14 @@
         {
           "n": 49,
           "stem": "57 წლის მამაკაცი ოპიოიდების მოხმარებასთან დაკავშირებული აშლილობის გამო სამი წელია სტაბილურად იღებს ბუპრენორფინს. მისი მდგომარეობა კონტროლდება; ორ კვირაში ბარძაყ-მუხლქვეშა ღია შუნტირება უნდა ჩაუტარდეს და მოსალოდნელია მნიშვნელოვანი პოსტოპერაციული ტკივილი. რომელია ბუპრენორფინით მკურნალობის ყველაზე "
+        },
+        {
+          "n": 50,
+          "stem": "70 წლის მამაკაცს აორტა-ორბარძაყის გეგმიური შუნტირება უნდა ჩაუტარდეს. წინასაოპერაციო შეფასებისას დუპლექსსკანირებით მარცხენა შიგნითა საძილე არტერიის 75%-იანი სტენოზი გამოვლინდა; ინსულტი, ტრანზიტორული იშემიური შეტევა ან გარდამავალი მონოკულარული სიბრმავე არასოდეს ჰქონია. მარჯვენა შიგნითა საძილე არტე"
+        },
+        {
+          "n": 51,
+          "stem": "56 წლის ქალს ბარძაყ-მუხლქვეშა გეგმიური შუნტირება უნდა ჩაუტარდეს ზოგადი ანესთეზიით. პაციენტი არ ეწევა, წინა ოპერაციის შემდეგ გამოხატული გულისრევა და ღებინება ჰქონდა, ხოლო ამჯერად ოპერაციის შემდგომ ოპიოიდური ანალგეზია სავარაუდოდ დასჭირდება. ანტიემეტიკურ საშუალებებზე უკუჩვენება არ აქვს. რომელია პოს"
         }
       ],
       "topic_rotation": "№1–60 წინასაოპერაციო შეფასება/ოპტიმიზაცია; №61–120 პერიოპერაციული კარდიოვასკულური რისკი; №121–180 ანტიაგრეგანტული და ანტიკოაგულაციური მკურნალობა; №181–250 ჰემოსტაზი, სისხლდენა და ტრანსფუზია; №251–320 თრომბოემბოლია და პროფილაქტიკა; №321–380 ჰემოდინამიკა, ინფუზია და თირკმლის ფუნქცია; №381–440 ფილტვის/მეტაბოლური გართულებები; №441–500 სისხლძარღვოვანი ოპერაციების ადრეული გართულებები; №501–550 ნევროლოგიური/ორგანოსპეციფიკური გართულებები; №551–600 პოსტოპერაციული მეთვალყურეობა. ზუსტად ორი კითხვა თითო ციკლში.",
@@ -1867,8 +1867,8 @@
       "guideline_check": "2024 multi-society GLP-1RA perioperative guidance (published 2024; Surgical Endoscopy 2025): individual aspiration-risk assessment and continuation in lower-risk patients; SA Health vascular surgery antibiotic prophylaxis and ASHP/IDSA/SHEA/SIS: IV cefazolin within 60 min before incision with repeat intraoperative dosing for prolonged surgery and normal kidney function.",
       "last_validation": {
         "range": [
-          48,
-          49
+          50,
+          51
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1878,29 +1878,29 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ა": 1,
-          "ე": 1
+          "გ": 1,
+          "დ": 1
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: ESAIC 2024 delirium recommendation 2.1 and multicomponent preventive strategy; ASRA/ASA multisociety 2021 buprenorphine continuation",
-        "terminology_self_review": "passed; general and PERIOPERATIVE glossary",
-        "georgian_language_self_review": "passed",
-        "semantic_duplication_review": "All prior 47 questions screened: no preoperative delirium cognitive assessment or buprenorphine maintenance issue",
+        "clinical_self_review": "passed; ESVS 2023 Recommendation 122 and fifth PONV consensus 2026 high-risk prophylaxis",
+        "terminology_self_review": "passed; GENERAL and PERIOPERATIVE glossary",
+        "georgian_language_self_review": "passed; specialist Georgian editing",
+        "semantic_duplication_review": "Full audit at #50: reviewed all previous 49 stems and options; new decisions absent, no exact duplicate",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              48
+              50
             ],
-            "source": "ESAIC 2024 updated postoperative delirium guideline, recommendation 2.1",
-            "url": "https://doi.org/10.1097/EJA.0000000000001876"
+            "source": "ESVS 2023 Guidelines for Atherosclerotic Carotid and Vertebral Artery Disease, Recommendation 122 (III B), p75",
+            "url": "https://doi.org/10.1016/j.ejvs.2022.04.011"
           },
           {
             "questions": [
-              49
+              51
             ],
-            "source": "ASRA/ASA/ASHP/AAPM/ASAM 2021 multisociety buprenorphine management recommendations",
-            "url": "https://doi.org/10.1136/rapm-2021-103007"
+            "source": "Gan et al. Fifth Consensus Guidelines for Management of Postoperative Nausea and Vomiting, Anesth Analg 2026;143:497-513",
+            "url": "https://doi.org/10.1213/ANE.0000000000007816"
           }
         ]
       }
