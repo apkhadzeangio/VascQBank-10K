@@ -1040,19 +1040,11 @@
       "target": 650,
       "question_file": "DIALYSIS_ACCESS_questions.txt",
       "explanation_file": "DIALYSIS_ACCESS_explanations.txt",
-      "last_number": 54,
-      "question_blob_sha": "2d4e9f75f7013a4b3fa21dc9c7e9ead4b9bfa525",
-      "explanation_blob_sha": "49b76ab2fabd34d9b42a506240d510e8d19b0ab0",
+      "last_number": 56,
+      "question_blob_sha": "4e03b9bcff1746a2d1c0b920cb66cdb8d7f0feb5",
+      "explanation_blob_sha": "bde0de0b2502e5d9298949de65dd9684a95e4f24",
       "last_full_audit_at": 50,
       "recent_stems": [
-        {
-          "n": 25,
-          "stem": "60 წლის პაციენტი ორი წელია ჰემოდიალიზს მარცხენა რადიოცეფალური არტერიოვენური ფისტულით იტარებს. ბოლო სეანსებზე შეუძლებელი გახდა სისხლის ტუმბოს სამიზნე სიჩქარის შენარჩუნება ტუმბომდე არტერიული წნევის მკვეთრი გაუარყოფითების გ"
-        },
-        {
-          "n": 26,
-          "stem": "59 წლის პაციენტს მარცხენა ბრაქიოცეფალური არტერიოვენური ფისტულის ფონზე განუვითარდა ქოშინი, გულის მოცულობითი გადატვირთვა და ჰემოდიალიზის წვდომასთან ასოცირებული ხელის იშემია (HAIDI) მტევნის მოსვენების ტკივილითა და მეორე თით"
-        },
         {
           "n": 27,
           "stem": "65 წლის პაციენტს ჰემოდიალიზი წინამხრის მარყუჟისებრი არტერიოვენური პროთეზით უტარდება. ბოლო სეანსებზე დიალიზის ეფექტიანობა შემცირდა, თუმცა პროთეზზე თრთოლვა შენარჩუნებულია და სისხლის ტუმბოს დანიშნული სიჩქარე მიიღწევა. დუპლე"
@@ -1164,6 +1156,14 @@
         {
           "n": 54,
           "stem": "60 წლის პაციენტს სამი წელია ბრაქიოცეფალური არტერიოვენური ფისტულით უტარდება ჰემოდიალიზი. ბოლო სეანსებზე კანულაცია გართულდა; დღევანდელი სეანსის წინ ორი უშედეგო პუნქციის შემდეგ ვენის გასწვრივ მცირე ჰემატომა გაჩნდა. ფისტულაზ"
+        },
+        {
+          "n": 55,
+          "stem": "65 წლის პაციენტს ჰემოდიალიზი წინამხრის მარყუჟისებრი არტერიოვენური პროთეზით უტარდება. პროთეზის შუა მონაკვეთზე, კანულაციის ადგილზე, ჩირქოვანი გამონადენი გაჩნდა. დუპლექსსკანირებითა და ქირურგიული რევიზიით დადგინდა, რომ ინფექ"
+        },
+        {
+          "n": 56,
+          "stem": "62 წლის პაციენტს ჰემოდიალიზი ბრაქიოცეფალური არტერიოვენური ფისტულით უტარდება. კანულაციის ვენური მონაკვეთი ბოლო თვეებში სწრაფად გაფართოვდა, გახდა მტკივნეული და ნემსების შეყვანა გაძნელდა. გასინჯვისას ფისტულა მკვეთრად პულსირ"
         }
       ],
       "topic_rotation": "AVF და AVG-ის შერჩევა; წინასაოპერაციო დუპლექსსკანირება; რადიოცეფალური, ბრაქიოცეფალური და ბრაქიობაზილიკური ფისტულები; ბაზილარული ვენის ტრანსპოზიცია; მომწიფება და არასაკმარისი მომწიფება; Qa, ვენური სტენოზი და თრომბოზი; ენდოვასკულური და ღია რეკონსტრუქცია; ანევრიზმა, ფსევდოანევრიზმა, სისხლდენა და ინფექცია; HAIDI და იშემიური მონომელური ნეიროპათია; მაღალი ნაკადი და გულის უკმარისობა; ცენტრალური ვენები; ტუნელირებული კათეტერები, ალტერნატიული წვდომა და მეთვალყურეობა.",
@@ -1171,8 +1171,8 @@
       "guideline_check": "KDOQI 2019 (გამოქვეყნებულია 2020 წელს), ESVS Vascular Access 2018, UK Kidney Association Vascular Access 2025; არ ააგო კითხვა სადავო რიცხვით ზღვრებზე და გაითვალისწინე ESKD Life-Plan.",
       "last_validation": {
         "range": [
-          53,
-          54
+          55,
+          56
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1181,26 +1181,30 @@
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
+        "answer_distribution": {
+          "დ": 1,
+          "ა": 1
+        },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: recurrent intervention burden triggers individual ESKD Life-Plan reassessment; failed cannulation with hematoma warrants cessation and expert ultrasound assessment",
-        "terminology_self_review": "passed: general and dialysis GLOSSARY.md",
-        "georgian_language_self_review": "passed: stem, five homogeneous options and two-sentence explanation independently refined per question",
-        "semantic_duplication_review": "All existing question stems compared; recurrent access viability reassessment and escalation after failed cannulation are distinct from prior cases",
+        "clinical_self_review": "passed: localised graft infection permits selective segmental excision in suitable patient; symptomatic aneurysmal AVF with outflow stenosis requires correction of outflow obstruction",
+        "terminology_self_review": "passed: current GLOSSARY.md GENERAL and DIALYSIS_ACCESS",
+        "georgian_language_self_review": "passed: independent stem/options/explanation and final specialist Georgian editing for each",
+        "semantic_duplication_review": "Compared with all 54 preceding stems and recent complete cases: contrasting limited versus diffuse AVG infection, and treating outflow obstruction with symptomatic aneurysmal reconstruction",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              53
+              55
             ],
-            "source": "KDOQI 2019 Vascular Access Guidelines, ESKD Life-Plan and intervention burden",
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8856770/"
+            "source": "KDOQI 2019 Guideline 16; ESVS Vascular Access 2018 Recommendation 59",
+            "url": "https://www.kidney.org/sites/default/files/2026-07/2019-kdoqi-guideline-vascular-access.pdf"
           },
           {
             "questions": [
-              54
+              56
             ],
-            "source": "KDOQI 2019 Guidelines 12, cannulation complications; UK Kidney Association 2025, cannulation care",
-            "url": "https://doi.org/10.1186/s12882-025-04374-y"
+            "source": "KDOQI 2019 Guideline 17.7 and ESVS Vascular Access 2018 Recommendation 56",
+            "url": "https://prevasc.ro/wp-content/uploads/2020/10/Vascular-Access-2018.pdf"
           }
         ]
       }
