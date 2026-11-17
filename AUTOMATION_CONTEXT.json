@@ -1219,19 +1219,11 @@
       "target": 600,
       "question_file": "MESENTERIC_RENAL_questions.txt",
       "explanation_file": "MESENTERIC_RENAL_explanations.txt",
-      "last_number": 55,
-      "question_blob_sha": "0b6f3373310d645b292deb6fb52fe9b385bdba27",
-      "explanation_blob_sha": "282f677dad0828553dd785c67ba7b37f636c7172",
+      "last_number": 57,
+      "question_blob_sha": "9b9d9ff7198ff7a7ddb8d525432e26a5cb5da61a",
+      "explanation_blob_sha": "bac5dd72200f9be04653c4017088342f58245318",
       "last_full_audit_at": 50,
       "recent_stems": [
-        {
-          "n": 26,
-          "stem": "71 წლის ქალს ჯორჯლის ზემო არტერიის სათავის მწვავე ათეროთრომბოზული ოკლუზიისა და დიფუზური პერიტონიტის გამო გადაუდებელი შუახაზოვანი ლაპაროტომია უტარდება. ოპერაციისას გამოვლინდა თეძოს ნაწლავის 45 სმ სიგრძის პერფორირებული ნეკ"
-        },
-        {
-          "n": 27,
-          "stem": "62 წლის მამაკაცს თირკმლის კენჭოვანი დაავადების გამო ჩატარებულ CTA-ზე შემთხვევით აღმოაჩნდა ელენთის არტერიის შუა მესამედის 17 მმ დიამეტრის, კედლის ფოკალური კალციფიკაციის მქონე ჭეშმარიტი ანევრიზმა. პაციენტს მუცლის ტკივილი ა"
-        },
         {
           "n": 28,
           "stem": "54 წლის მამაკაცს ლაპაროსკოპიული ქოლეცისტექტომიიდან სამი კვირის შემდეგ განუვითარდა მარჯვენა ფერდქვეშა მიდამოს შეტევითი ტკივილი, მექანიკური სიყვითლე და მელენა ჰემოგლობინის 84 გ/ლ-მდე დაქვეითებით. ენდოსკოპიით ფატერის დვრილი"
@@ -1343,6 +1335,14 @@
         {
           "n": 55,
           "stem": "49 წლის ქალს თირკმლის არტერიის ფიბრომუსკულური დისპლაზიით გამოწვეული რეზისტენტული ჰიპერტენზია აქვს: ოთხი პრეპარატის, მათ შორის შარდმდენის, სათანადო დოზით მიღების მიუხედავად წნევა 180/105 mmHg რჩება. CTA-ით მარჯვენა თირკმლ"
+        },
+        {
+          "n": 56,
+          "stem": "30 წლის ქალს ორსულობის 24-ე კვირაში სხვა მიზეზით ჩატარებულ ულტრაბგერით კვლევაზე ელენთის არტერიის 19 მმ დიამეტრის ჭეშმარიტი ანევრიზმა აღმოაჩნდა. ტკივილი და სისხლდენა არ აღენიშნება, ნაყოფის მდგომარეობა დამაკმაყოფილებელია, "
+        },
+        {
+          "n": 57,
+          "stem": "76 წლის მამაკაცს თირკმლის არტერიის ათეროსკლეროზული სტენოზის გამო კათეტერული ანგიოგრაფია ჩაუტარდა. პროცედურიდან ათი დღის შემდეგ შრატში კრეატინინის კონცენტრაცია პროგრესულად გაიზარდა, ორივე ტერფის თითებზე მტკივნეული ციანოზუ"
         }
       ],
       "topic_rotation": "მეზენტერიული და თირკმლის პათოლოგიების მონაცვლეობა; მწვავე მეზენტერიული იშემიის ემბოლია/თრომბოზი/NOMI/MVT; ქრონიკული მეზენტერიული იშემია; CTA/DSA/დუპლექსსკანირება; ენდოვასკულური და ღია რევასკულარიზაცია; ნაწლავის სიცოცხლისუნარიანობა და განმეორებითი ლაპაროტომია; თირკმლის არტერიის ათეროსკლეროზული სტენოზი/FMD; რენოვასკულური ჰიპერტენზია; რევასკულარიზაციის ჩვენებები და უარყოფა; ანევრიზმა/დისექცია; მკურნალობისშემდგომი მეთვალყურეობა.",
@@ -1350,8 +1350,8 @@
       "guideline_check": "ESVS 2025 Mesenteric and Renal Arteries and Veins (რეკომენდაციები 33 და 63), ESC 2024 PAAD. მწვავე მეზენტერიული იშემიის ეჭვისას გადაუდებელი CTA თირკმლის ფუნქციის დაქვეითების მიუხედავად; კონტროლირებადი ჰიპერტენზიისა და სტაბილური თირკმლის ფუნქციისას თირკმლის ათეროსკლეროზული სტენოზის რუტინული სტენტირება არ არის გამართლებული.",
       "last_validation": {
         "range": [
-          54,
-          55
+          56,
+          57
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1361,26 +1361,26 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: ESVS 2025 Recommendation 46 and section 7.3.1 (JAK2 V617F screen for unprovoked mesenteric venous thrombosis); Recommendation 68 (open renal artery reconstruction if clinically indicated and endovascular option unavailable)",
+        "clinical_self_review": "passed: pregnancy splenic aneurysm; cholesterol crystal embolization after arterial catheterization",
         "georgian_language_self_review": "passed",
-        "terminology_self_review": "passed: GLOSSARY.md GENERAL and MESENTERIC_RENAL",
-        "semantic_duplication_review": "Compared all 53 original questions and explanations, plus recent stems: distinct JAK2 testing (#54) and renal surgical reconstruction after endovascular inaccessibility (#55)",
+        "terminology_self_review": "passed: AGENTS and GLOSSARY",
+        "semantic_duplication_review": "all 55 prior questions checked; distinct clinical decisions",
         "previous_text_unchanged": true,
         "index_precheck": "matched",
         "source_checks": [
           {
             "questions": [
-              54
+              56
             ],
-            "source": "ESVS 2025 Clinical Practice Guidelines, section 7.3.1 and Recommendation 46",
+            "source": "ESVS 2025 Mesenteric and Renal Arteries and Veins",
             "url": "https://doi.org/10.1016/j.ejvs.2025.06.010"
           },
           {
             "questions": [
-              55
+              57
             ],
-            "source": "ESVS 2025 Clinical Practice Guidelines, Recommendation 68",
-            "url": "https://doi.org/10.1016/j.ejvs.2025.06.010"
+            "source": "Atheroembolic renal disease after vascular catheterization, clinical syndrome",
+            "url": "https://www.ncbi.nlm.nih.gov/books/NBK482417/"
           }
         ]
       }
