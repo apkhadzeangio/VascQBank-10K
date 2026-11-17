@@ -392,19 +392,11 @@
       "target": 900,
       "question_file": "CAROTID_VERTEBRAL_questions.txt",
       "explanation_file": "CAROTID_VERTEBRAL_explanations.txt",
-      "last_number": 169,
-      "question_blob_sha": "7d0523d5d14a0e21f999d1f522b78ed7b8a7dc70",
-      "explanation_blob_sha": "694b2ec8e9a70517d0f3da472f134a6300fe0ddd",
+      "last_number": 171,
+      "question_blob_sha": "54c4b6d3024c77d291ca35a98d326e89b239468f",
+      "explanation_blob_sha": "d32e3566e8f9ce9342faa7b19363c96174b3640c",
       "last_full_audit_at": 150,
       "recent_stems": [
-        {
-          "n": 140,
-          "stem": "59 წლის ქალს მარცხენა საძილე გორგლის სიმსივნის ამოკვეთიდან მეორე დღეს ყლაპვის მსუბუქი გაძნელება და ენის უკანა მესამედში გემოსა და შეხების შეგრძნების დაქვეითება აღენიშნება. ხახის მარცხენა კედელზე შეხებისას ღებინების რეფლე"
-        },
-        {
-          "n": 141,
-          "stem": "67 წლის მამაკაცს კისრის სიმსივნის გამო ორმხრივი სხივური თერაპიიდან რვა წლის შემდეგ არტერიული წნევის მკვეთრი მერყეობა დაეწყო. ემოციური სტრესისას წნევა 225/115 mmHg-მდე იზრდება, რასაც ტაქიკარდია და სახის წამოწითლება ახლავს"
-        },
         {
           "n": 142,
           "stem": "32 წლის მამაკაცს ავტოსაგზაო შემთხვევის შემდეგ ჩატარებულ CTA-ზე მარცხენა შიგნითა საძილე არტერიის კისრის მონაკვეთში 6 მმ ზომის ტომრისებრი, კონტრასტით შევსებული წარმონაქმნი გამოუვლინდა. წარმონაქმნი არტერიის გარეთა კონტ"
@@ -516,6 +508,14 @@
         {
           "n": 169,
           "stem": "65 წლის ქალს კისრის სისხლძარღვების სხვა მიზეზით ჩატარებულ დუპლექსსკანირებაზე მარცხენა ხერხემლის არტერიაში მუდმივი რეტროგრადული ნაკადი გამოუვლინდა. CTA-ზე მარცხენა ლავიწქვეშა არტერიის 90%-იანი ათეროსკლეროზული სტენოზია ხერ"
+        },
+        {
+          "n": 170,
+          "stem": "58 წლის მამაკაცს მარჯვენა ხერხემლის არტერიის ქალასშიდა (V4) მონაკვეთის დისექციური ანევრიზმა დაუდგინდა და განიხილება მშობელი არტერიის ენდოვასკულური გადაკეტვა. DSA-ზე მარჯვენა ხერხემლის არტერია ფუძის არ"
+        },
+        {
+          "n": 171,
+          "stem": "63 წლის ქალს მარცხენა საძილე არტერიის ენდარტერექტომიის შემდეგ ხმის სწრაფი დაღლა და მაღალი ტონით საუბრის გაძნელება დაეწყო. ოპერაციისას საჭირო გახდა გარეთა საძილე არტერიისა და ფარისებრი ზემო არტერიის სა"
         }
       ],
       "topic_rotation": "TIA/ინსულტი; NASCET; CTA/MRA/დუპლექსი; CEA/CAS/TCAR დრო და არჩევანი; ფოლაქის მორფოლოგია; ანტითრომბოციტული მკურნალობა; პერიოპერაციული გართულებები; რესტენოზი; ხერხემლის არტერიის სტენოზი/დისექცია და უკანა ცირკულაცია; ESVS 2023 და უფრო ახალი წყაროები.",
@@ -523,8 +523,8 @@
       "guideline_check": "კლინიკურად სადავო გადაწყვეტილებაზე ერთმნიშვნელოვანი პასუხი არ ააგო; პირველწყარო ESVS/SVS და შესაბამისი გაიდლაინები გადაამოწმე, როცა საჭიროა.",
       "last_validation": {
         "range": [
-          168,
-          169
+          170,
+          171
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -534,19 +534,19 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ა": 1,
-          "დ": 1
+          "გ": 1,
+          "ბ": 1
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed; verified manufacturer ENROUTE indications and ESC 2024 upper-extremity disease guidance",
+        "clinical_self_review": "passed; PICA-dependent distal vertebral perfusion and superior laryngeal external branch function checked against clinical literature",
         "georgian_language_self_review": "passed",
         "terminology_self_review": "passed (GLOSSARY.md)",
-        "semantic_duplication_review": "reviewed 167 prior stems and last 30 questions/explanations, max stem token overlap 0.247/0.277",
+        "semantic_duplication_review": "reviewed 169 prior question stems, 30 recent stems and previous explanations; maximum stem token Jaccard 0.165/0.319",
         "previous_text_unchanged": true,
         "index_precheck": "matched",
         "reference_notes": [
-          "TCAR ENROUTE IFU: minimum clavicle-to-bifurcation 5 cm; manufacturer Boston Scientific indications",
-          "ESC 2024 upper-extremity arterial disease: no routine revascularization for asymptomatic atherosclerotic subclavian stenosis"
+          "VA-PICA origin vessel sacrifice may compromise PICA territory: https://pmc.ncbi.nlm.nih.gov/articles/PMC6744774/",
+          "Superior laryngeal external branch injury affects vocal pitch after carotid endarterectomy: https://www.jstage.jst.go.jp/article/nmccrj/9/0/9_2022-0141/_html/-char/en"
         ]
       }
     },
