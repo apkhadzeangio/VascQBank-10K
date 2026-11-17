@@ -159,6 +159,20 @@
           "reason": "სემანტიკური დუბლიკატი AAA_EVAR #24: EVAR-ის წინ გამავალი გვერდითი ტოტების რუტინული პროფილაქტიკური ემბოლიზაცია არ არის რეკომენდებული"
         }
       ]
+    },
+    {
+      "drive_document_id": "1AQ0z1eK4xrecf2Jxw-ezDpmzRHVlWeZO5C1LIIfcTio",
+      "source_url": "https://docs.google.com/document/d/1AQ0z1eK4xrecf2Jxw-ezDpmzRHVlWeZO5C1LIIfcTio/edit",
+      "topic": "AAA_EVAR",
+      "status": "partial",
+      "entries": [
+        {
+          "source_number": 3,
+          "target_number": 154,
+          "status": "imported",
+          "reason": "ხუთი პასუხი, ერთი სწორი; წყაროს ორწინადადებიანი განმარტება; აორტო-კავალური ფისტულის მკურნალობის საკითხი განსხვავდება არსებული #19-ის დიაგნოსტიკური საკითხისგან"
+        }
+      ]
     }
   ],
   "updated_at": "2026-11-18"
