@@ -1049,19 +1049,11 @@
       "target": 650,
       "question_file": "DIALYSIS_ACCESS_questions.txt",
       "explanation_file": "DIALYSIS_ACCESS_explanations.txt",
-      "last_number": 56,
-      "question_blob_sha": "4e03b9bcff1746a2d1c0b920cb66cdb8d7f0feb5",
-      "explanation_blob_sha": "bde0de0b2502e5d9298949de65dd9684a95e4f24",
+      "last_number": 58,
+      "question_blob_sha": "b38c754b7146a45ad6851bc80ff81948b47c8ab3",
+      "explanation_blob_sha": "a0fd91e8b909a6f8ba007d4aecc493ce1d7218e8",
       "last_full_audit_at": 50,
       "recent_stems": [
-        {
-          "n": 27,
-          "stem": "65 წლის პაციენტს ჰემოდიალიზი წინამხრის მარყუჟისებრი არტერიოვენური პროთეზით უტარდება. ბოლო სეანსებზე დიალიზის ეფექტიანობა შემცირდა, თუმცა პროთეზზე თრთოლვა შენარჩუნებულია და სისხლის ტუმბოს დანიშნული სიჩქარე მიიღწევა. დუპლე"
-        },
-        {
-          "n": 28,
-          "stem": "57 წლის პაციენტს ათი კვირის წინ რადიოცეფალური არტერიოვენური ფისტულა შეუქმნეს. დუპლექსსკანირებით ანასტომოზი გამავალია, არტერიული შემოდინება საკმარისია და ძირითადი ვენური გადინების სტენოზი არ აღინიშნება, მაგრამ ცეფალური ვე"
-        },
         {
           "n": 29,
           "stem": "61 წლის პაციენტს ჰემოდიალიზი მარცხენა ბრაქიოცეფალური არტერიოვენური ფისტულით უტარდება. ცეფალური ვენის რკალის სტენოზის გამო ჩატარებული ორი ბალონური ანგიოპლასტიკის შემდეგ კვლავ მოიმატა დიალიზისას ვენურმა წნევამ და გახანგრძლ"
@@ -1173,6 +1165,14 @@
         {
           "n": 56,
           "stem": "62 წლის პაციენტს ჰემოდიალიზი ბრაქიოცეფალური არტერიოვენური ფისტულით უტარდება. კანულაციის ვენური მონაკვეთი ბოლო თვეებში სწრაფად გაფართოვდა, გახდა მტკივნეული და ნემსების შეყვანა გაძნელდა. გასინჯვისას ფისტულა მკვეთრად პულსირ"
+        },
+        {
+          "n": 57,
+          "stem": "64 წლის პაციენტს ჰემოდიალიზი მარცხენა ბრაქიოცეფალური არტერიოვენური ფისტულით უტარდება. ბოლო კვირებში დიალიზის დროს მარცხენა მტევანი უცივდება და სტკივა; მოსვენების ტკივილი და ქსოვილის დაზიანება არ აღენიშნება. დუპლექსსკანირებით ფისტულაში "
+        },
+        {
+          "n": 58,
+          "stem": "54 წლის პაციენტს თირკმლის ტრანსპლანტაციიდან ორი წელი გავიდა და ტრანსპლანტატის ფუნქცია სტაბილურია. ადრე ჰემოდიალიზისთვის გამოყენებული ბრაქიოცეფალური არტერიოვენური ფისტულა გამავალია; ხელის იშემია, ვენური ჰიპერტენზია და ფისტულის ადგილობრი"
         }
       ],
       "topic_rotation": "AVF და AVG-ის შერჩევა; წინასაოპერაციო დუპლექსსკანირება; რადიოცეფალური, ბრაქიოცეფალური და ბრაქიობაზილიკური ფისტულები; ბაზილარული ვენის ტრანსპოზიცია; მომწიფება და არასაკმარისი მომწიფება; Qa, ვენური სტენოზი და თრომბოზი; ენდოვასკულური და ღია რეკონსტრუქცია; ანევრიზმა, ფსევდოანევრიზმა, სისხლდენა და ინფექცია; HAIDI და იშემიური მონომელური ნეიროპათია; მაღალი ნაკადი და გულის უკმარისობა; ცენტრალური ვენები; ტუნელირებული კათეტერები, ალტერნატიული წვდომა და მეთვალყურეობა.",
@@ -1180,8 +1180,8 @@
       "guideline_check": "KDOQI 2019 (გამოქვეყნებულია 2020 წელს), ESVS Vascular Access 2018, UK Kidney Association Vascular Access 2025; არ ააგო კითხვა სადავო რიცხვით ზღვრებზე და გაითვალისწინე ESKD Life-Plan.",
       "last_validation": {
         "range": [
-          55,
-          56
+          57,
+          58
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1191,29 +1191,28 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "დ": 1,
-          "ა": 1
+          "ბ": 1,
+          "ე": 1
         },
-        "numeric_options_ascending": true,
-        "clinical_self_review": "passed: localised graft infection permits selective segmental excision in suitable patient; symptomatic aneurysmal AVF with outflow stenosis requires correction of outflow obstruction",
-        "terminology_self_review": "passed: current GLOSSARY.md GENERAL and DIALYSIS_ACCESS",
-        "georgian_language_self_review": "passed: independent stem/options/explanation and final specialist Georgian editing for each",
-        "semantic_duplication_review": "Compared with all 54 preceding stems and recent complete cases: contrasting limited versus diffuse AVG infection, and treating outflow obstruction with symptomatic aneurysmal reconstruction",
+        "clinical_self_review": "passed: arterial stenosis contributing to ischemia warrants arterial revascularization; after transplantation fistula management individualized",
+        "terminology_self_review": "passed: current GENERAL and DIALYSIS_ACCESS glossary",
+        "georgian_language_self_review": "passed: separately redrafted and checked clinical stems, five options and explanations",
+        "semantic_duplication_review": "Reviewed all prior 56 items and recent stems: new clinical choices distinguish arterial stenosis causing hand ischemia from impaired fistula maturation in Q32, and individualized post-transplant fistula management.",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              55
+              57
             ],
-            "source": "KDOQI 2019 Guideline 16; ESVS Vascular Access 2018 Recommendation 59",
-            "url": "https://www.kidney.org/sites/default/files/2026-07/2019-kdoqi-guideline-vascular-access.pdf"
+            "source": "UK Kidney Association 2025 Guideline, Steal syndrome; ESVS 2018 Vascular Access Guideline, proximal arterial lesions in access ischemia",
+            "url": "https://link.springer.com/article/10.1186/s12882-025-04374-y"
           },
           {
             "questions": [
-              56
+              58
             ],
-            "source": "KDOQI 2019 Guideline 17.7 and ESVS Vascular Access 2018 Recommendation 56",
-            "url": "https://prevasc.ro/wp-content/uploads/2020/10/Vascular-Access-2018.pdf"
+            "source": "Vascular Access Society / European Kidney Transplant Association 2025 Position Paper",
+            "url": "https://doi.org/10.3389/ti.2025.14712"
           }
         ]
       }
