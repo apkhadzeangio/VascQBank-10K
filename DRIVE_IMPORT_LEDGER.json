@@ -115,6 +115,22 @@
           "reason": "ძირითადი კლინიკური გადაწყვეტილება უკვე დაფარულია PERIOPERATIVE #30-ით (სტაბილური კორონარული დაავადებისას პროფილაქტიკური რევასკულარიზაციის არჩატარება); დამატებითი ბეტა-ბლოკატორის კომპონენტი დამოუკიდებელ უნიკალურ კითხვად არ არის წარმოდგენილი"
         }
       ]
+    },
+    {
+      "source_type": "pdf",
+      "source_file": "VascQBank_ALL_QUESTIONS.pdf",
+      "explanation_document_id": "1vWETQULCO7W1qUVmtzot7yZq2WpgwHHi4NHCKh6iTqw",
+      "topic": "AAA_EVAR",
+      "status": "partial",
+      "entries": [
+        {
+          "source_number": 7,
+          "source_page": 3,
+          "target_number": 153,
+          "status": "imported",
+          "reason": "ფორმალური და კლინიკური QA გავლილია; არსებულ AAA_EVAR კითხვებში სუბანევრიზმული აორტის 5-წლიანი მეთვალყურეობის საკითხი არ მოიძებნა"
+        }
+      ]
     }
   ],
   "updated_at": "2026-11-17"
