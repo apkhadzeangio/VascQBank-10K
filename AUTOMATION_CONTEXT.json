@@ -392,19 +392,11 @@
       "target": 900,
       "question_file": "CAROTID_VERTEBRAL_questions.txt",
       "explanation_file": "CAROTID_VERTEBRAL_explanations.txt",
-      "last_number": 171,
-      "question_blob_sha": "54c4b6d3024c77d291ca35a98d326e89b239468f",
-      "explanation_blob_sha": "d32e3566e8f9ce9342faa7b19363c96174b3640c",
+      "last_number": 173,
+      "question_blob_sha": "1cf60f55ca7c86f692157412281e281877152cb3",
+      "explanation_blob_sha": "1beda62c0b85e0c8517b3322904d4cdcdd9f4c28",
       "last_full_audit_at": 150,
       "recent_stems": [
-        {
-          "n": 142,
-          "stem": "32 წლის მამაკაცს ავტოსაგზაო შემთხვევის შემდეგ ჩატარებულ CTA-ზე მარცხენა შიგნითა საძილე არტერიის კისრის მონაკვეთში 6 მმ ზომის ტომრისებრი, კონტრასტით შევსებული წარმონაქმნი გამოუვლინდა. წარმონაქმნი არტერიის გარეთა კონტ"
-        },
-        {
-          "n": 143,
-          "stem": "72 წლის მამაკაცს მარცხენა კაროტიდული ენდარტერექტომიიდან ექვსი საათის შემდეგ არტერიული წნევა 75/45 mmHg-მდე დაუქვეითდა და მარჯვენა ხელის სისუსტე განუვითარდა. გადაუდებელ CT-ზე სისხლჩაქცევა არ ჩანს; CTA-ზე ოპერირებული "
-        },
         {
           "n": 144,
           "stem": "69 წლის ქალს უეცრად აფაზია და მარჯვენამხრივი ჰემიპარეზი განუვითარდა. ერთფაზიან CTA-ზე მარცხენა შიგნითა საძილე არტერია კისრის მონაკვეთში ბიფურკაციის ზემოთ კონტრასტით არ ივსება, ამავე არტერიის ინტრაკრანიალური ბოლო კი ოკლუზ"
@@ -516,6 +508,14 @@
         {
           "n": 171,
           "stem": "63 წლის ქალს მარცხენა საძილე არტერიის ენდარტერექტომიის შემდეგ ხმის სწრაფი დაღლა და მაღალი ტონით საუბრის გაძნელება დაეწყო. ოპერაციისას საჭირო გახდა გარეთა საძილე არტერიისა და ფარისებრი ზემო არტერიის სა"
+        },
+        {
+          "n": 172,
+          "stem": "68 წლის მამაკაცს გარდამავალი აფაზიის შემდეგ მარცხენა შიგნითა საძილე არტერიის 80%-იანი სტენოზი დაუდასტურდა. CTA-ზე ამ არტერიის კისრის მონაკვეთიდან გამოიყოფა მუდმივად შენარჩუნებული ემბრიონული ჰიპოგლოსალური არტერია, რომელიც"
+        },
+        {
+          "n": 173,
+          "stem": "56 წლის ქალს შამბლინის III ტიპის საძილე გორგლის პარაგანგლიომა აქვს. ოპერაციისას დადასტურდა, რომ სიმსივნე საძილე არტერიის ბიფურკაციასა და შიგნითა საძილე არტერიის საწყისი მონაკვეთის კედელშია შეზრდილი; სრული ამოკვეთისთვის ა"
         }
       ],
       "topic_rotation": "TIA/ინსულტი; NASCET; CTA/MRA/დუპლექსი; CEA/CAS/TCAR დრო და არჩევანი; ფოლაქის მორფოლოგია; ანტითრომბოციტული მკურნალობა; პერიოპერაციული გართულებები; რესტენოზი; ხერხემლის არტერიის სტენოზი/დისექცია და უკანა ცირკულაცია; ESVS 2023 და უფრო ახალი წყაროები.",
@@ -523,8 +523,8 @@
       "guideline_check": "კლინიკურად სადავო გადაწყვეტილებაზე ერთმნიშვნელოვანი პასუხი არ ააგო; პირველწყარო ESVS/SVS და შესაბამისი გაიდლაინები გადაამოწმე, როცა საჭიროა.",
       "last_validation": {
         "range": [
-          170,
-          171
+          172,
+          173
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -534,19 +534,21 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "გ": 1,
-          "ბ": 1
+          "ე": 1,
+          "გ": 1
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed; PICA-dependent distal vertebral perfusion and superior laryngeal external branch function checked against clinical literature",
+        "clinical_self_review": "passed: separate anterior and posterior shunting; Shamblin III bifurcation-to-ICA interposition reconstruction",
         "georgian_language_self_review": "passed",
-        "terminology_self_review": "passed (GLOSSARY.md)",
-        "semantic_duplication_review": "reviewed 169 prior question stems, 30 recent stems and previous explanations; maximum stem token Jaccard 0.165/0.319",
+        "terminology_self_review": "passed (GLOSSARY.md, general and carotid/vertebral)",
+        "semantic_duplication_review": "reviewed all 171 previous stems, detailed recent questions, explanations and recent_stems",
         "previous_text_unchanged": true,
         "index_precheck": "matched",
         "reference_notes": [
-          "VA-PICA origin vessel sacrifice may compromise PICA territory: https://pmc.ncbi.nlm.nih.gov/articles/PMC6744774/",
-          "Superior laryngeal external branch injury affects vocal pitch after carotid endarterectomy: https://www.jstage.jst.go.jp/article/nmccrj/9/0/9_2022-0141/_html/-char/en"
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC8407026/",
+          "https://pubmed.ncbi.nlm.nih.gov/33134634/",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC7054204/",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10846755/"
         ]
       }
     },
