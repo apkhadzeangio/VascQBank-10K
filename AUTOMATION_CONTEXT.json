@@ -1905,19 +1905,11 @@
       "target": 500,
       "question_file": "VGEI_questions.txt",
       "explanation_file": "VGEI_explanations.txt",
-      "last_number": 59,
-      "question_blob_sha": "962422af1343705f2168600366220eb482b83ba2",
-      "explanation_blob_sha": "2da4bc10f456d11e886a0d36614f6de47cc07dfa",
+      "last_number": 61,
+      "question_blob_sha": "c0c961d746fc10bfe684d9a93bf585a82b0e5c78",
+      "explanation_blob_sha": "c0cf6017566c970e41bae5573b90e6259105a6af",
       "last_full_audit_at": 50,
       "recent_stems": [
-        {
-          "n": 30,
-          "stem": "66 წლის მამაკაცს, რომელსაც შაქრიანი დიაბეტი და სიმსუქნე აქვს, განმეორებითი საზარდულის მიდგომით ბარძაყ-მუხლქვეშა სინთეზური შუნტირება ჩაუტარდა. ჭრილობა პირველადი ნაკერებით დაიხურა; აქტიური ინფექცია, სისხლდენა და პროთეზის გაშიშვლება არ აღენიშნება, თუმცა წინა ოპერაციებისა და თანმხლები დაავადებების გამო ოპერაციული მიდამოს ინფექციის რისკი მაღალია. რომელი დამატებითი ადგილობრივი პროფილაქტიკური მეთოდის განხილვაა ყველაზე დასაბუთებული?"
-        },
-        {
-          "n": 31,
-          "stem": "71 წლის ქალს თეძოს საერთო არტერიის სინთეზური პროთეზირებიდან 18 საათში საზარდულის ჭრილობის სტერილური სახვევი სისხლნარევი სითხით დაესველა. პაციენტი ჰემოდინამიკურად სტაბილურია, ჭრილობიდან მიმდინარე სისხლდენა, ჰემატომა, ნაკერების დაშორება და ინფექციის ნიშნები არ აქვს. რომელი მოქმედებაა ყველაზე შესაფერისი ჭრილობის უსაფრთხო მოვლისთვის?"
-        },
         {
           "n": 32,
           "stem": "70 წლის მამაკაცს ბარძაყ-მუხლქვეშა სინთეზური შუნტირებიდან ექვსი კვირის შემდეგ ბარძაყის შუა მესამედში ოპერაციული ჭრილობა დაუჩირქდა. ქირურგიული რევიზიისას ჩირქოვანი კერა უშუალოდ მოიცავს შუნტის შუა მონაკვეთს, მაგრამ ორივე ანასტომოზი ინფექციურ პროცესში ჩართული არ არის; სისხლდენა და ბაქტერიემია არ აღინიშნება. სემსონის კლასიფიკაციის რომელ ჯგუფს შეესაბამება ინფექცია?"
@@ -2029,6 +2021,14 @@
         {
           "n": 59,
           "stem": "73 წლის ქალს აორტის სინთეზური პროთეზის ჩადგმიდან სამი წლის შემდეგ CTA-ზე პროთეზის ირგვლივ რბილი ქსოვილების არათანაბარი გასქელება გამოუვლინდა. პაციენტს ცხელება არ აქვს, ანთებითი მაჩვენებლები მცირედაა მომატებული და ჰემოკულტურები უარყოფითია; ანამნეზში IgG4-თან დაკავშირებული აუტოიმუნური პანკრეატიტი აღენიშნება. დაგეგმილია პერიპროთეზული ქსოვილის ბიოფსია და ინფექციის გარდა IgG4-თან დაკავშირებული დაავადებაც განიხილება. რომელი დამატებითი გამოკვლევაა ყველაზე მიზანშეწონილი ბიოფსიის მასალაზე არაინფექციური მიზეზის შესაფასებლად?"
+        },
+        {
+          "n": 60,
+          "stem": "70 წლის მამაკაცს ორი წლის წინ ჩადგმული ბარძაყ-მუხლქვეშა სინთეზური შუნტის გასწვრივ ჩირქოვანი ფისტულა აქვს. ორი დამოუკიდებელი ღრმა ქსოვილის ნიმუშიდან მეთიცილინისადმი მგრძნობიარე ოქროსფერი სტაფილოკოკი გამოვლინდა; იზოლატი დანიშნული ანტიბიოტიკისადმი მგრძნობიარეა, მკურნალობის ფონზე ჰემოკულტურები უარყოფითია, თუმცა პერიპროთეზული ჩირქოვანი კერა შენარჩუნებულია. რომელი მექანიზმი ხსნის საუკეთესოდ ლაბორატორიულ მგრძნობელობასა და ინფექციის მდგრადობას შორის შეუსაბამობას?"
+        },
+        {
+          "n": 61,
+          "stem": "74 წლის ქალს აორტა-ორბარძაყის სინთეზური პროთეზის ინფექცია აქვს. ოპერაციისას აღებული სამი ღრმა ქსოვილის ნიმუშიდან Enterobacter cloacae-ის კომპლექსი გაიზარდა; პირველადი ანტიბიოტიკოგრამით იზოლატი ცეფტრიაქსონისა და ცეფეპიმის მიმართ მგრძნობიარეა, თუმცა პერიპროთეზული აბსცესი სრულად ჯერ არ არის დამუშავებული. რომელი მიკრობიოლოგიური გარემოება განაპირობებს ცეფტრიაქსონისადმი საწყისი მგრძნობელობის შედეგის სიფრთხილით შეფასებას?"
         }
       ],
       "topic_rotation": "I №1–40 საფუძვლები და პრევენცია; II №41–80 მიკრობიოლოგია; III №81–130 დიაგნოზი; IV №131–190 გამოსახულებითი დიაგნოსტიკა; V №191–230 ანტიმიკრობული მკურნალობა; VI №231–300 ქირურგიული ტაქტიკა; VII №301–360 მასალები და ჭრილობა; VIII №361–410 ლოკალიზაციები; IX №411–460 გართულებები; X №461–500 შედეგები და მეთვალყურეობა.",
@@ -2036,8 +2036,8 @@
       "guideline_check": "ESVS 2026 VGEI guideline, doi:10.1016/j.ejvs.2026.05.035. For Coxiella chronic Q fever phase I IgG use CDC Q Fever Clinical and Laboratory Diagnosis; for interpreting repeated coagulase-negative staphylococci in deep tissue samples use VASGRA prospective study (2018).",
       "last_validation": {
         "range": [
-          58,
-          59
+          60,
+          61
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -2047,25 +2047,40 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: ESVS 2026 VGEI Recommendation 15 IIa C, Recommendation 20 IIb C",
-        "terminology_self_review": "passed: AGENTS.md and GLOSSARY.md general/VGEI",
-        "georgian_language_self_review": "passed: academic Georgian language",
-        "semantic_duplication_review": "checked all 57 previous VGEI stems, distinct decision targets",
+        "clinical_self_review": "passed: vascular biofilm tolerance supported by Puges 2024 and Tello-Diaz 2024; Enterobacter cloacae AmpC supported by IDSA 2026",
+        "terminology_self_review": "passed: GLOSSARY.md general/VGEI",
+        "georgian_language_self_review": "passed: natural academic Georgian",
+        "semantic_duplication_review": "compared 59 existing questions; maximum stem Jaccard similarity 0.159",
         "previous_text_unchanged": true,
-        "index_precheck": "all existing numbering and SHA match",
+        "index_precheck": "both topic TXT files continuous and matched indexed blob SHAs",
         "source_checks": [
           {
             "questions": [
-              58
+              60
             ],
-            "source": "ESVS 2026 VGEI clinical practice guideline recommendation 15 (class IIa, level C)",
-            "url": "https://doi.org/10.1016/j.ejvs.2026.05.035"
+            "source": "Puges et al. 2024, scanning electron microscopy of infected vascular graft biofilms",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38608967/"
           },
           {
             "questions": [
-              59
+              60
             ],
-            "source": "ESVS 2026 VGEI clinical practice guideline recommendation 20 (class IIb, level C)",
+            "source": "Tello-Diaz et al. 2024, antibiotic efficacy against MSSA biofilm on vascular grafts",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39025221/"
+          },
+          {
+            "questions": [
+              61
+            ],
+            "source": "IDSA 2026 antimicrobial resistant Gram negative guidance, AmpC section 2.4",
+            "url": "https://www.idsociety.org/practice-guideline/amr-guidance/"
+          },
+          {
+            "questions": [
+              60,
+              61
+            ],
+            "source": "ESVS 2026 Clinical Practice Guidelines on VGEI",
             "url": "https://doi.org/10.1016/j.ejvs.2026.05.035"
           }
         ]
