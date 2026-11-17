@@ -1728,19 +1728,11 @@
       "target": 600,
       "question_file": "PERIOPERATIVE_questions.txt",
       "explanation_file": "PERIOPERATIVE_explanations.txt",
-      "last_number": 55,
-      "question_blob_sha": "855d984ad3337eebf56b5711b62ce816de7f6052",
-      "explanation_blob_sha": "4d820a5af69cb3e8433083e4a9c9ba9085f378fe",
+      "last_number": 57,
+      "question_blob_sha": "ad7615738f6be2506e2fa4bf2e895331a0904ad4",
+      "explanation_blob_sha": "61bfe23317ddb5d1d9e39bfd42d07f460ed63d31",
       "last_full_audit_at": 50,
       "recent_stems": [
-        {
-          "n": 26,
-          "stem": "74 წლის მამაკაცს გუშინ აორტა-ორბარძაყის ღია შუნტირება ჩაუტარდა. ოპერაციამდე მაღალმგრძნობიარე კარდიული ტროპონინი T ნორმის ზედა ზღვარს არ აღემატებოდა, ოპერაციიდან 24 საათის შემდეგ გეგმიურ კონტროლზე ნორმის 99-ე პერცენტილზე "
-        },
-        {
-          "n": 27,
-          "stem": "72 წლის მამაკაცი თეძოსა და ბარძაყის არტერიების მრავალდონიანი დაზიანების გამო რთული ენდოვასკულური რევასკულარიზაციისთვის ემზადება იოდშემცველი საკონტრასტო საშუალების გამოყენებით. პაციენტს თირკმლის ქრონიკული დაავადება აქვს დ"
-        },
         {
           "n": 28,
           "stem": "69 წლის მამაკაცს აორტა-ორბარძაყის გეგმიური შუნტირება უნდა ჩაუტარდეს. ბოლო სამი კვირის განმავლობაში მცირე დატვირთვისას ქოშინი დაეწყო; გასინჯვისას ფილტვების ქვედა ველებში ორმხრივი კრეპიტაცია და წვივების შეშუპება აღენიშნება. ორი წლის წინ ჩატარებული ექოკარდიოგრაფიით მარცხენა პარკუჭის ფუნქცია ნორმალური ი"
@@ -1852,6 +1844,14 @@
         {
           "n": 55,
           "stem": "76 წლის ქალს ქვედა კიდურის მწვავე იშემიის გამო გადაუდებელი არტერიული თრომბექტომია ესაჭიროება; ტერფის მოძრაობა შესუსტებულია და ჩარევის გადავადება კიდურის გადარჩენას საფრთხეს შეუქმნის. მას კორონარული არტერიების დაავადება აქვს, ხოლო გასინჯვისას ფილტვების ქვედა ველებში კრეპიტაცია ისმის. ანესთეზიოლოგს გუ"
+        },
+        {
+          "n": 56,
+          "stem": "61 წლის მამაკაცს C1-ინჰიბიტორის დეფიციტით მიმდინარე მემკვიდრეობითი ანგიოედემა აქვს; წარსულში სტომატოლოგიური ჩარევის შემდეგ ხორხის შეშუპება განუვითარდა. ორ კვირაში საძილე არტერიის ენდარტერექტომია უნდა ჩაუტარდეს ზოგადი ანესთეზიითა და ტრაქ"
+        },
+        {
+          "n": 57,
+          "stem": "74 წლის ქალს მუცლის აორტის ანევრიზმის გეგმიური ღია პროთეზირება უნდა ჩაუტარდეს; ჩარევას მნიშვნელოვანი სისხლდენის რისკი ახლავს. წარსულში ერითროციტული მასის ტრანსფუზიის შემდეგ მას კლინიკურად მნიშვნელოვანი ანტი-K ალოანტისხეული დაუდასტურდა. "
         }
       ],
       "topic_rotation": "№1–60 წინასაოპერაციო შეფასება/ოპტიმიზაცია; №61–120 პერიოპერაციული კარდიოვასკულური რისკი; №121–180 ანტიაგრეგანტული და ანტიკოაგულაციური მკურნალობა; №181–250 ჰემოსტაზი, სისხლდენა და ტრანსფუზია; №251–320 თრომბოემბოლია და პროფილაქტიკა; №321–380 ჰემოდინამიკა, ინფუზია და თირკმლის ფუნქცია; №381–440 ფილტვის/მეტაბოლური გართულებები; №441–500 სისხლძარღვოვანი ოპერაციების ადრეული გართულებები; №501–550 ნევროლოგიური/ორგანოსპეციფიკური გართულებები; №551–600 პოსტოპერაციული მეთვალყურეობა. ზუსტად ორი კითხვა თითო ციკლში.",
@@ -1859,8 +1859,8 @@
       "guideline_check": "2024 multi-society GLP-1RA perioperative guidance (published 2024; Surgical Endoscopy 2025): individual aspiration-risk assessment and continuation in lower-risk patients; SA Health vascular surgery antibiotic prophylaxis and ASHP/IDSA/SHEA/SIS: IV cefazolin within 60 min before incision with repeat intraoperative dosing for prolonged surgery and normal kidney function.",
       "last_validation": {
         "range": [
-          54,
-          55
+          56,
+          57
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1874,25 +1874,32 @@
           "დ": 1
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed; ESAIC 2024 (published EJA 2025), recommendations R7.1 (1C) and R4.1 (2B)",
-        "terminology_self_review": "passed: GENERAL/PERIOPERATIVE glossary",
-        "georgian_language_self_review": "passed: academically edited Georgian",
-        "semantic_duplication_review": "53 stored questions compared; CKD risk assessment with proteinuria and urgent focused heart/lung POCUS differ from prior decisions",
+        "clinical_self_review": "passed; WAO 2025 HAE short-term prophylaxis statements 19/20/22; Canadian Blood Services pretransfusion testing and BSH compatibility guidance",
+        "terminology_self_review": "passed; glossary GENERAL and PERIOPERATIVE",
+        "georgian_language_self_review": "passed; natural professional Georgian; reviewed calques",
+        "semantic_duplication_review": "checked all 55 existing questions and recent stems; no prior hereditary angioedema procedural prophylaxis or anti-K pretransfusion matching decision",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              54
+              56
             ],
-            "source": "ESAIC guideline preoperative assessment of adults undergoing elective noncardiac surgery, recommendation R7.1 (1C), renal function assessment",
-            "url": "https://doi.org/10.1097/EJA.0000000000002069"
+            "source": "World Allergy Organization 2025 guidelines for hereditary angioedema, published 2026; statements 19, 20, 22",
+            "url": "https://doi.org/10.1016/j.waojou.2026.101335"
           },
           {
             "questions": [
-              55
+              57
             ],
-            "source": "ESAIC guideline preoperative assessment, recommendation R4.1 (2B), focused cardiac/lung POCUS before urgent/emergency surgery",
-            "url": "https://doi.org/10.1097/EJA.0000000000002069"
+            "source": "Canadian Blood Services, Clinical Guide to Transfusion, Pre-transfusion testing (2020), Antibody Identification and Crossmatch",
+            "url": "https://professionaleducation.blood.ca/en/transfusion/clinical-guide/pre-transfusion-testing"
+          },
+          {
+            "questions": [
+              57
+            ],
+            "source": "BSH Guidelines for pre-transfusion compatibility procedures (2012)",
+            "url": "https://doi.org/10.1111/j.1365-3148.2012.01199.x"
           }
         ]
       }
