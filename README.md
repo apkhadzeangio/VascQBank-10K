@@ -50,22 +50,22 @@
 <!-- VASCQBANK_MONITORING_START -->
 ### აგენტების მონიტორინგი და ხარისხის კონტროლი
 
-**შემოწმებულია:** 2026-11-17 02:34 (თბილისი). **Heartbeat-ით დადასტურებული მიმდინარე სამუშაო:** 0; **Heartbeat-ინტეგრირებული თემები:** 0/12. სხვა ChatGPT ანგარიშების ავტომატიზაციების მდგომარეობა მიუწვდომელია.
+**შემოწმებულია:** 2026-11-17 08:49 (თბილისი). **Heartbeat-ით დადასტურებული მიმდინარე სამუშაო:** 0; **Heartbeat-ინტეგრირებული თემები:** 0/12. სხვა ChatGPT ანგარიშების ავტომატიზაციების მდგომარეობა მიუწვდომელია.
 
 | თემა | კითხვები | ბოლო წარმატებული ატვირთვა | +24სთ | სტატუსი | Quality Gate | ინდექსი | შენიშვნა |
 |---|---:|---|---:|---|---|---|---|
-| PAD_CLTI | 52/1500 | 2026-11-17 01:36 | +43 | PRODUCING | SUCCESS | OK | Heartbeat დასაკავშირებელია |
-| ALI | 127/900 | 2026-11-16 23:36 | +30 | UNKNOWN | SUCCESS | OK | Heartbeat დასაკავშირებელია; ≥2სთ ახალი კითხვის გარეშე; დაკვირვება |
-| AAA_EVAR | 152/1200 | 2026-11-17 01:09 | +58 | UNKNOWN | SUCCESS | OK | Heartbeat დასაკავშირებელია |
-| THORACIC_AORTA | 102/700 | 2026-11-17 00:05 | +15 | UNKNOWN | SUCCESS | OK | Heartbeat დასაკავშირებელია; ≥2სთ ახალი კითხვის გარეშე; დაკვირვება |
-| CAROTID_VERTEBRAL | 161/900 | 2026-11-17 02:18 | +65 | PRODUCING | SUCCESS | OK | Heartbeat დასაკავშირებელია |
-| VENOUS | 127/900 | 2026-11-16 23:42 | +35 | UNKNOWN | SUCCESS | OK | Heartbeat დასაკავშირებელია; ≥2სთ ახალი კითხვის გარეშე; დაკვირვება |
-| DIALYSIS_ACCESS | 52/650 | 2026-11-17 02:15 | +37 | PRODUCING | SUCCESS | OK | Heartbeat დასაკავშირებელია |
-| MESENTERIC_RENAL | 39/600 | 2026-11-17 01:51 | +27 | PRODUCING | SUCCESS | OK | Heartbeat დასაკავშირებელია |
-| VASCULAR_TRAUMA | 37/650 | 2026-11-16 23:50 | +25 | UNKNOWN | SUCCESS | OK | Heartbeat დასაკავშირებელია; ≥2სთ ახალი კითხვის გარეშე; დაკვირვება |
-| VGEI | 51/500 | 2026-11-17 02:04 | +47 | PRODUCING | SUCCESS | OK | Heartbeat დასაკავშირებელია |
-| ANATOMY_IMAGING | 53/900 | 2026-11-17 01:45 | +41 | PRODUCING | SUCCESS | OK | Heartbeat დასაკავშირებელია |
-| PERIOPERATIVE | 49/600 | 2026-11-17 01:56 | +37 | PRODUCING | SUCCESS | OK | Heartbeat დასაკავშირებელია |
+| PAD_CLTI | 64/1500 | 2026-11-17 07:29 | +43 | UNKNOWN | FAILURE | OK | Heartbeat დასაკავშირებელია |
+| ALI | 127/900 | 2026-11-16 23:36 | +25 | UNKNOWN | FAILURE | OK | Heartbeat დასაკავშირებელია; ≥2სთ ახალი კითხვის გარეშე; დაკვირვება |
+| AAA_EVAR | 152/1200 | 2026-11-17 01:09 | +41 | UNKNOWN | FAILURE | OK | Heartbeat დასაკავშირებელია; ≥2სთ ახალი კითხვის გარეშე; დაკვირვება |
+| THORACIC_AORTA | 102/700 | 2026-11-17 00:05 | +15 | UNKNOWN | FAILURE | OK | Heartbeat დასაკავშირებელია; ≥2სთ ახალი კითხვის გარეშე; დაკვირვება |
+| CAROTID_VERTEBRAL | 174/900 | 2026-11-17 08:39 | +56 | PRODUCING | FAILURE | MISMATCH | Heartbeat დასაკავშირებელია; სტრუქტურული შეცდომა |
+| VENOUS | 127/900 | 2026-11-16 23:42 | +25 | UNKNOWN | FAILURE | OK | Heartbeat დასაკავშირებელია; ≥2სთ ახალი კითხვის გარეშე; დაკვირვება |
+| DIALYSIS_ACCESS | 59/650 | 2026-11-17 08:37 | +38 | PRODUCING | FAILURE | MISMATCH | Heartbeat დასაკავშირებელია; სტრუქტურული შეცდომა |
+| MESENTERIC_RENAL | 51/600 | 2026-11-17 07:57 | +31 | PRODUCING | FAILURE | OK | Heartbeat დასაკავშირებელია |
+| VASCULAR_TRAUMA | 42/650 | 2026-11-17 08:39 | +20 | PRODUCING | FAILURE | MISMATCH | Heartbeat დასაკავშირებელია; სტრუქტურული შეცდომა |
+| VGEI | 62/500 | 2026-11-17 08:39 | +46 | PRODUCING | FAILURE | MISMATCH | Heartbeat დასაკავშირებელია; სტრუქტურული შეცდომა |
+| ANATOMY_IMAGING | 62/900 | 2026-11-17 08:37 | +36 | PRODUCING | FAILURE | MISMATCH | Heartbeat დასაკავშირებელია; სტრუქტურული შეცდომა |
+| PERIOPERATIVE | 57/600 | 2026-11-17 05:56 | +35 | UNKNOWN | FAILURE | OK | Heartbeat დასაკავშირებელია; ≥2სთ ახალი კითხვის გარეშე; დაკვირვება |
 
 PRODUCING ნიშნავს ახლახან დადასტურებულ ატვირთვას და არა აქტიურ ჩატს. UNKNOWN არ ნიშნავს მუშაობის შეწყვეტას. Quality Gate ამოწმებს მხოლოდ სტრუქტურას, არა დამოუკიდებელ კლინიკურ ხარისხს. მონიტორი არ ცვლის კითხვებს, განმარტებებს ან საერთო ინდექსს.
 <!-- VASCQBANK_MONITORING_END -->
