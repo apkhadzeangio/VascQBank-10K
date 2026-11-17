@@ -1389,19 +1389,11 @@
       "target": 650,
       "question_file": "VASCULAR_TRAUMA_questions.txt",
       "explanation_file": "VASCULAR_TRAUMA_explanations.txt",
-      "last_number": 48,
-      "question_blob_sha": "912f0bdbc0fa99b55cb7214c83ef69c58408388c",
-      "explanation_blob_sha": "b9fcdee487ee7def64e5161b2c9191ede0f3d36e",
-      "last_full_audit_at": 2,
+      "last_number": 50,
+      "question_blob_sha": "6ff1835c099dbf521df5123b77f513297fd65927",
+      "explanation_blob_sha": "174f20afa7b3b740135ab8d8a6655055e47cd0bd",
+      "last_full_audit_at": 50,
       "recent_stems": [
-        {
-          "n": 19,
-          "stem": "47 წლის მამაკაცს მუცლის ცეცხლნასროლი ჭრილობის გამო გადაუდებელი ლაპაროტომია უტარდება. თირკმლის ვენების ქვემოთ მდებარე ქვემო ღრუ ვენის ფართო კედლის დეფექტიდან მასიური სისხლდენა დროებითაა შეჩერებული; პაციენტს ჰემორაგიული შო"
-        },
-        {
-          "n": 20,
-          "stem": "31 წლის მამაკაცს გულმკერდის აორტის ბლაგვი დაზიანების გამო ოთხი წლის წინ სტენტგრაფტით ენდოვასკულური მკურნალობა ჩაუტარდა. ბოლო საკონტროლო CTA-ზე სტენტგრაფტის მიგრაცია და ენდოლიკი არ გამოვლენილა; პაციენტი უსიმპტომოა და MRI-"
-        },
         {
           "n": 21,
           "stem": "8 წლის ბავშვს დაცემის შედეგად მხრის ძვლის გადაადგილებული როკზედა მოტეხილობა აქვს. მოტეხილობის დახურული ჩასწორებისა და ფიქსაციის შემდეგ სხივის არტერიაზე პულსი არ ისინჯება, თუმცა მტევანი ვარდისფერი და თბილია, კაპილარული ავ"
@@ -1513,6 +1505,14 @@
         {
           "n": 48,
           "stem": "51 წლის ქალი მენჯის ბლაგვი ტრავმის შემდეგ რეანიმაციული ღონისძიებებით ჰემოდინამიკურად დასტაბილურდა. CTA-ზე მარჯვენა თეძოს გარეთა არტერიის შუა მესამედში 18 მმ დიამეტრის ტრავმული ფსევდოანევრიზმა გამოვლინდა; პროქსიმალური და "
+        },
+        {
+          "n": 49,
+          "stem": "34 წლის მამაკაცი ბარძაყის ზედა მესამედში მიყენებული ცეცხლნასროლი ჭრილობიდან 70 წუთის შემდეგ ჰემორაგიული შოკით შემოიყვანეს. ჭრილობიდან მასიური სისხლდენა გრძელდება, არტერიული წნევაა 80/45 mmHg, დაწყებულია მასიური ტრანსფუზიის პროტოკო"
+        },
+        {
+          "n": 50,
+          "stem": "38 წლის მამაკაცს ბარძაყის ზედაპირული არტერიის ტრავმული სეგმენტური დაზიანების გამო აუტოვენური ინტერპოზიციური რეკონსტრუქცია ჩაუტარდა. გაწერისას ტერფი თბილია, პულსაცია შენარჩუნებულია და დუპლექსსკანირებით რეკონსტრუირებული არტერია გამა"
         }
       ],
       "topic_rotation": "ბლაგვი და შემავალი ტრავმა; სისხლძარღვის დაზიანების სარწმუნო და სავარაუდო ნიშნები; ჰემოდინამიკური სტაბილურობა; CTA და გადაუდებელი ოპერაცია; კისრის, გულმკერდის, მუცლის, მენჯისა და კიდურების სისხლძარღვები; სისხლდენის კონტროლი და დაზიანების კონტროლის ქირურგია; დროებითი ინტრავასკულური შუნტი; არტერიული/ვენური რეკონსტრუქცია; ენდოვასკულური ჩარევა; კომპარტმენტ-სინდრომი და ფასციოტომია; რეპერფუზია; იატროგენული ტრავმა; მეთვალყურეობა.",
@@ -1520,8 +1520,8 @@
       "guideline_check": "ESVS 2025 Clinical Practice Guidelines on the Management of Vascular Trauma (Wahlgren et al., EJVES 69:179–237), DOI 10.1016/j.ejvs.2024.12.018; ყურადღება მიაქციე რეკომენდაციებს 9, 19, 20, 82–86.",
       "last_validation": {
         "range": [
-          47,
-          48
+          49,
+          50
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1531,25 +1531,26 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: ESVS 2025 recommendations 76 and 70; WSES-AAST renal trauma 2019",
+        "clinical_self_review": "passed: ESVS 2025 Recommendations 5 and 97; CRASH-2 time-to-treatment evidence",
         "georgian_language_self_review": "passed",
-        "terminology_self_review": "passed (GLOSSARY.md general and VASCULAR_TRAUMA)",
-        "semantic_duplication_review": "compared all 46 existing VASCULAR_TRAUMA questions; distinct renal damage control and iliac pseudoaneurysm indications",
+        "terminology_self_review": "passed: AGENTS.md v2.3 and GLOSSARY.md GENERAL/VASCULAR_TRAUMA",
+        "semantic_duplication_review": "Full milestone 50 audit of 48 existing stems plus new 49–50; candidate max Jaccard 0.193, 0.177; old high-overlap pairs []",
         "previous_text_unchanged": true,
         "index_precheck": "matched",
         "source_checks": [
           {
             "questions": [
-              47
+              49
             ],
-            "source": "ESVS 2025 vascular trauma Recommendation 76; WSES-AAST 2019 kidney and uro-trauma guidelines",
-            "url": "https://doi.org/10.1016/j.ejvs.2024.12.018"
+            "source": "ESVS 2025 vascular trauma Recommendation 5; CRASH-2 trial time-to-treatment analysis",
+            "url": "https://doi.org/10.1016/j.ejvs.2024.12.018",
+            "additional_url": "https://pubmed.ncbi.nlm.nih.gov/21439633/"
           },
           {
             "questions": [
-              48
+              50
             ],
-            "source": "ESVS 2025 vascular trauma Recommendation 70",
+            "source": "ESVS 2025 vascular trauma Recommendation 97 (Class IIb, Level C)",
             "url": "https://doi.org/10.1016/j.ejvs.2024.12.018"
           }
         ]
