@@ -1389,19 +1389,11 @@
       "target": 650,
       "question_file": "VASCULAR_TRAUMA_questions.txt",
       "explanation_file": "VASCULAR_TRAUMA_explanations.txt",
-      "last_number": 46,
-      "question_blob_sha": "4761140c9a7341d73d840147e27d96f777e300b5",
-      "explanation_blob_sha": "1586b6ccfa63966e3f82fffe0ab502588d38736e",
+      "last_number": 48,
+      "question_blob_sha": "912f0bdbc0fa99b55cb7214c83ef69c58408388c",
+      "explanation_blob_sha": "b9fcdee487ee7def64e5161b2c9191ede0f3d36e",
       "last_full_audit_at": 2,
       "recent_stems": [
-        {
-          "n": 17,
-          "stem": "36 წლის მამაკაცს კისრის მარცხენა მხარეს მიყენებული ნაჩხვლეტ-ნაკვეთი ჭრილობის შემდეგ კისრის ტკივილი აღენიშნება. CTA-ზე ხერხემლის მარცხენა არტერიის V2 მონაკვეთის ფსევდოანევრიზმა გამოვლინდა, რომელიც სამ დღეში განმეორებითი კ"
-        },
-        {
-          "n": 18,
-          "stem": "44 წლის მამაკაცს მუცლის შემავალი ტრავმის გამო გადაუდებელი ლაპაროტომია უტარდება. გამოვლენილია თირკმლის არტერიების ქვემოთ აორტის სეგმენტური დაზიანება და წვრილი ნაწლავის პერფორაცია მუცლის ღრუს ნაწლავის შიგთავსით დაბინძურები"
-        },
         {
           "n": 19,
           "stem": "47 წლის მამაკაცს მუცლის ცეცხლნასროლი ჭრილობის გამო გადაუდებელი ლაპაროტომია უტარდება. თირკმლის ვენების ქვემოთ მდებარე ქვემო ღრუ ვენის ფართო კედლის დეფექტიდან მასიური სისხლდენა დროებითაა შეჩერებული; პაციენტს ჰემორაგიული შო"
@@ -1513,6 +1505,14 @@
         {
           "n": 46,
           "stem": "39 წლის მამაკაცს მაღალი ენერგიის ავტოსაგზაო ტრავმის შემდეგ გულმკერდის აორტის ისთმუსის ფსევდოანევრიზმა დაუდგინდა, რომლის მკურნალობისთვის გადაუდებელი სტენტგრაფტის იმპლანტაცია გადაწყდა. საწყისი CTA მძიმე ჰიპოვოლემიური შოკის"
+        },
+        {
+          "n": 47,
+          "stem": "42 წლის მამაკაცს მარჯვენა ფერდის არეში ცეცხლნასროლი ჭრილობის გამო გადაუდებელი ლაპაროტომია უტარდება. რეანიმაციული ღონისძიებების მიუხედავად, არტერიული წნევა 70/40 mmHg-ია და მასიური ტრანსფუზია გრძელდება. ოპერაციისას გამოვლ"
+        },
+        {
+          "n": 48,
+          "stem": "51 წლის ქალი მენჯის ბლაგვი ტრავმის შემდეგ რეანიმაციული ღონისძიებებით ჰემოდინამიკურად დასტაბილურდა. CTA-ზე მარჯვენა თეძოს გარეთა არტერიის შუა მესამედში 18 მმ დიამეტრის ტრავმული ფსევდოანევრიზმა გამოვლინდა; პროქსიმალური და "
         }
       ],
       "topic_rotation": "ბლაგვი და შემავალი ტრავმა; სისხლძარღვის დაზიანების სარწმუნო და სავარაუდო ნიშნები; ჰემოდინამიკური სტაბილურობა; CTA და გადაუდებელი ოპერაცია; კისრის, გულმკერდის, მუცლის, მენჯისა და კიდურების სისხლძარღვები; სისხლდენის კონტროლი და დაზიანების კონტროლის ქირურგია; დროებითი ინტრავასკულური შუნტი; არტერიული/ვენური რეკონსტრუქცია; ენდოვასკულური ჩარევა; კომპარტმენტ-სინდრომი და ფასციოტომია; რეპერფუზია; იატროგენული ტრავმა; მეთვალყურეობა.",
@@ -1520,8 +1520,8 @@
       "guideline_check": "ESVS 2025 Clinical Practice Guidelines on the Management of Vascular Trauma (Wahlgren et al., EJVES 69:179–237), DOI 10.1016/j.ejvs.2024.12.018; ყურადღება მიაქციე რეკომენდაციებს 9, 19, 20, 82–86.",
       "last_validation": {
         "range": [
-          45,
-          46
+          47,
+          48
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1531,22 +1531,26 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "numeric_options_ascending": true,
-        "clinical_self_review": "ESVS 2025 recommendations 27 (I C) and 50 (IIa C); Bae & Jeon 2024 original TEVAR sizing cohort",
+        "clinical_self_review": "passed: ESVS 2025 recommendations 76 and 70; WSES-AAST renal trauma 2019",
         "georgian_language_self_review": "passed",
-        "terminology_self_review": "GLOSSARY.md general and vascular trauma",
-        "semantic_duplication_review": "Compared with all 44 stored vascular trauma questions; two new distinct clinical decisions",
+        "terminology_self_review": "passed (GLOSSARY.md general and VASCULAR_TRAUMA)",
+        "semantic_duplication_review": "compared all 46 existing VASCULAR_TRAUMA questions; distinct renal damage control and iliac pseudoaneurysm indications",
         "previous_text_unchanged": true,
-        "index_precheck": "matched real TXT numbering and blob SHAs",
+        "index_precheck": "matched",
         "source_checks": [
           {
-            "question": 45,
-            "source": "ESVS 2025 Vascular Trauma Recommendation 27",
+            "questions": [
+              47
+            ],
+            "source": "ESVS 2025 vascular trauma Recommendation 76; WSES-AAST 2019 kidney and uro-trauma guidelines",
             "url": "https://doi.org/10.1016/j.ejvs.2024.12.018"
           },
           {
-            "question": 46,
-            "source": "ESVS 2025 Recommendation 50; Bae and Jeon 2024",
-            "url": "https://doi.org/10.1177/15266028221134894"
+            "questions": [
+              48
+            ],
+            "source": "ESVS 2025 vascular trauma Recommendation 70",
+            "url": "https://doi.org/10.1016/j.ejvs.2024.12.018"
           }
         ]
       }
