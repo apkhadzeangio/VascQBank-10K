@@ -1737,19 +1737,11 @@
       "target": 600,
       "question_file": "PERIOPERATIVE_questions.txt",
       "explanation_file": "PERIOPERATIVE_explanations.txt",
-      "last_number": 53,
-      "question_blob_sha": "f85b31a18a932196ad4af47d9aa02a025bc402f8",
-      "explanation_blob_sha": "5cd5a8fe4c8ebf185004bd732f1ea6af1f70c38e",
+      "last_number": 55,
+      "question_blob_sha": "855d984ad3337eebf56b5711b62ce816de7f6052",
+      "explanation_blob_sha": "4d820a5af69cb3e8433083e4a9c9ba9085f378fe",
       "last_full_audit_at": 50,
       "recent_stems": [
-        {
-          "n": 24,
-          "stem": "71 წლის ქალი მუცლის აორტის უსიმპტომო ანევრიზმის ღია პროთეზირებისთვის ემზადება, რაც სისხლდენის მაღალი რისკის ჩარევას მიეკუთვნება. არასარქვლოვანი წინაგულთა ფიბრილაციის გამო იღებს აპიქსაბანს 5 მგ დღეში ორჯერ; ინსულტი ბოლო წ"
-        },
-        {
-          "n": 25,
-          "stem": "75 წლის მამაკაცი მუცლის აორტის 5,8 სმ დიამეტრის უსიმპტომო ანევრიზმის ღია პროთეზირებისთვის ემზადება, რადგან ანატომია EVAR-ისთვის შეუფერებელია. წინასაოპერაციო გამოკითხვისას გაირკვა, რომ ბოლო ორი თვეა მცირე ფიზიკურ დატვირთვ"
-        },
         {
           "n": 26,
           "stem": "74 წლის მამაკაცს გუშინ აორტა-ორბარძაყის ღია შუნტირება ჩაუტარდა. ოპერაციამდე მაღალმგრძნობიარე კარდიული ტროპონინი T ნორმის ზედა ზღვარს არ აღემატებოდა, ოპერაციიდან 24 საათის შემდეგ გეგმიურ კონტროლზე ნორმის 99-ე პერცენტილზე "
@@ -1861,6 +1853,14 @@
         {
           "n": 53,
           "stem": "64 წლის ქალს ექვსი თვის წინ ქოლეცისტექტომიის ანესთეზიის დაწყებიდან რამდენიმე წუთში არტერიული წნევა მკვეთრად დაუქვეითდა, განუვითარდა ბრონქოსპაზმი და გენერალიზებული ჭინჭრის ციება; საჭირო გახდა ადრენალინის შეყვანა და ოპერაციის შეწყვეტა. უშუალოდ მანამდე თითქმის ერთდროულად მიიღო ანტიბიოტიკი და ნეირომუსკუ"
+        },
+        {
+          "n": 54,
+          "stem": "70 წლის მამაკაცს თირკმლის ქრონიკული დაავადება აქვს: გლომერულური ფილტრაციის სავარაუდო სიჩქარე (eGFR) ბოლო ექვსი თვის განმავლობაში დაახლოებით 38 მლ/წთ/1,73 მ²-ია. სამი კვირის შემდეგ აორტა-ორბარძაყის გეგმიური ღია შუნტირება უნდა ჩაუტარდეს; პროტეინურია აქამდე რაოდენობრივად არ შეუფასებიათ. რომელი წინასაოპ"
+        },
+        {
+          "n": 55,
+          "stem": "76 წლის ქალს ქვედა კიდურის მწვავე იშემიის გამო გადაუდებელი არტერიული თრომბექტომია ესაჭიროება; ტერფის მოძრაობა შესუსტებულია და ჩარევის გადავადება კიდურის გადარჩენას საფრთხეს შეუქმნის. მას კორონარული არტერიების დაავადება აქვს, ხოლო გასინჯვისას ფილტვების ქვედა ველებში კრეპიტაცია ისმის. ანესთეზიოლოგს გუ"
         }
       ],
       "topic_rotation": "№1–60 წინასაოპერაციო შეფასება/ოპტიმიზაცია; №61–120 პერიოპერაციული კარდიოვასკულური რისკი; №121–180 ანტიაგრეგანტული და ანტიკოაგულაციური მკურნალობა; №181–250 ჰემოსტაზი, სისხლდენა და ტრანსფუზია; №251–320 თრომბოემბოლია და პროფილაქტიკა; №321–380 ჰემოდინამიკა, ინფუზია და თირკმლის ფუნქცია; №381–440 ფილტვის/მეტაბოლური გართულებები; №441–500 სისხლძარღვოვანი ოპერაციების ადრეული გართულებები; №501–550 ნევროლოგიური/ორგანოსპეციფიკური გართულებები; №551–600 პოსტოპერაციული მეთვალყურეობა. ზუსტად ორი კითხვა თითო ციკლში.",
@@ -1868,8 +1868,8 @@
       "guideline_check": "2024 multi-society GLP-1RA perioperative guidance (published 2024; Surgical Endoscopy 2025): individual aspiration-risk assessment and continuation in lower-risk patients; SA Health vascular surgery antibiotic prophylaxis and ASHP/IDSA/SHEA/SIS: IV cefazolin within 60 min before incision with repeat intraoperative dosing for prolonged surgery and normal kidney function.",
       "last_validation": {
         "range": [
-          52,
-          53
+          54,
+          55
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1879,37 +1879,29 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ბ": 1,
-          "ე": 1
+          "გ": 1,
+          "დ": 1
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: current 2026 AHA/ACC heart failure GDMT recommendation 2a C-LD; EAACI perioperative anaphylaxis investigation position paper",
-        "terminology_self_review": "passed: GENERAL and PERIOPERATIVE glossary",
-        "georgian_language_self_review": "passed: academic Georgian and natural specialist terminology",
-        "semantic_duplication_review": "full PERIOPERATIVE questions 1-51 reviewed; compensated HFrEF ARNI strategy and prior suspected perioperative anaphylaxis workup are distinct",
+        "clinical_self_review": "passed; ESAIC 2024 (published EJA 2025), recommendations R7.1 (1C) and R4.1 (2B)",
+        "terminology_self_review": "passed: GENERAL/PERIOPERATIVE glossary",
+        "georgian_language_self_review": "passed: academically edited Georgian",
+        "semantic_duplication_review": "53 stored questions compared; CKD risk assessment with proteinuria and urgent focused heart/lung POCUS differ from prior decisions",
         "previous_text_unchanged": true,
-        "index_precheck": "matched",
         "source_checks": [
           {
             "questions": [
-              52
+              54
             ],
-            "source": "2026 AHA/ACC Multisociety Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery, section 6.3 Heart Failure, recommendation 2 (Class IIa, C-LD)",
-            "url": "https://www.jacc.org/doi/10.1016/j.jacc.2026.06.017"
+            "source": "ESAIC guideline preoperative assessment of adults undergoing elective noncardiac surgery, recommendation R7.1 (1C), renal function assessment",
+            "url": "https://doi.org/10.1097/EJA.0000000000002069"
           },
           {
             "questions": [
-              53
+              55
             ],
-            "source": "EAACI position paper on the investigation of perioperative immediate hypersensitivity reactions, 2019, sections 5 and 8.1",
-            "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/all.13820"
-          },
-          {
-            "questions": [
-              53
-            ],
-            "source": "Resuscitation Council UK/Association of Anaesthetists emergency treatment of peri-operative anaphylaxis, specialist referral",
-            "url": "https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/10.1111/anae.16206"
+            "source": "ESAIC guideline preoperative assessment, recommendation R4.1 (2B), focused cardiac/lung POCUS before urgent/emergency surgery",
+            "url": "https://doi.org/10.1097/EJA.0000000000002069"
           }
         ]
       }
