@@ -1221,19 +1221,11 @@
       "target": 600,
       "question_file": "MESENTERIC_RENAL_questions.txt",
       "explanation_file": "MESENTERIC_RENAL_explanations.txt",
-      "last_number": 45,
-      "question_blob_sha": "cae7dc10bc392e5b5424c4ba2e843cfc62f2ed8a",
-      "explanation_blob_sha": "2531770b293ae04bfa80f33d121cb2f4301bb554",
+      "last_number": 47,
+      "question_blob_sha": "91d1b37632c1d41c28e2506c1f823305a8b0ecab",
+      "explanation_blob_sha": "a75c16c5762b33f92ad3d2d88f4b342731641f41",
       "last_full_audit_at": 2,
       "recent_stems": [
-        {
-          "n": 16,
-          "stem": "46 წლის მამაკაცს უეცარი მარცხენა ფერდის ტკივილის გამო ჩატარებულ CTA-ზე მარცხენა თირკმლის არტერიის სპონტანური დისექცია დაუდგინდა, რომელიც ჭეშმარიტ სანათურს მნიშვნელოვნად ავიწროებს. სამი სათანადო ანტიჰიპერტენზიული პრეპარატ"
-        },
-        {
-          "n": 17,
-          "stem": "34 წლის ქალს რამდენიმე თვეა ჭამის შემდეგ ეპიგასტრიუმის ტკივილი აწუხებს; საკვების მიღება შეამცირა და წონაში დაიკლო. გასტროსკოპიითა და მუცლის ღრუს ულტრასონოგრაფიით ტკივილის სხვა მიზეზი არ გამოვლენილა. კლინიკურად ეჭვობენ ფა"
-        },
         {
           "n": 18,
           "stem": "42 წლის ქალს რენოვასკულური ჰიპერტენზიის გამოკვლევისას მარჯვენა თირკმლის არტერიის ფიბრომუსკულური დისპლაზია დაუდასტურდა. თირკმლის ფუნქცია შენარჩუნებულია, კონტრასტული კვლევის უკუჩვენება არ აქვს, ხოლო სხვა სისხლძარღვოვანი აუ"
@@ -1345,6 +1337,14 @@
         {
           "n": 45,
           "stem": "16 წლის გოგონას პერიოდული მსუბუქი ტკივილი აქვს მარცხენა ფერდის არეში და შარდში განმეორებით ვლინდება მიკროჰემატურია. სხვა უროლოგიური და ნეფროლოგიური მიზეზები გამოირიცხა; დუპლექსსკანირებითა და CTA-ით დადასტურდა მარცხენა თი"
+        },
+        {
+          "n": 46,
+          "stem": "75 წლის მამაკაცს ქრონიკული მეზენტერიული იშემიის გამო ჯორჯლის ზემო არტერიის სათავის ათეროსკლეროზული სტენოზის ენდოვასკულური მკურნალობა დაფარული სტენტით ჩაუტარდა. წინაგულთა ფიბრილაციის გამო ხანგრძლივად იღებს აპიქსაბანს და ანტიკოაგულაციის დამოუ"
+        },
+        {
+          "n": 47,
+          "stem": "56 წლის ქალს მარჯვენა თირკმლის ნაწილობრივი რეზექციიდან მეთერთმეტე დღეს განმეორებითი მაკროჰემატურია განუვითარდა და ჰემოგლობინი 126-დან 92 გ/ლ-მდე შეუმცირდა. CTA-ით თირკმლის ქვედა პოლუსის სეგმენტური არტერიის ფსევდოანევრიზმა და მცირე არტერიოვე"
         }
       ],
       "topic_rotation": "მეზენტერიული და თირკმლის პათოლოგიების მონაცვლეობა; მწვავე მეზენტერიული იშემიის ემბოლია/თრომბოზი/NOMI/MVT; ქრონიკული მეზენტერიული იშემია; CTA/DSA/დუპლექსსკანირება; ენდოვასკულური და ღია რევასკულარიზაცია; ნაწლავის სიცოცხლისუნარიანობა და განმეორებითი ლაპაროტომია; თირკმლის არტერიის ათეროსკლეროზული სტენოზი/FMD; რენოვასკულური ჰიპერტენზია; რევასკულარიზაციის ჩვენებები და უარყოფა; ანევრიზმა/დისექცია; მკურნალობისშემდგომი მეთვალყურეობა.",
@@ -1352,8 +1352,8 @@
       "guideline_check": "ESVS 2025 Mesenteric and Renal Arteries and Veins (რეკომენდაციები 33 და 63), ESC 2024 PAAD. მწვავე მეზენტერიული იშემიის ეჭვისას გადაუდებელი CTA თირკმლის ფუნქციის დაქვეითების მიუხედავად; კონტროლირებადი ჰიპერტენზიისა და სტაბილური თირკმლის ფუნქციისას თირკმლის ათეროსკლეროზული სტენოზის რუტინული სტენტირება არ არის გამართლებული.",
       "last_validation": {
         "range": [
-          44,
-          45
+          46,
+          47
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1362,34 +1362,34 @@
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
-        "answer_distribution": {
-          "ა": 0,
-          "ბ": 0,
-          "გ": 0,
-          "დ": 1,
-          "ე": 1
-        },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed; 2025 ESVS Rec 74 (infected visceral aneurysm) and Rec 69 (mild nutcracker syndrome)",
-        "georgian_language_self_review": "passed",
-        "terminology_self_review": "passed: general and mesenteric/renal glossary",
-        "semantic_duplication_review": "Compared 43 stored cases; infected mesenteric aneurysm versus uncomplicated adolescent nutcracker observation not previously asked",
+        "answer_distribution": {
+          "ა": 1,
+          "ბ": 1,
+          "გ": 0,
+          "დ": 0,
+          "ე": 0
+        },
+        "clinical_self_review": "passed: short antiplatelet course added to pre-existing anticoagulation after PMAS; selective embolisation of post-partial nephrectomy branch pseudoaneurysm",
+        "georgian_language_self_review": "passed: academic Georgian, balanced procedure/regimen alternatives",
+        "terminology_self_review": "passed: current GLOSSARY.md general and MESENTERIC_RENAL sections",
+        "semantic_duplication_review": "Compared all 45 stored cases; anticoagulation plus short antiplatelet after PMAS and segmental renal iatrogenic pseudoaneurysm are new decisions",
         "previous_text_unchanged": true,
         "index_precheck": "matched",
         "source_checks": [
           {
             "questions": [
-              44
+              46
             ],
-            "source": "ESVS 2025 Guidelines Recommendation 74",
-            "url": "https://doi.org/10.1016/j.ejvs.2025.06.010"
+            "source": "European multidisciplinary CMI guideline (2020), Recommendation 22; ESVS 2025 Recommendation 18 (limited evidence for post-mesenteric-stent DAPT)",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7226699/"
           },
           {
             "questions": [
-              45
+              47
             ],
-            "source": "ESVS 2025 Guidelines Recommendation 69",
-            "url": "https://doi.org/10.1016/j.ejvs.2025.06.010"
+            "source": "Selective Arterial Embolization of Pseudoaneurysms and Arteriovenous Fistulas after Partial Nephrectomy (2023)",
+            "url": "https://www.mdpi.com/2227-9059/11/7/1935"
           }
         ]
       }
