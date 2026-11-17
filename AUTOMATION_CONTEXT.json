@@ -392,19 +392,11 @@
       "target": 900,
       "question_file": "CAROTID_VERTEBRAL_questions.txt",
       "explanation_file": "CAROTID_VERTEBRAL_explanations.txt",
-      "last_number": 178,
-      "question_blob_sha": "37ae9b17ee75b72e7b59c9e2914bf4bc5c51c9a3",
-      "explanation_blob_sha": "4f1a9be9df64fa23d672a4e97a49a6afaf12db56",
+      "last_number": 180,
+      "question_blob_sha": "40bd79d98e54cabc8b238d10b43bee6f0e3ff2fe",
+      "explanation_blob_sha": "78aff1ce5434197de1085fb33c16785405ad8d9e",
       "last_full_audit_at": 176,
       "recent_stems": [
-        {
-          "n": 149,
-          "stem": "71 წლის მამაკაცს ზოგადი ანესთეზიით უტარდება მარჯვენა საძილე არტერიის ენდარტერექტომია უწყვეტი ინტრაოპერაციული ტრანსკრანიალური დოპლეროგრაფიის (TCD) მონიტორინგით. საძილე არტერიაზე დამჭერის დადებისთანავე რომელი დოპლეროგრაფიული ცვლილება მიუთითებ"
-        },
-        {
-          "n": 150,
-          "stem": "საძილე არტერიის სიგრძივი ენდარტერექტომიის დასრულებისას არტერიოტომიის ნაფლეთით პლასტიკისთვის ქირურგი მასალას ირჩევს. რატომ არ არის რეკომენდებული კოჭის მიდამოდან აღებული მცირე კალიბრის (<3,5 მმ) დიდი კანქვეშა ვენის გამოყენება კაროტიდულ ნაფლეთ"
-        },
         {
           "n": 151,
           "stem": "საძილე არტერიის ენდარტერექტომიის დროს გამოვლინდა ბიფურკაციის ატიპური როტაციული განლაგება, როდესაც გარეთა საძილე არტერია შიგნითა საძილე არტერიის ლატერალურად მდებარეობს. რომელი ინტრაოპერაციული ანატომიური ნიშანი იძლევა გარეთა და შიგნითა საძილე"
@@ -516,6 +508,14 @@
         {
           "n": 178,
           "stem": "66 წლის ქალს მარცხენა კაროტიდული ენდარტერექტომიის დროს მაღალი ბიფურკაციის გამოსაყოფად კისრის ზედა ნაწილის ფართო მობილიზაცია დასჭირდა. ოპერაციის შემდეგ მარცხენა მხარი დაშვებული აქვს, მხრის აწევა უჭირს და გასინჯვით ტრაპეციული კუნთის ძალა დაქვ"
+        },
+        {
+          "n": 179,
+          "stem": "62 წლის ქალს მარცხენა შიგნითა საძილე არტერიის კლდოვან მონაკვეთში გიგანტური ანევრიზმა აქვს, რომლის რეკონსტრუქციული მკურნალობა ანატომიის გამო ვერ ხერხდება. მულტიდისციპლინური გუნდი განიხილავს არტერიის მუდმივ გადაკეტვას, თუმცა ვილიზიის წრის კოლ"
+        },
+        {
+          "n": 180,
+          "stem": "69 წლის ქალს მარცხენა შიგნითა საძილე არტერიის 55%-იანი უსიმპტომო სტენოზი აქვს. ფოლაქის დამატებითი შეფასებისას კონტრასტით გაძლიერებულ ულტრასონოგრაფიაზე მიკრობუშტუკების მოძრაობა ფოლაქის სიღრმეში, სანათურისგან მოშორებით, აღირიცხა; კვლევის ხარი"
         }
       ],
       "topic_rotation": "TIA/ინსულტი; NASCET; CTA/MRA/დუპლექსი; CEA/CAS/TCAR დრო და არჩევანი; ფოლაქის მორფოლოგია; ანტითრომბოციტული მკურნალობა; პერიოპერაციული გართულებები; რესტენოზი; ხერხემლის არტერიის სტენოზი/დისექცია და უკანა ცირკულაცია; ESVS 2023 და უფრო ახალი წყაროები.",
@@ -523,8 +523,8 @@
       "guideline_check": "კლინიკურად სადავო გადაწყვეტილებაზე ერთმნიშვნელოვანი პასუხი არ ააგო; პირველწყარო ESVS/SVS და შესაბამისი გაიდლაინები გადაამოწმე, როცა საჭიროა.",
       "last_validation": {
         "range": [
-          177,
-          178
+          179,
+          180
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -535,18 +535,19 @@
         "two_sentences_each": true,
         "numeric_options_ascending": true,
         "answer_distribution": {
-          "ე": 1,
-          "ა": 1
+          "დ": 1,
+          "ბ": 1
         },
-        "clinical_self_review": "passed: symptomatic acute carotid stent thrombosis requires urgent perfusion restoration evaluation; spinal accessory nerve palsy after high cervical exposure",
+        "clinical_self_review": "passed: ICA sacrifice tolerance evaluated by temporary balloon occlusion, with neurological/perfusion monitoring; CEUS intraplaque enhancement indicates plaque neovascularisation without implying automatic intervention",
         "georgian_language_self_review": "passed",
-        "terminology_self_review": "passed (AGENTS.md and GLOSSARY.md)",
-        "semantic_duplication_review": "all 1-176 question stems inspected; no same clinical decision found",
+        "terminology_self_review": "passed (AGENTS.md/GLOSSARY.md)",
+        "semantic_duplication_review": "all 1-178 question stems reviewed; two distinct new clinical decisions",
         "previous_text_unchanged": true,
-        "index_precheck": "verified current blob SHA and last_number against full TXT",
+        "index_precheck": "tree SHA, source SHA and both TXT blob SHAs verified; all numbering cross-checked",
         "reference_notes": [
-          "https://www.heljves.com/vol_5_issue_4_2023-132_138/",
-          "https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2023.1277366/full"
+          "https://pubmed.ncbi.nlm.nih.gov/23849747/",
+          "https://pubmed.ncbi.nlm.nih.gov/37202244/",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10067694/"
         ]
       }
     },
