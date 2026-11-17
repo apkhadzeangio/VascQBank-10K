@@ -876,19 +876,11 @@
       "target": 1500,
       "question_file": "PAD_CLTI_questions.txt",
       "explanation_file": "PAD_CLTI_explanations.txt",
-      "last_number": 60,
-      "question_blob_sha": "2ed3369167795ad51893b93dc64440560e9ac8ac",
-      "explanation_blob_sha": "a431071ad5a66e21545d603cd72798d20ca5bf13",
+      "last_number": 62,
+      "question_blob_sha": "c8b6cc2cf6ee8c02cc96faacc362ea58425dd2b3",
+      "explanation_blob_sha": "df2ffa3988d01fbf051a8ec18734614bca695c4e",
       "last_full_audit_at": 50,
       "recent_stems": [
-        {
-          "n": 31,
-          "stem": "70 წლის მამაკაცს კიდურისთვის საფრთხის შემცველი ქრონიკული იშემიის გამო დიდი საჩინო ვენით in situ ბარძაყ-დიდი წვივის უკანა არტერიის შუნტირება ჩაუტარდა. სამი კვირის შემდეგ წვივის მედიალურ ზედაპირზე ლოკალ"
-        },
-        {
-          "n": 32,
-          "stem": "25 წლის ქალს ბოლო ორი თვეა მარცხენა ზედა კიდურით მუშაობისას კუნთების სწრაფი დაღლა და ტკივილი აწუხებს, რასაც სუბფებრილური ცხელება და ღამის ოფლიანობა ერთვის. მარცხენა სხივის არტერიაზე პულსაცია მკვეთრად "
-        },
         {
           "n": 33,
           "stem": "70 წლის ქალს შაქრიანი დიაბეტი და ტერფის ძირის წყლული აქვს, რომელიც სათანადო ადგილობრივი მკურნალობის მიუხედავად ორი თვეა არ ხორცდება. გოჯ-მხრის ინდექსი (ABI) 1,32-ია, თუმცა ტერფის პირველი თითის სისტოლუ"
@@ -1000,6 +992,14 @@
         {
           "n": 60,
           "stem": "72 წლის მამაკაცს შაქრიანი დიაბეტი და დადასტურებული პერიფერიული არტერიული დაავადება აქვს. ტერფის მეორე და მესამე თითებზე შემოსაზღვრული განგრენაა, რომელიც ტერფის წინა ნაწილის დანარჩენ ქსოვილებზე არ ვრცე"
+        },
+        {
+          "n": 61,
+          "stem": "69 წლის მამაკაცს 100 მ-ის გავლის შემდეგ მარჯვენა ბარძაყისა და წვივის კუნთების ტკივილი ეწყება, რომელიც შეჩერებისას ქრება. გოჯ-მხრის ინდექსი (ABI) 0,59-ია. დუპლექსსკანირებით ბარძაყის საერთო არტერიის სან"
+        },
+        {
+          "n": 62,
+          "stem": "67 წლის მამაკაცს დადასტურებული სიმპტომური პერიფერიული არტერიული დაავადება და ხანგამოშვებითი კოჭლობა აქვს; გოჯ-მხრის ინდექსი (ABI) 0,64-ია. რამდენიმე წლის წინ ასპირინის მიღების შემდეგ ანაფილაქსიური რეა"
         }
       ],
       "topic_rotation": "ABI/TBI და პერფუზია; Fontaine/Rutherford/WIfI/GLASS; ხანგამოშვებითი კოჭლობა და CLTI; დუპლექსი/CTA/MRA/DSA; ანტიაგრეგანტები/სტატინები/ვარჯიში; აორტა-თეძოს, ბარძაყ-მუხლქვეშა და წვივის სეგმენტები; ენდოვასკულური მკურნალობა/ავტოვენური შუნტირება; ჭრილობა/ინფექცია/ამპუტაცია/მეთვალყურეობა.",
@@ -1007,8 +1007,8 @@
       "guideline_check": "2024 ACC/AHA PAD guideline, 2024 ESVS asymptomatic PAD/intermittent claudication guideline და Global Vascular Guidelines CLTI; კლინიკური გადაწყვეტილება გადაამოწმე პირველწყაროებში.",
       "last_validation": {
         "range": [
-          59,
-          60
+          61,
+          62
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1018,33 +1018,26 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed — verified valvulotomy and WIfI thresholds against primary literature and guidelines",
-        "georgian_language_self_review": "passed — cases and options edited in academic Georgian",
-        "terminology_self_review": "passed — GLOSSARY.md general and PAD_CLTI",
-        "semantic_duplication_review": "checked 58 previously stored complete questions, including recent 30; highest token similarities 0.189, 0.230",
+        "clinical_self_review": "passed — arterial Doppler proximal waveform localization and ACC/AHA 2024 single antiplatelet recommendation checked",
+        "georgian_language_self_review": "passed — independently reviewed wording and five homogeneous options",
+        "terminology_self_review": "passed — GLOSSARY.md GENERAL and PAD_CLTI",
+        "semantic_duplication_review": "checked 60 stored full question stems and last 30 full questions; top lexical similarities 0.226, 0.24",
         "previous_text_unchanged": true,
         "index_precheck": "matched",
         "source_checks": [
           {
             "questions": [
-              59
+              61
             ],
-            "source": "In situ saphenous vein graft valvulotomy and retained cusp evidence, Surgery 1989 and J Vasc Surg 1992",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/1728671/"
+            "source": "Society for Vascular Medicine: Arterial Duplex Ultrasonography, post-stenotic monophasic tardus-parvus waveform",
+            "url": "https://myperipheralarterydisease.com/health-care-providers/algorithmic-approach-and-pathway-to-pad-diagnosis/arterial-duplex-ultrasonography/"
           },
           {
             "questions": [
-              60
+              62
             ],
-            "source": "Global Vascular Guidelines 2019, WIfI Tables 3.2, 3.3, and 3.4",
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8369495/"
-          },
-          {
-            "questions": [
-              60
-            ],
-            "source": "IWGDF/ESVS/SVS Intersocietal Guideline 2023, WIfI classification",
-            "url": "https://doi.org/10.1002/dmrr.3686"
+            "source": "2024 ACC/AHA multisociety lower extremity PAD guideline section 5.1 clopidogrel 75 mg daily",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12782132/"
           }
         ]
       }
