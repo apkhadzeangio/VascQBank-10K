@@ -1560,19 +1560,11 @@
       "target": 900,
       "question_file": "ANATOMY_IMAGING_questions.txt",
       "explanation_file": "ANATOMY_IMAGING_explanations.txt",
-      "last_number": 57,
-      "question_blob_sha": "e6c6514a0060f744c31fa0eb416cd54958c6528f",
-      "explanation_blob_sha": "ebacfc6b666934b1b7b01a8854adf642935d1742",
+      "last_number": 59,
+      "question_blob_sha": "a077f90b6df6ce9e91b97469b05235dc092bdf39",
+      "explanation_blob_sha": "ae8bb185990311d1db3aeec5f559ac5847d62460",
       "last_full_audit_at": 50,
       "recent_stems": [
-        {
-          "n": 28,
-          "stem": "იუსტარენალური აორტის ანევრიზმის ღია რეკონსტრუქციისა და ფენესტრირებული ენდოპროთეზირების დაგეგმვისას CTA-ზე გამოვლინდა ღვიძლის მარჯვენა არტერიის ყველაზე ხშირი ანატომიური ვარიაცია — შენაცვლებული ღვიძლის მარჯვენა არტერია, რო"
-        },
-        {
-          "n": 29,
-          "stem": "იდაყვის ფოსოში მხრის არტერიის ემბოლექტომიის ან ბრაქიოცეფალური არტერიოვენური ფისტულის ფორმირებისას ქირურგი კვეთს მხრის ორთავა კუნთის აპონევროზს. რომელი ნერვი მდებარეობს ჩვეულებრივი ანატომიისას უშუალოდ მხრის არტერიის მედია"
-        },
         {
           "n": 30,
           "stem": "აორტა-ორბარძაყის შუნტირებისა და თეძოს არტერიის ანევრიზმის ღია რეკონსტრუქციისას ქირურგი ითვალისწინებს შარდსაწვეთის მდებარეობას მენჯის შესავალში მისი იატროგენული დაზიანების თავიდან ასაცილებლად. სად კვეთს შარდსაწვეთი თეძოს "
@@ -1684,6 +1676,14 @@
         {
           "n": 57,
           "stem": "ქრონიკული პანკრეატიტის მქონე პაციენტს განმეორებითი ზედა კუჭ-ნაწლავის სისხლდენა აქვს. CTA-ზე პანკრეასის სხეულის ზედა კიდესთან ფსევდოანევრიზმა ჩანს, რომელიც ფაშვის ღეროს დაკლაკნილ ტოტს უკავშირდება; ტოტი ელენთის კარისკენ მიემართება. რომელი არტერიაა სისხლდენის სავარაუდო წყარო და სელექტიური ანგიოგრაფიის მთავარი სამიზნე?"
+        },
+        {
+          "n": 58,
+          "stem": "მარცხენა ვარიკოცელეს ემბოლიზაციის წინ ფლებოგრაფიით მარცხენა სათესლე ჯირკვლის ვენაში რეფლუქსი დადასტურდა. კათეტერი ქვედა ღრუ ვენაშია; ტიპური ანატომიისას რომელ ვენაში უნდა გადავიდეს იგი მარცხენა სათესლე ჯირკვლის ვენის შესართავთან მისასვლელად?"
+        },
+        {
+          "n": 59,
+          "stem": "მაჯის იდაყვისმხრივ ზედაპირზე მოპულსირე წარმონაქმნის გამო ულტრაბგერითი კვლევით იდაყვის არტერიის ფსევდოანევრიზმა გამოვლინდა მაჯის იდაყვისმხრივი არხის (გუიონის არხის) პროქსიმალურ ნაწილში. რომელი ნერვის მთავარი ღერო მდებარეობს ტიპური ანატომიისას არტერიის უშუალოდ მედიალურად და საჭიროებს დაცვას მისი ქირურგიული გამოყოფისას?"
         }
       ],
       "topic_rotation": "№1–100 ძირითადი სისხლძარღვოვანი ანატომია; №101–180 ვარიაციები; №181–260 ჰემოდინამიკა; №261–360 დოპლერის საფუძვლები; №361–460 არტერიული დუპლექსსკანირება; №461–540 ვენური დუპლექსსკანირება; №541–630 CTA; №631–720 MRA, DSA, IVUS; №721–820 ოპერაციული დაგეგმვა; №821–900 ინტეგრირებული კლინიკური ვიზუალიზაცია. ზუსტად ორი კითხვა ყოველ ციკლში.",
@@ -1691,8 +1691,8 @@
       "guideline_check": "სტანდარტული ანატომია, ESVS/SVS/AIUM/IAC შესაბამისი წყაროები. არ გამოიგონო მეთოდოლოგიაზე დამოკიდებული PSV/EDV/PSVR ზღვრები.",
       "last_validation": {
         "range": [
-          56,
-          57
+          58,
+          59
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1701,27 +1701,34 @@
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
+        "answer_distribution": {
+          "ა": 12,
+          "ბ": 12,
+          "გ": 12,
+          "დ": 12,
+          "ე": 11
+        },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: common fibular nerve at fibular neck; splenic artery origin and course at superior pancreatic border",
-        "terminology_self_review": "passed: AGENTS v2.3 and GLOSSARY general plus ANATOMY_IMAGING",
-        "georgian_language_self_review": "passed: natural academic Georgian and homogeneous distractors",
-        "exam_technical_self_review": "passed: five options and one ASCII asterisk per question; 2 sentences per explanation",
-        "semantic_duplication_review": "All 55 prior full questions compared by stem and subject; nerve at fibular neck and splenic artery pseudoaneurysm are new distinct scenarios",
+        "clinical_self_review": "passed: left testicular vein drainage via left renal vein and ulnar nerve location medial to ulnar artery in Guyon canal",
+        "terminology_self_review": "passed: AGENTS.md and general/ANATOMY_IMAGING GLOSSARY.md",
+        "georgian_language_self_review": "passed: academic Georgian terminology and parallel answer formats",
+        "exam_technical_self_review": "passed: complete structure and matching explanations",
+        "semantic_duplication_review": "reviewed all 57 existing anatomy stems and complete last 30 questions; candidate anatomy and decisions are new",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              56
+              58
             ],
-            "source": "Branching Patterns and Anatomical Course of the Common Fibular Nerve, 2019",
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6960080/"
+            "source": "Varicocele Embolization: Interventional Radiologist's Perspective (2022)",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9767774/"
           },
           {
             "questions": [
-              57
+              59
             ],
-            "source": "Kenhub: Splenic artery anatomy and branches, reviewed 2023",
-            "url": "https://www.kenhub.com/en/library/anatomy/splenic-artery"
+            "source": "NCBI Bookshelf Anatomy, Shoulder and Upper Limb, Hand Guyon Canal, updated 2026-09-14",
+            "url": "https://www.ncbi.nlm.nih.gov/books/NBK534814/"
           }
         ]
       }
