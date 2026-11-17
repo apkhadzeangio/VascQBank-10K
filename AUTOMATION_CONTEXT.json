@@ -392,19 +392,11 @@
       "target": 900,
       "question_file": "CAROTID_VERTEBRAL_questions.txt",
       "explanation_file": "CAROTID_VERTEBRAL_explanations.txt",
-      "last_number": 165,
-      "question_blob_sha": "0a53dc8dfe76b190c79de4f433fd6a3515044a39",
-      "explanation_blob_sha": "dabaa55a0d47b2c347f5afd89456e2165c60ebd5",
+      "last_number": 167,
+      "question_blob_sha": "1bf96eba51b98b5857ede42d38052daedef7bb77",
+      "explanation_blob_sha": "b39cb6996ea7215c2ee9f8ac45f5d69d8cc161b6",
       "last_full_audit_at": 150,
       "recent_stems": [
-        {
-          "n": 136,
-          "stem": "71 წლის მამაკაცს საძილე არტერიის მაღალი ბიფურკაციისა და შიგნითა საძილე არტერიაში კრანიალურად გავრცელებული ფოლაქის გამო ენდარტერექტომია უტარდება. დისტალური ჯანსაღი სეგმენტის გამოსაყოფად საჭიროა ენისქვეშა ნერვის ფრთხილი კრ"
-        },
-        {
-          "n": 137,
-          "stem": "68 წლის ქალს სიგრძივი არტერიოტომიით საძილე არტერიის ენდარტერექტომია უტარდება. ათეროსკლეროზული ფოლაქის მოცილების შემდეგ შიგნითა საძილე არტერიის დისტალურ საზღვარზე ინტიმა თანაბრად არ თხელდება და რჩება საფეხურისებრი კიდე, რ"
-        },
         {
           "n": 138,
           "stem": "67 წლის მამაკაცს უეცრად განუვითარდა მარცხენა ხელის სისუსტე და მხედველობის მარცხენა ნახევრის დაკარგვა ორივე თვალში. MRI-ზე მარჯვენა თავის ტვინის შუა არტერიის აუზში და მარჯვენა კეფის წილში ახალი ემბოლიური ინფარქტებია."
@@ -516,6 +508,14 @@
         {
           "n": 165,
           "stem": "57 წლის ქალს სხვა მიზეზით ჩატარებულ CTA-ზე მარცხენა ხერხემლის არტერია საწყისი მონაკვეთიდან ქალასშიდა სეგმენტამდე თანაბრად წვრილი აქვს, თუმცა მთელ სიგრძეზე კონტრასტირდება. მარჯვენა ხერხემლის არტერია დომინანტურია და ფუძის "
+        },
+        {
+          "n": 166,
+          "stem": "69 წლის ქალს მარცხენა საძილე არტერიის ენდარტერექტომიიდან მეორე დღეს მარცხენა ქუთუთოს მსუბუქი დაშვება, გუგის შევიწროება და სახის მარცხენა ნახევარში ოფლიანობის შემცირება გამოუვლინდა. თვალის მოძრაობა, ენის გამოყოფა, ხმა და "
+        },
+        {
+          "n": 167,
+          "stem": "74 წლის ქალს ბოლო ორი დღის განმავლობაში ორჯერ განუვითარდა მარცხენა თვალში მხედველობის ხუთწუთიანი დაკარგვა, რომელიც სრულად ალაგდა. ამავე პერიოდში დაეწყო ძლიერი ტკივილი მარცხენა საფეთქლის არეში, თავის თმიანი ნაწილის მგრძნო"
         }
       ],
       "topic_rotation": "TIA/ინსულტი; NASCET; CTA/MRA/დუპლექსი; CEA/CAS/TCAR დრო და არჩევანი; ფოლაქის მორფოლოგია; ანტითრომბოციტული მკურნალობა; პერიოპერაციული გართულებები; რესტენოზი; ხერხემლის არტერიის სტენოზი/დისექცია და უკანა ცირკულაცია; ESVS 2023 და უფრო ახალი წყაროები.",
@@ -523,8 +523,8 @@
       "guideline_check": "კლინიკურად სადავო გადაწყვეტილებაზე ერთმნიშვნელოვანი პასუხი არ ააგო; პირველწყარო ESVS/SVS და შესაბამისი გაიდლაინები გადაამოწმე, როცა საჭიროა.",
       "last_validation": {
         "range": [
-          164,
-          165
+          166,
+          167
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -534,14 +534,14 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "დ": 1,
-          "ა": 1
+          "ე": 1,
+          "გ": 1
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed; ESVS 2023 recommendation 106 and vertebral hypoplasia imaging literature checked",
+        "clinical_self_review": "passed; cervical sympathetic injury after CEA (SVS surgical series, 2016); immediate systemic glucocorticoids for suspected GCA with visual ischemia (ACR/VF 2021, BSR 2020)",
         "georgian_language_self_review": "passed",
         "terminology_self_review": "passed (GLOSSARY.md)",
-        "semantic_duplication_review": "compared against all 163 existing stems, max word-overlap scores 0.253, 0.149, different clinical decisions",
+        "semantic_duplication_review": "compared with all 165 stored CAROTID_VERTEBRAL stems and last 28 full questions; max lexical overlap 0.211; distinct clinical decisions",
         "previous_text_unchanged": true,
         "index_precheck": "matched"
       }
