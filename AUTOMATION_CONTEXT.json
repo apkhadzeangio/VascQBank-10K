@@ -1396,19 +1396,11 @@
       "target": 650,
       "question_file": "VASCULAR_TRAUMA_questions.txt",
       "explanation_file": "VASCULAR_TRAUMA_explanations.txt",
-      "last_number": 44,
-      "question_blob_sha": "75b13a7bd2411dfd65d61498c7a2468715454446",
-      "explanation_blob_sha": "0dd37c741b309b848e0d8fec64074af001452f5a",
+      "last_number": 46,
+      "question_blob_sha": "4761140c9a7341d73d840147e27d96f777e300b5",
+      "explanation_blob_sha": "1586b6ccfa63966e3f82fffe0ab502588d38736e",
       "last_full_audit_at": 2,
       "recent_stems": [
-        {
-          "n": 15,
-          "stem": "41 წლის ქალს ავტოსაგზაო შემთხვევის შემდეგ მუცლის ბლაგვი ტრავმა აქვს. CTA-ზე ქვემო ღრუ ვენის თირკმლის ვენების ქვემოთ მდებარე მონაკვეთში მცირე კედლის დაზიანება და შემოსაზღვრული რეტროპერიტონეული ჰემატომა ვლინდება; კონტრასტუ"
-        },
-        {
-          "n": 16,
-          "stem": "35 წლის მამაკაცს რამდენიმე წლის წინ მარჯვენა თირკმელი ამოკვეთეს. ავტოსაგზაო შემთხვევიდან 90 წუთში ჩატარებულ CTA-ზე მარცხენა თირკმლის არტერიის პროქსიმალური მონაკვეთის ტრავმული ოკლუზია გამოვლინდა; თირკმლის პარენქიმის ნაწილ"
-        },
         {
           "n": 17,
           "stem": "36 წლის მამაკაცს კისრის მარცხენა მხარეს მიყენებული ნაჩხვლეტ-ნაკვეთი ჭრილობის შემდეგ კისრის ტკივილი აღენიშნება. CTA-ზე ხერხემლის მარცხენა არტერიის V2 მონაკვეთის ფსევდოანევრიზმა გამოვლინდა, რომელიც სამ დღეში განმეორებითი კ"
@@ -1520,6 +1512,14 @@
         {
           "n": 44,
           "stem": "29 წლის მამაკაცს ავტოსაგზაო შემთხვევის შემდეგ მარჯვენა წვივის მძიმე ღია მოტეხილობა, მუხლქვეშა არტერიის ტრავმული ოკლუზია და რბილი ქსოვილების ფართო დაზიანება აქვს. ტრავმიდან სამი საათია გასული, პაციენტის ჰემოდინამიკა სტაბი"
+        },
+        {
+          "n": 45,
+          "stem": "35 წლის მამაკაცს კისრის მარჯვენა მხარეს მიყენებული ნაჩხვლეტ-ნაკვეთი ჭრილობის გამო გადაუდებელი ქირურგიული რევიზია უტარდება. გამოვლინდა მარჯვენა შიგნითა საუღლე ვენის ვრცელი დაზიანება ძლიერი სისხლდენით; პაციენტი ჰემოდინამიკ"
+        },
+        {
+          "n": 46,
+          "stem": "39 წლის მამაკაცს მაღალი ენერგიის ავტოსაგზაო ტრავმის შემდეგ გულმკერდის აორტის ისთმუსის ფსევდოანევრიზმა დაუდგინდა, რომლის მკურნალობისთვის გადაუდებელი სტენტგრაფტის იმპლანტაცია გადაწყდა. საწყისი CTA მძიმე ჰიპოვოლემიური შოკის"
         }
       ],
       "topic_rotation": "ბლაგვი და შემავალი ტრავმა; სისხლძარღვის დაზიანების სარწმუნო და სავარაუდო ნიშნები; ჰემოდინამიკური სტაბილურობა; CTA და გადაუდებელი ოპერაცია; კისრის, გულმკერდის, მუცლის, მენჯისა და კიდურების სისხლძარღვები; სისხლდენის კონტროლი და დაზიანების კონტროლის ქირურგია; დროებითი ინტრავასკულური შუნტი; არტერიული/ვენური რეკონსტრუქცია; ენდოვასკულური ჩარევა; კომპარტმენტ-სინდრომი და ფასციოტომია; რეპერფუზია; იატროგენული ტრავმა; მეთვალყურეობა.",
@@ -1527,8 +1527,8 @@
       "guideline_check": "ESVS 2025 Clinical Practice Guidelines on the Management of Vascular Trauma (Wahlgren et al., EJVES 69:179–237), DOI 10.1016/j.ejvs.2024.12.018; ყურადღება მიაქციე რეკომენდაციებს 9, 19, 20, 82–86.",
       "last_validation": {
         "range": [
-          43,
-          44
+          45,
+          46
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1537,22 +1537,23 @@
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
-        "previous_text_unchanged": true,
-        "index_precheck": "stale index reconciled against complete current TXT",
-        "clinical_self_review": "ESVS 2025 recommendations 62, 87 and 88 and PROOVIT 2017 cohort",
+        "numeric_options_ascending": true,
+        "clinical_self_review": "ESVS 2025 recommendations 27 (I C) and 50 (IIa C); Bae & Jeon 2024 original TEVAR sizing cohort",
         "georgian_language_self_review": "passed",
-        "terminology_self_review": "GLOSSARY.md general and vascular trauma reviewed",
-        "semantic_duplication_review": "Compared both new stems and clinical decision points with all existing VASCULAR_TRAUMA questions",
+        "terminology_self_review": "GLOSSARY.md general and vascular trauma",
+        "semantic_duplication_review": "Compared with all 44 stored vascular trauma questions; two new distinct clinical decisions",
+        "previous_text_unchanged": true,
+        "index_precheck": "matched real TXT numbering and blob SHAs",
         "source_checks": [
           {
-            "question": 43,
-            "source": "ESVS 2025 Vascular Trauma Recommendation 62",
+            "question": 45,
+            "source": "ESVS 2025 Vascular Trauma Recommendation 27",
             "url": "https://doi.org/10.1016/j.ejvs.2024.12.018"
           },
           {
-            "question": 44,
-            "source": "ESVS 2025 Vascular Trauma Recommendations 87-88 and Loja et al. 2017 original PROOVIT study",
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5321791/"
+            "question": 46,
+            "source": "ESVS 2025 Recommendation 50; Bae and Jeon 2024",
+            "url": "https://doi.org/10.1177/15266028221134894"
           }
         ]
       }
