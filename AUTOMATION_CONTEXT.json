@@ -392,19 +392,11 @@
       "target": 900,
       "question_file": "CAROTID_VERTEBRAL_questions.txt",
       "explanation_file": "CAROTID_VERTEBRAL_explanations.txt",
-      "last_number": 167,
-      "question_blob_sha": "1bf96eba51b98b5857ede42d38052daedef7bb77",
-      "explanation_blob_sha": "b39cb6996ea7215c2ee9f8ac45f5d69d8cc161b6",
+      "last_number": 169,
+      "question_blob_sha": "7d0523d5d14a0e21f999d1f522b78ed7b8a7dc70",
+      "explanation_blob_sha": "694b2ec8e9a70517d0f3da472f134a6300fe0ddd",
       "last_full_audit_at": 150,
       "recent_stems": [
-        {
-          "n": 138,
-          "stem": "67 წლის მამაკაცს უეცრად განუვითარდა მარცხენა ხელის სისუსტე და მხედველობის მარცხენა ნახევრის დაკარგვა ორივე თვალში. MRI-ზე მარჯვენა თავის ტვინის შუა არტერიის აუზში და მარჯვენა კეფის წილში ახალი ემბოლიური ინფარქტებია."
-        },
-        {
-          "n": 139,
-          "stem": "70 წლის მამაკაცს მარჯვენა ხელის დატვირთვისას დაღლა და თავბრუსხვევა აწუხებს. მარჯვენა ხელზე სისტოლური წნევა მარცხენასთან შედარებით 35 mmHg-ით დაბალია. დუპლექსსკანირებით მარჯვენა საერთო საძილე არტერიაში შენელებული სის"
-        },
         {
           "n": 140,
           "stem": "59 წლის ქალს მარცხენა საძილე გორგლის სიმსივნის ამოკვეთიდან მეორე დღეს ყლაპვის მსუბუქი გაძნელება და ენის უკანა მესამედში გემოსა და შეხების შეგრძნების დაქვეითება აღენიშნება. ხახის მარცხენა კედელზე შეხებისას ღებინების რეფლე"
@@ -516,6 +508,14 @@
         {
           "n": 167,
           "stem": "74 წლის ქალს ბოლო ორი დღის განმავლობაში ორჯერ განუვითარდა მარცხენა თვალში მხედველობის ხუთწუთიანი დაკარგვა, რომელიც სრულად ალაგდა. ამავე პერიოდში დაეწყო ძლიერი ტკივილი მარცხენა საფეთქლის არეში, თავის თმიანი ნაწილის მგრძნო"
+        },
+        {
+          "n": 168,
+          "stem": "72 წლის მამაკაცს ოთხი დღის წინ მარცხენა ხელის სისუსტის გარდამავალი ეპიზოდი ჰქონდა; CTA-ზე მარჯვენა შიგნითა საძილე არტერიის 80%-იანი სტენოზია, დისტალური კოლაფსის გარეშე. აორტის რკალის მძიმე ათერომატოზის გამო გუნდი ტრანსკა"
+        },
+        {
+          "n": 169,
+          "stem": "65 წლის ქალს კისრის სისხლძარღვების სხვა მიზეზით ჩატარებულ დუპლექსსკანირებაზე მარცხენა ხერხემლის არტერიაში მუდმივი რეტროგრადული ნაკადი გამოუვლინდა. CTA-ზე მარცხენა ლავიწქვეშა არტერიის 90%-იანი ათეროსკლეროზული სტენოზია ხერ"
         }
       ],
       "topic_rotation": "TIA/ინსულტი; NASCET; CTA/MRA/დუპლექსი; CEA/CAS/TCAR დრო და არჩევანი; ფოლაქის მორფოლოგია; ანტითრომბოციტული მკურნალობა; პერიოპერაციული გართულებები; რესტენოზი; ხერხემლის არტერიის სტენოზი/დისექცია და უკანა ცირკულაცია; ESVS 2023 და უფრო ახალი წყაროები.",
@@ -523,8 +523,8 @@
       "guideline_check": "კლინიკურად სადავო გადაწყვეტილებაზე ერთმნიშვნელოვანი პასუხი არ ააგო; პირველწყარო ESVS/SVS და შესაბამისი გაიდლაინები გადაამოწმე, როცა საჭიროა.",
       "last_validation": {
         "range": [
-          166,
-          167
+          168,
+          169
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -534,16 +534,20 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ე": 1,
-          "გ": 1
+          "ა": 1,
+          "დ": 1
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed; cervical sympathetic injury after CEA (SVS surgical series, 2016); immediate systemic glucocorticoids for suspected GCA with visual ischemia (ACR/VF 2021, BSR 2020)",
+        "clinical_self_review": "passed; verified manufacturer ENROUTE indications and ESC 2024 upper-extremity disease guidance",
         "georgian_language_self_review": "passed",
         "terminology_self_review": "passed (GLOSSARY.md)",
-        "semantic_duplication_review": "compared with all 165 stored CAROTID_VERTEBRAL stems and last 28 full questions; max lexical overlap 0.211; distinct clinical decisions",
+        "semantic_duplication_review": "reviewed 167 prior stems and last 30 questions/explanations, max stem token overlap 0.247/0.277",
         "previous_text_unchanged": true,
-        "index_precheck": "matched"
+        "index_precheck": "matched",
+        "reference_notes": [
+          "TCAR ENROUTE IFU: minimum clavicle-to-bifurcation 5 cm; manufacturer Boston Scientific indications",
+          "ESC 2024 upper-extremity arterial disease: no routine revascularization for asymptomatic atherosclerotic subclavian stenosis"
+        ]
       }
     },
     "THORACIC_AORTA": {
