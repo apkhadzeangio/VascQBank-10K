@@ -38,6 +38,63 @@
           "reason": "არსებული ANATOMY_IMAGING #44-ის სემანტიკური გამეორება: tardus-parvus სპექტრით პროქსიმალური სტენოზის ამოცნობა"
         }
       ]
+    },
+    {
+      "drive_document_id": "1rnqZ34-9mPuhlGYuc-y_W99E66bq6gE_-JF8T6mskPg",
+      "source_url": "https://docs.google.com/document/d/1rnqZ34-9mPuhlGYuc-y_W99E66bq6gE_-JF8T6mskPg/edit",
+      "topic": "CAROTID_VERTEBRAL",
+      "status": "partial",
+      "entries": [
+        {
+          "source_number": 13,
+          "target_number": 174,
+          "status": "imported"
+        },
+        {
+          "source_number": 14,
+          "target_number": null,
+          "status": "skipped",
+          "reason": "სემანტიკური დუბლირება CAROTID_VERTEBRAL #25: სტენტირებით გამოწვეული კაროტიდული სინუსის ბარორეფლექსური ბრადიკარდია"
+        }
+      ]
+    },
+    {
+      "drive_document_id": "1sVqwxWt36aP3ovlOOk26-Vb-8ahbl8U0KhQInRW8CUQ",
+      "source_url": "https://docs.google.com/document/d/1sVqwxWt36aP3ovlOOk26-Vb-8ahbl8U0KhQInRW8CUQ/edit",
+      "topic": "VASCULAR_TRAUMA",
+      "status": "partial",
+      "entries": [
+        {
+          "source_number": 6,
+          "target_number": 42,
+          "status": "imported"
+        },
+        {
+          "source_number": 5,
+          "target_number": null,
+          "status": "skipped",
+          "reason": "განსამარტებელია CTA-ს შეზღუდვა საყლაპავის თანმხლები დაზიანების გამოსარიცხად; ზედმეტად კატეგორიული დიაგნოსტიკური მტკიცება"
+        }
+      ]
+    },
+    {
+      "drive_document_id": "1YCwwiSnGQhp0Xdb14f3sc3W8sBCJ7TqJGNLbOCEYhFQ",
+      "source_url": "https://docs.google.com/document/d/1YCwwiSnGQhp0Xdb14f3sc3W8sBCJ7TqJGNLbOCEYhFQ/edit",
+      "topic": "VGEI",
+      "status": "partial",
+      "entries": [
+        {
+          "source_number": 6,
+          "target_number": 62,
+          "status": "imported"
+        },
+        {
+          "source_number": 5,
+          "target_number": null,
+          "status": "skipped",
+          "reason": "უკვე დაფარული მიკრობიოლოგიური სინჯებისა და ბიოფილმის დიაგნოსტიკის თემა VGEI #46–47"
+        }
+      ]
     }
   ],
   "updated_at": "2026-11-17"
