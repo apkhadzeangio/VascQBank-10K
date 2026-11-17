@@ -1908,19 +1908,11 @@
       "target": 500,
       "question_file": "VGEI_questions.txt",
       "explanation_file": "VGEI_explanations.txt",
-      "last_number": 57,
-      "question_blob_sha": "4f39bb571c02a5e9b440b079c3ae4eb99bceab7c",
-      "explanation_blob_sha": "437c6bcaa4889e4f7641c62d9ccf1297d9ccfd0a",
+      "last_number": 59,
+      "question_blob_sha": "962422af1343705f2168600366220eb482b83ba2",
+      "explanation_blob_sha": "2da4bc10f456d11e886a0d36614f6de47cc07dfa",
       "last_full_audit_at": 50,
       "recent_stems": [
-        {
-          "n": 28,
-          "stem": "68 წლის მამაკაცს ბარძაყ-მუხლქვეშა სინთეზური შუნტირება უტარდება საზარდულის ღია მიდგომით. კანი ანტისეპტიკით დამუშავებულია; ქირურგიულმა გუნდმა ჭრილის გასწვრივ წებოვანი საოპერაციო ფირის გამოყენება გადაწყვიტა, იოდის მიმართ ალერგია არ აღენიშნება. NICE-ის რეკომენდაციით, რომელ ფირს უნდა მიენიჭოს უპირატესობა ოპერაციული მიდამოს ინფექციის რისკის შესამცირებლად?"
-        },
-        {
-          "n": 29,
-          "stem": "73 წლის ქალს აორტა-ორბარძაყის გეგმიური სინთეზური პროთეზირება უტარდება. ჭრილობა სუფთაა, პერიოპერაციული ანტიბიოტიკოპროფილაქტიკა ჩატარებულია და კანქვეშა ქსოვილების დასახურად ქირურგს ერთნაირი კალიბრისა და შთანთქმის თვისებების მქონე ნაკერის ძაფები აქვს, რომლებიც მხოლოდ ანტიმიკრობული საფარით განსხვავდება. WHO-ისა და NICE-ის რეკომენდაციების მიხედვით, რომელი საფარის მქონე ძაფის გამოყენების განხილვაა დასაბუთებული ოპერაციული მიდამოს ინფექციის რისკის შესამცირებლად?"
-        },
         {
           "n": 30,
           "stem": "66 წლის მამაკაცს, რომელსაც შაქრიანი დიაბეტი და სიმსუქნე აქვს, განმეორებითი საზარდულის მიდგომით ბარძაყ-მუხლქვეშა სინთეზური შუნტირება ჩაუტარდა. ჭრილობა პირველადი ნაკერებით დაიხურა; აქტიური ინფექცია, სისხლდენა და პროთეზის გაშიშვლება არ აღენიშნება, თუმცა წინა ოპერაციებისა და თანმხლები დაავადებების გამო ოპერაციული მიდამოს ინფექციის რისკი მაღალია. რომელი დამატებითი ადგილობრივი პროფილაქტიკური მეთოდის განხილვაა ყველაზე დასაბუთებული?"
@@ -2032,6 +2024,14 @@
         {
           "n": 57,
           "stem": "70 წლის ქალს ოთხი წლის წინ ჩადგმული აორტის პროთეზის ინფექცია დაუდასტურდა; ღრმა პერიპროთეზულ ქსოვილსა და ჰემოკულტურებში ოქროსფერი სტაფილოკოკი გამოვლინდა. მგრძნობელობის მიხედვით შერჩეული ანტიმიკრობული მკურნალობის დაწყებიდან 72 საათის შემდეგ აღებული განმეორებითი ჰემოკულტურები კვლავ დადებითია. ხარისხიან ტრანსთორაკალურ ექოკარდიოგრაფიაზე ვეგეტაცია არ ჩანს. რომელი კვლევაა უპირატესი თანმხლები ინფექციური ენდოკარდიტის გამოსარიცხად?"
+        },
+        {
+          "n": 58,
+          "stem": "68 წლის მამაკაცს აორტა-ორბარძაყის პროთეზირებიდან სამი წლის შემდეგ წელის ტკივილი დაეწყო. CTA-ზე პერიპროთეზული სითხე და მიმდებარე ქსოვილების ანთებითი ცვლილებები ჩანს; პაციენტი ჰემოდინამიკურად სტაბილურია, სეფსისისა და გადაუდებელი სისხლძარღვოვანი გართულების ნიშნები არ აქვს. სისხლის ბაქტერიოლოგიური გამოკვლევის (ჰემოკულტურის) ნიმუშები უკვე აღებულია, ხოლო პერიპროთეზული სითხის გამოსახულებითი კონტროლით პუნქცია მომდევნო დილით ჩატარდება. გამომწვევის გამოვლენის შესაძლებლობის შესანარჩუნებლად როდის უნდა დაიწყოს ანტიმიკრობული მკურნალობა?"
+        },
+        {
+          "n": 59,
+          "stem": "73 წლის ქალს აორტის სინთეზური პროთეზის ჩადგმიდან სამი წლის შემდეგ CTA-ზე პროთეზის ირგვლივ რბილი ქსოვილების არათანაბარი გასქელება გამოუვლინდა. პაციენტს ცხელება არ აქვს, ანთებითი მაჩვენებლები მცირედაა მომატებული და ჰემოკულტურები უარყოფითია; ანამნეზში IgG4-თან დაკავშირებული აუტოიმუნური პანკრეატიტი აღენიშნება. დაგეგმილია პერიპროთეზული ქსოვილის ბიოფსია და ინფექციის გარდა IgG4-თან დაკავშირებული დაავადებაც განიხილება. რომელი დამატებითი გამოკვლევაა ყველაზე მიზანშეწონილი ბიოფსიის მასალაზე არაინფექციური მიზეზის შესაფასებლად?"
         }
       ],
       "topic_rotation": "I №1–40 საფუძვლები და პრევენცია; II №41–80 მიკრობიოლოგია; III №81–130 დიაგნოზი; IV №131–190 გამოსახულებითი დიაგნოსტიკა; V №191–230 ანტიმიკრობული მკურნალობა; VI №231–300 ქირურგიული ტაქტიკა; VII №301–360 მასალები და ჭრილობა; VIII №361–410 ლოკალიზაციები; IX №411–460 გართულებები; X №461–500 შედეგები და მეთვალყურეობა.",
@@ -2039,8 +2039,8 @@
       "guideline_check": "ESVS 2026 VGEI guideline, doi:10.1016/j.ejvs.2026.05.035. For Coxiella chronic Q fever phase I IgG use CDC Q Fever Clinical and Laboratory Diagnosis; for interpreting repeated coagulase-negative staphylococci in deep tissue samples use VASGRA prospective study (2018).",
       "last_validation": {
         "range": [
-          56,
-          57
+          58,
+          59
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -2050,33 +2050,25 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: C. septicum vascular infection-colonic malignancy association; IDSA/ESCMID 2026 SAB consensus persistent positive cultures after negative TTE",
-        "terminology_self_review": "passed: current AGENTS.md and GLOSSARY.md general/VGEI",
-        "georgian_language_self_review": "passed: revised Georgian wording; balanced clinical distractors",
-        "semantic_duplication_review": "reviewed all 55 prior VGEI questions; distinct investigation decisions (occult colonic neoplasia and SAB endocarditis)",
+        "clinical_self_review": "passed: ESVS 2026 VGEI Recommendation 15 IIa C, Recommendation 20 IIb C",
+        "terminology_self_review": "passed: AGENTS.md and GLOSSARY.md general/VGEI",
+        "georgian_language_self_review": "passed: academic Georgian language",
+        "semantic_duplication_review": "checked all 57 previous VGEI stems, distinct decision targets",
         "previous_text_unchanged": true,
+        "index_precheck": "all existing numbering and SHA match",
         "source_checks": [
           {
             "questions": [
-              56
+              58
             ],
-            "source": "Alimi et al. 2017 Clostridium septicum in Vascular Surgery outcomes review; Upchurch et al. 1995 C. septicum bacteremia and aortic graft infection",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/28479472/",
-            "support": "https://pubmed.ncbi.nlm.nih.gov/7563411/"
+            "source": "ESVS 2026 VGEI clinical practice guideline recommendation 15 (class IIa, level C)",
+            "url": "https://doi.org/10.1016/j.ejvs.2026.05.035"
           },
           {
             "questions": [
-              57
+              59
             ],
-            "source": "IDSA/ESCMID 2026 Consensus Statement 4: TEE after negative TTE with persistent S. aureus bacteremia",
-            "url": "https://www.idsociety.org/practice-guideline/staphylococcus-aureus-bacteremia/"
-          },
-          {
-            "questions": [
-              56,
-              57
-            ],
-            "source": "ESVS 2026 VGEI guidelines overall context (without attribution of pathogen-specific recommendations)",
+            "source": "ESVS 2026 VGEI clinical practice guideline recommendation 20 (class IIb, level C)",
             "url": "https://doi.org/10.1016/j.ejvs.2026.05.035"
           }
         ]
