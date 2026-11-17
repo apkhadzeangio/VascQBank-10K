@@ -872,19 +872,11 @@
       "target": 1500,
       "question_file": "PAD_CLTI_questions.txt",
       "explanation_file": "PAD_CLTI_explanations.txt",
-      "last_number": 56,
-      "question_blob_sha": "397d3cf3275f2b505e05b0198e0536d8ff5b40ea",
-      "explanation_blob_sha": "6326b70c944150ab3d98919d1d4c65913d77e30e",
+      "last_number": 58,
+      "question_blob_sha": "28e60ff2175df3209e16c16a68be79e0849096d2",
+      "explanation_blob_sha": "e163ccf9bec95cea49a38a729f60fd193af41d8d",
       "last_full_audit_at": 50,
       "recent_stems": [
-        {
-          "n": 27,
-          "stem": "66 წლის ქალს შაქრიანი დიაბეტი და პერიფერიული არტერიული დაავადება აქვს. წვივის არტერიის წარმატებული რევასკულარიზაციიდან ექვსი კვირის შემდეგ ტერფის მეორე თითის ფუძესთან მდებარე ღრმა წყლული კვლავ შეუხორც"
-        },
-        {
-          "n": 28,
-          "stem": "69 წლის მამაკაცს შაქრიანი დიაბეტის ფონზე ტერფის წინა ნაწილის შეუხორცებელი წყლული და მოსვენების ძლიერი იშემიური ტკივილი აქვს; ტერფის პირველი თითის სისტოლური წნევა 16 mmHg-ია. წარსულში წვივის არტერიებზე"
-        },
         {
           "n": 29,
           "stem": "72 წლის მამაკაცს ორივე ტერფის მოსვენების იშემიური ტკივილი და მარცხენა პირველი თითის მშრალი ნეკროზი აღენიშნება. CTA-ზე აორტის ინფრარენალური სეგმენტისა და ორივე თეძოს საერთო არტერიის სრული ქრონიკული ოკლ"
@@ -996,6 +988,14 @@
         {
           "n": 56,
           "stem": "69 წლის ქალს ხანგამოშვებითი კოჭლობის გამო თეძოს საერთო არტერიის მოკლე სტენოზის სტენტირება უტარდება. თვითგაშლადი სტენტის იმპლანტაციის შემდეგ DSA-ზე მის შუა მონაკვეთში მნიშვნელოვანი ნარჩენი შევიწროება ჩ"
+        },
+        {
+          "n": 57,
+          "stem": "70 წლის ქალს ტერფის ზურგზე, პირველი და მეორე მეტატარსალური ძვლების შორის, რვა კვირის განმავლობაში შეუხორცებელი იშემიური წყლული აქვს. ტერფის პირველი თითის სისტოლური წნევაა 19 mmHg. DSA-ზე მუხლქვეშა არტ"
+        },
+        {
+          "n": 58,
+          "stem": "76 წლის მამაკაცს ტერფის წინა ნაწილის იშემიური წყლული და რამდენიმე თითის მშრალი განგრენა აქვს; პირველი თითის სისტოლური წნევა 18 mmHg-ია და WIfI-ის კლინიკური სტადია 4-ს შეესაბამება. DSA-ზე ბარძაყ-მუხლქვ"
         }
       ],
       "topic_rotation": "ABI/TBI და პერფუზია; Fontaine/Rutherford/WIfI/GLASS; ხანგამოშვებითი კოჭლობა და CLTI; დუპლექსი/CTA/MRA/DSA; ანტიაგრეგანტები/სტატინები/ვარჯიში; აორტა-თეძოს, ბარძაყ-მუხლქვეშა და წვივის სეგმენტები; ენდოვასკულური მკურნალობა/ავტოვენური შუნტირება; ჭრილობა/ინფექცია/ამპუტაცია/მეთვალყურეობა.",
@@ -1003,8 +1003,8 @@
       "guideline_check": "2024 ACC/AHA PAD guideline, 2024 ESVS asymptomatic PAD/intermittent claudication guideline და Global Vascular Guidelines CLTI; კლინიკური გადაწყვეტილება გადაამოწმე პირველწყაროებში.",
       "last_validation": {
         "range": [
-          55,
-          56
+          57,
+          58
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1014,24 +1014,33 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: checked intraprocedural distal thromboembolism and iliac stent underexpansion against clinical evidence",
+        "clinical_self_review": "passed — checked 2024 ACC/AHA PAD guideline and 2019 Global Vascular Guidelines",
         "georgian_language_self_review": "passed",
         "terminology_self_review": "passed (current GLOSSARY.md)",
-        "semantic_duplication_review": "Checked 54 existing PAD_CLTI full stems and last 30 complete questions; nearest Jaccard scores 0.200, 0.123",
+        "semantic_duplication_review": "compared 56 existing full stems, particularly latest 30; maximum lexical similarity 0.195, 0.250",
         "previous_text_unchanged": true,
         "index_precheck": "matched",
         "source_checks": [
           {
             "questions": [
-              55
+              57
             ],
-            "url": "https://pubmed.ncbi.nlm.nih.gov/32513076/"
+            "source": "2024 ACC/AHA PAD guideline, direct angiosome perfusion and tibial anatomy",
+            "url": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001251"
           },
           {
             "questions": [
-              56
+              58
             ],
-            "url": "https://pubmed.ncbi.nlm.nih.gov/10958297/"
+            "source": "2024 ACC/AHA PAD guideline Table 16, high surgical risk and absence of suitable autogenous vein",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/12728805/"
+          },
+          {
+            "questions": [
+              58
+            ],
+            "source": "2019 Global Vascular Guidelines, PLAN risk approach and conduit availability",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8369495/"
           }
         ]
       }
