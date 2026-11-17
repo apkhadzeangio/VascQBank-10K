@@ -1898,19 +1898,11 @@
       "target": 500,
       "question_file": "VGEI_questions.txt",
       "explanation_file": "VGEI_explanations.txt",
-      "last_number": 53,
-      "question_blob_sha": "ff066bccdb476977fcd93a364bde22accd24cd6c",
-      "explanation_blob_sha": "2250fd0539310d7f4f07e55b79d59140389b9a8b",
+      "last_number": 55,
+      "question_blob_sha": "36fdca64e60b72aa43097c79d160e2f4002d2617",
+      "explanation_blob_sha": "63a3ca5d86f49e29c8bf38f741b9ba435d62efd0",
       "last_full_audit_at": 50,
       "recent_stems": [
-        {
-          "n": 24,
-          "stem": "71 წლის ქალს ორი წლის წინ ჩადგმული ბარძაყ-მუხლქვეშა სინთეზური პროთეზის გვიანი, დუნედ მიმდინარე ინფექციის გამო პროთეზის სრული ექსპლანტაცია უტარდება. წინასაოპერაციოდ აღებული სისხლის ბაქტერიოლოგიური გამოკვლევები უარყოფითია "
-        },
-        {
-          "n": 25,
-          "stem": "67 წლის მამაკაცს შაქრიანი დიაბეტისა და საზარდულის მიდამოს მრავალჯერადი წინა ოპერაციების ფონზე სინთეზური პროთეზის ბარძაყის ანასტომოზის გეგმიური რეკონსტრუქცია უტარდება. ნაწიბუროვანი ცვლილებების გამო კანქვეშა ქსოვილი გათხელ"
-        },
         {
           "n": 26,
           "stem": "70 წლის მამაკაცს მუცლის აორტის ინფრარენალური ანევრიზმის ღია პროთეზირება უტარდება ბიფურკაციული სინთეზური პროთეზით. ანასტომოზების დასრულების შემდეგ თორმეტგოჯა ნაწლავის მესამე-მეოთხე მონაკვეთი უშუალოდ პროქსიმალური აორტული ნ"
@@ -2022,6 +2014,14 @@
         {
           "n": 53,
           "stem": "69 წლის ქალს ბარძაყ-მუხლქვეშა სინთეზური პროთეზის სტაფილოკოკური ინფექციის გამო ჭრილობის ქირურგიული დამუშავება ჩაუტარდა; ჭრილობა ჯერ ღიაა და განმეორებითი რევიზია იგეგმება. ღრმა ქსოვილის ბაქტერიოლოგიურ გამოკვლევაში რიფამპიცინისადმი მგრძნობიარე ოქროსფერი სტაფილოკოკი გამოვლინდა, სხვა მოქმედი სისტემური ანტიბიოტიკით მკურნალობა კი უკვე მიმდინარეობს. რომელი ტაქტიკაა ყველაზე დასაბუთებული რიფამპიცინისადმი შეძენილი რეზისტენტობის რისკის შესამცირებლად?"
+        },
+        {
+          "n": 54,
+          "stem": "68 წლის ქალს ბარძაყ-მუხლქვეშა სინთეზური პროთეზის ინფექციის გამო ჭრილობის ქირურგიული დამუშავება ჩაუტარდა და ღია ჭრილობის მკურნალობა უარყოფითი წნევით უტარდება. ორი დამოუკიდებელი ღრმა ქსოვილის ნიმუშიდან ოქროსფერი სტაფილოკოკი გამოვლინდა და მისი მგრძნობელობის შესაბამისად ანტიმიკრობული მკურნალობა მიმდინარეობს. მომდევნო სახვევის გამოცვლისას გამოყენებული ქაფის ნათესში ლურჯ-მწვანე ჩირქის ჩხირი გაიზარდა; პაციენტის მდგომარეობა არ გაუარესებულა. რომელია ყველაზე დასაბუთებული გადაწყვეტილება მხოლოდ ქაფის ნათესის შედეგის გათვალისწინებით?"
+        },
+        {
+          "n": 55,
+          "stem": "74 წლის მამაკაცს მუცლის აორტის ენდოპროთეზირებიდან ექვსი თვის შემდეგ განმეორებითი ცხელება და წელის ტკივილი განუვითარდა. CTA-ზე პერიპროთეზული აბსცესია; მისი პუნქციით მიღებული მასალის რუტინული აერობული და ანაერობული ნათესები უარყოფითია, ხოლო ქსოვილის მიკროსკოპიით გრანულომატოზური ანთება და მჟავაგამძლე ჩხირები გამოვლინდა. პაციენტი ჰემოდინამიკურად სტაბილურია და ახალი ღრმა ნიმუშის აღება შესაძლებელია. რომელი მიკრობიოლოგიური კვლევა უნდა შეირჩეს უპირველესად გამომწვევის იდენტიფიკაციისთვის?"
         }
       ],
       "topic_rotation": "I №1–40 საფუძვლები და პრევენცია; II №41–80 მიკრობიოლოგია; III №81–130 დიაგნოზი; IV №131–190 გამოსახულებითი დიაგნოსტიკა; V №191–230 ანტიმიკრობული მკურნალობა; VI №231–300 ქირურგიული ტაქტიკა; VII №301–360 მასალები და ჭრილობა; VIII №361–410 ლოკალიზაციები; IX №411–460 გართულებები; X №461–500 შედეგები და მეთვალყურეობა.",
@@ -2029,8 +2029,8 @@
       "guideline_check": "ESVS 2026 VGEI guideline, doi:10.1016/j.ejvs.2026.05.035. For Coxiella chronic Q fever phase I IgG use CDC Q Fever Clinical and Laboratory Diagnosis; for interpreting repeated coagulase-negative staphylococci in deep tissue samples use VASGRA prospective study (2018).",
       "last_validation": {
         "range": [
-          52,
-          53
+          54,
+          55
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -2040,40 +2040,34 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed — clinically distinguished polymicrobial enteric flora/aortoenteric fistula and open-wound rifampicin-resistance risk; sources verified",
-        "terminology_self_review": "passed — AGENTS.md, GENERAL and VGEI GLOSSARY.md",
-        "georgian_language_self_review": "passed — refined academic Georgian and parallel clinical distractors",
-        "semantic_duplication_review": "all 51 preceding VGEI question stems compared; distinct microbiological decisions",
+        "clinical_self_review": "passed: primary ESVS 2020 Recommendation 4 and Scherrer 2016; CDC NTM testing and case report",
+        "terminology_self_review": "passed (GLOSSARY.md GENERAL/VGEI)",
+        "georgian_language_self_review": "passed (academic Georgian)",
+        "semantic_duplication_review": "All 53 stored questions reviewed; NPWT foam culture reliability and AFB-targeted microbiology are distinct decisions",
         "previous_text_unchanged": true,
-        "index_precheck": "matched actual sequence and Git blob SHA",
         "source_checks": [
           {
             "questions": [
-              52
+              54
             ],
-            "source": "Azad & Patel, Clinical Microbiology Reviews 2024, microbiologic diagnosis of implant-associated infections, section on vascular graft infections",
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11237642/"
+            "source": "ESVS 2020 VGEI Recommendation 4; Scherrer et al. J Clin Microbiol 2016",
+            "url": "https://angiolsurgery.org/society/organisations/esvs/guidelines/ESVS-Guidelines-VGEI-2020.pdf",
+            "support": "https://doi.org/10.1128/JCM.01102-16"
           },
           {
             "questions": [
-              52
+              55
             ],
-            "source": "Bacteriological implications in the pathogenesis of secondary aortoenteric fistulas (Br J Surg 1982)",
-            "url": "https://academic.oup.com/bjs/article-abstract/69/9/545/6185934"
+            "source": "CDC NTM Clinical Overview; Mycobacterium abscessus aortic endograft case 2023",
+            "url": "https://www.cdc.gov/nontuberculous-mycobacteria/hcp/clinical-overview/",
+            "support": "https://doi.org/10.1186/s12879-023-08702-1"
           },
           {
             "questions": [
-              53
+              54,
+              55
             ],
-            "source": "Leung et al. 2021, Open wounds and rifampicin therapy are associated with rifampicin resistance among staphylococcal vascular graft/endograft infections",
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8209986/"
-          },
-          {
-            "questions": [
-              52,
-              53
-            ],
-            "source": "ESVS 2026 Guidelines on the Management of VGEI (overall framework)",
+            "source": "ESVS 2026 current VGEI guidelines overall context",
             "url": "https://doi.org/10.1016/j.ejvs.2026.05.035"
           }
         ]
