@@ -1389,19 +1389,11 @@
       "target": 650,
       "question_file": "VASCULAR_TRAUMA_questions.txt",
       "explanation_file": "VASCULAR_TRAUMA_explanations.txt",
-      "last_number": 37,
-      "question_blob_sha": "07a383e307f5cdc213f938fdfe128624cd0a5d12",
-      "explanation_blob_sha": "730665128f79023e679383797c3999d097ee9a68",
+      "last_number": 39,
+      "question_blob_sha": "842619937f46ecc4b32972be1400fe660b70a7ee",
+      "explanation_blob_sha": "e6b06b7ea919cc7600f48be7c83991bea1fea454",
       "last_full_audit_at": 2,
       "recent_stems": [
-        {
-          "n": 8,
-          "stem": "52 წლის მამაკაცს მაღალი ენერგიის ავტოსაგზაო ტრავმის შემდეგ CTA-ზე გულმკერდის აორტის ისთმუსის ფსევდოანევრიზმა გამოუვლინდა, აორტის გარე კონტურის დარღვევითა და შუასაყრის დიდი ჰემატომი"
-        },
-        {
-          "n": 9,
-          "stem": "45 წლის მამაკაცს ლავიწის მოტეხილობის შემდეგ მარცხენა ლავიწქვეშა არტერიის ფსევდოანევრიზმა გამოუვლინდა. 24 საათში განმეორებით CTA-ზე ფსევდოანევრიზმა გაზრდილია; პაციენტი ჰემოდინამიკურ"
-        },
         {
           "n": 10,
           "stem": "33 წლის მამაკაცს წინამხრის ქვედა მესამედში მიყენებული ნაჩხვლეტ-ნაკვეთი ჭრილობით იდაყვის არტერია სრულად გადაეკვეთა. ოპერაციის დროს სისხლდენა კონტროლდება, თუმცა დაზიანებული მონაკვეთი"
@@ -1513,6 +1505,14 @@
         {
           "n": 37,
           "stem": "64 წლის ქალს კორონარული ანგიოგრაფიიდან მე-3 დღეს მარჯვენა საზარდულში გაუჩნდა მტკივნეული პულსირებადი წარმონაქმნი (5,6 სმ), რომლის ზემოთ კანი ციანოზური და ნეკროზულია, ხოლო ბარძაყის წინა ზედაპირზე აღინიშნება მწვავე პარესთეზ"
+        },
+        {
+          "n": 38,
+          "stem": "41 წლის მამაკაცს ავტოსაგზაო შემთხვევის შემდეგ CTA-ზე მარცხენა ხერხემლის არტერიის V2 მონაკვეთის სრული ტრავმული ოკლუზია დაუდგინდა. უკანა ცირკულაციის არტერიები კონტრალატერალური ხერხემლის არტერიიდან კარგად ივსება; პაციენტს ნევროლოგიური დეფიციტი,"
+        },
+        {
+          "n": 39,
+          "stem": "36 წლის მამაკაცს მუხლის მიდამოში ბლაგვი ტრავმის შემდეგ ტერფის არტერიებზე პულსი ორივე მხარეს ესინჯება, თუმცა დაზიანებულ კიდურზე კაპილარული შევსება გახანგრძლივებულია, ტერფი მეორე მხარესთან შედარებით ცივია და მგრძნობელობა დაქვეითებულია. ჰემოდინ"
         }
       ],
       "topic_rotation": "ბლაგვი და შემავალი ტრავმა; სისხლძარღვის დაზიანების სარწმუნო და სავარაუდო ნიშნები; ჰემოდინამიკური სტაბილურობა; CTA და გადაუდებელი ოპერაცია; კისრის, გულმკერდის, მუცლის, მენჯისა და კიდურების სისხლძარღვები; სისხლდენის კონტროლი და დაზიანების კონტროლის ქირურგია; დროებითი ინტრავასკულური შუნტი; არტერიული/ვენური რეკონსტრუქცია; ენდოვასკულური ჩარევა; კომპარტმენტ-სინდრომი და ფასციოტომია; რეპერფუზია; იატროგენული ტრავმა; მეთვალყურეობა.",
@@ -1520,30 +1520,20 @@
       "guideline_check": "ESVS 2025 Clinical Practice Guidelines on the Management of Vascular Trauma (Wahlgren et al., EJVES 69:179–237), DOI 10.1016/j.ejvs.2024.12.018; ყურადღება მიაქციე რეკომენდაციებს 9, 19, 20, 82–86.",
       "last_validation": {
         "range": [
-          28,
-          37
+          38,
+          39
         ],
-        "new_questions": 10,
-        "new_explanations": 10,
+        "new_questions": 2,
+        "new_explanations": 2,
         "numbering_continuous": true,
         "five_options_each": true,
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
-        "answer_distribution": {
-          "ა": 2,
-          "ბ": 2,
-          "გ": 2,
-          "დ": 2,
-          "ე": 2
-        },
-        "numeric_options_ascending": true,
-        "clinical_self_review": "passed",
-        "georgian_language_self_review": "passed",
-        "terminology_self_review": "passed (GLOSSARY.md)",
-        "semantic_duplication_review": "checked all 27 stored VASCULAR_TRAUMA questions and cross-topic stems",
         "previous_text_unchanged": true,
-        "index_precheck": "matched"
+        "clinical_self_review": "ESVS 2025 table 8 and recommendation 84",
+        "terminology_self_review": "GLOSSARY.md",
+        "semantic_duplication_review": "37 existing questions reviewed"
       }
     },
     "ANATOMY_IMAGING": {
