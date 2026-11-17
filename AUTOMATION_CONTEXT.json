@@ -392,19 +392,11 @@
       "target": 900,
       "question_file": "CAROTID_VERTEBRAL_questions.txt",
       "explanation_file": "CAROTID_VERTEBRAL_explanations.txt",
-      "last_number": 176,
-      "question_blob_sha": "cd6be76d44ab012e892bec4c6ac186f00e754872",
-      "explanation_blob_sha": "395e52598a206fea553436f116b26cccebef6282",
+      "last_number": 178,
+      "question_blob_sha": "37ae9b17ee75b72e7b59c9e2914bf4bc5c51c9a3",
+      "explanation_blob_sha": "4f1a9be9df64fa23d672a4e97a49a6afaf12db56",
       "last_full_audit_at": 176,
       "recent_stems": [
-        {
-          "n": 147,
-          "stem": "საძილე არტერიის კლასიკური ენდარტერექტომიისას მკერდ-ლავიწ-დვრილისებრი კუნთის წინა კიდის გასწვრივ განაკვეთისა და კუნთის ლატერალურად გადაწევის შემდეგ ქირურგი ხვდება მსხვილ ვენურ შენაკადს, რომელიც წინიდან განივად გადაკვეთს საძილე არტერიის ბიფურ"
-        },
-        {
-          "n": 148,
-          "stem": "49 წლის პაციენტს უტარდება შამბლინის II ტიპის საძილე გორგლის პარაგანგლიომის ქირურგიული ამოკვეთა. არტერიის კედლის მთლიანობის შესანარჩუნებლად და ინტრაოპერაციული სისხლის დანაკარგის შესამცირებლად არტერიის რომელ შრეში სრულდება სიმსივნის პრეპარირე"
-        },
         {
           "n": 149,
           "stem": "71 წლის მამაკაცს ზოგადი ანესთეზიით უტარდება მარჯვენა საძილე არტერიის ენდარტერექტომია უწყვეტი ინტრაოპერაციული ტრანსკრანიალური დოპლეროგრაფიის (TCD) მონიტორინგით. საძილე არტერიაზე დამჭერის დადებისთანავე რომელი დოპლეროგრაფიული ცვლილება მიუთითებ"
@@ -516,6 +508,14 @@
         {
           "n": 176,
           "stem": "67 წლის მამაკაცს ხუთი დღის წინ გადატანილი გარდამავალი იშემიური შეტევის შემდეგ მარცხენა შიგნითა საძილე არტერიის 85%-იანი სტენოზის გამო ენდარტერექტომია უგეგმავენ. წინა ჰოსპიტალიზაციისას ჰეპარინით გამოწვეული თრომბოციტოპენია დაუდასტურდა; თრომბო"
+        },
+        {
+          "n": 177,
+          "stem": "70 წლის მამაკაცს მარცხენა შიგნითა საძილე არტერიის სტენტირებიდან ექვს საათში უეცრად განუვითარდა აფაზია და მარჯვენამხრივი ჰემიპარეზი (NIHSS 14). გადაუდებელ CT-ზე სისხლჩაქცევა არ ჩანს, CTA-ზე ახლად ჩადგმული სტენტი თრომბითაა დახშული, ხოლო თავის"
+        },
+        {
+          "n": 178,
+          "stem": "66 წლის ქალს მარცხენა კაროტიდული ენდარტერექტომიის დროს მაღალი ბიფურკაციის გამოსაყოფად კისრის ზედა ნაწილის ფართო მობილიზაცია დასჭირდა. ოპერაციის შემდეგ მარცხენა მხარი დაშვებული აქვს, მხრის აწევა უჭირს და გასინჯვით ტრაპეციული კუნთის ძალა დაქვ"
         }
       ],
       "topic_rotation": "TIA/ინსულტი; NASCET; CTA/MRA/დუპლექსი; CEA/CAS/TCAR დრო და არჩევანი; ფოლაქის მორფოლოგია; ანტითრომბოციტული მკურნალობა; პერიოპერაციული გართულებები; რესტენოზი; ხერხემლის არტერიის სტენოზი/დისექცია და უკანა ცირკულაცია; ESVS 2023 და უფრო ახალი წყაროები.",
@@ -523,8 +523,8 @@
       "guideline_check": "კლინიკურად სადავო გადაწყვეტილებაზე ერთმნიშვნელოვანი პასუხი არ ააგო; პირველწყარო ESVS/SVS და შესაბამისი გაიდლაინები გადაამოწმე, როცა საჭიროა.",
       "last_validation": {
         "range": [
-          175,
-          176
+          177,
+          178
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -535,25 +535,18 @@
         "two_sentences_each": true,
         "numeric_options_ascending": true,
         "answer_distribution": {
-          "დ": 1,
-          "ბ": 1
+          "ე": 1,
+          "ა": 1
         },
-        "clinical_self_review": "passed: carotid stump syndrome embolic mechanism; heparin-induced thrombocytopenia and direct thrombin inhibition",
+        "clinical_self_review": "passed: symptomatic acute carotid stent thrombosis requires urgent perfusion restoration evaluation; spinal accessory nerve palsy after high cervical exposure",
         "georgian_language_self_review": "passed",
         "terminology_self_review": "passed (AGENTS.md and GLOSSARY.md)",
-        "semantic_duplication_review": "full stem and structural audit 1-174 due to stale indexed TXT SHAs; recent 30 and all previous stems reviewed",
-        "inherited_format_findings": {
-          "nonstandard_answer_spacing_in_existing_questions": [
-            174
-          ]
-        },
+        "semantic_duplication_review": "all 1-176 question stems inspected; no same clinical decision found",
         "previous_text_unchanged": true,
-        "index_precheck": "stale SHA and last_number reconciled against authoritative TXT",
+        "index_precheck": "verified current blob SHA and last_number against full TXT",
         "reference_notes": [
-          "https://pubmed.ncbi.nlm.nih.gov/7277002/",
-          "https://www.cambridge.org/core/journals/canadian-journal-of-neurological-sciences/article/mechanisms-for-recurrent-strokes-in-the-territory-of-an-internal-carotid-artery-occlusion/290D3C56BE9EF027CB0C85617264680A",
-          "https://pubmed.ncbi.nlm.nih.gov/16449539/",
-          "https://pmc.ncbi.nlm.nih.gov/articles/PMC6258919/"
+          "https://www.heljves.com/vol_5_issue_4_2023-132_138/",
+          "https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2023.1277366/full"
         ]
       }
     },
