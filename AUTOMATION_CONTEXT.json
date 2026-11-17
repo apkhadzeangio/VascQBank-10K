@@ -1218,19 +1218,11 @@
       "target": 600,
       "question_file": "MESENTERIC_RENAL_questions.txt",
       "explanation_file": "MESENTERIC_RENAL_explanations.txt",
-      "last_number": 49,
-      "question_blob_sha": "bf7a1b8d0ed70174ded41bf913dd04c0b223a74c",
-      "explanation_blob_sha": "d2d0846be709de63e5f3fff51a6f0e1a2b54cb66",
-      "last_full_audit_at": 2,
+      "last_number": 51,
+      "question_blob_sha": "ecea82bb57a402934bb5bb89f240ce229dc3f496",
+      "explanation_blob_sha": "c0b7115887ae99c78fc343e9e75451274c5ad8b9",
+      "last_full_audit_at": 50,
       "recent_stems": [
-        {
-          "n": 20,
-          "stem": "58 წლის ქალს სამი ანტიჰიპერტენზიული პრეპარატის, მათ შორის შარდმდენის, მიღების მიუხედავად არტერიული წნევა 175/100 mmHg აქვს. თირკმლის არტერიების დუპლექსსკანირებით ნაწლავური აირების გამო სათავეების საიმედო შეფასება ვერ მოხ"
-        },
-        {
-          "n": 21,
-          "stem": "31 წლის ქალს რვა თვეა ჭამის შემდეგ ეპიგასტრიუმის ძლიერი ტკივილი და საკვების მიღების შიში აწუხებს, რის გამოც 8 კგ დაიკლო. ენდოსკოპიური, ლაბორატორიული და რადიოლოგიური კვლევებით კუჭ-ნაწლავისა და სანაღვლე გზების პათოლოგია გა"
-        },
         {
           "n": 22,
           "stem": "57 წლის უსიმპტომო მამაკაცს ნაღვლის ბუშტის კენჭოვანი დაავადების გამო ჩატარებულ CTA-ზე შემთხვევით გამოუვლინდა პანკრეატოდუოდენური არტერიული რკალის 16 მმ დიამეტრის ჭეშმარიტი ანევრიზმა. ფაშვის ღერო, ღვიძლის საერთო არტერია და "
@@ -1342,6 +1334,14 @@
         {
           "n": 49,
           "stem": "70 წლის ქალს CTA-ით ორივე თირკმლის არტერიის სათავეში 75–80%-იანი ათეროსკლეროზული სტენოზი დაუდასტურდა. ამლოდიპინისა და ინდაპამიდის მიღების მიუხედავად არტერიული წნევა 158/94 mmHg-ია; გლომერულური ფილტრაციის სავარაუდო სიჩქარ"
+        },
+        {
+          "n": 50,
+          "stem": "72 წლის ქალს რვა თვის წინ ქრონიკული მეზენტერიული იშემიის გამო ჯორჯლის ზემო არტერიის სათავის სტენტირება ჩაუტარდა. ჭამის შემდეგ განვითარებული ტკივილი გაუქრა, წონა აღიდგინა და გაწერისას დუპლექსსკანირებით"
+        },
+        {
+          "n": 51,
+          "stem": "67 წლის ქალს ოთხი ანტიჰიპერტენზიული პრეპარატის მიუხედავად არტერიული წნევა 174/98 mmHg აქვს, ხოლო გლომერულური ფილტრაციის სავარაუდო სიჩქარე 24 მლ/წთ/1,73 მ²-ია. თირკმლის არტერიის სათავის სტენოზის ხარისხ"
         }
       ],
       "topic_rotation": "მეზენტერიული და თირკმლის პათოლოგიების მონაცვლეობა; მწვავე მეზენტერიული იშემიის ემბოლია/თრომბოზი/NOMI/MVT; ქრონიკული მეზენტერიული იშემია; CTA/DSA/დუპლექსსკანირება; ენდოვასკულური და ღია რევასკულარიზაცია; ნაწლავის სიცოცხლისუნარიანობა და განმეორებითი ლაპაროტომია; თირკმლის არტერიის ათეროსკლეროზული სტენოზი/FMD; რენოვასკულური ჰიპერტენზია; რევასკულარიზაციის ჩვენებები და უარყოფა; ანევრიზმა/დისექცია; მკურნალობისშემდგომი მეთვალყურეობა.",
@@ -1349,8 +1349,8 @@
       "guideline_check": "ESVS 2025 Mesenteric and Renal Arteries and Veins (რეკომენდაციები 33 და 63), ESC 2024 PAAD. მწვავე მეზენტერიული იშემიის ეჭვისას გადაუდებელი CTA თირკმლის ფუნქციის დაქვეითების მიუხედავად; კონტროლირებადი ჰიპერტენზიისა და სტაბილური თირკმლის ფუნქციისას თირკმლის ათეროსკლეროზული სტენოზის რუტინული სტენტირება არ არის გამართლებული.",
       "last_validation": {
         "range": [
-          48,
-          49
+          50,
+          51
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1360,32 +1360,26 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "numeric_options_ascending": true,
-        "answer_distribution": {
-          "ბ": 10,
-          "დ": 10,
-          "ა": 9,
-          "ე": 10,
-          "გ": 10
-        },
-        "clinical_self_review": "passed - ESVS 2025 Recommendations 77, 78, 84 and 62",
-        "georgian_language_self_review": "passed - academic Georgian",
-        "terminology_self_review": "passed - AGENTS.md and GLOSSARY.md General/Mesenteric-Renal",
-        "semantic_duplication_review": "compared all 47 full stems and new stems; distinct hepatic true aneurysm covered stent and cautious RAAS blockade in bilateral RAS",
+        "clinical_self_review": "passed: ESVS 2025 recommendation 21 (first-year clinical and imaging follow-up) and recommendation 58 (CEUS if inconclusive DUS/CTA-MRA contraindicated)",
+        "georgian_language_self_review": "passed",
+        "terminology_self_review": "passed (GLOSSARY.md)",
+        "semantic_duplication_review": "full comparison of all 49 existing questions including pairwise lexical audit; no exact or near duplicate with new decisions",
+        "full_audit_at": 50,
         "previous_text_unchanged": true,
         "index_precheck": "matched",
         "source_checks": [
           {
             "questions": [
-              48
+              50
             ],
-            "source": "ESVS 2025 Mesenteric and Renal Arteries and Veins, recommendations 77, 78, 84",
+            "source": "ESVS 2025 mesenteric and renal guidelines recommendation 21",
             "url": "https://doi.org/10.1016/j.ejvs.2025.06.010"
           },
           {
             "questions": [
-              49
+              51
             ],
-            "source": "ESVS 2025 Mesenteric and Renal Arteries and Veins, recommendation 62",
+            "source": "ESVS 2025 mesenteric and renal guidelines recommendation 58",
             "url": "https://doi.org/10.1016/j.ejvs.2025.06.010"
           }
         ]
