@@ -1220,19 +1220,11 @@
       "target": 600,
       "question_file": "MESENTERIC_RENAL_questions.txt",
       "explanation_file": "MESENTERIC_RENAL_explanations.txt",
-      "last_number": 51,
-      "question_blob_sha": "ecea82bb57a402934bb5bb89f240ce229dc3f496",
-      "explanation_blob_sha": "c0b7115887ae99c78fc343e9e75451274c5ad8b9",
+      "last_number": 53,
+      "question_blob_sha": "1179c86edcfb6b1c139721bf1f8203fc791ec49d",
+      "explanation_blob_sha": "06aa61bf59ce00239fec60e2243f1c014f4f32d7",
       "last_full_audit_at": 50,
       "recent_stems": [
-        {
-          "n": 22,
-          "stem": "57 წლის უსიმპტომო მამაკაცს ნაღვლის ბუშტის კენჭოვანი დაავადების გამო ჩატარებულ CTA-ზე შემთხვევით გამოუვლინდა პანკრეატოდუოდენური არტერიული რკალის 16 მმ დიამეტრის ჭეშმარიტი ანევრიზმა. ფაშვის ღერო, ღვიძლის საერთო არტერია და "
-        },
-        {
-          "n": 23,
-          "stem": "26 წლის ქალს ორ წელზე მეტია აწუხებს მარცხენა წელის მიდამოს ძლიერი ტკივილი და განმეორებითი მაკროჰემატურია პოსტჰემორაგიული ანემიით, რაც კონსერვატიულ მკურნალობას არ დაემორჩილა. CTA-ითა და სელექტიური ფლებოგრაფიით დადასტურდა "
-        },
         {
           "n": 24,
           "stem": "69 წლის მამაკაცს მუცლის აორტის ინფრარენალური ანევრიზმის ღია ქირურგიული პროთეზირების წინასაოპერაციო CTA-ზე გამოუვლინდა ჯორჯლის ზემო არტერიის სათავის ქრონიკული ოკლუზია, მაშინ როდესაც ჯორჯლის ქვემო არტერია მკვეთრად გაფართოე"
@@ -1344,6 +1336,14 @@
         {
           "n": 51,
           "stem": "67 წლის ქალს ოთხი ანტიჰიპერტენზიული პრეპარატის მიუხედავად არტერიული წნევა 174/98 mmHg აქვს, ხოლო გლომერულური ფილტრაციის სავარაუდო სიჩქარე 24 მლ/წთ/1,73 მ²-ია. თირკმლის არტერიის სათავის სტენოზის ხარისხ"
+        },
+        {
+          "n": 52,
+          "stem": "64 წლის ქალს ქრონიკული მეზენტერიული იშემიის გამო ჯორჯლის ზემო არტერიის ენდოვასკულური მკურნალობა ესაჭიროება. CTA-ზე არტერიის პროქსიმალურ მონაკვეთში 38 მმ სიგრძის მძიმე ათეროსკლეროზული სტენოზია; სტენტის დისტალური ფიქსაციის"
+        },
+        {
+          "n": 53,
+          "stem": "74 წლის მამაკაცს ათი წლის წინ მარცხენამხრივი ნეფრექტომია ჩაუტარდა. ბოლო ექვს თვეში, არტერიული წნევის სათანადო მედიკამენტური კონტროლის მიუხედავად, გლომერულური ფილტრაციის სავარაუდო სიჩქარე 58-დან 27 მლ/წთ/1,73 მ²-მდე შემცი"
         }
       ],
       "topic_rotation": "მეზენტერიული და თირკმლის პათოლოგიების მონაცვლეობა; მწვავე მეზენტერიული იშემიის ემბოლია/თრომბოზი/NOMI/MVT; ქრონიკული მეზენტერიული იშემია; CTA/DSA/დუპლექსსკანირება; ენდოვასკულური და ღია რევასკულარიზაცია; ნაწლავის სიცოცხლისუნარიანობა და განმეორებითი ლაპაროტომია; თირკმლის არტერიის ათეროსკლეროზული სტენოზი/FMD; რენოვასკულური ჰიპერტენზია; რევასკულარიზაციის ჩვენებები და უარყოფა; ანევრიზმა/დისექცია; მკურნალობისშემდგომი მეთვალყურეობა.",
@@ -1351,8 +1351,8 @@
       "guideline_check": "ESVS 2025 Mesenteric and Renal Arteries and Veins (რეკომენდაციები 33 და 63), ESC 2024 PAAD. მწვავე მეზენტერიული იშემიის ეჭვისას გადაუდებელი CTA თირკმლის ფუნქციის დაქვეითების მიუხედავად; კონტროლირებადი ჰიპერტენზიისა და სტაბილური თირკმლის ფუნქციისას თირკმლის ათეროსკლეროზული სტენოზის რუტინული სტენტირება არ არის გამართლებული.",
       "last_validation": {
         "range": [
-          50,
-          51
+          52,
+          53
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1362,26 +1362,25 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: ESVS 2025 recommendation 21 (first-year clinical and imaging follow-up) and recommendation 58 (CEUS if inconclusive DUS/CTA-MRA contraindicated)",
+        "clinical_self_review": "passed: ESVS 2025 Recommendations 17 and 67 (IIb/C); long SMA lesion with important branch; solitary functioning kidney severe loss of eGFR with preserved parenchyma",
         "georgian_language_self_review": "passed",
-        "terminology_self_review": "passed (GLOSSARY.md)",
-        "semantic_duplication_review": "full comparison of all 49 existing questions including pairwise lexical audit; no exact or near duplicate with new decisions",
-        "full_audit_at": 50,
+        "terminology_self_review": "passed: current GLOSSARY.md general and mesenteric/renal sections",
+        "semantic_duplication_review": "Compared 51 stored case stems and clinical decisions: distinct from #11 short SMA lesion with covered stent; #33 renal revascularisation with flash pulmonary oedema; #39 resistant hypertension",
         "previous_text_unchanged": true,
         "index_precheck": "matched",
         "source_checks": [
           {
             "questions": [
-              50
+              52
             ],
-            "source": "ESVS 2025 mesenteric and renal guidelines recommendation 21",
+            "source": "ESVS 2025 Mesenteric and Renal Arteries and Veins, Recommendation 17",
             "url": "https://doi.org/10.1016/j.ejvs.2025.06.010"
           },
           {
             "questions": [
-              51
+              53
             ],
-            "source": "ESVS 2025 mesenteric and renal guidelines recommendation 58",
+            "source": "ESVS 2025 Mesenteric and Renal Arteries and Veins, Recommendation 67",
             "url": "https://doi.org/10.1016/j.ejvs.2025.06.010"
           }
         ]
