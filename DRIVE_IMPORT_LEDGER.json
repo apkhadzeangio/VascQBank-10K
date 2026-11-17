@@ -95,6 +95,26 @@
           "reason": "უკვე დაფარული მიკრობიოლოგიური სინჯებისა და ბიოფილმის დიაგნოსტიკის თემა VGEI #46–47"
         }
       ]
+    },
+    {
+      "drive_document_id": "1yBtz1aJSf2EkH7_afLvQleX1UwwLkRcs2eXo-FKQ3uM",
+      "topic": "PERIOPERATIVE",
+      "source_url": "https://docs.google.com/document/d/1yBtz1aJSf2EkH7_afLvQleX1UwwLkRcs2eXo-FKQ3uM/edit",
+      "status": "skipped",
+      "entries": [
+        {
+          "source_number": 3,
+          "target_number": null,
+          "status": "skipped",
+          "reason": "სემანტიკური დუბლიკატი PERIOPERATIVE #24: მაღალი სისხლდენის რისკის ოპერაციის წინ აპიქსაბანის 48 საათით შეწყვეტა ბრიჯინგის გარეშე"
+        },
+        {
+          "source_number": 4,
+          "target_number": null,
+          "status": "skipped",
+          "reason": "ძირითადი კლინიკური გადაწყვეტილება უკვე დაფარულია PERIOPERATIVE #30-ით (სტაბილური კორონარული დაავადებისას პროფილაქტიკური რევასკულარიზაციის არჩატარება); დამატებითი ბეტა-ბლოკატორის კომპონენტი დამოუკიდებელ უნიკალურ კითხვად არ არის წარმოდგენილი"
+        }
+      ]
     }
   ],
   "updated_at": "2026-11-17"
