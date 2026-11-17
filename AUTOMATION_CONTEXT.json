@@ -1389,19 +1389,11 @@
       "target": 650,
       "question_file": "VASCULAR_TRAUMA_questions.txt",
       "explanation_file": "VASCULAR_TRAUMA_explanations.txt",
-      "last_number": 52,
-      "question_blob_sha": "b96abdc258505c89bce7bba3dee460f157208f56",
-      "explanation_blob_sha": "6c101ec276091a177ba7566e6a05e510b7bbcc6e",
+      "last_number": 54,
+      "question_blob_sha": "58d33127a8044eeb30d4ed1bd76c6edcbe4069f8",
+      "explanation_blob_sha": "e6a98d2941931bbbd5c9c1dd01b5b55ca038ba7f",
       "last_full_audit_at": 50,
       "recent_stems": [
-        {
-          "n": 23,
-          "stem": "32 წლის მამაკაცს ორი თვის წინ ბარძაყის შუა მესამედში ცეცხლნასროლი ჭრილობა ჰქონდა, რომელიც გართულების გარეშე შეუხორცდა. ბოლო კვირებში მას განუვითარდა იმავე ქვედა კიდურის პროგრესირებადი შეშუპება, კანქვეშა ვენების გაგანიერე"
-        },
-        {
-          "n": 24,
-          "stem": "40 წლის მამაკაცი მაღალი სიჩქარით ავტოსაგზაო შემთხვევის შემდეგ ჰემორაგიული შოკით შემოიყვანეს; მენჯის ქამრის დადებისა და დაზიანების კონტროლის რეანიმაციული ღონისძიებების მიუხედავად არტერიული წნევა 65/40 mmHg-ია. რენტგენოგრა"
-        },
         {
           "n": 25,
           "stem": "24 წლის მამაკაცს ბარძაყის მედიალურ ზედაპირზე მიყენებული ნაჩხვლეტ-ნაკვეთი ჭრილობით მიმღებ განყოფილებაში შეაფასეს. პაციენტი ჰემოდინამიკურად სტაბილურია, სისხლძარღვის დაზიანების სარწმუნო და სავარაუდო ნიშნები არ ვლინდება, ტერ"
@@ -1513,6 +1505,14 @@
         {
           "n": 52,
           "stem": "39 წლის მამაკაცს მხრის არტერიის შემავალი ტრავმის გამო აუტოვენური ინტერპოზიციური რეკონსტრუქცია ჩაუტარდა. ოპერაციის შემდეგ კიდურის პერფუზია აღდგენილია, სისხლდენა შეჩერებულია, კოაგულოგრამა ნორმალურია და პაციენტს ანტითრომბოზ"
+        },
+        {
+          "n": 53,
+          "stem": "34 წლის მამაკაცს მუცლის ზედა ნაწილში მიყენებული ცეცხლნასროლი ჭრილობის გამო გადაუდებელი ლაპაროტომია უტარდება. საწყისი ტამპონირების შემდეგ გამოვლინდა განივი კოლინჯის ჯორჯლის ზემოთ მდებარე მზარდი ცენტრალური რეტროპერიტონეული"
+        },
+        {
+          "n": 54,
+          "stem": "38 წლის მამაკაცს ავტოსაგზაო შემთხვევის შედეგად ბარძაყის ზედაპირული არტერიის სრული გადაკვეთა და კიდურის მწვავე იშემია აქვს. ამასთან, განმეორებით CT-ზე ქალასშიდა ტრავმული ჰემატომის ზრდა დასტურდება, ხოლო მასიური ტრანსფუზიის"
         }
       ],
       "topic_rotation": "ბლაგვი და შემავალი ტრავმა; სისხლძარღვის დაზიანების სარწმუნო და სავარაუდო ნიშნები; ჰემოდინამიკური სტაბილურობა; CTA და გადაუდებელი ოპერაცია; კისრის, გულმკერდის, მუცლის, მენჯისა და კიდურების სისხლძარღვები; სისხლდენის კონტროლი და დაზიანების კონტროლის ქირურგია; დროებითი ინტრავასკულური შუნტი; არტერიული/ვენური რეკონსტრუქცია; ენდოვასკულური ჩარევა; კომპარტმენტ-სინდრომი და ფასციოტომია; რეპერფუზია; იატროგენული ტრავმა; მეთვალყურეობა.",
@@ -1520,8 +1520,8 @@
       "guideline_check": "ESVS 2025 Clinical Practice Guidelines on the Management of Vascular Trauma (Wahlgren et al., EJVES 69:179–237), DOI 10.1016/j.ejvs.2024.12.018; ყურადღება მიაქციე რეკომენდაციებს 9, 19, 20, 82–86.",
       "last_validation": {
         "range": [
-          51,
-          52
+          53,
+          54
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1530,26 +1530,29 @@
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
-        "previous_text_unchanged": true,
-        "clinical_self_review": "checked against ESVS 2025 sections 5.8.4 and 7.3, including recommendation 98",
+        "numeric_options_ascending": true,
+        "clinical_self_review": "passed: surgical exposure for supramesocolic abdominal aortic injury; individualized intraoperative heparinization with expanding intracranial haemorrhage",
         "georgian_language_self_review": "passed",
-        "terminology_self_review": "passed (GLOSSARY.md general and VASCULAR_TRAUMA)",
-        "semantic_duplication_review": "Compared both new clinical decisions with all 50 existing question stems and last 30 full questions",
-        "index_precheck": "matched",
+        "terminology_self_review": "passed (general and vascular trauma glossary)",
+        "semantic_duplication_review": "compared with all 52 existing questions; stem Jaccard maxima 0.203, 0.258",
+        "previous_text_unchanged": true,
+        "index_precheck": "matched actual stored numbers and blob SHAs",
         "source_checks": [
           {
             "questions": [
-              51
+              53
             ],
-            "source": "ESVS 2025 vascular trauma guidelines section 5.8.4 renal veins",
-            "url": "https://doi.org/10.1016/j.ejvs.2024.12.018"
+            "source": "ESVS 2025 Vascular Trauma Guidelines section 5.3; Brazilian Guidelines on Traumatic Vascular Injuries 2023, vascular exposure maneuvers",
+            "url": "https://doi.org/10.1016/j.ejvs.2024.12.018",
+            "additional_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10647898/"
           },
           {
             "questions": [
-              52
+              54
             ],
-            "source": "ESVS 2025 vascular trauma guidelines recommendation 98; BOA 2026 arterial injury standard postoperative care",
-            "url": "https://doi.org/10.1016/j.ejvs.2024.12.018"
+            "source": "ESVS 2025 Vascular Trauma Guidelines Recommendation 94 (IIb C); PROOVIT systemic anticoagulation in vascular extremity trauma (2017)",
+            "url": "https://doi.org/10.1016/j.ejvs.2024.12.018",
+            "additional_url": "https://pubmed.ncbi.nlm.nih.gov/28377263/"
           }
         ]
       }
