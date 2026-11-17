@@ -872,19 +872,11 @@
       "target": 1500,
       "question_file": "PAD_CLTI_questions.txt",
       "explanation_file": "PAD_CLTI_explanations.txt",
-      "last_number": 58,
-      "question_blob_sha": "28e60ff2175df3209e16c16a68be79e0849096d2",
-      "explanation_blob_sha": "e163ccf9bec95cea49a38a729f60fd193af41d8d",
+      "last_number": 60,
+      "question_blob_sha": "2ed3369167795ad51893b93dc64440560e9ac8ac",
+      "explanation_blob_sha": "a431071ad5a66e21545d603cd72798d20ca5bf13",
       "last_full_audit_at": 50,
       "recent_stems": [
-        {
-          "n": 29,
-          "stem": "72 წლის მამაკაცს ორივე ტერფის მოსვენების იშემიური ტკივილი და მარცხენა პირველი თითის მშრალი ნეკროზი აღენიშნება. CTA-ზე აორტის ინფრარენალური სეგმენტისა და ორივე თეძოს საერთო არტერიის სრული ქრონიკული ოკლ"
-        },
-        {
-          "n": 30,
-          "stem": "67 წლის მამაკაცს მარცხენა თეძოს არტერიების ქრონიკული ოკლუზიის გამო სამი თვის წინ მარჯვენა-მარცხენა ბარძაყ-ბარძაყის ჯვარედინი შუნტირება ჩაუტარდა. მარცხენა კიდურზე მოსვენების ტკივილი გაქრა, თუმცა ოპერაც"
-        },
         {
           "n": 31,
           "stem": "70 წლის მამაკაცს კიდურისთვის საფრთხის შემცველი ქრონიკული იშემიის გამო დიდი საჩინო ვენით in situ ბარძაყ-დიდი წვივის უკანა არტერიის შუნტირება ჩაუტარდა. სამი კვირის შემდეგ წვივის მედიალურ ზედაპირზე ლოკალ"
@@ -996,6 +988,14 @@
         {
           "n": 58,
           "stem": "76 წლის მამაკაცს ტერფის წინა ნაწილის იშემიური წყლული და რამდენიმე თითის მშრალი განგრენა აქვს; პირველი თითის სისტოლური წნევა 18 mmHg-ია და WIfI-ის კლინიკური სტადია 4-ს შეესაბამება. DSA-ზე ბარძაყ-მუხლქვ"
+        },
+        {
+          "n": 59,
+          "stem": "68 წლის მამაკაცს ტერფის იშემიური წყლულის გამო დიდი საჩინო ვენით in situ ბარძაყ-წვივის შუნტირება უტარდება. პროქსიმალური და დისტალური ანასტომოზები გამავალია, ვენური შენაკადები გადაკვანძულია და თრომბი არ"
+        },
+        {
+          "n": 60,
+          "stem": "72 წლის მამაკაცს შაქრიანი დიაბეტი და დადასტურებული პერიფერიული არტერიული დაავადება აქვს. ტერფის მეორე და მესამე თითებზე შემოსაზღვრული განგრენაა, რომელიც ტერფის წინა ნაწილის დანარჩენ ქსოვილებზე არ ვრცე"
         }
       ],
       "topic_rotation": "ABI/TBI და პერფუზია; Fontaine/Rutherford/WIfI/GLASS; ხანგამოშვებითი კოჭლობა და CLTI; დუპლექსი/CTA/MRA/DSA; ანტიაგრეგანტები/სტატინები/ვარჯიში; აორტა-თეძოს, ბარძაყ-მუხლქვეშა და წვივის სეგმენტები; ენდოვასკულური მკურნალობა/ავტოვენური შუნტირება; ჭრილობა/ინფექცია/ამპუტაცია/მეთვალყურეობა.",
@@ -1003,8 +1003,8 @@
       "guideline_check": "2024 ACC/AHA PAD guideline, 2024 ESVS asymptomatic PAD/intermittent claudication guideline და Global Vascular Guidelines CLTI; კლინიკური გადაწყვეტილება გადაამოწმე პირველწყაროებში.",
       "last_validation": {
         "range": [
-          57,
-          58
+          59,
+          60
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1014,33 +1014,33 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed — checked 2024 ACC/AHA PAD guideline and 2019 Global Vascular Guidelines",
-        "georgian_language_self_review": "passed",
-        "terminology_self_review": "passed (current GLOSSARY.md)",
-        "semantic_duplication_review": "compared 56 existing full stems, particularly latest 30; maximum lexical similarity 0.195, 0.250",
+        "clinical_self_review": "passed — verified valvulotomy and WIfI thresholds against primary literature and guidelines",
+        "georgian_language_self_review": "passed — cases and options edited in academic Georgian",
+        "terminology_self_review": "passed — GLOSSARY.md general and PAD_CLTI",
+        "semantic_duplication_review": "checked 58 previously stored complete questions, including recent 30; highest token similarities 0.189, 0.230",
         "previous_text_unchanged": true,
         "index_precheck": "matched",
         "source_checks": [
           {
             "questions": [
-              57
+              59
             ],
-            "source": "2024 ACC/AHA PAD guideline, direct angiosome perfusion and tibial anatomy",
-            "url": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001251"
+            "source": "In situ saphenous vein graft valvulotomy and retained cusp evidence, Surgery 1989 and J Vasc Surg 1992",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1728671/"
           },
           {
             "questions": [
-              58
+              60
             ],
-            "source": "2024 ACC/AHA PAD guideline Table 16, high surgical risk and absence of suitable autogenous vein",
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/12728805/"
-          },
-          {
-            "questions": [
-              58
-            ],
-            "source": "2019 Global Vascular Guidelines, PLAN risk approach and conduit availability",
+            "source": "Global Vascular Guidelines 2019, WIfI Tables 3.2, 3.3, and 3.4",
             "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8369495/"
+          },
+          {
+            "questions": [
+              60
+            ],
+            "source": "IWGDF/ESVS/SVS Intersocietal Guideline 2023, WIfI classification",
+            "url": "https://doi.org/10.1002/dmrr.3686"
           }
         ]
       }
