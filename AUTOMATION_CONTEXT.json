@@ -1559,19 +1559,11 @@
       "target": 900,
       "question_file": "ANATOMY_IMAGING_questions.txt",
       "explanation_file": "ANATOMY_IMAGING_explanations.txt",
-      "last_number": 59,
-      "question_blob_sha": "a077f90b6df6ce9e91b97469b05235dc092bdf39",
-      "explanation_blob_sha": "ae8bb185990311d1db3aeec5f559ac5847d62460",
+      "last_number": 61,
+      "question_blob_sha": "600836a7cb38e4cc6bd85f0d2734f38b9d35275c",
+      "explanation_blob_sha": "6cbb807c4c0176f3ec48a0d26e7556076d433759",
       "last_full_audit_at": 50,
       "recent_stems": [
-        {
-          "n": 30,
-          "stem": "აორტა-ორბარძაყის შუნტირებისა და თეძოს არტერიის ანევრიზმის ღია რეკონსტრუქციისას ქირურგი ითვალისწინებს შარდსაწვეთის მდებარეობას მენჯის შესავალში მისი იატროგენული დაზიანების თავიდან ასაცილებლად. სად კვეთს შარდსაწვეთი თეძოს "
-        },
-        {
-          "n": 31,
-          "stem": "ქვედა კიდურის CTA-სა და DSA-ზე ბარძაყის ზედაპირული არტერიის ათეროსკლეროზული სტენოზი და ოკლუზია ყველაზე ხშირად მომზიდველი კუნთების არხის (ჰანტერის არხის) დისტალურ გასავალთან ვლინდება, სადაც არტერია მუხლქვეშა ფოსოში გადადი"
-        },
         {
           "n": 32,
           "stem": "ბარძაყის საერთო არტერიის პერკუტანული პუნქციის წინ ულტრაბგერით დადგინდა, რომ არტერიის მონიშნული პუნქციის ადგილი საზარდულის იოგის ზემოთ, თეძოს გარეთა არტერიის მონაკვეთშია. თუ პუნქცია ამ დონეზე შესრულდება, რომელ სივრცეში სისხლდენის განვითარების რისკია განსაკუთრებით მნიშვნელოვანი, რადგან არტერიის გარედან ძვალზე გადაჭერა შეუძლებელია?"
@@ -1683,6 +1675,14 @@
         {
           "n": 59,
           "stem": "მაჯის იდაყვისმხრივ ზედაპირზე მოპულსირე წარმონაქმნის გამო ულტრაბგერითი კვლევით იდაყვის არტერიის ფსევდოანევრიზმა გამოვლინდა მაჯის იდაყვისმხრივი არხის (გუიონის არხის) პროქსიმალურ ნაწილში. რომელი ნერვის მთავარი ღერო მდებარეობს ტიპური ანატომიისას არტერიის უშუალოდ მედიალურად და საჭიროებს დაცვას მისი ქირურგიული გამოყოფისას?"
+        },
+        {
+          "n": 60,
+          "stem": "ქვედა კიდურის DSA-ზე ბარძაყის ზედაპირული არტერიის დისტალური მონაკვეთი მომზიდველი კუნთების არხიდან გამოსვლის დონეზეა ოკლუზირებული. ოკლუზიის პროქსიმალურად გამავალი არტერიიდან გამოყოფილი ტოტი მუხლის მედიალურ ზედაპირზე ეშვება და მუხლის ზედა მედიალურ არტერიასთან ანასტომოზით მუხლქვეშა არტერიის კოლატერალურ შევსებას უწყობს ხელს. რომელი ტოტია აღწერილი?"
+        },
+        {
+          "n": 61,
+          "stem": "აორტის რკალის ჰიბრიდული რეკონსტრუქციის წინ გულმკერდის CTA-ის ვენურ ფაზაზე ჩანს ვენა, რომელიც მარცხენა შიგნითა საუღლე და ლავიწქვეშა ვენების შეერთების ადგილიდან მკერდის ძვლის ტარის უკან, აორტის რკალის სამივე ძირითადი ტოტის წინ ირიბად მარჯვნივ მიემართება და მარჯვენა მხარ-თავის ვენას უერთდება. რომელი ვენის დაზიანების თავიდან აცილებაა მნიშვნელოვანი საოპერაციო მიდგომისას?"
         }
       ],
       "topic_rotation": "№1–100 ძირითადი სისხლძარღვოვანი ანატომია; №101–180 ვარიაციები; №181–260 ჰემოდინამიკა; №261–360 დოპლერის საფუძვლები; №361–460 არტერიული დუპლექსსკანირება; №461–540 ვენური დუპლექსსკანირება; №541–630 CTA; №631–720 MRA, DSA, IVUS; №721–820 ოპერაციული დაგეგმვა; №821–900 ინტეგრირებული კლინიკური ვიზუალიზაცია. ზუსტად ორი კითხვა ყოველ ციკლში.",
@@ -1690,8 +1690,8 @@
       "guideline_check": "სტანდარტული ანატომია, ESVS/SVS/AIUM/IAC შესაბამისი წყაროები. არ გამოიგონო მეთოდოლოგიაზე დამოკიდებული PSV/EDV/PSVR ზღვრები.",
       "last_validation": {
         "range": [
-          58,
-          59
+          60,
+          61
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1700,34 +1700,26 @@
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
-        "answer_distribution": {
-          "ა": 12,
-          "ბ": 12,
-          "გ": 12,
-          "დ": 12,
-          "ე": 11
-        },
-        "numeric_options_ascending": true,
-        "clinical_self_review": "passed: left testicular vein drainage via left renal vein and ulnar nerve location medial to ulnar artery in Guyon canal",
-        "terminology_self_review": "passed: AGENTS.md and general/ANATOMY_IMAGING GLOSSARY.md",
-        "georgian_language_self_review": "passed: academic Georgian terminology and parallel answer formats",
-        "exam_technical_self_review": "passed: complete structure and matching explanations",
-        "semantic_duplication_review": "reviewed all 57 existing anatomy stems and complete last 30 questions; candidate anatomy and decisions are new",
+        "clinical_self_review": "passed: descending genicular artery anastomoses and left brachiocephalic venous course",
+        "terminology_self_review": "passed: AGENTS.md and GLOSSARY.md matched source SHA; Georgian anatomical nomenclature validated",
+        "georgian_language_self_review": "passed",
+        "exam_technical_self_review": "passed",
+        "semantic_duplication_review": "reviewed existing 59 questions, distinct surgical anatomical decisions; no repeated stems",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              58
+              60
             ],
-            "source": "Varicocele Embolization: Interventional Radiologist's Perspective (2022)",
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9767774/"
+            "source": "Genicular Artery Embolization: A Technical Review of Anatomy, Pathophysiology, Current Experiences, and Future Directions (2025)",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11943379/"
           },
           {
             "questions": [
-              59
+              61
             ],
-            "source": "NCBI Bookshelf Anatomy, Shoulder and Upper Limb, Hand Guyon Canal, updated 2026-09-14",
-            "url": "https://www.ncbi.nlm.nih.gov/books/NBK534814/"
+            "source": "Understanding Cardiac Anatomy and Imaging to Improve Safety of Procedures: The Subclavian Artery and Vein (2025)",
+            "url": "https://www.jacc.org/doi/10.1016/j.jaccas.2025.103896"
           }
         ]
       }
