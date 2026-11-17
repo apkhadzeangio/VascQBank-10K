@@ -1910,19 +1910,11 @@
       "target": 500,
       "question_file": "VGEI_questions.txt",
       "explanation_file": "VGEI_explanations.txt",
-      "last_number": 55,
-      "question_blob_sha": "36fdca64e60b72aa43097c79d160e2f4002d2617",
-      "explanation_blob_sha": "63a3ca5d86f49e29c8bf38f741b9ba435d62efd0",
+      "last_number": 57,
+      "question_blob_sha": "4f39bb571c02a5e9b440b079c3ae4eb99bceab7c",
+      "explanation_blob_sha": "437c6bcaa4889e4f7641c62d9ccf1297d9ccfd0a",
       "last_full_audit_at": 50,
       "recent_stems": [
-        {
-          "n": 26,
-          "stem": "70 წლის მამაკაცს მუცლის აორტის ინფრარენალური ანევრიზმის ღია პროთეზირება უტარდება ბიფურკაციული სინთეზური პროთეზით. ანასტომოზების დასრულების შემდეგ თორმეტგოჯა ნაწლავის მესამე-მეოთხე მონაკვეთი უშუალოდ პროქსიმალური აორტული ნ"
-        },
-        {
-          "n": 27,
-          "stem": "65 წლის ქალს სინთეზური პროთეზით ბარძაყ-მუხლქვეშა გეგმიური შუნტირება უნდა ჩაუტარდეს. ანამნეზში დადასტურებული აქვს ცეფალოსპორინებსა და პენიცილინებზე მძიმე ანაფილაქსიური რეაქცია, რის გამოც პერიოპერაციული ანტიბიოტიკოპროფილაქ"
-        },
         {
           "n": 28,
           "stem": "68 წლის მამაკაცს ბარძაყ-მუხლქვეშა სინთეზური შუნტირება უტარდება საზარდულის ღია მიდგომით. კანი ანტისეპტიკით დამუშავებულია; ქირურგიულმა გუნდმა ჭრილის გასწვრივ წებოვანი საოპერაციო ფირის გამოყენება გადაწყვიტა, იოდის მიმართ ალერგია არ აღენიშნება. NICE-ის რეკომენდაციით, რომელ ფირს უნდა მიენიჭოს უპირატესობა ოპერაციული მიდამოს ინფექციის რისკის შესამცირებლად?"
@@ -2034,6 +2026,14 @@
         {
           "n": 55,
           "stem": "74 წლის მამაკაცს მუცლის აორტის ენდოპროთეზირებიდან ექვსი თვის შემდეგ განმეორებითი ცხელება და წელის ტკივილი განუვითარდა. CTA-ზე პერიპროთეზული აბსცესია; მისი პუნქციით მიღებული მასალის რუტინული აერობული და ანაერობული ნათესები უარყოფითია, ხოლო ქსოვილის მიკროსკოპიით გრანულომატოზური ანთება და მჟავაგამძლე ჩხირები გამოვლინდა. პაციენტი ჰემოდინამიკურად სტაბილურია და ახალი ღრმა ნიმუშის აღება შესაძლებელია. რომელი მიკრობიოლოგიური კვლევა უნდა შეირჩეს უპირველესად გამომწვევის იდენტიფიკაციისთვის?"
+        },
+        {
+          "n": 56,
+          "stem": "72 წლის მამაკაცს აორტა-ორბარძაყის სინთეზური პროთეზირებიდან ოთხი წლის შემდეგ ცხელება და წელის ტკივილი განუვითარდა. CTA-ზე პროთეზის ირგვლივ აბსცესია, რომლის სტერილური პუნქციით მიღებულ მასალასა და სისხლის ბაქტერიოლოგიურ გამოკვლევაში (ჰემოკულტურაში) Clostridium septicum გამოვლინდა. აორტო-ენტერალური ფისტულის ნიშნები არ ჩანს და ნაწლავური ჩივილები არ აქვს. ინფექციის მკურნალობასთან ერთად რომელი დამატებითი გამოკვლევაა ყველაზე დასაბუთებული?"
+        },
+        {
+          "n": 57,
+          "stem": "70 წლის ქალს ოთხი წლის წინ ჩადგმული აორტის პროთეზის ინფექცია დაუდასტურდა; ღრმა პერიპროთეზულ ქსოვილსა და ჰემოკულტურებში ოქროსფერი სტაფილოკოკი გამოვლინდა. მგრძნობელობის მიხედვით შერჩეული ანტიმიკრობული მკურნალობის დაწყებიდან 72 საათის შემდეგ აღებული განმეორებითი ჰემოკულტურები კვლავ დადებითია. ხარისხიან ტრანსთორაკალურ ექოკარდიოგრაფიაზე ვეგეტაცია არ ჩანს. რომელი კვლევაა უპირატესი თანმხლები ინფექციური ენდოკარდიტის გამოსარიცხად?"
         }
       ],
       "topic_rotation": "I №1–40 საფუძვლები და პრევენცია; II №41–80 მიკრობიოლოგია; III №81–130 დიაგნოზი; IV №131–190 გამოსახულებითი დიაგნოსტიკა; V №191–230 ანტიმიკრობული მკურნალობა; VI №231–300 ქირურგიული ტაქტიკა; VII №301–360 მასალები და ჭრილობა; VIII №361–410 ლოკალიზაციები; IX №411–460 გართულებები; X №461–500 შედეგები და მეთვალყურეობა.",
@@ -2041,8 +2041,8 @@
       "guideline_check": "ESVS 2026 VGEI guideline, doi:10.1016/j.ejvs.2026.05.035. For Coxiella chronic Q fever phase I IgG use CDC Q Fever Clinical and Laboratory Diagnosis; for interpreting repeated coagulase-negative staphylococci in deep tissue samples use VASGRA prospective study (2018).",
       "last_validation": {
         "range": [
-          54,
-          55
+          56,
+          57
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -2052,34 +2052,33 @@
         "answer_letters_match": true,
         "two_sentences_each": true,
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: primary ESVS 2020 Recommendation 4 and Scherrer 2016; CDC NTM testing and case report",
-        "terminology_self_review": "passed (GLOSSARY.md GENERAL/VGEI)",
-        "georgian_language_self_review": "passed (academic Georgian)",
-        "semantic_duplication_review": "All 53 stored questions reviewed; NPWT foam culture reliability and AFB-targeted microbiology are distinct decisions",
+        "clinical_self_review": "passed: C. septicum vascular infection-colonic malignancy association; IDSA/ESCMID 2026 SAB consensus persistent positive cultures after negative TTE",
+        "terminology_self_review": "passed: current AGENTS.md and GLOSSARY.md general/VGEI",
+        "georgian_language_self_review": "passed: revised Georgian wording; balanced clinical distractors",
+        "semantic_duplication_review": "reviewed all 55 prior VGEI questions; distinct investigation decisions (occult colonic neoplasia and SAB endocarditis)",
         "previous_text_unchanged": true,
         "source_checks": [
           {
             "questions": [
-              54
+              56
             ],
-            "source": "ESVS 2020 VGEI Recommendation 4; Scherrer et al. J Clin Microbiol 2016",
-            "url": "https://angiolsurgery.org/society/organisations/esvs/guidelines/ESVS-Guidelines-VGEI-2020.pdf",
-            "support": "https://doi.org/10.1128/JCM.01102-16"
+            "source": "Alimi et al. 2017 Clostridium septicum in Vascular Surgery outcomes review; Upchurch et al. 1995 C. septicum bacteremia and aortic graft infection",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28479472/",
+            "support": "https://pubmed.ncbi.nlm.nih.gov/7563411/"
           },
           {
             "questions": [
-              55
+              57
             ],
-            "source": "CDC NTM Clinical Overview; Mycobacterium abscessus aortic endograft case 2023",
-            "url": "https://www.cdc.gov/nontuberculous-mycobacteria/hcp/clinical-overview/",
-            "support": "https://doi.org/10.1186/s12879-023-08702-1"
+            "source": "IDSA/ESCMID 2026 Consensus Statement 4: TEE after negative TTE with persistent S. aureus bacteremia",
+            "url": "https://www.idsociety.org/practice-guideline/staphylococcus-aureus-bacteremia/"
           },
           {
             "questions": [
-              54,
-              55
+              56,
+              57
             ],
-            "source": "ESVS 2026 current VGEI guidelines overall context",
+            "source": "ESVS 2026 VGEI guidelines overall context (without attribution of pathogen-specific recommendations)",
             "url": "https://doi.org/10.1016/j.ejvs.2026.05.035"
           }
         ]
