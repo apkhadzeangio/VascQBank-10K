@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "imports": [
+    {
+      "drive_document_id": "18XXbG6TZBxqLWNpTHI65K42000nPWWc6QT8NqkBE24A",
+      "topic": "DIALYSIS_ACCESS",
+      "source_url": "https://docs.google.com/document/d/18XXbG6TZBxqLWNpTHI65K42000nPWWc6QT8NqkBE24A/edit",
+      "status": "partial",
+      "entries": [
+        {
+          "source_number": 15,
+          "target_number": 59,
+          "status": "imported"
+        },
+        {
+          "source_number": 16,
+          "target_number": null,
+          "status": "skipped",
+          "reason": "არსებული DIALYSIS_ACCESS #7-ის სემანტიკური გამეორება: ანევრიზმული ფისტულის გათხელებული/წყლულოვანი კანი და რეკონსტრუქცია"
+        }
+      ]
+    },
+    {
+      "drive_document_id": "1oqSxMSEM9VCraq_O-uDN3QYGTzTUHtD3bQaJMGh77mE",
+      "topic": "ANATOMY_IMAGING",
+      "source_url": "https://docs.google.com/document/d/1oqSxMSEM9VCraq_O-uDN3QYGTzTUHtD3bQaJMGh77mE/edit",
+      "status": "partial",
+      "entries": [
+        {
+          "source_number": 2,
+          "target_number": 62,
+          "status": "imported"
+        },
+        {
+          "source_number": 1,
+          "target_number": null,
+          "status": "skipped",
+          "reason": "არსებული ANATOMY_IMAGING #44-ის სემანტიკური გამეორება: tardus-parvus სპექტრით პროქსიმალური სტენოზის ამოცნობა"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-11-17"
+}
