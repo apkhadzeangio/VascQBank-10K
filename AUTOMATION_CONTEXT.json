@@ -1389,19 +1389,11 @@
       "target": 650,
       "question_file": "VASCULAR_TRAUMA_questions.txt",
       "explanation_file": "VASCULAR_TRAUMA_explanations.txt",
-      "last_number": 96,
-      "question_blob_sha": "bca2a08a75a89441312c73cca44fad2cffaf80d5",
-      "explanation_blob_sha": "611067764bfc1ae68d42168e13b05e92dee894dd",
+      "last_number": 98,
+      "question_blob_sha": "e3b052cc3705270a349fa2c7c5543fa927cea10d",
+      "explanation_blob_sha": "f5236951cd5709314e53d711960e873a7a961a9e",
       "last_full_audit_at": 50,
       "recent_stems": [
-        {
-          "n": 67,
-          "stem": "სიმაღლიდან ვარდნის შემდეგ რეანიმაციულ დარბაზში შემოყვანილ პაციენტს კისრის მარცხენა ნახევრის სწრაფად მზარდი შეშუპების გამო ჩაუტარდა გადაუდებელი CTA, რომელზეც გამოვლინდა შიგნითა საძილე არტერიის სრული გაგლეჯა კონტრასტული ნი"
-        },
-        {
-          "n": 68,
-          "stem": "ნეიროქირურგიული განყოფილების პაციენტს მოტოციკლიდან გადმოვარდნის შემდეგ თავის უკონტრასტო CT-ზე დაუდგინდა საფეთქლის ძვლის კლდოვანი ნაწილის ხაზოვანი მოტეხილობა, რომელიც უშუალოდ კვეთს საძილე არხის ძვლოვან კედელს; ცნობიერება "
-        },
         {
           "n": 69,
           "stem": "ჭიდაობის ვარჯიშზე კისრის მკვეთრი მოგრეხიდან მეორე დღეს 23 წლის ახალგაზრდას გაუჩნდა კისრისა და საფეთქლის მარჯვენამხრივი ყრუ ტკივილი, მარჯვენა ზედა ქუთუთოს დაშვება და იმავე თვალის გუგის შევიწროება ფოტორეაქციის შენარჩუნებით"
@@ -1513,6 +1505,14 @@
         {
           "n": 96,
           "stem": "96. 52 წლის მამაკაცს ავტოსაგზაო შემთხვევიდან ცხრა საათის შემდეგ ჩატარებულ CTA-ზე მარცხენა თირკმლის არტერიის მთავარი ღეროს სრული ტრავმული ოკლუზია დაუდგინდა; მარცხენა თირკმლის პარენქიმა არც არტერიულ და არც დაგვიანებულ ფაზა"
+        },
+        {
+          "n": 97,
+          "stem": "97. 11 წლის ბავშვს ავტოსაგზაო შემთხვევის შემდეგ კისრის ტრავმა აქვს. CTA-ზე მარცხენა შიგნითა საძილე არტერიის ექსტრაკრანიულ მონაკვეთში ინტიმის მცირე ტრავმული დაზიანება გამოვლინდა, სანათურის მნიშვნელოვანი შევიწროებისა და ფს"
+        },
+        {
+          "n": 98,
+          "stem": "98. 42 წლის მამაკაცს ავტოსაგზაო შემთხვევის შემდეგ ძლიერი მუცლის ტკივილი აღენიშნება. CTA-ზე ჯორჯლის ზემო არტერიის პროქსიმალური მონაკვეთის ტრავმული დისექციით გამოწვეული სრული ოკლუზია გამოვლინდა; დისტალური არტერიული კალაპოტ"
         }
       ],
       "topic_rotation": "ბლაგვი და შემავალი ტრავმა; სისხლძარღვის დაზიანების სარწმუნო და სავარაუდო ნიშნები; ჰემოდინამიკური სტაბილურობა; CTA და გადაუდებელი ოპერაცია; კისრის, გულმკერდის, მუცლის, მენჯისა და კიდურების სისხლძარღვები; სისხლდენის კონტროლი და დაზიანების კონტროლის ქირურგია; დროებითი ინტრავასკულური შუნტი; არტერიული/ვენური რეკონსტრუქცია; ენდოვასკულური ჩარევა; კომპარტმენტ-სინდრომი და ფასციოტომია; რეპერფუზია; იატროგენული ტრავმა; მეთვალყურეობა.",
@@ -1520,8 +1520,8 @@
       "guideline_check": "ESVS 2025 Clinical Practice Guidelines on the Management of Vascular Trauma (Wahlgren et al., EJVES 69:179–237), DOI 10.1016/j.ejvs.2024.12.018; ყურადღება მიაქციე რეკომენდაციებს 9, 19, 20, 82–86.",
       "last_validation": {
         "range": [
-          95,
-          96
+          97,
+          98
         ],
         "new_questions": 2,
         "new_explanations": 2,
@@ -1530,31 +1530,27 @@
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
-        "answer_distribution": {
-          "გ": 1,
-          "ე": 1
-        },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed: ESVS 2025 recommendations 101 and 74, and EAU urotrauma",
+        "clinical_self_review": "passed: ESVS 2025 Recommendations 100 and 72, BCVI 2018 and EJVES Vasc Forum 2021",
         "georgian_language_self_review": "passed",
-        "terminology_self_review": "passed (GLOSSARY.md general and vascular trauma)",
-        "semantic_duplication_review": "compared all 94 existing VASCULAR_TRAUMA questions; new clinical decisions are distinct",
+        "terminology_self_review": "passed (GLOSSARY.md)",
+        "semantic_duplication_review": "compared all 96 existing question stems; closest lexical overlaps 0.460, 0.157",
         "previous_text_unchanged": true,
-        "index_precheck": "matched",
+        "index_precheck": "matched both topic TXT SHA and numbered blocks",
         "source_checks": [
           {
             "questions": [
-              95
+              97
             ],
-            "source": "ESVS 2025 Recommendation 101; Raulli et al. Ann Vasc Surg. 2023",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/36210605/"
+            "source": "ESVS 2025 Vascular Trauma recommendation 100; Best practice guidelines for BCVI 2018",
+            "url": "https://doi.org/10.1016/j.ejvs.2024.12.018"
           },
           {
             "questions": [
-              96
+              98
             ],
-            "source": "ESVS 2025 Recommendation 74; EAU Urological Trauma",
-            "url": "https://uroweb.org/guidelines/urological-trauma/chapter/urogenital-trauma-guidelines"
+            "source": "ESVS 2025 Vascular Trauma recommendation 72; Safaya et al EJVES Vascular Forum 2021",
+            "url": "https://doi.org/10.1016/j.ejvsvf.2021.08.001"
           }
         ]
       }
