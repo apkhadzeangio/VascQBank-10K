@@ -1389,19 +1389,11 @@
       "target": 650,
       "question_file": "VASCULAR_TRAUMA_questions.txt",
       "explanation_file": "VASCULAR_TRAUMA_explanations.txt",
-      "last_number": 508,
-      "question_blob_sha": "54263fecfdf076067fb0aae2226446b7049fbea7",
-      "explanation_blob_sha": "4cd50fd412d507667484f622bdd58ae8ab546afc",
+      "last_number": 510,
+      "question_blob_sha": "79160e67b4419bcae03f0ff6f288912eccfbe466",
+      "explanation_blob_sha": "d035fe8d058a76c3c7e7e3b70c6792d49e4ff139",
       "last_full_audit_at": 500,
       "recent_stems": [
-        {
-          "n": 479,
-          "stem": "მკლავის შუა მესამედის იზოლირებული ერთდონიანი დანით ჭრილობის მქონე პაციენტს აღენიშნება მოპულსირე გარეგანი სისხლდენა და მზარდი დაჭიმული ჰემატომა; რა განაპირობებს ამ კლინიკური სურათისას წინასაოპერაციო CTA-ის გარეშე პირდაპირ"
-        },
-        {
-          "n": 480,
-          "stem": "ჰემოდინამიკურად სტაბილურ დაშავებულს აღენიშნება ტერფის არტერიებზე პულსაციის არარსებობა აქტიური გარეგანი სისხლდენის გარეშე; რომელ კლინიკურ ვითარებაშია გამართლებული სწრაფი წინასაოპერაციო CTA-ის ან საოპერაციო არტერიოგრაფიის "
-        },
         {
           "n": 481,
           "stem": "რატომ აღარ მიიჩნევა მაგისტრალური არტერიის პროექციასთან შემავალი ჭრილობის მხოლოდ ანატომიური სიახლოვე რუტინული ანგიოგრაფიის ან საოპერაციო რევიზიის ჩვენებად, როცა სარწმუნო და სავარაუდო ნიშნები არ ვლინდება და დაზიანებული კიდ"
@@ -1513,6 +1505,14 @@
         {
           "n": 508,
           "stem": "ელენთის ბლაგვი ტრავმის გამო არტერიული ტოტის წარმატებული ტრანსკათეტერული ემბოლიზაციიდან 36 საათში ჰემოდინამიკურად სტაბილურ პაციენტს განუვითარდა სუბფებრილური ცხელება 38,2 °C, მარცხენა ფერდქვეშა ყრუ ტკივილი და ზომიერი ლეიკო"
+        },
+        {
+          "n": 509,
+          "stem": "47 წლის მამაკაცი ავტოსაგზაო შემთხვევიდან 18 საათის შემდეგ შეიყვანეს კლინიკაში. CTA-ზე გამოვლინდა მარცხენა თირკმლის არტერიის პროქსიმალური სრული ტრავმული ოკლუზია და მარცხენა თირკმლის პარენქიმის კონტრასტირების სრული არარსებ"
+        },
+        {
+          "n": 510,
+          "stem": "9 წლის ბავშვს მხრის არტერიის სრული ტრავმული გადაკვეთის გამო აუტოვენური ინტერპოზიციური ტრანსპლანტატით რეკონსტრუქცია ჩაუტარდა. გაწერამდე დუპლექსსკანირებით ტრანსპლანტატის გამავლობა დადასტურდა, მტევნის პერფუზია ნორმალურია და"
         }
       ],
       "topic_rotation": "ბლაგვი და შემავალი ტრავმა; სისხლძარღვის დაზიანების სარწმუნო და სავარაუდო ნიშნები; ჰემოდინამიკური სტაბილურობა; CTA და გადაუდებელი ოპერაცია; კისრის, გულმკერდის, მუცლის, მენჯისა და კიდურების სისხლძარღვები; სისხლდენის კონტროლი და დაზიანების კონტროლის ქირურგია; დროებითი ინტრავასკულური შუნტი; არტერიული/ვენური რეკონსტრუქცია; ენდოვასკულური ჩარევა; კომპარტმენტ-სინდრომი და ფასციოტომია; რეპერფუზია; იატროგენული ტრავმა; მეთვალყურეობა.",
@@ -1520,30 +1520,45 @@
       "guideline_check": "ESVS 2025 Clinical Practice Guidelines on the Management of Vascular Trauma (Wahlgren et al., EJVES 69:179–237), DOI 10.1016/j.ejvs.2024.12.018; ყურადღება მიაქციე რეკომენდაციებს 9, 19, 20, 82–86.",
       "last_validation": {
         "range": [
-          499,
-          508
+          509,
+          510
         ],
-        "new_questions": 10,
-        "new_explanations": 10,
+        "new_questions": 2,
+        "new_explanations": 2,
         "numbering_continuous": true,
         "five_options_each": true,
         "one_ascii_star_each": true,
         "answer_letters_match": true,
         "two_sentences_each": true,
         "answer_distribution": {
-          "ა": 2,
-          "ბ": 2,
-          "გ": 2,
-          "დ": 2,
-          "ე": 2
+          "გ": 1,
+          "დ": 1
         },
         "numeric_options_ascending": true,
-        "clinical_self_review": "passed",
+        "clinical_self_review": "passed: ESVS 2025 Recommendations 74 and 105; WSES-AAST 2019 renal trauma",
         "georgian_language_self_review": "passed",
-        "terminology_self_review": "passed (GLOSSARY.md)",
-        "semantic_duplication_review": "checked all 498 stored VASCULAR_TRAUMA questions and cross-topic stems",
+        "terminology_self_review": "passed (GLOSSARY.md general and vascular trauma)",
+        "semantic_duplication_review": "compared all 508 stored question stems; closest Jaccard 0.444, 0.388",
         "previous_text_unchanged": true,
-        "index_precheck": "matched"
+        "index_precheck": "matched",
+        "source_checks": [
+          {
+            "questions": [
+              509
+            ],
+            "source": "ESVS 2025 Recommendation 74; WSES-AAST renal trauma 2019",
+            "url": "https://doi.org/10.1016/j.ejvs.2024.12.018",
+            "secondary_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6886230/"
+          },
+          {
+            "questions": [
+              510
+            ],
+            "source": "ESVS 2025 Recommendation 105; 2024 paediatric extremity vascular trauma scoping review",
+            "url": "https://doi.org/10.1016/j.ejvs.2024.12.018",
+            "secondary_url": "https://doi.org/10.1016/j.ejvs.2024.02.040"
+          }
+        ]
       }
     },
     "ANATOMY_IMAGING": {
