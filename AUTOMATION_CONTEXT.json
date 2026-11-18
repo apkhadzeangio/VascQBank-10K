@@ -249,9 +249,9 @@
       "target": 1200,
       "question_file": "AAA_EVAR_questions.txt",
       "explanation_file": "AAA_EVAR_explanations.txt",
-      "last_number": 152,
-      "question_blob_sha": "235f108638d84804a1d53e53abe50bad7500104c",
-      "explanation_blob_sha": "42b1f6cff8ddcc9a669922a09f0116177f912802",
+      "last_number": 155,
+      "question_blob_sha": "ecd11d8195189e0937466369f4209580ea2b20f0",
+      "explanation_blob_sha": "0466d03e520cd348de1008b61af430a5c19ded10",
       "last_full_audit_at": 150,
       "recent_stems": [
         {
