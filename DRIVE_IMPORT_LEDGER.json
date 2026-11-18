@@ -210,6 +210,20 @@
           "reason": "სემანტიკური დუბლიკატი AAA_EVAR #9: rEVAR-ის შემდეგ ინტრააბდომინალური ჰიპერტენზია ორგანული დისფუნქციით და დეკომპრესიული ლაპაროტომიის ჩვენება"
         }
       ]
+    },
+    {
+      "drive_document_id": "1AQ0z1eK4xrecf2Jxw-ezDpmzRHVlWeZO5C1LIIfcTio",
+      "source_url": "https://docs.google.com/document/d/1AQ0z1eK4xrecf2Jxw-ezDpmzRHVlWeZO5C1LIIfcTio/edit",
+      "topic": "MESENTERIC_RENAL",
+      "status": "partial",
+      "entries": [
+        {
+          "source_number": 1,
+          "target_number": null,
+          "status": "skipped",
+          "reason": "სემანტიკური დუბლიკატი MESENTERIC_RENAL #2: სტაბილური თირკმლის ფუნქციისა და კონტროლირებული წნევის მქონე პაციენტში ცალმხრივი ათეროსკლეროზული თირკმლის არტერიის სტენოზის მედიკამენტური მართვა, რუტინული სტენტირების გარეშე"
+        }
+      ]
     }
   ],
   "updated_at": "2026-11-18"
