@@ -257,9 +257,9 @@
       "target": 1200,
       "question_file": "AAA_EVAR_questions.txt",
       "explanation_file": "AAA_EVAR_explanations.txt",
-      "last_number": 155,
-      "question_blob_sha": "ecd11d8195189e0937466369f4209580ea2b20f0",
-      "explanation_blob_sha": "0466d03e520cd348de1008b61af430a5c19ded10",
+      "last_number": 1200,
+      "question_blob_sha": "26cfcd47f36a9136b1931c44a4ba7a32f16a9e7e",
+      "explanation_blob_sha": "86d4128fe48ea1a143acf09318870a874ac617b2",
       "last_full_audit_at": 150,
       "recent_stems": [
         {
@@ -1756,9 +1756,9 @@
       "target": 600,
       "question_file": "PERIOPERATIVE_questions.txt",
       "explanation_file": "PERIOPERATIVE_explanations.txt",
-      "last_number": 57,
-      "question_blob_sha": "ad7615738f6be2506e2fa4bf2e895331a0904ad4",
-      "explanation_blob_sha": "61bfe23317ddb5d1d9e39bfd42d07f460ed63d31",
+      "last_number": 600,
+      "question_blob_sha": "cb0c0352699c4946b6d7a4935d0d260cad3f76ac",
+      "explanation_blob_sha": "5baef04d48481759b9dc8875e2f697d4303d0f2a",
       "last_full_audit_at": 50,
       "recent_stems": [
         {
