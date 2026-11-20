@@ -1,0 +1,170 @@
+{
+  "schema_version": 1,
+  "source_head_commit": "e56b934e1ccb1884e634a2fd6c88bad6ecc8d59b",
+  "total_questions": 10000,
+  "total_explanations": 10000,
+  "applied_human_approved_overlays": 0,
+  "answer_distribution": {
+    "ა": 1993,
+    "ბ": 2002,
+    "გ": 2012,
+    "დ": 2002,
+    "ე": 1991
+  },
+  "normalized_internal_blank_lines_count": 5,
+  "normalized_internal_blank_lines_items": [
+    "AAA_EVAR#154",
+    "CAROTID_VERTEBRAL#174",
+    "DIALYSIS_ACCESS#59",
+    "VASCULAR_TRAUMA#42",
+    "VGEI#62"
+  ],
+  "outputs": {
+    "questions_file": "MASTER/VascQBank_10K_ALL_QUESTIONS.txt",
+    "questions_bytes": 19980683,
+    "questions_git_blob_sha": "11a92dca206239b85968eb8932b0b065c4d0a1d2",
+    "questions_sha256": "0393ff84aec4fcb4ee32d49377fe94960d238c5b1aad7271b3e46dd1eef85b43",
+    "explanations_file": "MASTER/VascQBank_10K_ALL_EXPLANATIONS.txt",
+    "explanations_bytes": 10040639,
+    "explanations_git_blob_sha": "cfb3e865e5612023c29febb48848de49502618fa",
+    "explanations_sha256": "ed878efc16e04ca6094c0c486420f810045dbc37f5fa3392470a68832b29ecdf",
+    "crosswalk_file": "MASTER/VascQBank_10K_CROSSWALK.csv",
+    "crosswalk_bytes": 2442820,
+    "crosswalk_git_blob_sha": "f2a2c03bbd18a31dceb1e5e4550cf814b1f5cb54",
+    "crosswalk_sha256": "ace7f54b392696f82fd0d4ff796a70e27cc150e18a5f5964272fb18e0719de0e"
+  },
+  "topics": [
+    {
+      "topic": "PAD_CLTI",
+      "count": 1500,
+      "target": 1500,
+      "global_start": 1,
+      "global_end": 1500,
+      "source_question_file": "PAD_CLTI_questions.txt",
+      "source_explanation_file": "PAD_CLTI_explanations.txt",
+      "source_question_blob_sha": "23e89453bad25a013920849c1a383a370a2803d9",
+      "source_explanation_blob_sha": "b8e32f5503cbc28ce5dc3c17433f5a6e769942aa"
+    },
+    {
+      "topic": "ALI",
+      "count": 900,
+      "target": 900,
+      "global_start": 1501,
+      "global_end": 2400,
+      "source_question_file": "ALI_questions.txt",
+      "source_explanation_file": "ALI_explanations.txt",
+      "source_question_blob_sha": "526caa96760cdb7644d06e4dbb0cdfb2df65f192",
+      "source_explanation_blob_sha": "5bd9ab336cd2ac742a94369b6aac220a1c2bd27b"
+    },
+    {
+      "topic": "AAA_EVAR",
+      "count": 1200,
+      "target": 1200,
+      "global_start": 2401,
+      "global_end": 3600,
+      "source_question_file": "AAA_EVAR_questions.txt",
+      "source_explanation_file": "AAA_EVAR_explanations.txt",
+      "source_question_blob_sha": "26cfcd47f36a9136b1931c44a4ba7a32f16a9e7e",
+      "source_explanation_blob_sha": "86d4128fe48ea1a143acf09318870a874ac617b2"
+    },
+    {
+      "topic": "THORACIC_AORTA",
+      "count": 700,
+      "target": 700,
+      "global_start": 3601,
+      "global_end": 4300,
+      "source_question_file": "THORACIC_AORTA_questions.txt",
+      "source_explanation_file": "THORACIC_AORTA_explanations.txt",
+      "source_question_blob_sha": "b9e57286a881bf93a03521e87cb50a0bbe44d843",
+      "source_explanation_blob_sha": "fb2587fc85f091273411772cb12a640fec8436a0"
+    },
+    {
+      "topic": "CAROTID_VERTEBRAL",
+      "count": 900,
+      "target": 900,
+      "global_start": 4301,
+      "global_end": 5200,
+      "source_question_file": "CAROTID_VERTEBRAL_questions.txt",
+      "source_explanation_file": "CAROTID_VERTEBRAL_explanations.txt",
+      "source_question_blob_sha": "2b77601da7bccc73c05659a92fd2c68ba96fb03a",
+      "source_explanation_blob_sha": "11fffc4147f63fc55b2c5db62f3f1ee265c83841"
+    },
+    {
+      "topic": "VENOUS",
+      "count": 900,
+      "target": 900,
+      "global_start": 5201,
+      "global_end": 6100,
+      "source_question_file": "VENOUS_questions.txt",
+      "source_explanation_file": "VENOUS_explanations.txt",
+      "source_question_blob_sha": "84563d9a98141ca6d7c9e8ca7e830746e3df9e82",
+      "source_explanation_blob_sha": "9ef19755cc304873ea61c39eeb2b3f38bb5e6c7b"
+    },
+    {
+      "topic": "DIALYSIS_ACCESS",
+      "count": 650,
+      "target": 650,
+      "global_start": 6101,
+      "global_end": 6750,
+      "source_question_file": "DIALYSIS_ACCESS_questions.txt",
+      "source_explanation_file": "DIALYSIS_ACCESS_explanations.txt",
+      "source_question_blob_sha": "0637ef7df29e55dce8abe90ec1d67a1361743c09",
+      "source_explanation_blob_sha": "9e5ac0158576d14f2aa86170f50a3985e13fd649"
+    },
+    {
+      "topic": "MESENTERIC_RENAL",
+      "count": 600,
+      "target": 600,
+      "global_start": 6751,
+      "global_end": 7350,
+      "source_question_file": "MESENTERIC_RENAL_questions.txt",
+      "source_explanation_file": "MESENTERIC_RENAL_explanations.txt",
+      "source_question_blob_sha": "a5f77ca8b869a36f56c7aeee8613d67696f2f106",
+      "source_explanation_blob_sha": "317f8dbfbafc6afbf976ed5fee7adcec99361dbf"
+    },
+    {
+      "topic": "VASCULAR_TRAUMA",
+      "count": 650,
+      "target": 650,
+      "global_start": 7351,
+      "global_end": 8000,
+      "source_question_file": "VASCULAR_TRAUMA_questions.txt",
+      "source_explanation_file": "VASCULAR_TRAUMA_explanations.txt",
+      "source_question_blob_sha": "9d4f389798889796229de219d376845b84c07436",
+      "source_explanation_blob_sha": "4523808cd283ec5ddd259312d09586ff533b93bb"
+    },
+    {
+      "topic": "VGEI",
+      "count": 500,
+      "target": 500,
+      "global_start": 8001,
+      "global_end": 8500,
+      "source_question_file": "VGEI_questions.txt",
+      "source_explanation_file": "VGEI_explanations.txt",
+      "source_question_blob_sha": "007a46309a8318ae5e6a8f6dce44170ec10e1c34",
+      "source_explanation_blob_sha": "f6cbd2c1ced538a1b961a97527205d5127550b1f"
+    },
+    {
+      "topic": "ANATOMY_IMAGING",
+      "count": 900,
+      "target": 900,
+      "global_start": 8501,
+      "global_end": 9400,
+      "source_question_file": "ANATOMY_IMAGING_questions.txt",
+      "source_explanation_file": "ANATOMY_IMAGING_explanations.txt",
+      "source_question_blob_sha": "e5b35a94f2f6868268bbf4025ef16cfc3779653a",
+      "source_explanation_blob_sha": "cb7f31da4f7192021e5dce3bdad6667b2df4f8f5"
+    },
+    {
+      "topic": "PERIOPERATIVE",
+      "count": 600,
+      "target": 600,
+      "global_start": 9401,
+      "global_end": 10000,
+      "source_question_file": "PERIOPERATIVE_questions.txt",
+      "source_explanation_file": "PERIOPERATIVE_explanations.txt",
+      "source_question_blob_sha": "cb0c0352699c4946b6d7a4935d0d260cad3f76ac",
+      "source_explanation_blob_sha": "5baef04d48481759b9dc8875e2f697d4303d0f2a"
+    }
+  ]
+}
