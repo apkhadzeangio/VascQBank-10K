@@ -44,21 +44,21 @@
 <!-- VASCQBANK_MONITORING_START -->
 ### აგენტების მონიტორინგი და ხარისხის კონტროლი
 
-**შემოწმებულია:** 2026-11-21 04:58 (თბილისი). **Heartbeat-ით დადასტურებული მიმდინარე სამუშაო:** 0; **Heartbeat-ინტეგრირებული თემები:** 0/12. სხვა ChatGPT ანგარიშების ავტომატიზაციების მდგომარეობა მიუწვდომელია.
+**შემოწმებულია:** 2026-11-21 12:51 (თბილისი). **Heartbeat-ით დადასტურებული მიმდინარე სამუშაო:** 0; **Heartbeat-ინტეგრირებული თემები:** 0/12. სხვა ChatGPT ანგარიშების ავტომატიზაციების მდგომარეობა მიუწვდომელია.
 
 | თემა | კითხვები | ბოლო წარმატებული ატვირთვა | +24სთ | სტატუსი | Quality Gate | ინდექსი | შენიშვნა |
 |---|---:|---|---:|---|---|---|---|
-| PAD_CLTI | 1500/1500 | 2026-11-20 08:26 | +906 | COMPLETE | SUCCESS | OK | Heartbeat დასაკავშირებელია |
-| ALI | 900/900 | 2026-11-20 09:01 | +773 | COMPLETE | SUCCESS | OK | Heartbeat დასაკავშირებელია |
+| PAD_CLTI | 1500/1500 | 2026-11-20 08:26 | +0 | COMPLETE | SUCCESS | OK | Heartbeat დასაკავშირებელია |
+| ALI | 900/900 | 2026-11-20 09:01 | +0 | COMPLETE | SUCCESS | OK | Heartbeat დასაკავშირებელია |
 | AAA_EVAR | 1200/1200 | 2026-11-19 08:29 | +0 | COMPLETE | SUCCESS | OK | Heartbeat დასაკავშირებელია |
 | THORACIC_AORTA | 700/700 | 2026-11-19 09:17 | +0 | COMPLETE | SUCCESS | OK | Heartbeat დასაკავშირებელია |
 | CAROTID_VERTEBRAL | 900/900 | 2026-11-19 04:40 | +0 | COMPLETE | SUCCESS | OK | Heartbeat დასაკავშირებელია |
 | VENOUS | 900/900 | 2026-11-19 12:27 | +0 | COMPLETE | SUCCESS | OK | Heartbeat დასაკავშირებელია |
 | DIALYSIS_ACCESS | 650/650 | 2026-11-19 10:35 | +0 | COMPLETE | SUCCESS | OK | Heartbeat დასაკავშირებელია |
-| MESENTERIC_RENAL | 600/600 | 2026-11-20 08:54 | +543 | COMPLETE | SUCCESS | OK | Heartbeat დასაკავშირებელია |
+| MESENTERIC_RENAL | 600/600 | 2026-11-20 08:54 | +0 | COMPLETE | SUCCESS | OK | Heartbeat დასაკავშირებელია |
 | VASCULAR_TRAUMA | 650/650 | 2026-11-17 17:26 | +0 | COMPLETE | SUCCESS | OK | Heartbeat დასაკავშირებელია |
 | VGEI | 500/500 | 2026-11-18 23:47 | +0 | COMPLETE | SUCCESS | OK | Heartbeat დასაკავშირებელია |
-| ANATOMY_IMAGING | 900/900 | 2026-11-20 09:12 | +838 | COMPLETE | SUCCESS | OK | Heartbeat დასაკავშირებელია |
+| ANATOMY_IMAGING | 900/900 | 2026-11-20 09:12 | +0 | COMPLETE | SUCCESS | OK | Heartbeat დასაკავშირებელია |
 | PERIOPERATIVE | 600/600 | 2026-11-19 08:29 | +0 | COMPLETE | SUCCESS | OK | Heartbeat დასაკავშირებელია |
 
 PRODUCING ნიშნავს ახლახან დადასტურებულ ატვირთვას და არა აქტიურ ჩატს. UNKNOWN არ ნიშნავს მუშაობის შეწყვეტას. Quality Gate ამოწმებს მხოლოდ სტრუქტურას, არა დამოუკიდებელ კლინიკურ ხარისხს. მონიტორი არ ცვლის კითხვებს, განმარტებებს ან საერთო ინდექსს.
